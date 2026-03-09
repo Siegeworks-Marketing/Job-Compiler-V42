@@ -1,0 +1,45 @@
+name: Fetch Job Catalog
+
+# Runs every 6 hours on a public repo — no minute limits apply.
+# Also runnable manually from the Actions tab in GitHub.
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    # Required to allow the workflow to commit the updated catalog back to the repo
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install httpx
+
+      - name: Fetch and prune job catalog
+        env:
+          # Optional — add these in GitHub Settings → Secrets → Actions
+          # if you want Adzuna coverage (free registration at developer.adzuna.com)
+          ADZUNA_APP_ID:  ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+        run: python scripts/fetch_jobs.py
+
+      - name: Commit updated catalog
+        run: |
+          git config --global user.name  'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add data/listings.json
+          # Only commit if the file actually changed
+          git diff --staged --quiet || git commit -m "chore: update job catalog [skip ci]"
+          git push
