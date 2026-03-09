@@ -1,0 +1,177 @@
+{
+  "coalition-technologies": {
+    "company_name": "Coalition Technologies",
+    "appearances": 2,
+    "last_seen": "2026-03-09T14:59:10.251453Z"
+  },
+  "ateam": {
+    "company_name": "A.Team",
+    "appearances": 2,
+    "last_seen": "2026-03-09T14:59:10.251461Z"
+  },
+  "mitre-media": {
+    "company_name": "Mitre Media",
+    "appearances": 2,
+    "last_seen": "2026-03-09T14:59:10.251464Z"
+  },
+  "gridlines": {
+    "company_name": "Gridlines",
+    "appearances": 3,
+    "last_seen": "2026-03-09T14:59:10.251467Z"
+  },
+  "binance": {
+    "company_name": "Binance",
+    "appearances": 2,
+    "last_seen": "2026-03-09T14:59:10.251469Z"
+  },
+  "deel": {
+    "company_name": "Deel",
+    "appearances": 3,
+    "last_seen": "2026-03-09T14:59:10.251471Z"
+  },
+  "hubspot": {
+    "company_name": "HubSpot",
+    "appearances": 5,
+    "last_seen": "2026-03-09T14:59:10.251474Z"
+  },
+  "nachhilfeunterricht": {
+    "company_name": "Nachhilfeunterricht",
+    "appearances": 2,
+    "last_seen": "2026-03-09T14:59:10.251476Z"
+  },
+  "kraken": {
+    "company_name": "Kraken",
+    "appearances": 2,
+    "last_seen": "2026-03-09T14:59:10.251478Z"
+  },
+  "remote": {
+    "company_name": "Remote",
+    "appearances": 2,
+    "last_seen": "2026-03-09T14:59:10.251479Z"
+  },
+  "voyage-priv": {
+    "company_name": "Voyage Privé",
+    "appearances": 3,
+    "last_seen": "2026-03-09T14:59:10.251482Z"
+  },
+  "skillsoft": {
+    "company_name": "Skillsoft",
+    "appearances": 2,
+    "last_seen": "2026-03-09T14:59:10.251484Z"
+  },
+  "gitlab": {
+    "company_name": "GitLab",
+    "appearances": 3,
+    "last_seen": "2026-03-09T14:59:10.251486Z"
+  },
+  "smartsheet": {
+    "company_name": "Smartsheet",
+    "appearances": 2,
+    "last_seen": "2026-03-09T14:59:10.251488Z"
+  },
+  "gn-gruppe": {
+    "company_name": "G&N Gruppe",
+    "appearances": 3,
+    "last_seen": "2026-03-09T14:59:10.251491Z"
+  },
+  "fischer-partner-gesellschaft-fr-personal-mbh": {
+    "company_name": "Fischer & Partner Gesellschaft für Personal mbH",
+    "appearances": 2,
+    "last_seen": "2026-03-09T14:59:10.251493Z"
+  },
+  "earnix": {
+    "company_name": "Earnix",
+    "appearances": 2,
+    "last_seen": "2026-03-09T14:59:10.251495Z"
+  },
+  "my-project-box": {
+    "company_name": "My Project Box",
+    "appearances": 2,
+    "last_seen": "2026-03-09T14:59:10.251497Z"
+  },
+  "finment-gmbh": {
+    "company_name": "FinMent GmbH",
+    "appearances": 5,
+    "last_seen": "2026-03-09T14:59:10.251498Z"
+  },
+  "michael-krohn-consulting": {
+    "company_name": "Michael Krohn Consulting",
+    "appearances": 3,
+    "last_seen": "2026-03-09T14:59:10.251500Z"
+  },
+  "mammaly": {
+    "company_name": "mammaly",
+    "appearances": 3,
+    "last_seen": "2026-03-09T14:59:10.251502Z"
+  },
+  "spotixx-gmbh": {
+    "company_name": "spotixx GmbH",
+    "appearances": 2,
+    "last_seen": "2026-03-09T14:59:10.251504Z"
+  },
+  "traxpay-gmbh": {
+    "company_name": "Traxpay GmbH",
+    "appearances": 2,
+    "last_seen": "2026-03-09T14:59:10.251506Z"
+  },
+  "taxtalentede": {
+    "company_name": "Taxtalente.de",
+    "appearances": 2,
+    "last_seen": "2026-03-09T14:59:10.251508Z"
+  },
+  "actago4it-gmbh": {
+    "company_name": "actago4IT GmbH",
+    "appearances": 2,
+    "last_seen": "2026-03-09T14:59:10.251510Z"
+  },
+  "we-do-communication-gmbh-gwa": {
+    "company_name": "WE DO communication GmbH GWA",
+    "appearances": 2,
+    "last_seen": "2026-03-09T14:59:10.251512Z"
+  },
+  "powerprozesse": {
+    "company_name": "Powerprozesse",
+    "appearances": 2,
+    "last_seen": "2026-03-09T14:59:10.251514Z"
+  },
+  "paymentology": {
+    "company_name": "Paymentology",
+    "appearances": 2,
+    "last_seen": "2026-03-09T14:59:10.251515Z"
+  },
+  "jk-group": {
+    "company_name": "JK Group",
+    "appearances": 2,
+    "last_seen": "2026-03-09T14:59:10.251517Z"
+  },
+  "lionflence": {
+    "company_name": "Lionflence",
+    "appearances": 5,
+    "last_seen": "2026-03-09T14:59:10.251519Z"
+  },
+  "avs-services-gmbh": {
+    "company_name": "AVS Services GmbH",
+    "appearances": 2,
+    "last_seen": "2026-03-09T14:59:10.251521Z"
+  },
+  "leadeffect-gmbh": {
+    "company_name": "Leadeffect GmbH",
+    "appearances": 2,
+    "last_seen": "2026-03-09T14:59:10.251524Z"
+  },
+  "ostfriesische-volksbank-eg": {
+    "company_name": "Ostfriesische Volksbank eG",
+    "appearances": 2,
+    "last_seen": "2026-03-09T14:59:10.251526Z"
+  },
+  "bd": {
+    "company_name": "BD",
+    "appearances": 2,
+    "last_seen": "2026-03-09T14:59:10.251528Z"
+  },
+  "walmart": {
+    "company_name": "Walmart",
+    "appearances": 9,
+    "last_seen": "2026-03-09T14:59:10.251530Z"
+  }
+}
