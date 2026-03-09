@@ -39,7 +39,7 @@ jobs:
         run: |
           git config --global user.name  'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add data/listings.json
+          git add data/listings.json data/ats_allowlist.json
           # Only commit if the file actually changed
           git diff --staged --quiet || git commit -m "chore: update job catalog [skip ci]"
           git push
