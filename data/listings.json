@@ -13839,23 +13839,6 @@
       "fetched_at": "2026-03-09T19:37:48.187380Z"
     },
     {
-      "id": "themuse_19987712",
-      "title": "Department Supervisor",
-      "company": "Walmart",
-      "location": "Akron, OH",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-08-22",
-      "url": "https://www.themuse.com/jobs/walmart/department-supervisor-dea16d",
-      "source": "The Muse",
-      "description": "Position Summary...    What you'll do...   Provides supervision and development opportunities for hourly associates by hiring, training, and mentoring of associates; assigning duties; setting clear expectations; providing associate recognition; communicating expectations consistently and effectively promoting a belonging mindset in the workplace and recruiting and developing qualified associates to meet staffing needs and achieve company growth potential. Coordinates, completes, and oversees job-related activities and assignments by developing and maintaining relation",
-      "requirements": [
-        "Mid Level"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-03-09T19:37:48.489647Z"
-    },
-    {
       "id": "themuse_20080173",
       "title": "(USA) Technician, Refrigeration/HVAC",
       "company": "Walmart",
@@ -21268,6 +21251,98 @@
       "fetched_at": "2026-03-09T19:38:18.374882Z"
     },
     {
+      "id": "arbeitnow_remote-full-stack-developer-upskilling-team-berlin-71220",
+      "title": "Full-stack Developer (Upskilling team)",
+      "company": "TripleTen",
+      "location": "Berlin",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "2026-03-09",
+      "url": "https://www.arbeitnow.com/jobs/companies/tripleten/remote-full-stack-developer-upskilling-team-berlin-71220",
+      "source": "Arbeitnow",
+      "description": "At   Nebius Academy   we are building a cutting-edge educational platform designed for IT professionals to upskill and master new technologies. We are currently looking for a  Full-Stack Software Developer  to join the Nebius Academy product team.  In this role, you will own the entire feature lifecycle—from gathering functional requirements to long-term production maintenance.      Our Tech Stack:    Frontend: React  Bac",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-09T20:09:12.023743Z"
+    },
+    {
+      "id": "arbeitnow_backend-engineer-integrations-berlin-14032",
+      "title": "Backend Engineer - Integrations (m/w/x)",
+      "company": "Bring! Labs AG",
+      "location": "Berlin",
+      "remote_type": "On-site",
+      "salary": null,
+      "posted": "2026-03-09",
+      "url": "https://www.arbeitnow.com/jobs/companies/bring-labs-ag/backend-engineer-integrations-berlin-14032",
+      "source": "Arbeitnow",
+      "description": "Bring! Labs – Your perfect shopping companion  \n Responsibilities \n We are looking for a motivated Backend Engineer – Integrations to support our team. You will have the unique opportunity to join us in a strong growth phase and participate in all backend-related activities, using the latest technologies on AWS. The role includes the following: \n \n Together with your colleagues, you are responsible for the Bring! backend services and infrastructure on AWS \n You work closely with our product managers and commercial customers to integrate their offe",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-09T20:09:12.023743Z"
+    },
+    {
+      "id": "arbeitnow_creative-strategy-meta-ads-munich-343606",
+      "title": "Creative Strategy Meta Ads",
+      "company": "CrayAds",
+      "location": "Munich",
+      "remote_type": "On-site",
+      "salary": null,
+      "posted": "2026-03-09",
+      "url": "https://www.arbeitnow.com/jobs/companies/crayads/creative-strategy-meta-ads-munich-343606",
+      "source": "Arbeitnow",
+      "description": "Du liebst es, starke Ideen in messbare Performance zu übersetzen? Du denkst in Hooks, Angles und Conversion-Funnels und möchtest deine Kreativität datenbasiert einsetzen? \n Dann bist du bei uns genau richtig. \n Wir sind  CrayAds , eine Social Performance Marketing Agentur aus München. Unser kleines, schlagkräftiges Team hat eine klare Mission: Creatives zu entwickeln, die nicht nur gut aussehen, sondern vor allem performen. Wir arbeiten mit spannenden E-Commerce- und D2C-Marken zusammen, bei denen starke Creatives den Unterschied machen. \n Als  Creative",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-09T20:09:12.023743Z"
+    },
+    {
+      "id": "arbeitnow_head-of-technology-ai-cologne-63724",
+      "title": "Head of Technology & AI (m/w/d)",
+      "company": "Webmatch GmbH",
+      "location": "Cologne",
+      "remote_type": "On-site",
+      "salary": null,
+      "posted": "2026-03-09",
+      "url": "https://www.arbeitnow.com/jobs/companies/webmatch-gmbh/head-of-technology-ai-cologne-63724",
+      "source": "Arbeitnow",
+      "description": "Einleitung \n Werde Teil von Webmatch \nWir sind eine E-Commerce Agentur aus Köln und entwickeln seit über 15 Jahren anspruchsvolle digitale Commerce-Plattformen für Marken und Händler. Unser Schwerpunkt liegt auf Shopware, ergänzt durch moderne Commerce-Architekturen – von klassischen Plattformlösungen bis hin zu Headless- und composable Ansätzen, wenn sie sinnvoll sind. \n Um unser Team und unsere technologische Ausrichtung langfristig auf die kommenden Herausforderungen im E-Commerce und im Bereich AI vorzubereiten, suchen wir einen Head of Technology &#x26; AI. In dieser Rol",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-09T20:09:12.023743Z"
+    },
+    {
+      "id": "themuse_19987712",
+      "title": "Department Supervisor",
+      "company": "Walmart",
+      "location": "Akron, OH",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-08-22",
+      "url": "https://www.themuse.com/jobs/walmart/department-supervisor-dea16d",
+      "source": "The Muse",
+      "description": "Position Summary...    What you'll do...   Provides supervision and development opportunities for hourly associates by hiring, training, and mentoring of associates; assigning duties; setting clear expectations; providing associate recognition; communicating expectations consistently and effectively promoting a belonging mindset in the workplace and recruiting and developing qualified associates to meet staffing needs and achieve company growth potential. Coordinates, completes, and oversees job-related activities and assignments by developing and maintaining relation",
+      "requirements": [
+        "Mid Level"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-03-09T20:09:12.318912Z"
+    },
+    {
+      "id": "greenhouse_7688900",
+      "title": "Sr. Implementation Specialist (Remote Elegible - Costa Rica)",
+      "company": "Smartsheet",
+      "location": "San Jose, CR",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2026-03-09",
+      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/7688900",
+      "source": "Greenhouse ATS",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;For over 20 years, Smartsheet has helped people and teams achieve–well, anything. From seamless work management to smart, scalable solutions, we’ve always worked with flow. We’re building tools that empower teams to automate the manual, uncover insights, and scale smarter. But more than that, we’re creating space– space to think big, take action, and unlock the kind of work that truly matters. Because when challenge meets purpose, and passion turns into progress, that’s magic at work, and it’s what we show up for everyday.&lt;/p&gt;&lt;/div&g",
+      "requirements": [],
+      "ats_board": "smartsheet",
+      "fetched_at": "2026-03-09T20:09:37.346806Z"
+    },
+    {
       "id": "greenhouse_8351164002",
       "title": "Account Executive - Belgium",
       "company": "Sendcloud",
@@ -21280,7 +21355,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;&amp;nbsp;📍 This position is based in our HQ in Eindhoven (Hybrid work model: at least 3x a week at the office)&lt;/em&gt;&lt;/p&gt;\n&lt;h3&gt;This is what you tell people at parties about your job 👋&lt;/h3&gt;\n&lt;p&gt;Sendcloud is the complete shipping platform for e-commerce – enabling retailers, marketplaces, and fulfillment companies to scale their operations while delivering great shipping experiences. Born from a genuine need for a better way to ship, we’ve grown into one of Europe’s leading",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     },
     {
       "id": "greenhouse_7780539002",
@@ -21295,7 +21370,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;📍 This job position is based in our office in Eindhoven and we offer a hybrid model (2x week)&lt;/em&gt;&lt;/p&gt;\n&lt;h3&gt;This is what you tell people at parties about your job 👋&lt;/h3&gt;\n&lt;p&gt;Sendcloud is the complete shipping platform for e-commerce – enabling retailers, marketplaces, and fulfilment companies to scale their operations while delivering great shipping experiences. We are Europe’s leading shipping platform. Trusted by over 25,000 e-commerce businesses, Sendcloud is on a mission to solve shipping globally.&lt;/p&g",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     },
     {
       "id": "greenhouse_7974822002",
@@ -21310,7 +21385,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;&amp;nbsp;📍 This position is based in our HQ in Eindhoven (Hybrid work model: at least 3x a week at the office)&lt;/em&gt;&lt;/p&gt;\n&lt;h3&gt;This is what you tell people at parties about your job 👋&lt;/h3&gt;\n&lt;p&gt;Sendcloud is the complete shipping platform for e-commerce – enabling retailers, marketplaces, and fulfilment companies to scale their operations while delivering great shipping experiences. We are Europe’s leading shipping platform. Trusted by over 25,000 e-commerce businesses, Send",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     },
     {
       "id": "greenhouse_8373934002",
@@ -21325,7 +21400,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;&amp;nbsp;📍 This position is based in our HQ in Eindhoven (Hybrid work model: at least 1-3x a week at the office)&lt;/em&gt;&lt;/p&gt;\n&lt;h3&gt;This Is What You Say At Parties 👋&lt;/h3&gt;\n&lt;p&gt;Sendcloud is the complete shipping platform for e-commerce – enabling retailers, marketplaces, and fulfillment companies to scale their operations while delivering great shipping experiences. We are Europe’s leading shipping platform. Trusted by over 25,000 e-commerce businesses, Sendcloud is on a missio",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     },
     {
       "id": "greenhouse_8317683002",
@@ -21340,7 +21415,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;&amp;nbsp;📍 This position is based in our HQ in Eindhoven (Hybrid work model: at least 1-3x a week at the office)&lt;/em&gt;&lt;/p&gt;\n&lt;h3&gt;This Is What You Say At Parties 👋&lt;/h3&gt;\n&lt;p&gt;Sendcloud is the complete shipping platform for e-commerce – enabling retailers, marketplaces, and fulfillment companies to scale their operations while delivering great shipping experiences. We are Europe’s leading shipping platform. Trusted by over 25,000 e-commerce businesses, Sendcloud is on a missio",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     },
     {
       "id": "greenhouse_8207073002",
@@ -21355,7 +21430,7 @@
       "description": "&lt;h2&gt;&lt;strong&gt;This is what you tell people at parties&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;At Sendcloud, we’re on a mission to become the leading shipping solution worldwide. As the Corporate Development Manager, I source, evaluate, and execute strategic growth opportunities—from deal origination and due diligence to integration. I get to work on high-impact projects that shape the future of Sendcloud.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Your team&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;You’ll join the Corporate Development and Partnerships team, working closely with the founders, C-suite, fi",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     },
     {
       "id": "greenhouse_8444354002",
@@ -21370,7 +21445,7 @@
       "description": "&lt;p&gt;&lt;strong&gt;Credit Controller&lt;br&gt;&lt;br&gt;This Is What You Say at Parties 👋&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We’re Sendcloud – Europe’s #1 shipping platform for e-commerce. We help online retailers, marketplaces, and fulfillment companies scale their operations and deliver standout shipping experiences. Over 28,000 e-commerce businesses trust us to simplify and supercharge their shipping. And we’re just getting started&lt;strong&gt;.&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Your role &lt;/strong&gt;🙋‍♀️&lt;/p&gt;\n&lt;p&gt;We are looking for a dynam",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     },
     {
       "id": "greenhouse_8381167002",
@@ -21385,7 +21460,7 @@
       "description": "&lt;p&gt;&lt;strong&gt;We don’t want to brag, but this is what you tell at parties 😎&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sendcloud is the complete shipping platform for e-commerce – enabling retailers, marketplaces, and fulfillment companies to scale their operations while delivering great shipping experiences. Born from a genuine need for a better way to ship, we’ve grown into one of Europe’s leading shipping platforms. Trusted by over 25,000 e-commerce businesses, Sendcloud is on a mission to solve shipping globally.&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you will do in this",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     },
     {
       "id": "greenhouse_7338003002",
@@ -21400,7 +21475,7 @@
       "description": "&lt;div class=&quot;p-rich_text_section&quot;&gt;\n&lt;div style=&quot;text-align: center;&quot;&gt;&lt;em&gt;📍 Dies ist eine Remote-Position: Zagreb, Split &amp;amp; Osijek&lt;/em&gt;&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div style=&quot;text-align: center;&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/sewbg06LUZg&quot; width=&quot;560&quot; height=&quot;314&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;h3&gt;&lt;strong&gt;Deine Mission (falls du sie annimmst) 🎯&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Als Customer Support Consultant bei Sendclo",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     },
     {
       "id": "greenhouse_7780546002",
@@ -21415,22 +21490,22 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;&amp;nbsp;📍 This position is based in our HQ in Eindhoven (Hybrid work model: at least 2-3x a week at the office)&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/sewbg06LUZg&quot; width=&quot;560&quot; height=&quot;314&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Your mission (should you choose to accept it) 🎯&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;As a Customer Support Consultant at Sendcl",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     },
     {
-      "id": "greenhouse_8106306002",
+      "id": "greenhouse_8242114002",
       "title": "Customer Success Manager - DACH",
       "company": "Sendcloud",
-      "location": "Eindhoven HQ",
+      "location": "Remote options",
       "remote_type": "See listing",
       "salary": null,
       "posted": "2026-03-02",
-      "url": "https://jobs.sendcloud.com/jobs/8106306002?gh_jid=8106306002",
+      "url": "https://jobs.sendcloud.com/jobs/8242114002?gh_jid=8242114002",
       "source": "Greenhouse ATS",
-      "description": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;📍This is a hybrid position based at our HQ in Eindhoven (1-3x per week at the office)&lt;/em&gt;&lt;/p&gt;\n&lt;h3&gt;This Is What You Say at Parties 👋&lt;/h3&gt;\n&lt;p&gt;We’re Sendcloud – Europe’s #1 shipping platform for e-commerce. We help online retailers, marketplaces, and fulfillment companies scale their operations and deliver standout shipping experiences. Over 25,000 e-commerce businesses trust us to simplify and supercharge their shipping. And we’re just getting started.&lt;/p&gt;\n&lt;h3&gt;About the Role 💼&lt;/h3&gt;\n&lt;p&gt;",
+      "description": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;📍This is a remote position in Croatia&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;h3&gt;This Is What You Say at Parties 👋&lt;/h3&gt;\n&lt;p&gt;We’re Sendcloud – Europe’s #1 shipping platform for e-commerce. We help online retailers, marketplaces, and fulfillment companies scale their operations and deliver standout shipping experiences. Over 25,000 e-commerce businesses trust us to simplify and supercharge their shipping. And we’re just getting started.&lt;/p&gt;\n&lt;h3&gt;About the Role 💼&lt;/h3&gt;\n&lt;p&gt;We’re on the lookout for a proactive a",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     },
     {
       "id": "greenhouse_8230496002",
@@ -21445,7 +21520,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;&amp;nbsp;📍 This position is remote from Zagreb, Croatia&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/sewbg06LUZg&quot; width=&quot;560&quot; height=&quot;314&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Your mission (should you choose to accept it) 🎯&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;As a Customer Support Consultant at Sendcloud, you’re more than a problem-solver; you’re",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     },
     {
       "id": "greenhouse_7054987002",
@@ -21460,7 +21535,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;Dit is een hybride&amp;nbsp; rol, we verwachten je minimaal 2 keer per week op ons super coole kantoor hartje Eindhoven.📍&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;iframe style=&quot;display: table; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.youtube.com/embed/sewbg06LUZg&quot; width=&quot;560&quot; height=&quot;314&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Jouw missie (als je hem aanneemt natuurlijk) 🎯&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;Als &lt;strong&gt;Customer Support Cons",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     },
     {
       "id": "greenhouse_8358349002",
@@ -21475,7 +21550,7 @@
       "description": "&lt;p&gt;&lt;strong&gt;&lt;em&gt;Location: Eindhoven HQ (5 days a week in Eindhoven)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;em&gt;Department: House of Talent (HOT)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;em&gt;Reports to: Chief of Staff&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p style=&quot;text-align: center;&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h2&gt;🚀 The Short Pitch (What you tell people at parties)&lt;/h2&gt;\n&lt;p&gt;Sendcloud is the leading shipping platform for e-commerce in Europe. We are on a mission to Solve Shipping Globally. We help over",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     },
     {
       "id": "greenhouse_8450467002",
@@ -21490,7 +21565,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;📍 &lt;strong&gt;Eindhoven (Hybrid - 2 days/week onsite)&lt;/strong&gt; | &lt;strong&gt;Full-time&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;This is what you tell people at parties 👋&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;“At Sendcloud, we build Europe’s leading shipping automation platform - helping over 25,000 e-commerce businesses grow. I help make sure we can scale fast and safely: keeping our ISO 27001 security program strong, turning security risks into clear decisions, and working with Engineering, Platform, IT, Legal/P",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     },
     {
       "id": "greenhouse_8291397002",
@@ -21505,7 +21580,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;📍 &lt;em&gt;Hybrid – Eindhoven HQ (2–3 days/week)&lt;/em&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;This Is What You Say at Parties 👋&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We’re Sendcloud – Europe’s #1 shipping platform for e-commerce. We help online retailers, marketplaces, and fulfillment companies scale their operations and deliver standout shipping experiences. Over 25,000 e-commerce businesses trust us to simplify and supercharge their shipping. And we’re just getting started.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;About the Role 💼&lt;/strong&gt;&lt;/h2&g",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     },
     {
       "id": "greenhouse_8344611002",
@@ -21520,7 +21595,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;📍 &lt;em&gt;Remote – Zagreb, Croatia&lt;/em&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;This Is What You Say at Parties 👋&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We’re Sendcloud – Europe’s #1 shipping platform for e-commerce. We help online retailers, marketplaces, and fulfillment companies scale their operations and deliver standout shipping experiences. Over 25,000 e-commerce businesses trust us to simplify and supercharge their shipping. And we’re just getting started.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;About the Role 💼&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;W",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     },
     {
       "id": "greenhouse_8307361002",
@@ -21535,7 +21610,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;📍 Eindhoven (Hybrid – 3 days/week onsite) | Full-time&lt;/em&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Junior Legal Counsel (Privacy)&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;This is what you tell people at parties 👋&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;“At Sendcloud, we build Europe’s leading shipping automation platform — helping over 25,000 e-commerce businesses grow. I work in the in-house Legal team, supporting privacy, contracts, and compliance across the company. It’s a fast-growing SaaS environment where I can learn quickly, w",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     },
     {
       "id": "greenhouse_8300781002",
@@ -21550,7 +21625,7 @@
       "description": "&lt;p&gt;Are you the (Marketing) droid we are looking for?!&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;We don’t want to brag, but this is what you tell at parties 😎&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sendcloud is the complete shipping platform for e-commerce – enabling retailers, marketplaces, and fulfillment companies to scale their operations while delivering great shipping experiences. Born from a genuine need for a better way to ship, we’ve grown into one of Europe’s leading shipping platforms. Trusted by over 25,000 e-commerce businesses, Sendcloud is on a mission to solve shipping globally.&lt;/p&g",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     },
     {
       "id": "greenhouse_8450370002",
@@ -21565,7 +21640,7 @@
       "description": "&lt;p&gt;&lt;strong&gt;We don’t want to brag, but this is what you tell at parties 😎&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sendcloud is the complete shipping platform for e-commerce – enabling retailers, marketplaces, and fulfillment companies to scale their operations while delivering great shipping experiences. Born from a genuine need for a better way to ship, we’ve grown into one of Europe’s leading shipping platforms. Trusted by over 25,000 e-commerce businesses, Sendcloud is on a mission to solve shipping globally.&lt;/p&gt;\n&lt;p&gt;Belgium is a key growth market for Sendcloud, and partners",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     },
     {
       "id": "greenhouse_8390536002",
@@ -21580,7 +21655,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot; data-start=&quot;167&quot; data-end=&quot;216&quot;&gt;&lt;em&gt;📍This is a hybrid role in our Eindhoven HQ (1x per week at the office)&lt;/em&gt;&lt;/p&gt;\n&lt;h2 data-start=&quot;167&quot; data-end=&quot;216&quot;&gt;&lt;strong data-start=&quot;170&quot; data-end=&quot;216&quot;&gt;This is what you tell people at parties 👋&lt;/strong&gt;&lt;/h2&gt;\n&lt;p data-start=&quot;218&quot; data-end=&quot;476&quot;&gt;“At Sendcloud, we build an all-in-one shipping solution that automates the entire shipping process for e-commerce businesses. With more than 2",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     },
     {
       "id": "greenhouse_7450295002",
@@ -21595,7 +21670,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot; data-start=&quot;228&quot; data-end=&quot;254&quot;&gt;&lt;em&gt;📍 Eindhoven HQ | Hybrid (50% onsite)&lt;/em&gt;&lt;/p&gt;\n&lt;h2 data-start=&quot;186&quot; data-end=&quot;227&quot;&gt;&lt;strong data-start=&quot;189&quot; data-end=&quot;225&quot;&gt;Payroll Specialist (32–40 hours)&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3 data-start=&quot;256&quot; data-end=&quot;307&quot;&gt;&lt;strong data-start=&quot;259&quot; data-end=&quot;305&quot;&gt;This is what you tell people at parties 👋&lt;/strong&gt;&lt;/h3&gt;\n&lt;p data-start=&quot;308&quot; data-end=&quot;67",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     },
     {
       "id": "greenhouse_8450818002",
@@ -21610,7 +21685,7 @@
       "description": "&lt;p style=&quot;text-align: left;&quot;&gt;&lt;em&gt;📍This position is based in our HQ in Eindhoven (4-5x per week at the office)&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;This is what you tell people at parties 👋&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;“At Sendcloud we have an all-in-one shipping solution, where we automate the shipping processes for e-commerce. With more than 25,000 customers throughout Europe, and soon beyond, Sendcloud is aiming to become the leading shipping solution worldwide. We have a high performing environment and we get rewarded for all of our wins. Together with Send",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     },
     {
       "id": "greenhouse_8230455002",
@@ -21625,7 +21700,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;📍This is a hybrid position based at our HQ in Eindhoven (1 day per week at the office)&lt;/em&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;This Is What You Say at Parties 👋&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We’re Sendcloud – Europe’s #1 shipping platform for e-commerce. We help online retailers, marketplaces, and fulfillment companies scale their operations and deliver standout shipping experiences. Over 25,000 e-commerce businesses trust us to simplify and supercharge their shipping. And we’re just getting started.&lt;/p&gt;\n&lt;h3&gt;&lt;str",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     },
     {
       "id": "greenhouse_8306922002",
@@ -21640,7 +21715,7 @@
       "description": "&lt;p&gt;&lt;strong&gt;We don’t want to brag, but this is what you tell at parties 😎&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Sendcloud is the complete shipping platform for e-commerce – enabling retailers, marketplaces, and fulfillment companies to scale their operations while delivering great shipping experiences. Born from a genuine need for a better way to ship, we’ve grown into one of Europe’s leading shipping platforms. Trusted by over 25,000 e-commerce businesses, Sendcloud is on a mission to solve shipping globally.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you will do in this role 🧐&lt;br&gt;&lt",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     },
     {
       "id": "greenhouse_8425305002",
@@ -21655,7 +21730,7 @@
       "description": "&lt;p&gt;&lt;strong&gt;Eindhoven HQ (Hybrid — 3+ days/week in office)&lt;/strong&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;This is what you tell people at parties&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;I work at Sendcloud, Europe’s #1 shipping platform. As the Team Lead Partnerships, I manage and coach a team of Partner Managers across the Benelux, DACH, Spain, France, and the UK. While we have a Global team handling worldwide giants, my mission is to win the markets from the inside out. I lead the strategy for our &quot;Local Heroes&quot;—the crucial regional integrations and agencies that dominate s",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     },
     {
       "id": "greenhouse_5770357002",
@@ -21670,7 +21745,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;em&gt;Location: Eindhoven HQ (4-5 days a week in office)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;🚀 The Short Pitch&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;At Sendcloud, we are growing exponentially, but we refuse to let our support team become a bloated call center. We believe the best support experience is the one you never have to ask for. We are looking for a&amp;nbsp;&lt;strong&gt;VP Customer Support&lt;/strong&gt; who wants to build a world class Customer Support organization, using automation, LLMs, and proac",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     },
     {
       "id": "greenhouse_8384160002",
@@ -21685,9 +21760,9 @@
       "description": "&lt;p&gt;&lt;em&gt;Location: Eindhoven HQ (4-5 days a week in Eindhoven)&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Department: Marketing&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Reports to: CEO&lt;/em&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;🚀 The Short Pitch (What you tell people at parties)&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Sendcloud is the leading shipping platform for e-commerce in Europe. We are on a mission to &lt;strong&gt;Solve Shipping Globally&lt;/strong&gt;. We help over 30,000 merchants, from small retailers to big mid-market merchants, save time, money, and frustration on the",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T19:38:19.165616Z"
+      "fetched_at": "2026-03-09T20:09:41.539402Z"
     }
   ],
-  "updated_at": "2026-03-09T19:38:27.647554Z",
-  "total": 1443
+  "updated_at": "2026-03-09T20:09:54.432486Z",
+  "total": 1448
 }
