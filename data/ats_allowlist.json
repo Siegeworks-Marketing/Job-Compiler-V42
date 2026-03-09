@@ -1,0 +1,202 @@
+{
+  "walmart": {
+    "company_name": "Walmart",
+    "score": 20,
+    "last_seen": "2026-03-09T19:37:49.010579Z"
+  },
+  "acemateai": {
+    "company_name": "acemate.ai",
+    "score": 8,
+    "last_seen": "2026-03-09T19:37:49.010547Z"
+  },
+  "flix": {
+    "company_name": "Flix",
+    "score": 6,
+    "last_seen": "2026-03-09T19:37:49.010563Z"
+  },
+  "hubspot": {
+    "company_name": "HubSpot",
+    "score": 5,
+    "last_seen": "2026-03-09T19:37:49.010532Z"
+  },
+  "consultport": {
+    "company_name": "Consultport",
+    "score": 4,
+    "last_seen": "2026-03-09T19:37:49.010551Z"
+  },
+  "bd": {
+    "company_name": "BD",
+    "score": 4,
+    "last_seen": "2026-03-09T19:37:49.010577Z"
+  },
+  "gridlines": {
+    "company_name": "Gridlines",
+    "score": 3,
+    "last_seen": "2026-03-09T19:37:49.010526Z"
+  },
+  "deel": {
+    "company_name": "Deel",
+    "score": 3,
+    "last_seen": "2026-03-09T19:37:49.010530Z"
+  },
+  "voyage-priv": {
+    "company_name": "Voyage Privé",
+    "score": 3,
+    "last_seen": "2026-03-09T19:37:49.010537Z"
+  },
+  "gitlab": {
+    "company_name": "GitLab",
+    "score": 3,
+    "last_seen": "2026-03-09T19:37:49.010544Z"
+  },
+  "bridgemaker-gmbh": {
+    "company_name": "Bridgemaker GmbH",
+    "score": 3,
+    "last_seen": "2026-03-09T19:37:49.010549Z"
+  },
+  "atharicommerce": {
+    "company_name": "AthariCommerce",
+    "score": 3,
+    "last_seen": "2026-03-09T19:37:49.010556Z"
+  },
+  "intercon-solutions-gmbh": {
+    "company_name": "Intercon Solutions GmbH",
+    "score": 3,
+    "last_seen": "2026-03-09T19:37:49.010564Z"
+  },
+  "gn-gruppe": {
+    "company_name": "G&N Gruppe",
+    "score": 3,
+    "last_seen": "2026-03-09T19:37:49.010573Z"
+  },
+  "xxix": {
+    "company_name": "XXIX",
+    "score": 2,
+    "last_seen": "2026-03-09T19:37:49.010507Z"
+  },
+  "coalition-technologies": {
+    "company_name": "Coalition Technologies",
+    "score": 2,
+    "last_seen": "2026-03-09T19:37:49.010517Z"
+  },
+  "ateam": {
+    "company_name": "A.Team",
+    "score": 2,
+    "last_seen": "2026-03-09T19:37:49.010521Z"
+  },
+  "mitre-media": {
+    "company_name": "Mitre Media",
+    "score": 2,
+    "last_seen": "2026-03-09T19:37:49.010524Z"
+  },
+  "binance": {
+    "company_name": "Binance",
+    "score": 2,
+    "last_seen": "2026-03-09T19:37:49.010528Z"
+  },
+  "kraken": {
+    "company_name": "Kraken",
+    "score": 2,
+    "last_seen": "2026-03-09T19:37:49.010534Z"
+  },
+  "remote": {
+    "company_name": "Remote",
+    "score": 2,
+    "last_seen": "2026-03-09T19:37:49.010536Z"
+  },
+  "bloomreach": {
+    "company_name": "Bloomreach",
+    "score": 2,
+    "last_seen": "2026-03-09T19:37:49.010540Z"
+  },
+  "skillsoft": {
+    "company_name": "Skillsoft",
+    "score": 2,
+    "last_seen": "2026-03-09T19:37:49.010542Z"
+  },
+  "smartsheet": {
+    "company_name": "Smartsheet",
+    "score": 2,
+    "last_seen": "2026-03-09T19:37:49.010545Z"
+  },
+  "wavestone-germany-ag": {
+    "company_name": "Wavestone Germany AG",
+    "score": 2,
+    "last_seen": "2026-03-09T19:37:49.010553Z"
+  },
+  "esri": {
+    "company_name": "Esri",
+    "score": 2,
+    "last_seen": "2026-03-09T19:37:49.010554Z"
+  },
+  "matera-gmbh": {
+    "company_name": "Matera GmbH",
+    "score": 2,
+    "last_seen": "2026-03-09T19:37:49.010559Z"
+  },
+  "sendcloud": {
+    "company_name": "Sendcloud",
+    "score": 2,
+    "last_seen": "2026-03-09T19:37:49.010561Z"
+  },
+  "carmasec-gmbh-co-kg": {
+    "company_name": "carmasec GmbH & Co. KG",
+    "score": 2,
+    "last_seen": "2026-03-09T19:37:49.010566Z"
+  },
+  "tecfox-gmbh": {
+    "company_name": "TecFox GmbH",
+    "score": 2,
+    "last_seen": "2026-03-09T19:37:49.010569Z"
+  },
+  "oatsome-gmbh": {
+    "company_name": "Oatsome GmbH",
+    "score": 2,
+    "last_seen": "2026-03-09T19:37:49.010571Z"
+  },
+  "fischer-partner-gesellschaft-fr-personal-mbh": {
+    "company_name": "Fischer & Partner Gesellschaft für Personal mbH",
+    "score": 2,
+    "last_seen": "2026-03-09T19:37:49.010575Z"
+  },
+  "the-tjx-companies-inc": {
+    "company_name": "The TJX Companies, Inc.",
+    "score": 2,
+    "last_seen": "2026-03-09T19:37:49.010580Z"
+  },
+  "ansys": {
+    "company_name": "Ansys",
+    "score": 2,
+    "last_seen": "2026-03-09T19:37:49.010582Z"
+  },
+  "tiktok": {
+    "company_name": "TikTok",
+    "score": 2,
+    "last_seen": "2026-03-09T19:37:49.010584Z"
+  },
+  "davita": {
+    "company_name": "DaVita",
+    "score": 2,
+    "last_seen": "2026-03-09T19:37:49.010586Z"
+  },
+  "td-bank": {
+    "company_name": "TD Bank",
+    "score": 2,
+    "last_seen": "2026-03-09T19:37:49.010588Z"
+  },
+  "kroger": {
+    "company_name": "Kroger",
+    "score": 2,
+    "last_seen": "2026-03-09T19:37:49.010590Z"
+  },
+  "aramark": {
+    "company_name": "Aramark",
+    "score": 2,
+    "last_seen": "2026-03-09T19:37:49.010592Z"
+  },
+  "schneider-electric": {
+    "company_name": "Schneider Electric",
+    "score": 2,
+    "last_seen": "2026-03-09T19:37:49.010593Z"
+  }
+}
