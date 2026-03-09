@@ -320,10 +320,31 @@ export default async function handler(req, res) {
     const rawUrls = Array.isArray(req.body?.urls) ? req.body.urls.slice(0, 25) : [];
     if (!rawUrls.length) return res.status(400).json({ results: [] });
 
+    // ATS domain allowlist — verify-url will ONLY fetch known job board domains.
+    // This prevents use as a SSRF probe or DDoS amplifier.
+    const ATS_DOMAIN_ALLOWLIST = [
+      "myworkdayjobs.com", "greenhouse.io", "lever.co", "smartrecruiters.com",
+      "icims.com", "taleo.net", "bamboohr.com", "ashbyhq.com", "workable.com",
+      "recruitee.com", "jobvite.com", "rippling.com", "applytojob.com",
+      "linkedin.com", "indeed.com", "builtin.com", "careers.microsoft.com",
+      "amazon.jobs", "jobs.google.com", "jobs.apple.com", "hire.withgoogle.com",
+      "careers.google.com", "meta.com", "jobs.lever.co",
+    ];
+    function isAllowedAtsUrl(urlStr) {
+      try {
+        const { hostname } = new URL(urlStr);
+        return ATS_DOMAIN_ALLOWLIST.some(d => hostname === d || hostname.endsWith("." + d));
+      } catch { return false; }
+    }
+
+    // Block private/link-local IP ranges to prevent SSRF
+    const PRIVATE_IP_RE = /^https?:\/\/(localhost|127\.|0\.0\.0\.0|10\.|172\.(1[6-9]|2\d|3[01])\.|192\.168\.|169\.254\.|::1|\[::1\])/i;
+
     const safeUrls = rawUrls.filter(u =>
       u && typeof u.url === "string" &&
       u.url.startsWith("https://") &&
-      !/localhost|127\.0\.0|0\.0\.0\.0/.test(u.url)
+      !PRIVATE_IP_RE.test(u.url) &&
+      isAllowedAtsUrl(u.url)
     );
 
     const results = await Promise.all(
