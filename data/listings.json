@@ -316,21 +316,6 @@
       "fetched_at": "2026-03-09T01:45:31.930958Z"
     },
     {
-      "id": "remotive_2088624",
-      "title": "Senior Python Backend Developer",
-      "company": "SKYCATCHFIRE",
-      "location": "USA",
-      "remote_type": "Remote",
-      "salary": "$100k - $150k",
-      "posted": "2026-02-06",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-python-backend-developer-2088624",
-      "source": "Remotive",
-      "description": "<div class=\"h2\" style=\"box-sizing: inherit; padding: 0px; border-color: rgba(0, 0, 0, 0.9); border-style: none; border-image: none 100% / 1 / 0 stretch;  vertical-align: baseline; background-image: none; background-position: 0% 0%; background-size: auto; background-repeat: repeat; background-attachment: scroll; background-origin: padding-box; background-clip: border-box; outline: rgba(0, 0, 0, 0.9) none 0px; font-weight: 600; color: rgba(0, 0, 0, 0.9); line-height: 1.25; \">About the job</div><p class=\"mt4\" style=\"box-sizing: inherit; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; pad",
-      "requirements": [],
-      "ats_board": null,
-      "fetched_at": "2026-03-09T01:45:31.930958Z"
-    },
-    {
       "id": "jobicy_140349",
       "title": "Principal, Business Operations, xStocks",
       "company": "Kraken",
@@ -12549,21 +12534,6 @@
       "fetched_at": "2026-03-09T14:59:17.986359Z"
     },
     {
-      "id": "lever_e29eb1df-35a3-472c-8b68-f574bc9ee603",
-      "title": "Web3 Earn Product Operations Specialist",
-      "company": "Binance",
-      "location": "Asia",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-10-16",
-      "url": "https://jobs.lever.co/binance/e29eb1df-35a3-472c-8b68-f574bc9ee603",
-      "source": "Lever ATS",
-      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom o",
-      "requirements": [],
-      "ats_board": "binance",
-      "fetched_at": "2026-03-09T14:59:17.986359Z"
-    },
-    {
       "id": "lever_609dffee-bb3a-4883-a0b1-a24b480428b1",
       "title": "Web3 Security Service Architect Engineer (Java)",
       "company": "Binance",
@@ -21311,23 +21281,6 @@
       "fetched_at": "2026-03-09T20:09:12.023743Z"
     },
     {
-      "id": "themuse_19987712",
-      "title": "Department Supervisor",
-      "company": "Walmart",
-      "location": "Akron, OH",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-08-22",
-      "url": "https://www.themuse.com/jobs/walmart/department-supervisor-dea16d",
-      "source": "The Muse",
-      "description": "Position Summary...    What you'll do...   Provides supervision and development opportunities for hourly associates by hiring, training, and mentoring of associates; assigning duties; setting clear expectations; providing associate recognition; communicating expectations consistently and effectively promoting a belonging mindset in the workplace and recruiting and developing qualified associates to meet staffing needs and achieve company growth potential. Coordinates, completes, and oversees job-related activities and assignments by developing and maintaining relation",
-      "requirements": [
-        "Mid Level"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-03-09T20:09:12.318912Z"
-    },
-    {
       "id": "greenhouse_7688900",
       "title": "Sr. Implementation Specialist (Remote Elegible - Costa Rica)",
       "company": "Smartsheet",
@@ -21343,6 +21296,610 @@
       "fetched_at": "2026-03-09T20:09:37.346806Z"
     },
     {
+      "id": "arbeitnow_remote-security-operations-engineer-berlin-88711",
+      "title": "Security Operations Engineer",
+      "company": "TripleTen",
+      "location": "Berlin",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "2026-03-10",
+      "url": "https://www.arbeitnow.com/jobs/companies/tripleten/remote-security-operations-engineer-berlin-88711",
+      "source": "Arbeitnow",
+      "description": "*TripleTen  is a service that empowers individuals, regardless of their prior experience, to embark on the exciting and challenging journey of mastering IT professions such as software engineering, data science, business intelligence analytics, and QA engineering in a feasible and accessible way, ultimately leading to employment opportunities.*      Our mission is to ensure that every student has the opportunity to master a new profession successfully and become a valuable member of the",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.020886Z"
+    },
+    {
+      "id": "arbeitnow_fullstack-engineer-sidekick-berlin-185313",
+      "title": "Fullstack Engineer - Sidekick",
+      "company": "SumUp",
+      "location": "Berlin, Berlin, Germany",
+      "remote_type": "On-site",
+      "salary": null,
+      "posted": "2026-03-10",
+      "url": "https://www.arbeitnow.com/jobs/companies/sumup/fullstack-engineer-sidekick-berlin-185313",
+      "source": "Arbeitnow",
+      "description": "As part of the Field Sales Engineering Team, you will maintain and enhance our Global Field Sales processes to enable our biggest mission. The team currently operates within the Platform Tribe, which is tasked with developing essential internal developer platforms for SumUp. \n You'll play a key role in developing software systems that empower both Sales and Engineering teams to identify the optimal systems and approaches for processes that benefit SumUp merchants and internal users alike. Our goal is to enable our users to concentrate on delivering value to our customers without being",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.020886Z"
+    },
+    {
+      "id": "arbeitnow_werkstudent-sap-fulda-388229",
+      "title": "Werkstudent SAP (m/w/d)",
+      "company": "OREXES GmbH",
+      "location": "Fulda",
+      "remote_type": "On-site",
+      "salary": null,
+      "posted": "2026-03-10",
+      "url": "https://www.arbeitnow.com/jobs/companies/orexes-gmbh/werkstudent-sap-fulda-388229",
+      "source": "Arbeitnow",
+      "description": "Du erhältst folgende Benefits bei uns:  \n \n flexible Arbeitszeit sowie Homeoffice \n sehr gute Übernahmechancen \n Attraktives Gehaltspaket \n VWL \n Zuschuss zum Kauf eines privaten Smartphones (dreijährig) \n Hochwertige, technische Ausstattung \n Mitarbeit als vollwertiges Teammitglied in Kundenprojekten \n Fachliche und persönliche Weiterentwicklung durch internen Wissenstransfer und externe Schulungen \n Psychologische Onlineberatung \n Mitarbeiterempfehlungsprogramm \n gemeinsame Skifreizeiten &#x26;",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.020886Z"
+    },
+    {
+      "id": "arbeitnow_junior-ticketing-marketing-manager-i-dach-hamburg-356221",
+      "title": "Junior Ticketing Marketing Manager (d/w/m) I DACH",
+      "company": "HYROX World GmbH",
+      "location": "Hamburg",
+      "remote_type": "On-site",
+      "salary": null,
+      "posted": "2026-03-10",
+      "url": "https://www.arbeitnow.com/jobs/companies/hyrox-world-gmbh/junior-ticketing-marketing-manager-i-dach-hamburg-356221",
+      "source": "Arbeitnow",
+      "description": "HYROX - The World Series of Fitness Racing ist eine globale Sport-Event-Serie, die 2017 in Deutschland gegründet wurde und Laufen und funktionelles Fitnesstraining in einem einzigartigen Wettkampfformat vereint. HYROX wurde 2017 in Deutschland gegründet und ist heute eine weltweite Fitnessbewegung mit Events auf fünf Kontinenten, an denen jede Saison zehntausende Athlet:innen teilnehmen. \n Als unser  Junior Ticketing Marketing Manager (d/w/m) DACH  unterstützt du unser wachsendes Ticketing- &#x26; Marketing-Team dabei, datengetriebener und strategischer zu werden. Du opt",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.020886Z"
+    },
+    {
+      "id": "arbeitnow_working-student-financecontrolling-berlin-256761",
+      "title": "Working Student: Finance&Controlling",
+      "company": "Qdrant",
+      "location": "Berlin",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "2026-03-09",
+      "url": "https://www.arbeitnow.com/jobs/companies/qdrant/working-student-financecontrolling-berlin-256761",
+      "source": "Arbeitnow",
+      "description": "We are looking for a Working Student in Finance - Controlling to support our finance team with financial reconciliations and data analysis. \n You will work closely with our finance team on monthly closing processes, financial data validation, and system reconciliations across our finance stack. This role offers hands-on exposure to modern finance operations in a fast-growing company. \n Tasks \n  Finance Operations &#x26; Reconciliation  \n \n Support monthly reconciliation across financial systems and payment platforms \n Maintain and update produ",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.020886Z"
+    },
+    {
+      "id": "arbeitnow_engineer-intern-werkstudent-energiewende-dach-fur-dach-berlin-322921",
+      "title": "Engineer Intern / Werkstudent (m/w/d) | Energiewende | Dach für Dach",
+      "company": "Dach für Dach",
+      "location": "Berlin",
+      "remote_type": "On-site",
+      "salary": null,
+      "posted": "2026-03-09",
+      "url": "https://www.arbeitnow.com/jobs/companies/dach-fur-dach/engineer-intern-werkstudent-energiewende-dach-fur-dach-berlin-322921",
+      "source": "Arbeitnow",
+      "description": "Wir bringen die Energiewende ins Mehrfamilienhaus – Dach für Dach! ☀️  \n Solarenergie boomt, doch bislang haben nur rund  1%  aller Mehrfamilienhäuser eine PV-Anlage. Wir arbeiten jeden Tag daran, dass sich das ändert – und dafür brauchen wir dich. \n Wir ermöglichen es Eigentümern von Mehrfamilienhäusern, Solarstrom zu produzieren und an ihre Mieter zu verkaufen:  Vermieter erzielen eine Rendite, Mieter sparen Stromkosten.  Als Full-Service-Anbieter liefern wir alles von  Planung, Umsetzung und Betrieb  bis hin zu <stron",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.020886Z"
+    },
+    {
+      "id": "arbeitnow_sales-director-strategic-accounts-berlin-7563",
+      "title": "Sales Director - Strategic Accounts (f/m/d)",
+      "company": "Apaleo",
+      "location": "Berlin, Berlin, Germany",
+      "remote_type": "On-site",
+      "salary": null,
+      "posted": "2026-03-09",
+      "url": "https://www.arbeitnow.com/jobs/companies/apaleo/sales-director-strategic-accounts-berlin-7563",
+      "source": "Arbeitnow",
+      "description": "Join Apaleo and Shape the Future of Hospitality Tech! \n Apaleo is an  API-first, AI-powered property management platform  built for modern hospitality groups that want flexibility, speed, and control over their tech stack. We're scaling rapidly across Europe and beyond, supporting innovative operators across multiple segments and geographies. \n Our open platform approach lets enterprise customers compose their stack with best-in-class solutions - and increasingly combine those with  agentic AI capabilities  to move from \"insights\" to  executi",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.020886Z"
+    },
+    {
+      "id": "arbeitnow_senior-customer-success-manager-enterprise-market-all-genders-berlin-315190",
+      "title": "Senior Customer Success Manager - Enterprise Market (all genders)",
+      "company": "Urban Sports Club",
+      "location": "Berlin, Berlin, Germany",
+      "remote_type": "On-site",
+      "salary": null,
+      "posted": "2026-03-09",
+      "url": "https://www.arbeitnow.com/jobs/companies/urban-sports-club/senior-customer-success-manager-enterprise-market-all-genders-berlin-315190",
+      "source": "Arbeitnow",
+      "description": "Meet Urban Sports Club \n We are Europe's leading platform for sports and wellness.   Our mission is to inspire people to lead active, healthy lives&nbsp; and with just one membership we offer access to thousands of fitness and wellness experiences across Europe. \n But what truly sets us apart? We believe our people are at the heart of everything we do. If you're curious about how we work, what we value and how you might grow with us, explore our  Culture Hub &amp; Career Opportunities . \n  *Big ne",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.020886Z"
+    },
+    {
+      "id": "arbeitnow_workplace-experience-specialist-berlin-446783",
+      "title": "Workplace Experience Specialist",
+      "company": "Bolt Technology",
+      "location": "Berlin, Berlin, Germany",
+      "remote_type": "On-site",
+      "salary": null,
+      "posted": "2026-03-09",
+      "url": "https://www.arbeitnow.com/jobs/companies/bolt-technology/workplace-experience-specialist-berlin-446783",
+      "source": "Arbeitnow",
+      "description": ". \n &lt;gh-intro&gt; &lt;text&gt; \n \n The role supports the Workplace Experience Manager in delivering seamless day-to-day operations, vendor coordination, events, and employee services. Acting as a key point of contact for employees, the Specialist contributes to a safe, functional, and engaging workplace where people feel supported and connected.The Workplace Experience Specialist's mission is to ensure the office is a smooth, inspiring, and efficient space for employees. \n  &lt;/text&gt; &lt;/gh-intro&gt;  &lt;gh-about-us&gt; &lt;title&gt;",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.020886Z"
+    },
+    {
+      "id": "arbeitnow_support-associate-kundenservice-in-teilzeit-werkstudierende-englisch-c1-und-deutsch-c1-berlin-88251",
+      "title": "Support Associate / Kundenservice (m/w/d) in Teilzeit / Werkstudierende (Englisch C1 und Deutsch C1)",
+      "company": "Wolt - English",
+      "location": "Berlin, Berlin, Germany",
+      "remote_type": "On-site",
+      "salary": null,
+      "posted": "2026-03-09",
+      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/support-associate-kundenservice-in-teilzeit-werkstudierende-englisch-c1-und-deutsch-c1-berlin-88251",
+      "source": "Arbeitnow",
+      "description": "About Wolt  \n  At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we're building the delivery of (almost) everything and you'll find us in over 500 cities in 30 countries around the world. In 2022 we joined forces with DoorDash and together we keep on dreaming big and expanding across the globe.  Working at Wolt isn't always easy, but it's definitely exciting. Here you'll learn more,",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.020886Z"
+    },
+    {
+      "id": "arbeitnow_support-associate-kundenservice-in-vollzeit-englisch-c1-und-deutsch-c1-berlin-236059",
+      "title": "Support Associate / Kundenservice (m/w/d) in Vollzeit (Englisch C1 und Deutsch C1)",
+      "company": "Wolt - English",
+      "location": "Berlin, Berlin, Germany",
+      "remote_type": "On-site",
+      "salary": null,
+      "posted": "2026-03-09",
+      "url": "https://www.arbeitnow.com/jobs/companies/wolt-english/support-associate-kundenservice-in-vollzeit-englisch-c1-und-deutsch-c1-berlin-236059",
+      "source": "Arbeitnow",
+      "description": "About Wolt  \n  At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we're building the delivery of (almost) everything and you'll find us in over 500 cities in 30 countries around the world. In 2022 we joined forces with DoorDash and together we keep on dreaming big and expanding across the globe.  Working at Wolt isn't always easy, but it's definitely exciting. Here you'll learn more,",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.020886Z"
+    },
+    {
+      "id": "arbeitnow_senior-frontend-engineer-gn-berlin-254562",
+      "title": "Senior Frontend Engineer (gn)",
+      "company": "Ingestro",
+      "location": "Berlin",
+      "remote_type": "On-site",
+      "salary": null,
+      "posted": "2026-03-09",
+      "url": "https://www.arbeitnow.com/jobs/companies/ingestro/senior-frontend-engineer-gn-berlin-254562",
+      "source": "Arbeitnow",
+      "description": "What will you do       Take ownership of the  frontend architecture  across our key Data Pipeline product, while staying fluent across our other codebases (Importer, User Platform, Admin Panel), and drive high-quality implementations using React and TypeScript    Build  clean, scalable, and maintainable  frontend features and contribute reference-level code for complex UI challenges    Shape and improve our  design system, component",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.020886Z"
+    },
+    {
+      "id": "arbeitnow_pflichtpraktikum-systemintegration-deployment-docker-linux-cloud-umgebungen-berlin-121610",
+      "title": "Pflichtpraktikum Systemintegration & Deployment (m/w/d) - Docker, Linux & Cloud-Umgebungen",
+      "company": "Think3DDD GbR",
+      "location": "Berlin",
+      "remote_type": "On-site",
+      "salary": null,
+      "posted": "2026-03-09",
+      "url": "https://www.arbeitnow.com/jobs/companies/think3ddd-gbr/pflichtpraktikum-systemintegration-deployment-docker-linux-cloud-umgebungen-berlin-121610",
+      "source": "Arbeitnow",
+      "description": "💡  Du möchtest wissen, wie moderne Websysteme in Containern betrieben, gewartet und automatisiert bereitgestellt werden?  \n 🐳  Du hast Lust, mit Docker, Linux und Datenbanken zu arbeiten und Anwendungen auf produktive Serverumgebungen zu bringen?  \n Dann bist du bei  Think3DDD  genau richtig! \n Wir sind ein innovatives Startup aus  Berlin-Adlershof , das mit 3D-Technologien, KI und Cloud-Systemen arbeitet. \n Zur Erweiterung unserer Infrastruktur suchen wir  engagierte Praktikant*innen im Bereich Systemint",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.020886Z"
+    },
+    {
+      "id": "arbeitnow_hr-operations-werkstudent-berlin-271923",
+      "title": "HR Operations Werkstudent (m/w/d)",
+      "company": "Buena",
+      "location": "Berlin",
+      "remote_type": "On-site",
+      "salary": null,
+      "posted": "2026-03-09",
+      "url": "https://www.arbeitnow.com/jobs/companies/buena/hr-operations-werkstudent-berlin-271923",
+      "source": "Arbeitnow",
+      "description": "Buena macht alles rund um Immobilien so einfach und transparent wie den Kauf eines ETFs: Egal, ob es um das Finden, Kaufen oder Finanzieren einer Wohnung geht. Dies erreichen wir, indem wir Hausverwaltungen in ganz Deutschland übernehmen und sie in Technologieunternehmen verwandeln. Mittlerweile sind wir die drittgrößte Hausverwaltung Deutschlands, obwohl wir nur ein Team von 25 Festangestellten sind. \n Aufgaben \n \n Monatliche Entgeltabrechnung, inklusive Ad-hoc-Korrekturen und Sonderfällen. \n Erstellung von Verträgen und Zusatzvereinbarungen (Templates/Rechtsexperten",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.020886Z"
+    },
+    {
+      "id": "themuse_19987712",
+      "title": "Department Supervisor",
+      "company": "Walmart",
+      "location": "Akron, OH",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-08-22",
+      "url": "https://www.themuse.com/jobs/walmart/department-supervisor-dea16d",
+      "source": "The Muse",
+      "description": "Position Summary...    What you'll do...   Provides supervision and development opportunities for hourly associates by hiring, training, and mentoring of associates; assigning duties; setting clear expectations; providing associate recognition; communicating expectations consistently and effectively promoting a belonging mindset in the workplace and recruiting and developing qualified associates to meet staffing needs and achieve company growth potential. Coordinates, completes, and oversees job-related activities and assignments by developing and maintaining relation",
+      "requirements": [
+        "Mid Level"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.306415Z"
+    },
+    {
+      "id": "themuse_16125011",
+      "title": "Software Engineer - Product (Technical Leadership)",
+      "company": "Meta",
+      "location": "Menlo Park, CA",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-03-11",
+      "url": "https://www.themuse.com/jobs/meta/software-engineer-product-technical-leadership-835238",
+      "source": "The Muse",
+      "description": "We are the teams who create all of Facebook's product used by more than 1.5 billion people around the world. Want to build new features and improve existing products like Commerce, Ads, Video, Groups, News Feed, Search, and more? Want to solve unique, large scale, highly complex technical problems? Facebook is seeking experienced full-stack software engineers to join our product teams. You can help build products that help us connect the next billion people, create new features that have billions of interactions per day, and be a part of a team that's working to help people connect around t",
+      "requirements": [
+        "Senior Level"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.306415Z"
+    },
+    {
+      "id": "himalayas_",
+      "title": "Home Based Market Research Interviewer - German Swiss Speaking",
+      "company": "Ipsos",
+      "location": "United States",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "",
+      "url": "https://himalayas.app/companies/ipsos/jobs/home-based-market-research-interviewer-german-swiss-speaking",
+      "source": "Himalayas",
+      "description": "Role Overview  As a Market Research Telephone Interviewer at  Ipsos , your primary responsibility will be to conduct telephone interviews with business customers from various sectors. doing varied shifts. You will engage participants in their native language, utilising your communication skills to collect detailed, nuanced feedback that supports our clients' business strategies.  Key Responsibilities   Conduct interviews over the phone using scripted questionnaires.  Capture high-quality data and feedback from p",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.559461Z"
+    },
+    {
+      "id": "himalayas_",
+      "title": "Home Based Market Research Interviewer - Danish Speaking",
+      "company": "Ipsos",
+      "location": "United States",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "",
+      "url": "https://himalayas.app/companies/ipsos/jobs/home-based-market-research-interviewer-danish-speaking",
+      "source": "Himalayas",
+      "description": "Role Overview  As a Market Research Telephone Interviewer at  Ipsos , your primary responsibility will be to conduct telephone interviews with business customers from various sectors. doing varied shifts. You will engage participants in their native language, utilising your communication skills to collect detailed, nuanced feedback that supports our clients' business strategies.  Key Responsibilities   Conduct interviews over the phone using scripted questionnaires.  Capture high-quality data and feedback from p",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.559461Z"
+    },
+    {
+      "id": "himalayas_",
+      "title": "Regional Sales Manager",
+      "company": "Arrow Electronics, Inc.",
+      "location": "United States",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "",
+      "url": "https://himalayas.app/companies/arrow-electronics-inc/jobs/regional-sales-manager",
+      "source": "Himalayas",
+      "description": "Position: Regional Sales Manager  Job Description:  About Arrow ECS  Arrow Enterprise Computing Solutions, a part of Arrow Electronics Inc. is a global value-added distributor delivering IT solutions to the professional reseller channel. We specialize in enterprise and mid-range computing products, services, and solutions tailored for value-added resellers, system integrators, and service providers. Arrow ECS applies a unique and innovative channel management strategy to support business growth and partner success.  Role Overview  As a Regional Sales Manager",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.559461Z"
+    },
+    {
+      "id": "himalayas_",
+      "title": "Homes Safeguarding Officer - South",
+      "company": "Witherslack Group",
+      "location": "United States",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "",
+      "url": "https://himalayas.app/companies/witherslack-group/jobs/homes-safeguarding-officer-south",
+      "source": "Himalayas",
+      "description": "Salary and Closing Date  Salary: Up to £50,000  Closing date: 15th March  Interview Date: 26th March  Please note: This is a remote role, travel will be required across the South West and South East.  About Us  Those huge small victories  We are the highest Ofsted-rated provider in the country for special education and care. Our teams are fulfilled by the idea of making even the smallest positive changes in our young people, so we celebrate the little things. For children with complex needs the level of care and education we provide must go abo",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.559461Z"
+    },
+    {
+      "id": "himalayas_",
+      "title": "Medicare Sales Field Agent - Columbus, OH.",
+      "company": "Humana",
+      "location": "United States",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "",
+      "url": "https://himalayas.app/companies/humana/jobs/medicare-sales-field-agent-columbus-oh",
+      "source": "Himalayas",
+      "description": "Become a part of our caring community and help us put health first  With over 10 million sales interactions annually,  Humana  understands that while great products are important, it's the quality of our service that truly defines us. We know that when our members and prospects have delightful and memorable experiences, it strengthens their connection with us and enables us to put their Health First. After all, a health services company that has multiple ways to improve the lives of its customers is uniquely positioned to put those cus",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.559461Z"
+    },
+    {
+      "id": "himalayas_",
+      "title": "Medicare Sales Field Agent - Roanoke, VA",
+      "company": "Humana",
+      "location": "United States",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "",
+      "url": "https://himalayas.app/companies/humana/jobs/medicare-sales-field-agent-roanoke-va",
+      "source": "Himalayas",
+      "description": "Become a part of our caring community and help us put health first  With over 10 million sales interactions annually,  Humana  understands that while great products are important, it's the quality of our service that truly defines us. We know that when our members and prospects have delightful and memorable experiences, it strengthens their connection with us and enables us to put their Health First. After all, a health services company that has multiple ways to improve the lives of its customers is uniquely positioned to put those c",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.559461Z"
+    },
+    {
+      "id": "himalayas_",
+      "title": "Medicare Sales Field Agent - Jackson, MS",
+      "company": "Humana",
+      "location": "United States",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "",
+      "url": "https://himalayas.app/companies/humana/jobs/medicare-sales-field-agent-jackson-ms-2619157521",
+      "source": "Himalayas",
+      "description": "Become a part of our caring community and help us put health first  With over 10 million sales interactions annually,  Humana  understands that while great products are important, it’s the quality of our service that truly defines us. We know that when our members and prospects have delightful and memorable experiences, it strengthens their connection with us and enables us to put their Health First. After all, a health services company that has multiple ways to improve the lives of its customers is uniquely positioned to put those c",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.559461Z"
+    },
+    {
+      "id": "himalayas_",
+      "title": "LibertyWorks Technical Lead - Controls",
+      "company": "Rolls-Royce",
+      "location": "United States",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "",
+      "url": "https://himalayas.app/companies/rolls-royce/jobs/libertyworks-technical-lead-controls",
+      "source": "Himalayas",
+      "description": "Job Description  Job Title: LibertyWorks Technical Lead - Controls  Working Pattern: Onsite  Working location: Indianapolis, IN  We're looking for a Controls Technical Lead to join our growing team. This is an exciting opportunity to work on flagship RR programs and play an important role in addressing some of the most complex and interesting technological challenges in Defense. As the Technical Lead - Controls you will lead an extended, multi-functional engineering team focused on the systems, software, hardware, safety and test integration for technical demonstra",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.559461Z"
+    },
+    {
+      "id": "himalayas_",
+      "title": "Data Warehousing Specialist (Network Engineer)",
+      "company": "Govcio LLC",
+      "location": "United States",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "",
+      "url": "https://himalayas.app/companies/govcio-llc/jobs/data-warehousing-specialist-network-engineer",
+      "source": "Himalayas",
+      "description": "Overview  GovCIO is currently hiring for Data Warehousing Specialist (Network Engineer) of Infrastructure Operations This position will be located within the United States and will be fully remote.  Responsibilities   Develop apply best practices and tools for data ingestion, indexing, and management to optimize data sources and refine data collection processes to capture only pertinent data.  Plan and perform Cribl platform upgrades (Leader, Worker, and Edge nodes) following defined change control procedures.  Manage and optimize the Cribl distributed i",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.559461Z"
+    },
+    {
+      "id": "himalayas_",
+      "title": "Peripatetic Operational Trainer",
+      "company": "Barchester Healthcare",
+      "location": "United States",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "",
+      "url": "https://himalayas.app/companies/barchester-healthcare/jobs/peripatetic-operational-trainer",
+      "source": "Himalayas",
+      "description": "Barchester Healthcare  – Regional Trainer Opportunity   Barchester Healthcare  have a new opportunity for an experienced regional trainer to join our Learning  Development Team. Barchester's ethos is Quality First in terms of exceptional quality care to our residents and patients. You'll work with the wider L&amp;D and Operational Teams to identify and deliver where training support is needed. The role will involve UK-wide travel to any of our existing",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.559461Z"
+    },
+    {
+      "id": "himalayas_",
+      "title": "Regional Acting Principal - Omaha, NE",
+      "company": "Mutual Of Omaha",
+      "location": "United States",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "",
+      "url": "https://himalayas.app/companies/mutual-of-omaha/jobs/regional-acting-principal-omaha-ne",
+      "source": "Himalayas",
+      "description": "Join a team that helps drive advisor success by supporting Mutual of Omaha Advisors’ sales activities across assigned regions.  In this role, you’ll work closely with Registered Representatives and Insurance Agents, providing guidance on compliance, sales strategy, and practice management programs. You’ll also serve as an expert resource on industry and distribution topics, offering insight and support that enables advisors to focus on growing their practices. Omaha‑based candidates are strongly preferred. Candidates located near offices in AZ, CA, CO, FL, IA, IN, KS, MN, MO, SC, TX,",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.559461Z"
+    },
+    {
+      "id": "himalayas_",
+      "title": "Care Home Administrator",
+      "company": "Barchester Healthcare",
+      "location": "United States",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "",
+      "url": "https://himalayas.app/companies/barchester-healthcare/jobs/care-home-administrator",
+      "source": "Himalayas",
+      "description": "12 month FTC   Barchester Healthcare  are looking for an experienced and dedicated Administrator to join our team and play a pivotal role within the home's management team. Providing the General Manager with the support needed to ensure the efficient running of a high quality home, this varied position encompasses managing Customer Experience elements alongside, HR, Recruitment, Payroll, Finance and the supervision of junior members of the administration team. You'll need to be a self-sufficient and professional indivi",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.559461Z"
+    },
+    {
+      "id": "himalayas_",
+      "title": "HR Advisor",
+      "company": "Barchester Healthcare",
+      "location": "United States",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "",
+      "url": "https://himalayas.app/companies/barchester-healthcare/jobs/hr-advisor",
+      "source": "Himalayas",
+      "description": "Barchester Healthcare  HR Advisor Position   Barchester Healthcare  have a newly created HR Advisor position to join our exceptional employee services team. As one of the largest care home providers in the UK, Barchester are dedicated to ensuring our 17,000 colleagues have an exceptional experience with us. Working remotely, this varied position will allow you to demonstrate your skills and experience in coaching managers to implement best practice HR p",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.559461Z"
+    },
+    {
+      "id": "himalayas_",
+      "title": "Supervising Social Worker",
+      "company": "The FCA",
+      "location": "United States",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "",
+      "url": "https://himalayas.app/companies/the-fca/jobs/supervising-social-worker",
+      "source": "Himalayas",
+      "description": "Role: Supervising Social Worker   Basic Salary:  £28,938.13 per annum - Dependent upon experience   Benefits:  Company Car or £2,000 Car Allowance, 30 days' Annual Leave, rising to 35 day's with length of service, Bank Holidays, Life Assurance, Company Pension, On-site Free Parking, Employee Discount Scheme  Medical Cash Plan   Location:  Homebased - Liverpool   Covering Area:  Liverpool and Wirral  This is an amazing opportunity to join Foster Care Associates. We are seeking a highly motivated and enthus",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.559461Z"
+    },
+    {
+      "id": "himalayas_",
+      "title": "Quality Improvement and Regulation Manager",
+      "company": "Barchester Healthcare",
+      "location": "United States",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "",
+      "url": "https://himalayas.app/companies/barchester-healthcare/jobs/quality-improvement-and-regulation-manager",
+      "source": "Himalayas",
+      "description": "The vacancy is preferable to someone situated in or around the Berkshire area of the UK (i.e. Reading and M4/M25 corridor).  £45,000 salary  Car Allowance  ABOUT BARCHESTER  With over 25 years' experience and more than 260 care homes and six independent hospitals, Barchester is one of the UK's foremost care providers. But we're not stopping there: our mission is to provide the best possible person-centred care to elderly and vulnerable people, so we're growing and improving our services. We have a new exciting opportunity for an additional Quality Improvement and Regula",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.559461Z"
+    },
+    {
+      "id": "himalayas_",
+      "title": "Procurement Assistant -Hospitality",
+      "company": "Barchester Healthcare",
+      "location": "United States",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "",
+      "url": "https://himalayas.app/companies/barchester-healthcare/jobs/procurement-assistant-hospitality",
+      "source": "Himalayas",
+      "description": "Procurement Assistant  Barchester's procurement team have a new opportunity for a Procurement Assistant who will provide essential support to the Hospitality Category Lead with focus on the food and beverage, waste and janitorial categories. Offering hybrid working, with 3 days in our established Warrington office and 2 days working from home. On successful completion of a 6-month probation period, this role offers the opportunity to complete a fully funded Level 4 Chartered Institute of Procurement  Supply (CIPs) Apprenticeship.  As Procurement Assistant you will be providing a",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.559461Z"
+    },
+    {
+      "id": "himalayas_",
+      "title": "Key Account Manager DACH",
+      "company": "Sonos",
+      "location": "Germany",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "",
+      "url": "https://himalayas.app/companies/sonos/jobs/key-account-manager-dach",
+      "source": "Himalayas",
+      "description": "At  Sonos  we want to create the ultimate listening experience for our customers and know that it starts by listening to each other. As part of the  Sonos  team, you’ll collaborate with people of all styles, skill sets, and backgrounds to realize our vision while fostering a community where everyone feels included and empowered to do the best work of their lives.  This role can be done from home  Building the world’s leading sound experience starts with the experience we provide f",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.559461Z"
+    },
+    {
+      "id": "himalayas_",
+      "title": "Experience Design Team Lead- Email/Banner",
+      "company": "EVERSANA",
+      "location": "United States",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "",
+      "url": "https://himalayas.app/companies/eversana/jobs/experience-design-team-lead-email-banner",
+      "source": "Himalayas",
+      "description": "WHAT DOES AN EXPERIENCE DESIGN TEAM LEAD DO?  The Experience Design Team Lead – Email, Banner owns the intersection of design, technology, and brand across our Email and Media Banner practices.   This leader is both a manager and a contributor. Within our team’s model, every Experience Design role maintains production fluency—oversight alone is not sufficient. While Team Leads do not carry a full day-to-day execution load, they are expected to step into the work when needed: to unblock teams, model standards, course-correct direction, or support moments that require elevated exp",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.559461Z"
+    },
+    {
+      "id": "himalayas_",
+      "title": "PPC Specialist (Google Ads & Microsoft Ads)",
+      "company": "Learntastic",
+      "location": "India",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "",
+      "url": "https://himalayas.app/companies/learntastic/jobs/ppc-specialist-google-ads-microsoft-ads",
+      "source": "Himalayas",
+      "description": "LearnTastic is a fast-growing online education platform providing accredited continuing-education and compliance courses for professionals across industries-from healthcare and construction to HR and education. With more than 1,000 courses and over a million learners served, LearnTastic is redefining accessible, self-paced learning. Our mission is to make professional development simple, engaging, and impactful-anytime, anywhere. We are looking for an experienced PPC Specialist with 6-7 years of hands-on experience managing performance marketing campaigns on Google Ads and Microsoft (Bing) A",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.559461Z"
+    },
+    {
+      "id": "himalayas_",
+      "title": "Senior Research Security Policy Analyst - Limited Term",
+      "company": "University of Notre Dame",
+      "location": "United States",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "",
+      "url": "https://himalayas.app/companies/university-of-notre-dame/jobs/senior-research-security-policy-analyst-limited-term",
+      "source": "Himalayas",
+      "description": "The Senior Research Security Policy Analyst (Senior Analyst) provides high level policy expertise and operational support to the Executive Director of Research Security and the University Research Security Team. This role is responsible for monitoring and interpreting evolving research security legislation, regulations, and sponsor requirements, and translating them into actionable institutional guidance and processes. The Senior Analyst plays a critical role in strengthening the University’s research security posture through policy development, compliance facilitation, education, and progr",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-10T05:07:44.559461Z"
+    },
+    {
+      "id": "greenhouse_5059900007",
+      "title": "Accountant II – International Accounting",
+      "company": "Esri",
+      "location": "Vienna, Virginia, United States",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2026-03-09",
+      "url": "https://www.esri.com/careers/5059900007?gh_jid=5059900007",
+      "source": "Greenhouse ATS",
+      "description": "&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;In this Accountant role, you will be responsible for tasks related to the month-end close process, which includes the review and analysis of financial statements for the assigned international entities to ensure they are in compliance with local statutory reporting, along with supporting international statutory audits, specifically for entities assigned.&lt;/p&gt;\n&lt;p&gt;Join our collaborative team onsite at our Regional Office in Vienna, VA.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;\n&lt;ul&gt;",
+      "requirements": [],
+      "ats_board": "esri",
+      "fetched_at": "2026-03-10T05:08:08.711873Z"
+    },
+    {
+      "id": "greenhouse_5072006007",
+      "title": "Principal Product Manager - ArcGIS Editing",
+      "company": "Esri",
+      "location": "Redlands, CA",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2026-03-09",
+      "url": "https://www.esri.com/careers/5072006007?gh_jid=5072006007",
+      "source": "Greenhouse ATS",
+      "description": "&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Maintaining data has always been a critical part of the ArcGIS system with Esri continuing to maintain industry leading desktop, mobile and web tools for editing data.&amp;nbsp; Esri is looking for the right individual to join a team of product managers looking to continue and extend the editing capabilities within ArcGIS across the platform. You will be focused on the future of editing capabilities across the ArcGIS portfolio working with internal Esri staff, customers, distributors and business partners to promote the current",
+      "requirements": [],
+      "ats_board": "esri",
+      "fetched_at": "2026-03-10T05:08:08.711873Z"
+    },
+    {
+      "id": "greenhouse_5070853007",
+      "title": "Software Development Engineer II - AI Software Components",
+      "company": "Esri",
+      "location": "Redlands, CA",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2026-03-09",
+      "url": "https://www.esri.com/careers/5070853007?gh_jid=5070853007",
+      "source": "Greenhouse ATS",
+      "description": "&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Join our team in building the next generation of AI capabilities across our geospatial software products, supporting indoor mapping and reality, roadway and utility GIS, and system observability solutions. Our team develops scalable, high-performance software that brings advanced spatial intelligence and automation to complex operational environments.&lt;/p&gt;\n&lt;p&gt;As a Software Development Engineer II focused on AI innovation, you will help research, prototype, and integrate AI technologies, including Large Language Models",
+      "requirements": [],
+      "ats_board": "esri",
+      "fetched_at": "2026-03-10T05:08:08.711873Z"
+    },
+    {
+      "id": "greenhouse_5073407007",
+      "title": "Sr. Product Engineer - Agentic Observability",
+      "company": "Esri",
+      "location": "Redlands, CA",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2026-03-09",
+      "url": "https://www.esri.com/careers/5073407007?gh_jid=5073407007",
+      "source": "Greenhouse ATS",
+      "description": "&lt;p&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Do you want to join a team of dynamic and detail-oriented engineers building capabilities that apply AI to simplify and automate enterprise system observability. In this role, you will help define how observability solutions add telemetry and monitor health, performance, and usage of ArcGIS systems.&lt;/p&gt;\n&lt;p&gt;By observing and analyzing both traditional and cloud infrastructure, software components, and operational metrics, our observability platform helps organizations understand system behavior, detect anomalies, optim",
+      "requirements": [],
+      "ats_board": "esri",
+      "fetched_at": "2026-03-10T05:08:08.711873Z"
+    },
+    {
       "id": "greenhouse_8351164002",
       "title": "Account Executive - Belgium",
       "company": "Sendcloud",
@@ -21355,7 +21912,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;&amp;nbsp;📍 This position is based in our HQ in Eindhoven (Hybrid work model: at least 3x a week at the office)&lt;/em&gt;&lt;/p&gt;\n&lt;h3&gt;This is what you tell people at parties about your job 👋&lt;/h3&gt;\n&lt;p&gt;Sendcloud is the complete shipping platform for e-commerce – enabling retailers, marketplaces, and fulfillment companies to scale their operations while delivering great shipping experiences. Born from a genuine need for a better way to ship, we’ve grown into one of Europe’s leading",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     },
     {
       "id": "greenhouse_7780539002",
@@ -21370,7 +21927,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;📍 This job position is based in our office in Eindhoven and we offer a hybrid model (2x week)&lt;/em&gt;&lt;/p&gt;\n&lt;h3&gt;This is what you tell people at parties about your job 👋&lt;/h3&gt;\n&lt;p&gt;Sendcloud is the complete shipping platform for e-commerce – enabling retailers, marketplaces, and fulfilment companies to scale their operations while delivering great shipping experiences. We are Europe’s leading shipping platform. Trusted by over 25,000 e-commerce businesses, Sendcloud is on a mission to solve shipping globally.&lt;/p&g",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     },
     {
       "id": "greenhouse_7974822002",
@@ -21385,7 +21942,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;&amp;nbsp;📍 This position is based in our HQ in Eindhoven (Hybrid work model: at least 3x a week at the office)&lt;/em&gt;&lt;/p&gt;\n&lt;h3&gt;This is what you tell people at parties about your job 👋&lt;/h3&gt;\n&lt;p&gt;Sendcloud is the complete shipping platform for e-commerce – enabling retailers, marketplaces, and fulfilment companies to scale their operations while delivering great shipping experiences. We are Europe’s leading shipping platform. Trusted by over 25,000 e-commerce businesses, Send",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     },
     {
       "id": "greenhouse_8373934002",
@@ -21400,7 +21957,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;&amp;nbsp;📍 This position is based in our HQ in Eindhoven (Hybrid work model: at least 1-3x a week at the office)&lt;/em&gt;&lt;/p&gt;\n&lt;h3&gt;This Is What You Say At Parties 👋&lt;/h3&gt;\n&lt;p&gt;Sendcloud is the complete shipping platform for e-commerce – enabling retailers, marketplaces, and fulfillment companies to scale their operations while delivering great shipping experiences. We are Europe’s leading shipping platform. Trusted by over 25,000 e-commerce businesses, Sendcloud is on a missio",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     },
     {
       "id": "greenhouse_8317683002",
@@ -21415,7 +21972,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;&amp;nbsp;📍 This position is based in our HQ in Eindhoven (Hybrid work model: at least 1-3x a week at the office)&lt;/em&gt;&lt;/p&gt;\n&lt;h3&gt;This Is What You Say At Parties 👋&lt;/h3&gt;\n&lt;p&gt;Sendcloud is the complete shipping platform for e-commerce – enabling retailers, marketplaces, and fulfillment companies to scale their operations while delivering great shipping experiences. We are Europe’s leading shipping platform. Trusted by over 25,000 e-commerce businesses, Sendcloud is on a missio",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     },
     {
       "id": "greenhouse_8207073002",
@@ -21430,7 +21987,7 @@
       "description": "&lt;h2&gt;&lt;strong&gt;This is what you tell people at parties&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;At Sendcloud, we’re on a mission to become the leading shipping solution worldwide. As the Corporate Development Manager, I source, evaluate, and execute strategic growth opportunities—from deal origination and due diligence to integration. I get to work on high-impact projects that shape the future of Sendcloud.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Your team&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;You’ll join the Corporate Development and Partnerships team, working closely with the founders, C-suite, fi",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     },
     {
       "id": "greenhouse_8444354002",
@@ -21445,7 +22002,7 @@
       "description": "&lt;p&gt;&lt;strong&gt;Credit Controller&lt;br&gt;&lt;br&gt;This Is What You Say at Parties 👋&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;We’re Sendcloud – Europe’s #1 shipping platform for e-commerce. We help online retailers, marketplaces, and fulfillment companies scale their operations and deliver standout shipping experiences. Over 28,000 e-commerce businesses trust us to simplify and supercharge their shipping. And we’re just getting started&lt;strong&gt;.&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Your role &lt;/strong&gt;🙋‍♀️&lt;/p&gt;\n&lt;p&gt;We are looking for a dynam",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     },
     {
       "id": "greenhouse_8381167002",
@@ -21460,7 +22017,7 @@
       "description": "&lt;p&gt;&lt;strong&gt;We don’t want to brag, but this is what you tell at parties 😎&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sendcloud is the complete shipping platform for e-commerce – enabling retailers, marketplaces, and fulfillment companies to scale their operations while delivering great shipping experiences. Born from a genuine need for a better way to ship, we’ve grown into one of Europe’s leading shipping platforms. Trusted by over 25,000 e-commerce businesses, Sendcloud is on a mission to solve shipping globally.&lt;br&gt;&lt;br&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you will do in this",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     },
     {
       "id": "greenhouse_7338003002",
@@ -21475,7 +22032,7 @@
       "description": "&lt;div class=&quot;p-rich_text_section&quot;&gt;\n&lt;div style=&quot;text-align: center;&quot;&gt;&lt;em&gt;📍 Dies ist eine Remote-Position: Zagreb, Split &amp;amp; Osijek&lt;/em&gt;&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;div style=&quot;text-align: center;&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/sewbg06LUZg&quot; width=&quot;560&quot; height=&quot;314&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;\n&lt;div&gt;&amp;nbsp;&lt;/div&gt;\n&lt;h3&gt;&lt;strong&gt;Deine Mission (falls du sie annimmst) 🎯&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Als Customer Support Consultant bei Sendclo",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     },
     {
       "id": "greenhouse_7780546002",
@@ -21490,7 +22047,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;&amp;nbsp;📍 This position is based in our HQ in Eindhoven (Hybrid work model: at least 2-3x a week at the office)&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/sewbg06LUZg&quot; width=&quot;560&quot; height=&quot;314&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Your mission (should you choose to accept it) 🎯&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;As a Customer Support Consultant at Sendcl",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     },
     {
       "id": "greenhouse_8242114002",
@@ -21505,7 +22062,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;📍This is a remote position in Croatia&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;h3&gt;This Is What You Say at Parties 👋&lt;/h3&gt;\n&lt;p&gt;We’re Sendcloud – Europe’s #1 shipping platform for e-commerce. We help online retailers, marketplaces, and fulfillment companies scale their operations and deliver standout shipping experiences. Over 25,000 e-commerce businesses trust us to simplify and supercharge their shipping. And we’re just getting started.&lt;/p&gt;\n&lt;h3&gt;About the Role 💼&lt;/h3&gt;\n&lt;p&gt;We’re on the lookout for a proactive a",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     },
     {
       "id": "greenhouse_8230496002",
@@ -21520,7 +22077,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em data-stringify-type=&quot;italic&quot;&gt;&amp;nbsp;📍 This position is remote from Zagreb, Croatia&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/sewbg06LUZg&quot; width=&quot;560&quot; height=&quot;314&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Your mission (should you choose to accept it) 🎯&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;As a Customer Support Consultant at Sendcloud, you’re more than a problem-solver; you’re",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     },
     {
       "id": "greenhouse_7054987002",
@@ -21535,7 +22092,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;Dit is een hybride&amp;nbsp; rol, we verwachten je minimaal 2 keer per week op ons super coole kantoor hartje Eindhoven.📍&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;iframe style=&quot;display: table; margin-left: auto; margin-right: auto;&quot; src=&quot;https://www.youtube.com/embed/sewbg06LUZg&quot; width=&quot;560&quot; height=&quot;314&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Jouw missie (als je hem aanneemt natuurlijk) 🎯&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;Als &lt;strong&gt;Customer Support Cons",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     },
     {
       "id": "greenhouse_8358349002",
@@ -21550,7 +22107,7 @@
       "description": "&lt;p&gt;&lt;strong&gt;&lt;em&gt;Location: Eindhoven HQ (5 days a week in Eindhoven)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;em&gt;Department: House of Talent (HOT)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;em&gt;Reports to: Chief of Staff&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p style=&quot;text-align: center;&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h2&gt;🚀 The Short Pitch (What you tell people at parties)&lt;/h2&gt;\n&lt;p&gt;Sendcloud is the leading shipping platform for e-commerce in Europe. We are on a mission to Solve Shipping Globally. We help over",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     },
     {
       "id": "greenhouse_8450467002",
@@ -21565,7 +22122,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;📍 &lt;strong&gt;Eindhoven (Hybrid - 2 days/week onsite)&lt;/strong&gt; | &lt;strong&gt;Full-time&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;This is what you tell people at parties 👋&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;“At Sendcloud, we build Europe’s leading shipping automation platform - helping over 25,000 e-commerce businesses grow. I help make sure we can scale fast and safely: keeping our ISO 27001 security program strong, turning security risks into clear decisions, and working with Engineering, Platform, IT, Legal/P",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     },
     {
       "id": "greenhouse_8291397002",
@@ -21580,7 +22137,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;📍 &lt;em&gt;Hybrid – Eindhoven HQ (2–3 days/week)&lt;/em&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;This Is What You Say at Parties 👋&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We’re Sendcloud – Europe’s #1 shipping platform for e-commerce. We help online retailers, marketplaces, and fulfillment companies scale their operations and deliver standout shipping experiences. Over 25,000 e-commerce businesses trust us to simplify and supercharge their shipping. And we’re just getting started.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;About the Role 💼&lt;/strong&gt;&lt;/h2&g",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     },
     {
       "id": "greenhouse_8344611002",
@@ -21595,7 +22152,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;📍 &lt;em&gt;Remote – Zagreb, Croatia&lt;/em&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;This Is What You Say at Parties 👋&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We’re Sendcloud – Europe’s #1 shipping platform for e-commerce. We help online retailers, marketplaces, and fulfillment companies scale their operations and deliver standout shipping experiences. Over 25,000 e-commerce businesses trust us to simplify and supercharge their shipping. And we’re just getting started.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;About the Role 💼&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;W",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     },
     {
       "id": "greenhouse_8307361002",
@@ -21610,7 +22167,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;📍 Eindhoven (Hybrid – 3 days/week onsite) | Full-time&lt;/em&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;Junior Legal Counsel (Privacy)&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3&gt;&lt;strong&gt;This is what you tell people at parties 👋&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;“At Sendcloud, we build Europe’s leading shipping automation platform — helping over 25,000 e-commerce businesses grow. I work in the in-house Legal team, supporting privacy, contracts, and compliance across the company. It’s a fast-growing SaaS environment where I can learn quickly, w",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     },
     {
       "id": "greenhouse_8300781002",
@@ -21625,7 +22182,7 @@
       "description": "&lt;p&gt;Are you the (Marketing) droid we are looking for?!&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;We don’t want to brag, but this is what you tell at parties 😎&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sendcloud is the complete shipping platform for e-commerce – enabling retailers, marketplaces, and fulfillment companies to scale their operations while delivering great shipping experiences. Born from a genuine need for a better way to ship, we’ve grown into one of Europe’s leading shipping platforms. Trusted by over 25,000 e-commerce businesses, Sendcloud is on a mission to solve shipping globally.&lt;/p&g",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     },
     {
       "id": "greenhouse_8450370002",
@@ -21640,7 +22197,7 @@
       "description": "&lt;p&gt;&lt;strong&gt;We don’t want to brag, but this is what you tell at parties 😎&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Sendcloud is the complete shipping platform for e-commerce – enabling retailers, marketplaces, and fulfillment companies to scale their operations while delivering great shipping experiences. Born from a genuine need for a better way to ship, we’ve grown into one of Europe’s leading shipping platforms. Trusted by over 25,000 e-commerce businesses, Sendcloud is on a mission to solve shipping globally.&lt;/p&gt;\n&lt;p&gt;Belgium is a key growth market for Sendcloud, and partners",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     },
     {
       "id": "greenhouse_8390536002",
@@ -21655,7 +22212,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot; data-start=&quot;167&quot; data-end=&quot;216&quot;&gt;&lt;em&gt;📍This is a hybrid role in our Eindhoven HQ (1x per week at the office)&lt;/em&gt;&lt;/p&gt;\n&lt;h2 data-start=&quot;167&quot; data-end=&quot;216&quot;&gt;&lt;strong data-start=&quot;170&quot; data-end=&quot;216&quot;&gt;This is what you tell people at parties 👋&lt;/strong&gt;&lt;/h2&gt;\n&lt;p data-start=&quot;218&quot; data-end=&quot;476&quot;&gt;“At Sendcloud, we build an all-in-one shipping solution that automates the entire shipping process for e-commerce businesses. With more than 2",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     },
     {
       "id": "greenhouse_7450295002",
@@ -21670,7 +22227,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot; data-start=&quot;228&quot; data-end=&quot;254&quot;&gt;&lt;em&gt;📍 Eindhoven HQ | Hybrid (50% onsite)&lt;/em&gt;&lt;/p&gt;\n&lt;h2 data-start=&quot;186&quot; data-end=&quot;227&quot;&gt;&lt;strong data-start=&quot;189&quot; data-end=&quot;225&quot;&gt;Payroll Specialist (32–40 hours)&lt;/strong&gt;&lt;/h2&gt;\n&lt;h3 data-start=&quot;256&quot; data-end=&quot;307&quot;&gt;&lt;strong data-start=&quot;259&quot; data-end=&quot;305&quot;&gt;This is what you tell people at parties 👋&lt;/strong&gt;&lt;/h3&gt;\n&lt;p data-start=&quot;308&quot; data-end=&quot;67",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     },
     {
       "id": "greenhouse_8450818002",
@@ -21685,7 +22242,7 @@
       "description": "&lt;p style=&quot;text-align: left;&quot;&gt;&lt;em&gt;📍This position is based in our HQ in Eindhoven (4-5x per week at the office)&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;This is what you tell people at parties 👋&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;“At Sendcloud we have an all-in-one shipping solution, where we automate the shipping processes for e-commerce. With more than 25,000 customers throughout Europe, and soon beyond, Sendcloud is aiming to become the leading shipping solution worldwide. We have a high performing environment and we get rewarded for all of our wins. Together with Send",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     },
     {
       "id": "greenhouse_8230455002",
@@ -21700,7 +22257,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;📍This is a hybrid position based at our HQ in Eindhoven (1 day per week at the office)&lt;/em&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;This Is What You Say at Parties 👋&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;We’re Sendcloud – Europe’s #1 shipping platform for e-commerce. We help online retailers, marketplaces, and fulfillment companies scale their operations and deliver standout shipping experiences. Over 25,000 e-commerce businesses trust us to simplify and supercharge their shipping. And we’re just getting started.&lt;/p&gt;\n&lt;h3&gt;&lt;str",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     },
     {
       "id": "greenhouse_8306922002",
@@ -21715,7 +22272,7 @@
       "description": "&lt;p&gt;&lt;strong&gt;We don’t want to brag, but this is what you tell at parties 😎&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Sendcloud is the complete shipping platform for e-commerce – enabling retailers, marketplaces, and fulfillment companies to scale their operations while delivering great shipping experiences. Born from a genuine need for a better way to ship, we’ve grown into one of Europe’s leading shipping platforms. Trusted by over 25,000 e-commerce businesses, Sendcloud is on a mission to solve shipping globally.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;What you will do in this role 🧐&lt;br&gt;&lt",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     },
     {
       "id": "greenhouse_8425305002",
@@ -21730,7 +22287,7 @@
       "description": "&lt;p&gt;&lt;strong&gt;Eindhoven HQ (Hybrid — 3+ days/week in office)&lt;/strong&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;This is what you tell people at parties&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;I work at Sendcloud, Europe’s #1 shipping platform. As the Team Lead Partnerships, I manage and coach a team of Partner Managers across the Benelux, DACH, Spain, France, and the UK. While we have a Global team handling worldwide giants, my mission is to win the markets from the inside out. I lead the strategy for our &quot;Local Heroes&quot;—the crucial regional integrations and agencies that dominate s",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     },
     {
       "id": "greenhouse_5770357002",
@@ -21745,7 +22302,7 @@
       "description": "&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;em&gt;Location: Eindhoven HQ (4-5 days a week in office)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;🚀 The Short Pitch&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;At Sendcloud, we are growing exponentially, but we refuse to let our support team become a bloated call center. We believe the best support experience is the one you never have to ask for. We are looking for a&amp;nbsp;&lt;strong&gt;VP Customer Support&lt;/strong&gt; who wants to build a world class Customer Support organization, using automation, LLMs, and proac",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     },
     {
       "id": "greenhouse_8384160002",
@@ -21760,9 +22317,9 @@
       "description": "&lt;p&gt;&lt;em&gt;Location: Eindhoven HQ (4-5 days a week in Eindhoven)&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Department: Marketing&amp;nbsp;&lt;/em&gt;&lt;/p&gt;\n&lt;p&gt;&lt;em&gt;Reports to: CEO&lt;/em&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;🚀 The Short Pitch (What you tell people at parties)&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Sendcloud is the leading shipping platform for e-commerce in Europe. We are on a mission to &lt;strong&gt;Solve Shipping Globally&lt;/strong&gt;. We help over 30,000 merchants, from small retailers to big mid-market merchants, save time, money, and frustration on the",
       "requirements": [],
       "ats_board": "sendcloud",
-      "fetched_at": "2026-03-09T20:09:41.539402Z"
+      "fetched_at": "2026-03-10T05:08:09.070804Z"
     }
   ],
-  "updated_at": "2026-03-09T20:09:54.432486Z",
-  "total": 1448
+  "updated_at": "2026-03-10T05:08:15.807868Z",
+  "total": 1485
 }
