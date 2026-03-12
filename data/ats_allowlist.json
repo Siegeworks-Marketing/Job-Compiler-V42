@@ -2,201 +2,201 @@
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-03-11T20:04:42.656876Z"
+    "last_seen": "2026-03-12T05:17:42.775344Z"
   },
   "bd": {
     "company_name": "BD",
-    "score": 13,
-    "last_seen": "2026-03-11T20:04:42.656874Z"
+    "score": 14,
+    "last_seen": "2026-03-12T05:17:42.775342Z"
   },
   "deel": {
     "company_name": "Deel",
-    "score": 12,
-    "last_seen": "2026-03-11T20:04:42.656841Z"
+    "score": 13,
+    "last_seen": "2026-03-12T05:17:42.775308Z"
   },
   "xxix": {
     "company_name": "XXIX",
-    "score": 11,
-    "last_seen": "2026-03-11T20:04:42.656811Z"
+    "score": 12,
+    "last_seen": "2026-03-12T05:17:42.775280Z"
+  },
+  "ateam": {
+    "company_name": "A.Team",
+    "score": 12,
+    "last_seen": "2026-03-12T05:17:42.775290Z"
+  },
+  "mitre-media": {
+    "company_name": "Mitre Media",
+    "score": 12,
+    "last_seen": "2026-03-12T05:17:42.775294Z"
+  },
+  "the-tjx-companies-inc": {
+    "company_name": "The TJX Companies, Inc.",
+    "score": 12,
+    "last_seen": "2026-03-12T05:17:42.775346Z"
+  },
+  "ansys": {
+    "company_name": "Ansys",
+    "score": 12,
+    "last_seen": "2026-03-12T05:17:42.775348Z"
+  },
+  "tiktok": {
+    "company_name": "TikTok",
+    "score": 12,
+    "last_seen": "2026-03-12T05:17:42.775351Z"
+  },
+  "davita": {
+    "company_name": "DaVita",
+    "score": 12,
+    "last_seen": "2026-03-12T05:17:42.775353Z"
+  },
+  "kroger": {
+    "company_name": "Kroger",
+    "score": 12,
+    "last_seen": "2026-03-12T05:17:42.775355Z"
+  },
+  "aramark": {
+    "company_name": "Aramark",
+    "score": 12,
+    "last_seen": "2026-03-12T05:17:42.775357Z"
+  },
+  "schneider-electric": {
+    "company_name": "Schneider Electric",
+    "score": 12,
+    "last_seen": "2026-03-12T05:17:42.775359Z"
   },
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 11,
     "last_seen": "2026-03-11T20:04:42.656820Z"
   },
-  "ateam": {
-    "company_name": "A.Team",
-    "score": 11,
-    "last_seen": "2026-03-11T20:04:42.656825Z"
-  },
-  "mitre-media": {
-    "company_name": "Mitre Media",
-    "score": 11,
-    "last_seen": "2026-03-11T20:04:42.656828Z"
-  },
-  "the-tjx-companies-inc": {
-    "company_name": "The TJX Companies, Inc.",
-    "score": 11,
-    "last_seen": "2026-03-11T20:04:42.656879Z"
-  },
-  "ansys": {
-    "company_name": "Ansys",
-    "score": 11,
-    "last_seen": "2026-03-11T20:04:42.656881Z"
-  },
-  "tiktok": {
-    "company_name": "TikTok",
-    "score": 11,
-    "last_seen": "2026-03-11T20:04:42.656883Z"
-  },
-  "davita": {
-    "company_name": "DaVita",
-    "score": 11,
-    "last_seen": "2026-03-11T20:04:42.656885Z"
-  },
-  "kroger": {
-    "company_name": "Kroger",
-    "score": 11,
-    "last_seen": "2026-03-11T20:04:42.656888Z"
-  },
-  "aramark": {
-    "company_name": "Aramark",
-    "score": 11,
-    "last_seen": "2026-03-11T20:04:42.656890Z"
-  },
-  "schneider-electric": {
-    "company_name": "Schneider Electric",
-    "score": 11,
-    "last_seen": "2026-03-11T20:04:42.656892Z"
-  },
-  "hubspot": {
-    "company_name": "HubSpot",
-    "score": 10,
-    "last_seen": "2026-03-11T08:08:11.683807Z"
-  },
   "alpaca": {
     "company_name": "Alpaca",
-    "score": 9,
-    "last_seen": "2026-03-11T20:04:42.656897Z"
+    "score": 10,
+    "last_seen": "2026-03-12T05:17:42.775367Z"
   },
   "the-coca-cola-company": {
     "company_name": "The Coca-Cola Company",
-    "score": 9,
-    "last_seen": "2026-03-11T20:04:42.656836Z"
+    "score": 10,
+    "last_seen": "2026-03-12T05:17:42.775303Z"
   },
-  "gridlines": {
-    "company_name": "Gridlines",
-    "score": 8,
-    "last_seen": "2026-03-11T08:08:11.683821Z"
+  "hubspot": {
+    "company_name": "HubSpot",
+    "score": 9,
+    "last_seen": "2026-03-11T08:08:11.683807Z"
   },
   "gitlab": {
     "company_name": "GitLab",
+    "score": 9,
+    "last_seen": "2026-03-12T05:17:42.775297Z"
+  },
+  "kraken": {
+    "company_name": "Kraken",
     "score": 8,
-    "last_seen": "2026-03-11T20:04:42.656831Z"
+    "last_seen": "2026-03-12T05:17:42.775313Z"
   },
-  "ponturo-consulting-ag": {
-    "company_name": "ponturo consulting AG",
+  "gridlines": {
+    "company_name": "Gridlines",
     "score": 7,
-    "last_seen": "2026-03-11T08:08:11.683853Z"
-  },
-  "flix": {
-    "company_name": "Flix",
-    "score": 7,
-    "last_seen": "2026-03-11T14:45:28.705809Z"
+    "last_seen": "2026-03-11T08:08:11.683821Z"
   },
   "bloomreach": {
     "company_name": "Bloomreach",
     "score": 7,
     "last_seen": "2026-03-10T20:08:22.374064Z"
   },
-  "kraken": {
-    "company_name": "Kraken",
+  "intercon-solutions-gmbh": {
+    "company_name": "Intercon Solutions GmbH",
     "score": 7,
-    "last_seen": "2026-03-11T20:04:42.656846Z"
+    "last_seen": "2026-03-12T05:17:42.775323Z"
+  },
+  "ponturo-consulting-ag": {
+    "company_name": "ponturo consulting AG",
+    "score": 6,
+    "last_seen": "2026-03-11T08:08:11.683853Z"
+  },
+  "flix": {
+    "company_name": "Flix",
+    "score": 6,
+    "last_seen": "2026-03-11T14:45:28.705809Z"
   },
   "towa-the-digital-growth-company": {
     "company_name": "TOWA - the digital growth company",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-03-11T20:04:42.656870Z"
   },
-  "intercon-solutions-gmbh": {
-    "company_name": "Intercon Solutions GmbH",
+  "meta": {
+    "company_name": "Meta",
     "score": 6,
-    "last_seen": "2026-03-11T20:04:42.656860Z"
+    "last_seen": "2026-03-12T05:17:42.775362Z"
   },
-  "acemateai": {
-    "company_name": "acemate.ai",
-    "score": 5,
-    "last_seen": "2026-03-10T08:06:50.020256Z"
-  },
-  "binance": {
-    "company_name": "Binance",
-    "score": 5,
-    "last_seen": "2026-03-10T20:08:22.374051Z"
-  },
-  "mlp-wirtschaftsberatung": {
-    "company_name": "MLP Wirtschaftsberatung",
-    "score": 5,
-    "last_seen": "2026-03-11T08:08:11.683863Z"
-  },
-  "kaib-galldiks-partner-mbb": {
-    "company_name": "Kaib, Galldiks & Partner mbB",
-    "score": 5,
-    "last_seen": "2026-03-11T08:08:11.683859Z"
-  },
-  "caiz": {
-    "company_name": "Caiz",
-    "score": 5,
-    "last_seen": "2026-03-11T08:08:11.683832Z"
-  },
-  "salesfive-gmbh": {
-    "company_name": "Salesfive GmbH",
-    "score": 5,
-    "last_seen": "2026-03-11T14:45:28.705790Z"
+  "eleventh-hour-games": {
+    "company_name": "Eleventh Hour Games",
+    "score": 6,
+    "last_seen": "2026-03-12T05:17:42.775364Z"
   },
   "remote": {
     "company_name": "Remote",
     "score": 5,
     "last_seen": "2026-03-10T20:08:22.374060Z"
   },
-  "meta": {
-    "company_name": "Meta",
+  "gocomo-gmbh": {
+    "company_name": "gocomo GmbH",
     "score": 5,
-    "last_seen": "2026-03-11T20:04:42.656895Z"
+    "last_seen": "2026-03-12T05:17:42.775325Z"
+  },
+  "consultia-steuerberatungsgesellschaft-mbh": {
+    "company_name": "CONSULTIA STEUERBERATUNGSGESELLSCHAFT MBH",
+    "score": 5,
+    "last_seen": "2026-03-12T05:17:42.775332Z"
+  },
+  "biomatch-gmbh": {
+    "company_name": "Biomatch GmbH",
+    "score": 5,
+    "last_seen": "2026-03-12T05:17:42.775335Z"
+  },
+  "acemateai": {
+    "company_name": "acemate.ai",
+    "score": 4,
+    "last_seen": "2026-03-10T08:06:50.020256Z"
+  },
+  "binance": {
+    "company_name": "Binance",
+    "score": 4,
+    "last_seen": "2026-03-10T20:08:22.374051Z"
+  },
+  "mlp-wirtschaftsberatung": {
+    "company_name": "MLP Wirtschaftsberatung",
+    "score": 4,
+    "last_seen": "2026-03-11T08:08:11.683863Z"
+  },
+  "kaib-galldiks-partner-mbb": {
+    "company_name": "Kaib, Galldiks & Partner mbB",
+    "score": 4,
+    "last_seen": "2026-03-11T08:08:11.683859Z"
+  },
+  "caiz": {
+    "company_name": "Caiz",
+    "score": 4,
+    "last_seen": "2026-03-11T08:08:11.683832Z"
+  },
+  "salesfive-gmbh": {
+    "company_name": "Salesfive GmbH",
+    "score": 4,
+    "last_seen": "2026-03-11T14:45:28.705790Z"
   },
   "voyage-priv": {
     "company_name": "Voyage Privé",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-03-10T20:08:22.374062Z"
   },
   "world-wide-technology": {
     "company_name": "World Wide Technology",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-03-11T08:08:11.683817Z"
   },
-  "gocomo-gmbh": {
-    "company_name": "gocomo GmbH",
-    "score": 4,
-    "last_seen": "2026-03-11T20:04:42.656852Z"
-  },
-  "consultia-steuerberatungsgesellschaft-mbh": {
-    "company_name": "CONSULTIA STEUERBERATUNGSGESELLSCHAFT MBH",
-    "score": 4,
-    "last_seen": "2026-03-11T20:04:42.656858Z"
-  },
-  "biomatch-gmbh": {
-    "company_name": "Biomatch GmbH",
-    "score": 4,
-    "last_seen": "2026-03-11T20:04:42.656862Z"
-  },
-  "skillsoft": {
-    "company_name": "Skillsoft",
+  "mindrift": {
+    "company_name": "Mindrift",
     "score": 3,
-    "last_seen": "2026-03-10T20:08:22.374067Z"
-  },
-  "smartsheet": {
-    "company_name": "Smartsheet",
-    "score": 3,
-    "last_seen": "2026-03-10T20:08:22.374074Z"
+    "last_seen": "2026-03-12T05:17:42.775315Z"
   }
 }
