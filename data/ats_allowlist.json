@@ -2,12 +2,12 @@
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-03-15T14:13:48.713634Z"
+    "last_seen": "2026-03-15T19:33:17.312028Z"
   },
   "bd": {
     "company_name": "BD",
     "score": 15,
-    "last_seen": "2026-03-15T14:13:48.713630Z"
+    "last_seen": "2026-03-15T19:33:17.312024Z"
   },
   "xxix": {
     "company_name": "XXIX",
@@ -17,42 +17,42 @@
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-03-15T14:13:48.713568Z"
+    "last_seen": "2026-03-15T19:33:17.311983Z"
   },
   "the-tjx-companies-inc": {
     "company_name": "The TJX Companies, Inc.",
     "score": 15,
-    "last_seen": "2026-03-15T14:13:48.713638Z"
+    "last_seen": "2026-03-15T19:33:17.312032Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-03-15T14:13:48.713640Z"
+    "last_seen": "2026-03-15T19:33:17.312034Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-03-15T14:13:48.713641Z"
+    "last_seen": "2026-03-15T19:33:17.312036Z"
   },
   "davita": {
     "company_name": "DaVita",
     "score": 15,
-    "last_seen": "2026-03-15T14:13:48.713644Z"
+    "last_seen": "2026-03-15T19:33:17.312038Z"
   },
   "kroger": {
     "company_name": "Kroger",
     "score": 15,
-    "last_seen": "2026-03-15T14:13:48.713645Z"
+    "last_seen": "2026-03-15T19:33:17.312040Z"
   },
   "aramark": {
     "company_name": "Aramark",
     "score": 15,
-    "last_seen": "2026-03-15T14:13:48.713649Z"
+    "last_seen": "2026-03-15T19:33:17.312045Z"
   },
   "schneider-electric": {
     "company_name": "Schneider Electric",
     "score": 15,
-    "last_seen": "2026-03-15T14:13:48.713651Z"
+    "last_seen": "2026-03-15T19:33:17.312047Z"
   },
   "alpaca": {
     "company_name": "Alpaca",
@@ -62,141 +62,141 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-03-15T14:13:48.713565Z"
-  },
-  "deel": {
-    "company_name": "Deel",
-    "score": 15,
-    "last_seen": "2026-03-15T14:13:48.713575Z"
-  },
-  "the-coca-cola-company": {
-    "company_name": "The Coca-Cola Company",
-    "score": 15,
-    "last_seen": "2026-03-15T14:13:48.713591Z"
-  },
-  "gitlab": {
-    "company_name": "GitLab",
-    "score": 15,
-    "last_seen": "2026-03-15T14:13:48.713580Z"
+    "last_seen": "2026-03-15T19:33:17.311979Z"
   },
   "eleventh-hour-games": {
     "company_name": "Eleventh Hour Games",
     "score": 15,
-    "last_seen": "2026-03-15T14:13:48.713659Z"
+    "last_seen": "2026-03-15T19:33:17.312055Z"
   },
   "intercon-solutions-gmbh": {
     "company_name": "Intercon Solutions GmbH",
     "score": 15,
-    "last_seen": "2026-03-15T14:13:48.713619Z"
+    "last_seen": "2026-03-15T19:33:17.312016Z"
+  },
+  "deel": {
+    "company_name": "Deel",
+    "score": 14,
+    "last_seen": "2026-03-15T14:13:48.713575Z"
+  },
+  "the-coca-cola-company": {
+    "company_name": "The Coca-Cola Company",
+    "score": 14,
+    "last_seen": "2026-03-15T14:13:48.713591Z"
+  },
+  "gitlab": {
+    "company_name": "GitLab",
+    "score": 14,
+    "last_seen": "2026-03-15T14:13:48.713580Z"
   },
   "acemateai": {
     "company_name": "acemate.ai",
-    "score": 13,
-    "last_seen": "2026-03-15T14:13:48.713622Z"
+    "score": 14,
+    "last_seen": "2026-03-15T19:33:17.312018Z"
   },
   "remote": {
     "company_name": "Remote",
-    "score": 13,
+    "score": 12,
     "last_seen": "2026-03-15T14:13:48.713570Z"
+  },
+  "flix": {
+    "company_name": "Flix",
+    "score": 12,
+    "last_seen": "2026-03-15T19:33:17.312012Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
-    "score": 12,
+    "score": 11,
     "last_seen": "2026-03-14T19:32:49.326897Z"
   },
   "my-humancapital-gmbh": {
     "company_name": "MY Humancapital GmbH",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-03-13T14:42:52.519697Z"
-  },
-  "flix": {
-    "company_name": "Flix",
-    "score": 11,
-    "last_seen": "2026-03-15T14:13:48.713615Z"
   },
   "doit-international": {
     "company_name": "DoiT International",
-    "score": 10,
-    "last_seen": "2026-03-15T14:13:48.713572Z"
-  },
-  "mindrift": {
-    "company_name": "Mindrift",
     "score": 9,
-    "last_seen": "2026-03-15T05:44:36.812143Z"
-  },
-  "techbiz-global-gmbh": {
-    "company_name": "TechBiz Global GmbH",
-    "score": 8,
-    "last_seen": "2026-03-15T08:08:57.660420Z"
+    "last_seen": "2026-03-15T14:13:48.713572Z"
   },
   "wavestone-germany-ag": {
     "company_name": "Wavestone Germany AG",
+    "score": 9,
+    "last_seen": "2026-03-15T19:33:17.312022Z"
+  },
+  "mindrift": {
+    "company_name": "Mindrift",
     "score": 8,
-    "last_seen": "2026-03-15T14:13:48.713626Z"
+    "last_seen": "2026-03-15T05:44:36.812143Z"
+  },
+  "pavago": {
+    "company_name": "Pavago",
+    "score": 8,
+    "last_seen": "2026-03-15T19:33:17.312059Z"
+  },
+  "stadtritter-gmbh": {
+    "company_name": "Stadtritter GmbH",
+    "score": 8,
+    "last_seen": "2026-03-15T19:33:17.311998Z"
+  },
+  "techbiz-global-gmbh": {
+    "company_name": "TechBiz Global GmbH",
+    "score": 7,
+    "last_seen": "2026-03-15T08:08:57.660420Z"
   },
   "rgamer-steiner-consulting-gmbh": {
     "company_name": "Rügamer & Steiner Consulting GmbH",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-03-15T14:13:48.713628Z"
   },
   "axon": {
     "company_name": "Axon",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-03-15T14:13:48.713582Z"
   },
   "unison-infrastructure": {
     "company_name": "Unison Infrastructure",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-03-15T14:13:48.713584Z"
-  },
-  "go-for-climate-ev": {
-    "company_name": "Go For Climate e.V.",
-    "score": 7,
-    "last_seen": "2026-03-15T08:08:57.660418Z"
-  },
-  "pavago": {
-    "company_name": "Pavago",
-    "score": 7,
-    "last_seen": "2026-03-15T14:13:48.713663Z"
-  },
-  "stadtritter-gmbh": {
-    "company_name": "Stadtritter GmbH",
-    "score": 7,
-    "last_seen": "2026-03-15T14:13:48.713601Z"
   },
   "whatnot": {
     "company_name": "Whatnot",
-    "score": 6,
-    "last_seen": "2026-03-15T14:13:48.713653Z"
+    "score": 7,
+    "last_seen": "2026-03-15T19:33:17.312049Z"
   },
   "patrique-mercier-recruitment-es": {
     "company_name": "Patrique Mercier Recruitment ES",
+    "score": 7,
+    "last_seen": "2026-03-15T19:33:17.312065Z"
+  },
+  "go-for-climate-ev": {
+    "company_name": "Go For Climate e.V.",
     "score": 6,
-    "last_seen": "2026-03-15T14:13:48.713668Z"
+    "last_seen": "2026-03-15T08:08:57.660418Z"
   },
   "wabcon": {
     "company_name": "wabcon",
-    "score": 5,
-    "last_seen": "2026-03-15T14:13:48.713609Z"
+    "score": 6,
+    "last_seen": "2026-03-15T19:33:17.312006Z"
   },
   "electe-srl": {
     "company_name": "ELECTE S.R.L",
-    "score": 5,
-    "last_seen": "2026-03-15T14:13:48.713551Z"
+    "score": 6,
+    "last_seen": "2026-03-15T19:33:17.311967Z"
   },
   "sanctuary-computer": {
     "company_name": "Sanctuary Computer",
-    "score": 5,
-    "last_seen": "2026-03-15T14:13:48.713561Z"
-  },
-  "caylent": {
-    "company_name": "Caylent",
-    "score": 5,
-    "last_seen": "2026-03-15T14:13:48.713586Z"
+    "score": 6,
+    "last_seen": "2026-03-15T19:33:17.311975Z"
   },
   "lionflence": {
     "company_name": "Lionflence",
-    "score": 5,
-    "last_seen": "2026-03-15T14:13:48.713597Z"
+    "score": 6,
+    "last_seen": "2026-03-15T19:33:17.311993Z"
+  },
+  "caylent": {
+    "company_name": "Caylent",
+    "score": 4,
+    "last_seen": "2026-03-15T14:13:48.713586Z"
   }
 }
