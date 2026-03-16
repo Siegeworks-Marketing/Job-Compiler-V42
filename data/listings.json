@@ -45696,23 +45696,6 @@
       "fetched_at": "2026-03-16T06:22:02.968909Z"
     },
     {
-      "id": "themuse_19987712",
-      "title": "Department Supervisor",
-      "company": "Walmart",
-      "location": "Akron, OH",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-08-22",
-      "url": "https://www.themuse.com/jobs/walmart/department-supervisor-dea16d",
-      "source": "The Muse",
-      "description": "Position Summary...    What you'll do...   Provides supervision and development opportunities for hourly associates by hiring, training, and mentoring of associates; assigning duties; setting clear expectations; providing associate recognition; communicating expectations consistently and effectively promoting a belonging mindset in the workplace and recruiting and developing qualified associates to meet staffing needs and achieve company growth potential. Coordinates, completes, and oversees job-related activities and assignments by developing and maintaining relation",
-      "requirements": [
-        "Mid Level"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-03-16T06:22:03.277571Z"
-    },
-    {
       "id": "remoteok_1130785",
       "title": "Data Center Site Start Up Manager",
       "company": "Serverfarm",
@@ -46086,8 +46069,40 @@
       "requirements": [],
       "ats_board": "gitlab",
       "fetched_at": "2026-03-16T06:22:24.864851Z"
+    },
+    {
+      "id": "themuse_19987712",
+      "title": "Department Supervisor",
+      "company": "Walmart",
+      "location": "Akron, OH",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-08-22",
+      "url": "https://www.themuse.com/jobs/walmart/department-supervisor-dea16d",
+      "source": "The Muse",
+      "description": "Position Summary...    What you'll do...   Provides supervision and development opportunities for hourly associates by hiring, training, and mentoring of associates; assigning duties; setting clear expectations; providing associate recognition; communicating expectations consistently and effectively promoting a belonging mindset in the workplace and recruiting and developing qualified associates to meet staffing needs and achieve company growth potential. Coordinates, completes, and oversees job-related activities and assignments by developing and maintaining relation",
+      "requirements": [
+        "Mid Level"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-03-16T07:34:36.903769Z"
+    },
+    {
+      "id": "greenhouse_7637716003",
+      "title": "Service Delivery Manager - UK",
+      "company": "Axon",
+      "location": "London, England, United Kingdom",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2026-03-16",
+      "url": "https://job-boards.greenhouse.io/axon/jobs/7637716003",
+      "source": "Greenhouse ATS",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h4&gt;&lt;strong&gt;Join Axon and be a Force for Good.&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;At Axon, we’re on a mission to Protect Life. We’re explorers, pursuing society’s most critical safety and justice issues with our ecosystem of devices and cloud software. Like our products, we work better together. We connect with candor and care, seeking out diverse perspectives from our customers, communities and each other.&lt;br&gt;&lt;br&gt;Life at Axon is fast-paced, challenging and meaningful. Here, you’ll take ownership and drive real change. Constant",
+      "requirements": [],
+      "ats_board": "axon",
+      "fetched_at": "2026-03-16T07:35:04.887295Z"
     }
   ],
-  "updated_at": "2026-03-16T06:22:44.223336Z",
-  "total": 3069
+  "updated_at": "2026-03-16T07:35:05.864262Z",
+  "total": 3070
 }
