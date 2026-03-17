@@ -32,7 +32,7 @@
  *   ATS domain allowlist on verify-url (SSRF prevention)
  *   Private IP blocklist (SSRF prevention)
  */
-
+ 
 // ── Rate limiter ──────────────────────────────────────────────────────────────
 const rateLimits = new Map();
 function rateLimit(ip, bucket, maxPerMin) {
@@ -46,7 +46,7 @@ function rateLimit(ip, bucket, maxPerMin) {
     for (const [k, v] of rateLimits) if (now - v.window > 120_000) rateLimits.delete(k);
   return e.count > maxPerMin;
 }
-
+ 
 // ── Body reader ───────────────────────────────────────────────────────────────
 async function readBody(response, maxBytes = 204800) {
   const reader = response.body?.getReader();
@@ -68,7 +68,7 @@ async function readBody(response, maxBytes = 204800) {
   for (const c of chunks) { merged.set(c, offset); offset += c.length; }
   return new TextDecoder().decode(merged).toLowerCase();
 }
-
+ 
 function visibleText(html) {
   return html
     .replace(/<script[^>]*>[\s\S]*?<\/script>/gi, " ")
@@ -77,7 +77,7 @@ function visibleText(html) {
     .replace(/\s+/g, " ")
     .trim();
 }
-
+ 
 // ── Closed-job signal list ────────────────────────────────────────────────────
 const CLOSED_SIGNALS = [
   "job no longer available", "position has been filled",
@@ -106,7 +106,7 @@ const CLOSED_SIGNALS = [
   "this job has been closed",
   "404", "doesn't exist", "does not exist", "not found",
 ];
-
+ 
 // ── ATS verification ──────────────────────────────────────────────────────────
 async function checkWorkday(jobUrl) {
   const m = jobUrl.match(
@@ -134,7 +134,7 @@ async function checkWorkday(jobUrl) {
     return null;
   } catch { return null; }
 }
-
+ 
 async function checkGreenhouse(jobUrl) {
   const m = jobUrl.match(/greenhouse\.io\/([^/]+)\/jobs\/(\d+)/i);
   if (!m) return null;
@@ -151,7 +151,7 @@ async function checkGreenhouse(jobUrl) {
     return null;
   } catch { return null; }
 }
-
+ 
 async function checkLever(jobUrl) {
   const m = jobUrl.match(/jobs\.lever\.co\/([^/]+)\/([a-f0-9-]{36})/i);
   if (!m) return null;
@@ -172,7 +172,7 @@ async function checkLever(jobUrl) {
     return null;
   } catch { return null; }
 }
-
+ 
 async function checkBodyScan(jobUrl) {
   try {
     const ctrl = new AbortController();
@@ -210,7 +210,7 @@ async function checkBodyScan(jobUrl) {
     return { open: null, signal: "Fetch error", method: "body-scan" };
   }
 }
-
+ 
 async function verifyOne(jobUrl) {
   const url = jobUrl.toLowerCase();
   if (url.includes("myworkdayjobs.com")) {
@@ -227,7 +227,7 @@ async function verifyOne(jobUrl) {
   }
   return checkBodyScan(jobUrl);
 }
-
+ 
 // ── SSRF protection ───────────────────────────────────────────────────────────
 const ATS_ALLOWLIST = [
   "myworkdayjobs.com","greenhouse.io","lever.co","smartrecruiters.com",
@@ -244,11 +244,11 @@ function isAllowedAtsUrl(urlStr) {
   } catch { return false; }
 }
 const PRIVATE_IP_RE = /^https?:\/\/(localhost|127\.|0\.0\.0\.0|10\.|172\.(1[6-9]|2\d|3[01])\.|192\.168\.|169\.254\.|::1|\[::1\])/i;
-
+ 
 // ── Gemini translation layer ──────────────────────────────────────────────────
 // The frontend sends Anthropic-format payloads and expects Anthropic-format
 // responses. This layer converts transparently so index.html barely changes.
-
+ 
 function toGeminiContents(messages) {
   // Anthropic: [{role:"user"|"assistant", content: string | [{type,text},...]}]
   // Gemini:    [{role:"user"|"model",     parts: [{text},...]}]
@@ -261,21 +261,21 @@ function toGeminiContents(messages) {
       : [{ text: String(m.content || "") }],
   }));
 }
-
+ 
 function toGeminiSystemInstruction(systemPrompt) {
   if (!systemPrompt) return undefined;
   return { parts: [{ text: systemPrompt }] };
 }
-
+ 
 function fromGeminiToAnthropic(geminiData) {
   // Extract text from Gemini response and wrap in Anthropic content shape.
   // Also surfaces any Google Search grounding queries as pseudo tool_use blocks
   // so the frontend's onLog callback (which looks for web_search tool_use) fires.
   const candidate = geminiData?.candidates?.[0];
   if (!candidate) throw new Error("Gemini returned no candidates");
-
+ 
   const content = [];
-
+ 
   // Surface search queries as pseudo tool_use so frontend logging works
   const groundingMeta = candidate.groundingMetadata;
   if (groundingMeta?.searchEntryPoint || groundingMeta?.webSearchQueries) {
@@ -289,23 +289,23 @@ function fromGeminiToAnthropic(geminiData) {
       });
     });
   }
-
+ 
   // Main text
   const text = (candidate.content?.parts || [])
     .map(p => p.text || "")
     .join("")
     .trim();
   if (text) content.push({ type: "text", text });
-
+ 
   const finishReason = candidate.finishReason;
   const stop_reason =
     finishReason === "STOP"        ? "end_turn"  :
     finishReason === "MAX_TOKENS"  ? "max_tokens":
     finishReason === "TOOL_USE"    ? "tool_use"  : "end_turn";
-
-  return { content, stop_reason, model: "gemini-1.5-flash" };
+ 
+  return { content, stop_reason, model: "gemini-2.5-flash" };
 }
-
+ 
 // ── Main handler ──────────────────────────────────────────────────────────────
 export default async function handler(req, res) {
   const origin  = req.headers["origin"] || "";
@@ -315,35 +315,35 @@ export default async function handler(req, res) {
   res.setHeader("Access-Control-Allow-Methods", "POST, OPTIONS");
   res.setHeader("Access-Control-Allow-Headers", "Content-Type, x-proxy-secret");
   res.setHeader("X-Frame-Options", "DENY");
-
+ 
   if (req.method === "OPTIONS") return res.status(200).end();
   if (req.method !== "POST")   return res.status(405).json({ error: "Method not allowed" });
-
+ 
   const bodyStr = JSON.stringify(req.body || {});
   if (bodyStr.length > 262144) return res.status(413).json({ error: "Payload too large" });
-
+ 
   const proxySecret = process.env.PROXY_SECRET;
   if (proxySecret && req.headers["x-proxy-secret"] !== proxySecret)
     return res.status(403).json({ error: "Forbidden" });
-
+ 
   const clientIP = (req.headers["x-forwarded-for"] || "unknown").split(",")[0].trim();
   const url = req.url || "";
-
+ 
   // ── Route: POST /api/verify-url ───────────────────────────────────────────
   if (url.includes("verify-url")) {
     if (rateLimit(clientIP, "verify", 60))
       return res.status(429).json({ error: "Rate limited — wait 60s" });
-
+ 
     const rawUrls = Array.isArray(req.body?.urls) ? req.body.urls.slice(0, 25) : [];
     if (!rawUrls.length) return res.status(400).json({ results: [] });
-
+ 
     const safeUrls = rawUrls.filter(u =>
       u && typeof u.url === "string" &&
       u.url.startsWith("https://") &&
       !PRIVATE_IP_RE.test(u.url) &&
       isAllowedAtsUrl(u.url)
     );
-
+ 
     const results = await Promise.all(
       safeUrls.map(async ({ url: jobUrl }) => {
         try {
@@ -356,59 +356,59 @@ export default async function handler(req, res) {
     );
     return res.status(200).json({ results });
   }
-
+ 
   // ── Route: POST /api/proxy → Gemini Flash ────────────────────────────────
   if (rateLimit(clientIP, "ai", 30))
     return res.status(429).json({ error: "Rate limited (30 req/min). Wait 60s." });
-
+ 
   const geminiKey = process.env.GEMINI_API_KEY;
   if (!geminiKey)
     return res.status(500).json({ error: "Server misconfigured — GEMINI_API_KEY not set" });
-
+ 
   const body = req.body || {};
-
+ 
   // Convert Anthropic payload to Gemini format
   const contents           = toGeminiContents(body.messages || []);
   const systemInstruction  = toGeminiSystemInstruction(body.system);
   const maxOutputTokens    = Math.min(body.max_tokens || 8000, 8192);
-
+ 
   // Enable Google Search grounding (replaces Anthropic web_search tool)
   const useSearch = (body.tools || []).some(t => t.name === "web_search" || t.type?.includes("web_search"));
   const tools = useSearch
     ? [{ google_search: {} }]
     : undefined;
-
+ 
   const geminiPayload = {
     contents,
     ...(systemInstruction ? { system_instruction: systemInstruction } : {}),
     generationConfig: { maxOutputTokens, temperature: 0.7 },
     ...(tools ? { tools } : {}),
   };
-
+ 
   try {
-    const model = "gemini-1.5-flash";
+    const model = "gemini-2.5-flash";
     const geminiUrl = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${geminiKey}`;
-
+ 
     const resp = await fetch(geminiUrl, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(geminiPayload),
     });
-
+ 
     const text = await resp.text();
     let geminiData;
     try { geminiData = JSON.parse(text); }
     catch { return res.status(resp.status).send(text); }
-
+ 
     if (!resp.ok) {
       const msg = geminiData?.error?.message || `Gemini API error ${resp.status}`;
       return res.status(resp.status).json({ type: "error", error: { message: msg } });
     }
-
+ 
     // Convert Gemini response back to Anthropic format
     const anthropicResponse = fromGeminiToAnthropic(geminiData);
     return res.status(200).json(anthropicResponse);
-
+ 
   } catch (e) {
     return res.status(502).json({ type: "error", error: { message: "Upstream error: " + e.message } });
   }
