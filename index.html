@@ -560,10 +560,22 @@ JSON: {"scores":[{"id":1,"score":82,"tier":"BEST MATCH","matched":["skill"],"gap
     }
 
     // ── SCORING RUNNER ────────────────────────────────────────────────────────
+    // Batches jobs in groups of 25 to stay within Gemini's output limits and
+    // avoid Vercel's 60s timeout. Each batch is a separate API call.
     async function runScoring(resume, jobs) {
-      const raw   = await claudeHaikuCall(buildScoringPrompt(resume.trim(), jobs), SCORING_SYSTEM);
-      const data  = parseJSON(raw);
-      const map   = Object.fromEntries(((data && data.scores)||[]).map(s => [String(s.id), s]));
+      const BATCH = 25;
+      const map   = {};
+      for (let i = 0; i < jobs.length; i += BATCH) {
+        const batch = jobs.slice(i, i + BATCH);
+        try {
+          const raw  = await claudeHaikuCall(buildScoringPrompt(resume.trim(), batch), SCORING_SYSTEM);
+          const data = parseJSON(raw);
+          ((data && data.scores) || []).forEach(s => { map[String(s.id)] = s; });
+        } catch(e) {
+          // If a batch fails, skip it — partial scores are better than none
+          console.warn("Scoring batch failed:", e.message);
+        }
+      }
       return jobs.map(j => ({
         ...j,
         ...(map[String(j.id)] || {}),
