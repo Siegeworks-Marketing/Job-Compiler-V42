@@ -348,7 +348,7 @@
       onLog && onLog("Searching: live job boards via Gemini…");
       onTurn && onTurn();
       const data = await apiCall({
-        model: "gemini-2.0-flash", max_tokens: 8000,
+        model: "gemini-2.5-flash", max_tokens: 8000,
         system,
         tools: [{ type: "web_search_20250305", name: "web_search" }],
         messages: [{ role: "user", content: user }],
