@@ -24,9 +24,9 @@
     const { useState, useRef, useEffect, useMemo } = React;
 
     // ─── DISTRIBUTOR CONFIG ──────────────────────────────────────────────────
-    const BAKED_PROXY_URL    = "https://job-compiler-v42.vercel.app/api/proxy";  // "https://your-app.vercel.app/api/proxy"
-    const BAKED_PROXY_SECRET = "siegeworks2025abc";  // "your-proxy-secret" (optional)
-    const BAKED_CATALOG_URL  = "https://Siegeworks-Marketing.github.io/Job-Compiler-V42/data/listings.json";  // "https://your-user.github.io/your-repo/data/listings.json"
+    const BAKED_PROXY_URL    = "";  // "https://your-app.vercel.app/api/proxy"
+    const BAKED_PROXY_SECRET = "";  // "your-proxy-secret" (optional)
+    const BAKED_CATALOG_URL  = "";  // "https://your-user.github.io/your-repo/data/listings.json"
     // ────────────────────────────────────────────────────────────────────────
 
     // ── LOGO ─────────────────────────────────────────────────────────────────
@@ -370,13 +370,13 @@
     }
 
     async function claudeCall(prompt) {
-      const data = await apiCall({ model:"claude-sonnet-4-6", max_tokens:6000,
+      const data = await apiCall({ model:"gemini-2.5-flash", max_tokens:6000,
         messages:[{ role:"user", content:prompt }] });
       return (data.content||[]).filter(b=>b.type==="text").map(b=>b.text).join("\n");
     }
 
     async function claudeHaikuCall(prompt, sys) {
-      const payload = { model:"claude-haiku-4-5-20251001", max_tokens:4000,
+      const payload = { model:"gemini-2.5-flash", max_tokens:4000,
         messages:[{ role:"user", content:prompt }] };
       if (sys) payload.system = sys;
       const data = await apiCall(payload);
@@ -385,12 +385,19 @@
 
     function parseJSON(text) {
       if (!text) return null;
-      const fence = "```";
-      const m = text.match(new RegExp(fence + "(?:json)?\\s*([\\s\\S]*?)" + fence));
-      const s = m ? m[1] : text;
+      // Strip markdown fences — Gemini often wraps JSON in ```json ... ```
+      let s = text.replace(/^```(?:json)?\s*/im, "").replace(/\s*```\s*$/im, "").trim();
+      // Find outermost { } bounds
       const a = s.indexOf("{"), b = s.lastIndexOf("}");
-      if (a === -1 || b === -1) return null;
-      try { return JSON.parse(s.slice(a, b+1)); } catch { return null; }
+      if (a !== -1 && b !== -1) {
+        try { return JSON.parse(s.slice(a, b + 1)); } catch {}
+      }
+      // Find outermost [ ] bounds (for array responses)
+      const c = s.indexOf("["), d = s.lastIndexOf("]");
+      if (c !== -1 && d !== -1) {
+        try { return JSON.parse(s.slice(c, d + 1)); } catch {}
+      }
+      return null;
     }
 
     // ── SEARCH PROMPTS ────────────────────────────────────────────────────────
