@@ -303,7 +303,7 @@ function fromGeminiToAnthropic(geminiData) {
     finishReason === "MAX_TOKENS"  ? "max_tokens":
     finishReason === "TOOL_USE"    ? "tool_use"  : "end_turn";
 
-  return { content, stop_reason, model: "gemini-2.0-flash" };
+  return { content, stop_reason, model: "gemini-1.5-flash" };
 }
 
 // ── Main handler ──────────────────────────────────────────────────────────────
@@ -358,8 +358,8 @@ export default async function handler(req, res) {
   }
 
   // ── Route: POST /api/proxy → Gemini Flash ────────────────────────────────
-  if (rateLimit(clientIP, "ai", 120))
-    return res.status(429).json({ error: "Rate limited (120 req/min). Wait 120s." });
+  if (rateLimit(clientIP, "ai", 30))
+    return res.status(429).json({ error: "Rate limited (30 req/min). Wait 60s." });
 
   const geminiKey = process.env.GEMINI_API_KEY;
   if (!geminiKey)
@@ -386,7 +386,7 @@ export default async function handler(req, res) {
   };
 
   try {
-    const model = "gemini-2.0-flash";
+    const model = "gemini-1.5-flash";
     const geminiUrl = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${geminiKey}`;
 
     const resp = await fetch(geminiUrl, {
