@@ -24,9 +24,9 @@
     const { useState, useRef, useEffect, useMemo } = React;
 
     // ─── DISTRIBUTOR CONFIG ──────────────────────────────────────────────────
-    const BAKED_PROXY_URL    = "https://job-compiler-v42.vercel.app/api/proxy";  // "https://job-compiler-v42.vercel.app/api/proxy"
-    const BAKED_PROXY_SECRET = "siegeworks2025abc";  // "siegeworks2025abc" (optional)
-    const BAKED_CATALOG_URL  = "https://Siegeworks-Marketing.github.io/Job-Compiler-V42/data/listings.json";  // "https://Siegeworks-Marketing.github.io/Job-Compiler-V42/data/listings.json"
+    const BAKED_PROXY_URL    = "https://job-compiler-v42.vercel.app/api/proxy";  // "https://your-app.vercel.app/api/proxy"
+    const BAKED_PROXY_SECRET = "siegeworks2025abc";  // "your-proxy-secret" (optional)
+    const BAKED_CATALOG_URL  = "https://Siegeworks-Marketing.github.io/Job-Compiler-V42/data/listings.json";  // "https://your-user.github.io/your-repo/data/listings.json"
     // ────────────────────────────────────────────────────────────────────────
 
     // ── LOGO ─────────────────────────────────────────────────────────────────
@@ -305,57 +305,68 @@
 
     // ── API CALL ──────────────────────────────────────────────────────────────
     // Key-free: the Gemini API key lives in Vercel env vars, never the browser.
-    async function apiCall(payload, signal) {
+    // ── API CALL with automatic 429 retry backoff ─────────────────────────────
+    async function apiCall(payload, signal, retries = 3) {
       const proxy  = (BAKED_PROXY_URL    || "").trim();
       const secret = (BAKED_PROXY_SECRET || "").trim();
       if (!proxy) throw new Error("Proxy URL not configured. Set BAKED_PROXY_URL in index.html.");
       const headers = { "Content-Type": "application/json" };
       if (secret) headers["x-proxy-secret"] = secret;
-      const res = await fetch(proxy, {
-        method: "POST", headers, body: JSON.stringify(payload),
-        ...(signal ? { signal } : {}),
-      });
-      let data;
-      const text = await res.text();
-      try { data = JSON.parse(text); }
-      catch(e) { throw new Error("Response parse error (" + res.status + "): " + text.slice(0, 120)); }
-      if (!res.ok || data.type === "error") {
-        throw new Error((data.error && data.error.message) || ("API error " + res.status));
+
+      for (let attempt = 0; attempt <= retries; attempt++) {
+        const res = await fetch(proxy, {
+          method: "POST", headers, body: JSON.stringify(payload),
+          ...(signal ? { signal } : {}),
+        });
+        let data;
+        const text = await res.text();
+        try { data = JSON.parse(text); }
+        catch(e) { throw new Error("Response parse error (" + res.status + "): " + text.slice(0, 120)); }
+
+        // On 429 rate limit, wait and retry automatically
+        if (res.status === 429 && attempt < retries) {
+          const wait = (attempt + 1) * 15000; // 15s, 30s, 45s
+          await new Promise(r => setTimeout(r, wait));
+          continue;
+        }
+
+        if (!res.ok || data.type === "error") {
+          throw new Error((data.error && data.error.message) || ("API error " + res.status));
+        }
+        if (!data.content) throw new Error("Empty response — you may be rate-limited. Wait 60s and retry.");
+        return data;
       }
-      if (!data.content) throw new Error("Empty response — you may be rate-limited. Wait 60s and retry.");
-      return data;
+      throw new Error("Rate limited after retries — wait 60s and try again.");
     }
 
     // ── AGENTIC SEARCH ────────────────────────────────────────────────────────
+    // Gemini handles all web searches internally in a single call (google_search
+    // grounding). Unlike Anthropic's multi-turn tool loop, we send one request
+    // and get back a fully-searched result. This reduces API calls from 8-14 down
+    // to 1 per search, solving the free-tier rate limit problem entirely.
     async function agenticSearch(system, user, onLog, signal, onTurn) {
-      const history = [{ role:"user", content:user }];
-      for (let turn = 0; turn < 14; turn++) {
-        const data = await apiCall({
-          model:"claude-sonnet-4-6", max_tokens:8000,
-          system, tools:[{ type:"web_search_20250305", name:"web_search" }],
-          messages:history,
-        }, signal);
-        const blocks = data.content || [];
-        blocks.forEach(b => {
-          if ((b.type === "tool_use" || b.type === "server_tool_use") &&
-              b.name === "web_search" && b.input && b.input.query) {
-            onLog && onLog("Searching: " + b.input.query);
-            onTurn && onTurn();
-          }
-        });
-        if (data.stop_reason === "end_turn" || data.stop_reason === "max_tokens") {
-          const txt = blocks.filter(b=>b.type==="text").map(b=>b.text).join("\n").trim();
-          if (txt) return txt;
-          throw new Error("Search finished with no text output.");
+      onLog && onLog("Searching: live job boards via Gemini…");
+      onTurn && onTurn();
+      const data = await apiCall({
+        model: "gemini-2.0-flash", max_tokens: 8000,
+        system,
+        tools: [{ type: "web_search_20250305", name: "web_search" }],
+        messages: [{ role: "user", content: user }],
+      }, signal);
+
+      const blocks = data.content || [];
+
+      // Surface any search queries Gemini logged (from grounding metadata)
+      blocks.forEach(b => {
+        if (b.type === "tool_use" && b.name === "web_search" && b.input?.query) {
+          onLog && onLog("Searching: " + b.input.query);
+          onTurn && onTurn();
         }
-        if (data.stop_reason === "tool_use") {
-          history.push({ role:"assistant", content:blocks });
-          continue;
-        }
-        const txt = blocks.filter(b=>b.type==="text").map(b=>b.text).join("\n").trim();
-        if (txt) return txt;
-      }
-      throw new Error("Search did not complete after maximum turns.");
+      });
+
+      const txt = blocks.filter(b => b.type === "text").map(b => b.text).join("\n").trim();
+      if (txt) return txt;
+      throw new Error("Search returned no results. Try a broader role title.");
     }
 
     async function claudeCall(prompt) {
@@ -1308,7 +1319,7 @@ Return ONLY JSON: {"results":[{"url":"...","open":true,"signal":"what you saw on
           <div style={{ width:1, height:22, background:"var(--b2)" }} />
           <div>
             <div style={{ fontSize:12.5, fontWeight:700, color:"var(--text)", letterSpacing:".04em" }}>
-              Siegeworks Job Compiler - DON'T PANIC
+              Siegeworks Job Compiler
             </div>
             <div style={{ fontSize:10, color:"var(--muted)", fontFamily:"var(--mono)", letterSpacing:".06em", textTransform:"uppercase", marginTop:1 }}>
               Siegeworks Marketing LLC
