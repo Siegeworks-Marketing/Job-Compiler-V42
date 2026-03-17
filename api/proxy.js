@@ -290,8 +290,10 @@ function fromGeminiToAnthropic(geminiData) {
     });
   }
  
-  // Main text
+  // Main text — exclude thought parts (gemini-2.5-flash is a thinking model;
+  // thought parts have thought:true and contain reasoning, not the actual answer)
   const text = (candidate.content?.parts || [])
+    .filter(p => !p.thought)
     .map(p => p.text || "")
     .join("")
     .trim();
@@ -381,7 +383,13 @@ export default async function handler(req, res) {
   const geminiPayload = {
     contents,
     ...(systemInstruction ? { system_instruction: systemInstruction } : {}),
-    generationConfig: { maxOutputTokens, temperature: 0.7 },
+    generationConfig: {
+      maxOutputTokens,
+      temperature: 0.7,
+      // Disable thinking for non-search calls (scoring, parsing).
+      // Thinking tokens eat into the output budget and cause truncated JSON.
+      ...(!useSearch ? { thinkingConfig: { thinkingBudget: 0 } } : {}),
+    },
     ...(tools ? { tools } : {}),
   };
  
