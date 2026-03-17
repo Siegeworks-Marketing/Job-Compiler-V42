@@ -1044,6 +1044,148 @@ Return ONLY JSON: {"results":[{"url":"...","open":true,"signal":"what you saw on
       );
     }
 
+    // ── PRIVACY MODAL ─────────────────────────────────────────────────────────
+    function PrivacyModal({ onClose }) {
+      // Close on backdrop click or Escape key
+      React.useEffect(() => {
+        const handler = e => { if (e.key === "Escape") onClose(); };
+        window.addEventListener("keydown", handler);
+        return () => window.removeEventListener("keydown", handler);
+      }, []);
+
+      const Section = ({ title, children }) => (
+        <div style={{ marginBottom:22 }}>
+          <div style={{ fontSize:10, fontFamily:"var(--mono)", color:"var(--red-lt)", letterSpacing:".1em",
+            textTransform:"uppercase", fontWeight:700, marginBottom:8 }}>{title}</div>
+          {children}
+        </div>
+      );
+
+      const P = ({ children }) => (
+        <p style={{ fontSize:13, color:"var(--muted)", lineHeight:1.75, marginBottom:8 }}>{children}</p>
+      );
+
+      const Row = ({ label, value, ok }) => (
+        <div style={{ display:"flex", gap:10, alignItems:"flex-start", marginBottom:6 }}>
+          <span style={{ fontSize:12, color: ok ? "#10B981" : "#F59E0B", flexShrink:0, marginTop:2 }}>
+            {ok ? "✓" : "⚠"}
+          </span>
+          <div>
+            <span style={{ fontSize:12, fontWeight:600, color:"var(--text)", fontFamily:"var(--mono)" }}>{label}: </span>
+            <span style={{ fontSize:12, color:"var(--muted)" }}>{value}</span>
+          </div>
+        </div>
+      );
+
+      return (
+        <div onClick={onClose} style={{ position:"fixed", inset:0, zIndex:9999,
+          background:"rgba(0,0,0,0.75)", backdropFilter:"blur(6px)", WebkitBackdropFilter:"blur(6px)",
+          display:"flex", alignItems:"center", justifyContent:"center", padding:"16px" }}>
+          <div onClick={e => e.stopPropagation()}
+            style={{ background:"var(--surf)", border:"1px solid var(--b1)", borderRadius:10,
+              maxWidth:580, width:"100%", maxHeight:"85vh", overflowY:"auto",
+              boxShadow:"0 24px 80px rgba(0,0,0,0.6)" }}>
+
+            {/* Header */}
+            <div style={{ padding:"20px 24px 16px", borderBottom:"1px solid var(--b1)",
+              display:"flex", alignItems:"flex-start", justifyContent:"space-between", gap:12 }}>
+              <div>
+                <div style={{ fontSize:18, fontWeight:700, color:"var(--text)", fontFamily:"var(--serif)", marginBottom:4 }}>
+                  Privacy Policy
+                </div>
+                <div style={{ fontSize:11, fontFamily:"var(--mono)", color:"var(--dim)" }}>
+                  Siegeworks Marketing LLC · Last updated March 2026
+                </div>
+              </div>
+              <button onClick={onClose} style={{ background:"transparent", border:"1px solid var(--b2)",
+                borderRadius:4, color:"var(--muted)", cursor:"pointer", fontSize:18,
+                lineHeight:1, padding:"4px 10px", flexShrink:0 }}>✕</button>
+            </div>
+
+            {/* Body */}
+            <div style={{ padding:"22px 24px 28px" }}>
+
+              {/* Plain-english summary */}
+              <div style={{ marginBottom:24, padding:"14px 16px", borderRadius:6,
+                background:"rgba(16,185,129,0.05)", border:"1px solid rgba(16,185,129,0.2)" }}>
+                <div style={{ fontSize:12, fontWeight:700, color:"var(--green-lt)", fontFamily:"var(--mono)",
+                  letterSpacing:".06em", textTransform:"uppercase", marginBottom:8 }}>
+                  The short version
+                </div>
+                <P>This tool does not store your resume, your search queries, or anything about you. No account is required. No tracking. The only data that leaves your browser is what's necessary to run the search — and it goes to Google, not to us.</P>
+              </div>
+
+              <Section title="What data is collected">
+                <P>We collect nothing. Siegeworks Marketing LLC operates no servers that receive or store personal information.</P>
+                <P>Your search inputs (role, location, salary preferences) and resume text are processed entirely in your browser and sent directly to third-party services to perform the search and scoring. We never see them.</P>
+              </Section>
+
+              <Section title="Where your data goes">
+                <Row ok={true} label="Your resume"
+                  value="Sent to Google Gemini API for scoring. Not stored after the response. Subject to Google's privacy policy." />
+                <Row ok={true} label="Search queries"
+                  value="Sent to Google Gemini API with Google Search grounding. Subject to Google's privacy policy." />
+                <Row ok={true} label="Job verification requests"
+                  value="URLs are sent to our Vercel proxy to check if listings are open. URLs only — no personal data." />
+                <Row ok={true} label="Venmo (optional)"
+                  value="If you choose to tip, you're taken to Venmo's website. That transaction is between you and Venmo." />
+                <div style={{ marginTop:10 }}>
+                  <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer"
+                    style={{ fontSize:12, color:"var(--blue-lt)", fontFamily:"var(--mono)" }}>
+                    Google's privacy policy ↗
+                  </a>
+                </div>
+              </Section>
+
+              <Section title="What we do NOT do">
+                {[
+                  "Store your resume or any part of it",
+                  "Log your searches or results",
+                  "Track you across sessions or devices",
+                  "Sell or share your data with anyone",
+                  "Use cookies or analytics trackers",
+                  "Require an account or email address",
+                ].map(item => (
+                  <div key={item} style={{ display:"flex", gap:8, alignItems:"flex-start", marginBottom:5 }}>
+                    <span style={{ color:"#10B981", fontSize:12, flexShrink:0, marginTop:2 }}>✓</span>
+                    <span style={{ fontSize:13, color:"var(--muted)" }}>{item}</span>
+                  </div>
+                ))}
+              </Section>
+
+              <Section title="Browser storage">
+                <P>Your search preferences (role, location, work type, salary, seniority) are saved to your browser's localStorage so they persist between visits. This data never leaves your device. You can clear it any time by clearing your browser data.</P>
+                <P>Previously dismissed job listings are also stored locally so they stay hidden on future searches. This is also device-only.</P>
+              </Section>
+
+              <Section title="Resume handling">
+                <P>Your resume is sent to Google Gemini for scoring only when you explicitly paste it and run a search. It is not stored on any server — by us or by Google beyond the immediate API transaction. Google's terms for paid API usage state that prompts are not used to train models.</P>
+                <P>We recommend not including your SSN, date of birth, or other sensitive identifiers in the resume you paste here.</P>
+              </Section>
+
+              <Section title="California & EU residents">
+                <P>If you are a California resident, the CCPA grants you rights around personal data. If you are an EU resident, GDPR may apply. Because we collect no personal data and operate no databases, there is nothing to access, delete, or port. If you have a question, email: <span style={{ fontFamily:"var(--mono)", color:"var(--blue-lt)" }}>cjwendt7@gmail.com</span></P>
+              </Section>
+
+              <Section title="Changes to this policy">
+                <P>If this policy changes materially, the "last updated" date above will change. This tool is a free personal project — we'll be transparent if anything shifts.</P>
+              </Section>
+
+              <div style={{ marginTop:24, padding:"12px 14px", borderRadius:6,
+                background:"rgba(0,0,0,0.2)", border:"1px solid var(--b2)" }}>
+                <div style={{ fontSize:11.5, color:"var(--dim)", lineHeight:1.7, fontFamily:"var(--mono)" }}>
+                  This tool is provided "as is" under the MIT License, with no warranties of any kind.
+                  Siegeworks Marketing LLC is not responsible for the accuracy of job listings, AI-generated scores,
+                  or outcomes of applications made through this tool.
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      );
+    }
+
     // ── MAIN COMPONENT ────────────────────────────────────────────────────────
     function JobCompiler() {
       // Search params — restored from validated localStorage
@@ -1083,6 +1225,7 @@ Return ONLY JSON: {"results":[{"url":"...","open":true,"signal":"what you saw on
       const [verifyStats, setVerifyStats] = useState(null);
       const [progress,    setProgress]    = useState(0);
       const [progressLabel, setProgressLabel] = useState("");
+      const [showPrivacy,  setShowPrivacy]  = useState(false);
       const autoHiddenRef = useRef(null);
 
       // (API key handled server-side — no user key state needed)
@@ -1338,7 +1481,7 @@ Return ONLY JSON: {"results":[{"url":"...","open":true,"signal":"what you saw on
           <div style={{ width:1, height:22, background:"var(--b2)" }} />
           <div>
             <div style={{ fontSize:12.5, fontWeight:700, color:"var(--text)", letterSpacing:".04em" }}>
-              Siegeworks Job Compiler - DON'T PANIC
+              Siegeworks Job Compiler - DON'T PANIC!
             </div>
             <div style={{ fontSize:10, color:"var(--muted)", fontFamily:"var(--mono)", letterSpacing:".06em", textTransform:"uppercase", marginTop:1 }}>
               Siegeworks Marketing LLC
@@ -1490,8 +1633,25 @@ Return ONLY JSON: {"results":[{"url":"...","open":true,"signal":"what you saw on
                   </div>
                 ))}
               </div>
+
+              {/* Setup screen privacy note */}
+              <div style={{ marginTop:14, paddingTop:12, borderTop:"1px solid var(--b1)",
+                display:"flex", justifyContent:"center", alignItems:"center", gap:6 }}>
+                <span style={{ fontSize:11, color:"var(--dim)", fontFamily:"var(--mono)" }}>
+                  🔒 Your resume is sent to Google Gemini for scoring only — never stored.
+                </span>
+                <button onClick={() => setShowPrivacy(true)}
+                  style={{ background:"transparent", border:"none", cursor:"pointer",
+                    fontSize:11, fontFamily:"var(--mono)", color:"var(--muted)",
+                    textDecoration:"underline dotted", padding:"0 0 0 4px" }}>
+                  Privacy Policy
+                </button>
+              </div>
             </div>
           </div>
+
+          {/* Privacy modal (setup screen) */}
+          {showPrivacy && <PrivacyModal onClose={() => setShowPrivacy(false)} />}
         </div>
       );
 
@@ -1877,7 +2037,7 @@ Return ONLY JSON: {"results":[{"url":"...","open":true,"signal":"what you saw on
             )}
 
             {/* Coffee tip */}
-            <div style={{ margin:"32px 0 28px", padding:"18px 20px", borderRadius:8,
+            <div style={{ margin:"32px 0 0", padding:"18px 20px", borderRadius:8,
               background:"var(--surf)", border:"1px solid var(--b1)",
               display:"flex", alignItems:"center", justifyContent:"space-between", flexWrap:"wrap", gap:14 }}>
               <div>
@@ -1895,6 +2055,31 @@ Return ONLY JSON: {"results":[{"url":"...","open":true,"signal":"what you saw on
                 ☕ Treat me to a coffee
               </a>
             </div>
+
+            {/* Footer bar */}
+            <div style={{ margin:"0 0 28px", padding:"12px 20px",
+              borderTop:"1px solid var(--b1)",
+              display:"flex", alignItems:"center", justifyContent:"space-between", flexWrap:"wrap", gap:10 }}>
+              <div style={{ fontSize:11, color:"var(--dim)", fontFamily:"var(--mono)" }}>
+                © 2026 Siegeworks Marketing LLC · MIT License
+              </div>
+              <div style={{ display:"flex", gap:16, alignItems:"center" }}>
+                <button onClick={() => setShowPrivacy(true)}
+                  style={{ background:"transparent", border:"none", cursor:"pointer",
+                    fontSize:11, fontFamily:"var(--mono)", color:"var(--muted)",
+                    textDecoration:"underline dotted", padding:0 }}>
+                  Privacy Policy
+                </button>
+                <a href="https://github.com/Siegeworks-Marketing/Job-Compiler-V42"
+                  target="_blank" rel="noopener noreferrer"
+                  style={{ fontSize:11, fontFamily:"var(--mono)", color:"var(--dim)", textDecoration:"none" }}>
+                  Source ↗
+                </a>
+              </div>
+            </div>
+
+            {/* Privacy modal */}
+            {showPrivacy && <PrivacyModal onClose={() => setShowPrivacy(false)} />}
 
           </div>
         </div>
