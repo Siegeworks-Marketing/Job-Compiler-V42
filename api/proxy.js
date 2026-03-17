@@ -358,8 +358,8 @@ export default async function handler(req, res) {
   }
 
   // ── Route: POST /api/proxy → Gemini Flash ────────────────────────────────
-  if (rateLimit(clientIP, "ai", 30))
-    return res.status(429).json({ error: "Rate limited (30 req/min). Wait 60s." });
+  if (rateLimit(clientIP, "ai", 120))
+    return res.status(429).json({ error: "Rate limited (120 req/min). Wait 120s." });
 
   const geminiKey = process.env.GEMINI_API_KEY;
   if (!geminiKey)
