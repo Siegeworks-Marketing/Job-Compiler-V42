@@ -2,17 +2,17 @@
   "wolt-english": {
     "company_name": "Wolt - English",
     "score": 15,
-    "last_seen": "2026-03-18T01:20:47.908851Z"
+    "last_seen": "2026-03-18T06:56:58.837960Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-03-18T01:20:47.908881Z"
+    "last_seen": "2026-03-18T06:56:58.837988Z"
   },
   "bd": {
     "company_name": "BD",
     "score": 15,
-    "last_seen": "2026-03-18T01:20:47.908894Z"
+    "last_seen": "2026-03-18T06:56:58.838000Z"
   },
   "xxix": {
     "company_name": "XXIX",
@@ -22,181 +22,181 @@
   "the-tjx-companies-inc": {
     "company_name": "The TJX Companies, Inc.",
     "score": 15,
-    "last_seen": "2026-03-18T01:20:47.908886Z"
+    "last_seen": "2026-03-18T06:56:58.837992Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-03-18T01:20:47.908888Z"
+    "last_seen": "2026-03-18T06:56:58.837994Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-03-18T01:20:47.908890Z"
+    "last_seen": "2026-03-18T06:56:58.837996Z"
   },
   "davita": {
     "company_name": "DaVita",
     "score": 15,
-    "last_seen": "2026-03-18T01:20:47.908892Z"
+    "last_seen": "2026-03-18T06:56:58.837998Z"
   },
   "kroger": {
     "company_name": "Kroger",
     "score": 15,
-    "last_seen": "2026-03-18T01:20:47.908896Z"
+    "last_seen": "2026-03-18T06:56:58.838002Z"
   },
   "aramark": {
     "company_name": "Aramark",
     "score": 15,
-    "last_seen": "2026-03-18T01:20:47.908898Z"
+    "last_seen": "2026-03-18T06:56:58.838004Z"
   },
   "schneider-electric": {
     "company_name": "Schneider Electric",
     "score": 15,
-    "last_seen": "2026-03-18T01:20:47.908901Z"
+    "last_seen": "2026-03-18T06:56:58.838006Z"
   },
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-03-18T01:20:47.908819Z"
+    "last_seen": "2026-03-18T06:56:58.837925Z"
   },
   "eleventh-hour-games": {
     "company_name": "Eleventh Hour Games",
     "score": 15,
-    "last_seen": "2026-03-18T01:20:47.908916Z"
+    "last_seen": "2026-03-18T06:56:58.838021Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
     "score": 15,
-    "last_seen": "2026-03-18T01:20:47.908809Z"
+    "last_seen": "2026-03-18T06:56:58.837917Z"
   },
   "whatnot": {
     "company_name": "Whatnot",
     "score": 15,
-    "last_seen": "2026-03-18T01:20:47.908911Z"
+    "last_seen": "2026-03-18T06:56:58.838017Z"
   },
   "flix": {
     "company_name": "Flix",
     "score": 15,
-    "last_seen": "2026-03-18T01:20:47.908847Z"
+    "last_seen": "2026-03-18T06:56:58.837956Z"
   },
   "electe-srl": {
     "company_name": "ELECTE S.R.L",
     "score": 15,
-    "last_seen": "2026-03-18T01:20:47.908813Z"
+    "last_seen": "2026-03-18T06:56:58.837920Z"
   },
   "sanctuary-computer": {
     "company_name": "Sanctuary Computer",
     "score": 15,
-    "last_seen": "2026-03-18T01:20:47.908816Z"
+    "last_seen": "2026-03-18T06:56:58.837923Z"
   },
   "ateam": {
     "company_name": "A.Team",
-    "score": 14,
-    "last_seen": "2026-03-18T01:20:47.908785Z"
+    "score": 15,
+    "last_seen": "2026-03-18T06:56:58.837908Z"
   },
   "alpaca": {
     "company_name": "Alpaca",
-    "score": 13,
+    "score": 12,
     "last_seen": "2026-03-14T19:32:49.326956Z"
+  },
+  "wavestone-germany-ag": {
+    "company_name": "Wavestone Germany AG",
+    "score": 12,
+    "last_seen": "2026-03-18T06:56:58.837963Z"
+  },
+  "pavago": {
+    "company_name": "Pavago",
+    "score": 12,
+    "last_seen": "2026-03-18T06:56:58.838026Z"
   },
   "gitlab": {
     "company_name": "GitLab",
     "score": 11,
     "last_seen": "2026-03-15T14:13:48.713580Z"
   },
-  "wavestone-germany-ag": {
-    "company_name": "Wavestone Germany AG",
-    "score": 11,
-    "last_seen": "2026-03-18T01:20:47.908854Z"
-  },
-  "pavago": {
-    "company_name": "Pavago",
-    "score": 11,
-    "last_seen": "2026-03-18T01:20:47.908920Z"
-  },
   "intercon-solutions-gmbh": {
     "company_name": "Intercon Solutions GmbH",
-    "score": 10,
-    "last_seen": "2026-03-16T18:58:52.292422Z"
-  },
-  "acemateai": {
-    "company_name": "acemate.ai",
     "score": 9,
-    "last_seen": "2026-03-16T13:06:39.958197Z"
-  },
-  "xalt-business-consulting-gmbh": {
-    "company_name": "XALT Business Consulting GmbH",
-    "score": 8,
-    "last_seen": "2026-03-17T12:49:30.681290Z"
+    "last_seen": "2026-03-16T18:58:52.292422Z"
   },
   "taskrabbit": {
     "company_name": "TaskRabbit",
+    "score": 9,
+    "last_seen": "2026-03-18T06:56:58.837945Z"
+  },
+  "acemateai": {
+    "company_name": "acemate.ai",
     "score": 8,
-    "last_seen": "2026-03-18T01:20:47.908836Z"
+    "last_seen": "2026-03-16T13:06:39.958197Z"
   },
   "mantech": {
     "company_name": "ManTech",
+    "score": 8,
+    "last_seen": "2026-03-18T06:56:58.837954Z"
+  },
+  "xalt-business-consulting-gmbh": {
+    "company_name": "XALT Business Consulting GmbH",
     "score": 7,
-    "last_seen": "2026-03-18T01:20:47.908845Z"
+    "last_seen": "2026-03-17T12:49:30.681290Z"
+  },
+  "tripleten": {
+    "company_name": "TripleTen",
+    "score": 6,
+    "last_seen": "2026-03-18T06:56:58.837969Z"
+  },
+  "every": {
+    "company_name": "Every.",
+    "score": 6,
+    "last_seen": "2026-03-18T06:56:58.837975Z"
+  },
+  "loancrate": {
+    "company_name": "Loancrate",
+    "score": 6,
+    "last_seen": "2026-03-18T06:56:58.838013Z"
   },
   "deel": {
     "company_name": "Deel",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-03-15T14:13:48.713575Z"
   },
   "the-coca-cola-company": {
     "company_name": "The Coca-Cola Company",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-03-15T14:13:48.713591Z"
   },
-  "tripleten": {
-    "company_name": "TripleTen",
-    "score": 5,
-    "last_seen": "2026-03-18T01:20:47.908860Z"
+  "monzo": {
+    "company_name": "Monzo",
+    "score": 4,
+    "last_seen": "2026-03-18T06:56:58.837928Z"
   },
-  "every": {
-    "company_name": "Every.",
-    "score": 5,
-    "last_seen": "2026-03-18T01:20:47.908866Z"
+  "edb": {
+    "company_name": "EDB",
+    "score": 4,
+    "last_seen": "2026-03-18T06:56:58.837936Z"
   },
-  "loancrate": {
-    "company_name": "Loancrate",
-    "score": 5,
-    "last_seen": "2026-03-18T01:20:47.908907Z"
+  "ashby": {
+    "company_name": "Ashby",
+    "score": 3,
+    "last_seen": "2026-03-18T06:56:58.837950Z"
+  },
+  "naschnatur-gmbh": {
+    "company_name": "NaschNatur GmbH",
+    "score": 3,
+    "last_seen": "2026-03-18T06:56:58.837972Z"
   },
   "remote": {
     "company_name": "Remote",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-03-15T14:13:48.713570Z"
   },
   "stadtritter-gmbh": {
     "company_name": "Stadtritter GmbH",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-03-16T07:34:37.279060Z"
   },
   "bikosigma-gmbh": {
     "company_name": "bikosigma GmbH",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-03-17T06:57:28.908723Z"
-  },
-  "isento-gmbh": {
-    "company_name": "isento GmbH",
-    "score": 3,
-    "last_seen": "2026-03-17T06:57:28.908725Z"
-  },
-  "kaseya-careers": {
-    "company_name": "Kaseya Careers",
-    "score": 3,
-    "last_seen": "2026-03-17T06:57:28.908727Z"
-  },
-  "monzo": {
-    "company_name": "Monzo",
-    "score": 3,
-    "last_seen": "2026-03-18T01:20:47.908822Z"
-  },
-  "edb": {
-    "company_name": "EDB",
-    "score": 3,
-    "last_seen": "2026-03-18T01:20:47.908828Z"
   }
 }
