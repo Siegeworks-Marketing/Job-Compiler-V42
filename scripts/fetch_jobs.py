@@ -269,23 +269,37 @@ def fetch_jobicy() -> list:
 
 
 def fetch_arbeitnow() -> list:
+    # Arbeitnow is a German-origin board — filter to English-language remote-only
+    # listings to avoid flooding the catalog with European on-site roles.
     try:
         r = httpx.get("https://www.arbeitnow.com/api/job-board-api", timeout=REQUEST_TIMEOUT)
         r.raise_for_status()
         jobs, now = [], utcnow_iso()
         for j in r.json().get("data", []):
+            # Only include remote listings — on-site Arbeitnow listings are almost
+            # exclusively European and not useful for US job seekers.
+            if not j.get("remote"):
+                continue
+            # Basic English-language filter: skip listings where the description
+            # contains German/non-English indicator words.
+            desc = (j.get("description") or "").lower()
+            non_english_signals = ["wir suchen", "sie haben", "ihre aufgaben",
+                                   "ihr profil", "wir bieten", "m/w/d", "vollzeit",
+                                   "teilzeit", "stellenangebot", "berufserfahrung"]
+            if any(sig in desc for sig in non_english_signals):
+                continue
             jobs.append(normalise({
                 "id": f"arbeitnow_{j.get('slug', '')}",
                 "title": j.get("title", ""), "company": j.get("company_name", ""),
                 "location": j.get("location") or "Remote",
-                "remote_type": "Remote" if j.get("remote") else "On-site",
+                "remote_type": "Remote",
                 "salary": None,
                 "posted": datetime.fromtimestamp(j["created_at"], tz=timezone.utc).strftime("%Y-%m-%d") if j.get("created_at") else "",
                 "url": j.get("url", ""), "source": "Arbeitnow",
                 "description": (j.get("description") or "")[:600], "fetched_at": now,
             }))
         jobs = [j for j in jobs if is_valid(j)]
-        print(f"  Arbeitnow: {len(jobs)} listings fetched")
+        print(f"  Arbeitnow: {len(jobs)} listings fetched (remote + English only)")
         return jobs
     except Exception as e:
         print(f"  Arbeitnow error: {e}", file=sys.stderr)
