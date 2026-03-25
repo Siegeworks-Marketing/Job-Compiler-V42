@@ -2,12 +2,12 @@
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-03-25T01:27:50.652828Z"
+    "last_seen": "2026-03-25T07:03:11.439396Z"
   },
   "bd": {
     "company_name": "BD",
     "score": 15,
-    "last_seen": "2026-03-25T01:27:50.652839Z"
+    "last_seen": "2026-03-25T07:03:11.439406Z"
   },
   "xxix": {
     "company_name": "XXIX",
@@ -17,186 +17,186 @@
   "the-tjx-companies-inc": {
     "company_name": "The TJX Companies, Inc.",
     "score": 15,
-    "last_seen": "2026-03-25T01:27:50.652830Z"
+    "last_seen": "2026-03-25T07:03:11.439398Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-03-25T01:27:50.652832Z"
+    "last_seen": "2026-03-25T07:03:11.439400Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-03-25T01:27:50.652834Z"
+    "last_seen": "2026-03-25T07:03:11.439402Z"
   },
   "davita": {
     "company_name": "DaVita",
     "score": 15,
-    "last_seen": "2026-03-25T01:27:50.652837Z"
+    "last_seen": "2026-03-25T07:03:11.439404Z"
   },
   "kroger": {
     "company_name": "Kroger",
     "score": 15,
-    "last_seen": "2026-03-25T01:27:50.652841Z"
+    "last_seen": "2026-03-25T07:03:11.439408Z"
   },
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-03-25T01:27:50.652791Z"
+    "last_seen": "2026-03-25T07:03:11.439359Z"
   },
   "eleventh-hour-games": {
     "company_name": "Eleventh Hour Games",
     "score": 15,
-    "last_seen": "2026-03-25T01:27:50.652861Z"
+    "last_seen": "2026-03-25T07:03:11.439427Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
     "score": 15,
-    "last_seen": "2026-03-25T01:27:50.652783Z"
+    "last_seen": "2026-03-25T07:03:11.439352Z"
   },
   "whatnot": {
     "company_name": "Whatnot",
     "score": 15,
-    "last_seen": "2026-03-25T01:27:50.652856Z"
+    "last_seen": "2026-03-25T07:03:11.439423Z"
   },
   "electe-srl": {
     "company_name": "ELECTE S.R.L",
     "score": 15,
-    "last_seen": "2026-03-25T01:27:50.652786Z"
+    "last_seen": "2026-03-25T07:03:11.439355Z"
   },
   "sanctuary-computer": {
     "company_name": "Sanctuary Computer",
     "score": 15,
-    "last_seen": "2026-03-25T01:27:50.652789Z"
+    "last_seen": "2026-03-25T07:03:11.439357Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-03-25T01:27:50.652779Z"
+    "last_seen": "2026-03-25T07:03:11.439348Z"
   },
   "loancrate": {
     "company_name": "Loancrate",
     "score": 15,
-    "last_seen": "2026-03-25T01:27:50.652852Z"
+    "last_seen": "2026-03-25T07:03:11.439418Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-03-25T01:27:50.652817Z"
+    "last_seen": "2026-03-25T07:03:11.439385Z"
   },
   "doit-international": {
     "company_name": "DoiT International",
     "score": 15,
-    "last_seen": "2026-03-25T01:27:50.652799Z"
+    "last_seen": "2026-03-25T07:03:11.439367Z"
   },
   "schneider-electric": {
     "company_name": "Schneider Electric",
     "score": 15,
-    "last_seen": "2026-03-25T01:27:50.652843Z"
+    "last_seen": "2026-03-25T07:03:11.439410Z"
   },
   "hilton": {
     "company_name": "Hilton",
     "score": 15,
-    "last_seen": "2026-03-25T01:27:50.652819Z"
+    "last_seen": "2026-03-25T07:03:11.439387Z"
   },
   "solaredge": {
     "company_name": "SolarEdge",
-    "score": 13,
+    "score": 12,
     "last_seen": "2026-03-24T13:00:39.588189Z"
   },
   "telus-international": {
     "company_name": "TELUS International",
-    "score": 12,
+    "score": 11,
     "last_seen": "2026-03-24T07:05:33.283952Z"
   },
   "precision-medicine-group": {
     "company_name": "Precision Medicine Group",
-    "score": 10,
-    "last_seen": "2026-03-25T01:27:50.652805Z"
+    "score": 11,
+    "last_seen": "2026-03-25T07:03:11.439374Z"
   },
   "jerry": {
     "company_name": "Jerry",
-    "score": 9,
-    "last_seen": "2026-03-25T01:27:50.652863Z"
-  },
-  "wolt-english": {
-    "company_name": "Wolt - English",
-    "score": 8,
-    "last_seen": "2026-03-23T07:09:33.703388Z"
+    "score": 10,
+    "last_seen": "2026-03-25T07:03:11.439429Z"
   },
   "cint": {
     "company_name": "Cint",
-    "score": 8,
-    "last_seen": "2026-03-25T01:27:50.652813Z"
+    "score": 9,
+    "last_seen": "2026-03-25T07:03:11.439381Z"
   },
-  "flix": {
-    "company_name": "Flix",
+  "veeva-systems": {
+    "company_name": "Veeva Systems",
+    "score": 8,
+    "last_seen": "2026-03-25T07:03:11.439383Z"
+  },
+  "wolt-english": {
+    "company_name": "Wolt - English",
     "score": 7,
-    "last_seen": "2026-03-23T07:09:33.703400Z"
+    "last_seen": "2026-03-23T07:09:33.703388Z"
   },
   "mercor": {
     "company_name": "mercor",
     "score": 7,
     "last_seen": "2026-03-24T19:04:55.800890Z"
   },
-  "veeva-systems": {
-    "company_name": "Veeva Systems",
-    "score": 7,
-    "last_seen": "2026-03-25T01:27:50.652815Z"
+  "flix": {
+    "company_name": "Flix",
+    "score": 6,
+    "last_seen": "2026-03-23T07:09:33.703400Z"
+  },
+  "infor": {
+    "company_name": "Infor",
+    "score": 6,
+    "last_seen": "2026-03-25T07:03:11.439362Z"
+  },
+  "automat-it": {
+    "company_name": "Automat-it",
+    "score": 6,
+    "last_seen": "2026-03-25T07:03:11.439365Z"
+  },
+  "remote": {
+    "company_name": "Remote",
+    "score": 6,
+    "last_seen": "2026-03-25T07:03:11.439369Z"
   },
   "noxon": {
     "company_name": "NOXON",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-03-23T07:09:33.703404Z"
   },
   "sailpoint": {
     "company_name": "SailPoint",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-03-24T13:00:39.588229Z"
-  },
-  "infor": {
-    "company_name": "Infor",
-    "score": 5,
-    "last_seen": "2026-03-25T01:27:50.652794Z"
-  },
-  "automat-it": {
-    "company_name": "Automat-it",
-    "score": 5,
-    "last_seen": "2026-03-25T01:27:50.652796Z"
-  },
-  "remote": {
-    "company_name": "Remote",
-    "score": 5,
-    "last_seen": "2026-03-25T01:27:50.652801Z"
   },
   "alpaca": {
     "company_name": "Alpaca",
     "score": 4,
     "last_seen": "2026-03-14T19:32:49.326956Z"
   },
-  "bcd-travel": {
-    "company_name": "BCD Travel",
-    "score": 3,
-    "last_seen": "2026-03-24T13:00:39.588227Z"
-  },
   "blackbox-strategies": {
     "company_name": "BlackBox Strategies",
-    "score": 3,
-    "last_seen": "2026-03-25T01:27:50.652865Z"
+    "score": 4,
+    "last_seen": "2026-03-25T07:03:11.439431Z"
   },
-  "applike-group-gmbh": {
-    "company_name": "Applike Group GmbH",
+  "bcd-travel": {
+    "company_name": "BCD Travel",
     "score": 2,
-    "last_seen": "2026-03-23T07:09:33.703398Z"
+    "last_seen": "2026-03-24T13:00:39.588227Z"
   },
-  "sumup": {
-    "company_name": "SumUp",
+  "autohdr": {
+    "company_name": "AutoHDR",
     "score": 2,
-    "last_seen": "2026-03-23T07:09:33.703406Z"
+    "last_seen": "2026-03-25T07:03:11.439340Z"
   },
-  "nkuber-consulting": {
-    "company_name": "NKuber Consulting",
+  "docplanner": {
+    "company_name": "Docplanner",
     "score": 2,
-    "last_seen": "2026-03-23T07:09:33.703393Z"
+    "last_seen": "2026-03-25T07:03:11.439371Z"
+  },
+  "ucas": {
+    "company_name": "UCAS",
+    "score": 2,
+    "last_seen": "2026-03-25T07:03:11.439376Z"
   }
 }
