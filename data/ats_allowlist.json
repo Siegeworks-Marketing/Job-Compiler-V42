@@ -2,12 +2,12 @@
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-03-27T06:59:04.029887Z"
+    "last_seen": "2026-03-27T12:41:38.538714Z"
   },
   "bd": {
     "company_name": "BD",
     "score": 15,
-    "last_seen": "2026-03-27T06:59:04.029900Z"
+    "last_seen": "2026-03-27T12:41:38.538726Z"
   },
   "xxix": {
     "company_name": "XXIX",
@@ -17,42 +17,42 @@
   "the-tjx-companies-inc": {
     "company_name": "The TJX Companies, Inc.",
     "score": 15,
-    "last_seen": "2026-03-27T06:59:04.029891Z"
+    "last_seen": "2026-03-27T12:41:38.538718Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-03-27T06:59:04.029893Z"
+    "last_seen": "2026-03-27T12:41:38.538720Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-03-27T06:59:04.029895Z"
+    "last_seen": "2026-03-27T12:41:38.538722Z"
   },
   "davita": {
     "company_name": "DaVita",
     "score": 15,
-    "last_seen": "2026-03-27T06:59:04.029897Z"
+    "last_seen": "2026-03-27T12:41:38.538724Z"
   },
   "kroger": {
     "company_name": "Kroger",
     "score": 15,
-    "last_seen": "2026-03-27T06:59:04.029902Z"
+    "last_seen": "2026-03-27T12:41:38.538728Z"
   },
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-03-27T06:59:04.029857Z"
+    "last_seen": "2026-03-27T12:41:38.538680Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
     "score": 15,
-    "last_seen": "2026-03-27T06:59:04.029854Z"
+    "last_seen": "2026-03-27T12:41:38.538678Z"
   },
   "whatnot": {
     "company_name": "Whatnot",
     "score": 15,
-    "last_seen": "2026-03-27T06:59:04.029922Z"
+    "last_seen": "2026-03-27T12:41:38.538748Z"
   },
   "electe-srl": {
     "company_name": "ELECTE S.R.L",
@@ -67,57 +67,52 @@
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-03-27T06:59:04.029850Z"
+    "last_seen": "2026-03-27T12:41:38.538674Z"
   },
   "loancrate": {
     "company_name": "Loancrate",
     "score": 15,
-    "last_seen": "2026-03-27T06:59:04.029920Z"
+    "last_seen": "2026-03-27T12:41:38.538746Z"
   },
   "schneider-electric": {
     "company_name": "Schneider Electric",
     "score": 15,
-    "last_seen": "2026-03-27T06:59:04.029906Z"
+    "last_seen": "2026-03-27T12:41:38.538733Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-03-27T06:59:04.029885Z"
+    "last_seen": "2026-03-27T12:41:38.538710Z"
   },
   "precision-medicine-group": {
     "company_name": "Precision Medicine Group",
     "score": 15,
-    "last_seen": "2026-03-27T06:59:04.029876Z"
+    "last_seen": "2026-03-27T12:41:38.538701Z"
   },
   "solaredge": {
     "company_name": "SolarEdge",
-    "score": 14,
+    "score": 13,
     "last_seen": "2026-03-26T12:52:55.300735Z"
-  },
-  "doit-international": {
-    "company_name": "DoiT International",
-    "score": 11,
-    "last_seen": "2026-03-26T07:03:52.344425Z"
   },
   "autohdr": {
     "company_name": "AutoHDR",
-    "score": 10,
-    "last_seen": "2026-03-27T06:59:04.029841Z"
+    "score": 11,
+    "last_seen": "2026-03-27T12:41:38.538665Z"
   },
-  "eleventh-hour-games": {
-    "company_name": "Eleventh Hour Games",
-    "score": 9,
-    "last_seen": "2026-03-25T18:54:06.449810Z"
+  "doit-international": {
+    "company_name": "DoiT International",
+    "score": 10,
+    "last_seen": "2026-03-26T07:03:52.344425Z"
   },
   "veeam-software": {
     "company_name": "Veeam Software",
-    "score": 9,
-    "last_seen": "2026-03-27T06:59:04.029882Z"
+    "score": 10,
+    "last_seen": "2026-03-27T12:41:38.538707Z"
   },
-  "hilton": {
-    "company_name": "Hilton",
+  "eleventh-hour-games": {
+    "company_name": "Eleventh Hour Games",
     "score": 8,
-    "last_seen": "2026-03-25T12:51:50.588282Z"
+    "last_seen": "2026-03-25T18:54:06.449810Z"
   },
   "remote": {
     "company_name": "Remote",
@@ -126,18 +121,33 @@
   },
   "wipro": {
     "company_name": "Wipro",
-    "score": 7,
-    "last_seen": "2026-03-27T06:59:04.029889Z"
+    "score": 8,
+    "last_seen": "2026-03-27T12:41:38.538716Z"
   },
-  "automat-it": {
-    "company_name": "Automat-it",
-    "score": 6,
-    "last_seen": "2026-03-26T07:03:52.344422Z"
+  "hilton": {
+    "company_name": "Hilton",
+    "score": 7,
+    "last_seen": "2026-03-25T12:51:50.588282Z"
   },
   "kraken": {
     "company_name": "Kraken",
-    "score": 6,
-    "last_seen": "2026-03-27T06:59:04.029867Z"
+    "score": 7,
+    "last_seen": "2026-03-27T12:41:38.538691Z"
+  },
+  "automat-it": {
+    "company_name": "Automat-it",
+    "score": 5,
+    "last_seen": "2026-03-26T07:03:52.344422Z"
+  },
+  "gitlab": {
+    "company_name": "GitLab",
+    "score": 5,
+    "last_seen": "2026-03-27T12:41:38.538684Z"
+  },
+  "pavago": {
+    "company_name": "Pavago",
+    "score": 5,
+    "last_seen": "2026-03-27T12:41:38.538751Z"
   },
   "alpaca": {
     "company_name": "Alpaca",
@@ -154,49 +164,39 @@
     "score": 4,
     "last_seen": "2026-03-26T07:03:52.344433Z"
   },
-  "gitlab": {
-    "company_name": "GitLab",
-    "score": 4,
-    "last_seen": "2026-03-27T06:59:04.029859Z"
-  },
-  "pavago": {
-    "company_name": "Pavago",
-    "score": 4,
-    "last_seen": "2026-03-27T06:59:04.029924Z"
+  "nagarro": {
+    "company_name": "Nagarro",
+    "score": 3,
+    "last_seen": "2026-03-27T12:41:38.538686Z"
   },
   "telus-international": {
     "company_name": "TELUS International",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-03-24T07:05:33.283952Z"
   },
   "cint": {
     "company_name": "Cint",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-03-25T12:51:50.588276Z"
   },
   "infor": {
     "company_name": "Infor",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-03-26T07:03:52.344420Z"
   },
-  "jerry": {
-    "company_name": "Jerry",
+  "ping-identity": {
+    "company_name": "Ping Identity",
     "score": 2,
-    "last_seen": "2026-03-25T07:03:11.439429Z"
+    "last_seen": "2026-03-27T12:41:38.538689Z"
   },
-  "veeva-systems": {
-    "company_name": "Veeva Systems",
+  "monzo": {
+    "company_name": "Monzo",
     "score": 2,
-    "last_seen": "2026-03-25T12:51:50.588278Z"
+    "last_seen": "2026-03-27T12:41:38.538694Z"
   },
-  "mindrift": {
-    "company_name": "Mindrift",
+  "paddle": {
+    "company_name": "Paddle",
     "score": 2,
-    "last_seen": "2026-03-26T18:57:15.986836Z"
-  },
-  "nagarro": {
-    "company_name": "Nagarro",
-    "score": 2,
-    "last_seen": "2026-03-27T06:59:04.029862Z"
+    "last_seen": "2026-03-27T12:41:38.538696Z"
   }
 }
