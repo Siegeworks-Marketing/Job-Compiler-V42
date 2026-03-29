@@ -2,52 +2,47 @@
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-03-28T18:27:09.252519Z"
+    "last_seen": "2026-03-29T01:20:24.918237Z"
   },
   "bd": {
     "company_name": "BD",
     "score": 15,
-    "last_seen": "2026-03-28T18:27:09.252532Z"
+    "last_seen": "2026-03-29T01:20:24.918248Z"
   },
   "xxix": {
     "company_name": "XXIX",
     "score": 15,
     "last_seen": "2026-03-12T20:14:52.614906Z"
   },
-  "the-tjx-companies-inc": {
-    "company_name": "The TJX Companies, Inc.",
-    "score": 15,
-    "last_seen": "2026-03-28T18:27:09.252524Z"
-  },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-03-28T18:27:09.252526Z"
+    "last_seen": "2026-03-29T01:20:24.918242Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-03-28T18:27:09.252528Z"
+    "last_seen": "2026-03-29T01:20:24.918244Z"
   },
   "davita": {
     "company_name": "DaVita",
     "score": 15,
-    "last_seen": "2026-03-28T18:27:09.252530Z"
+    "last_seen": "2026-03-29T01:20:24.918246Z"
   },
   "kroger": {
     "company_name": "Kroger",
     "score": 15,
-    "last_seen": "2026-03-28T18:27:09.252535Z"
+    "last_seen": "2026-03-29T01:20:24.918250Z"
   },
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-03-28T18:27:09.252513Z"
+    "last_seen": "2026-03-29T01:20:24.918231Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
     "score": 15,
-    "last_seen": "2026-03-28T18:27:09.252510Z"
+    "last_seen": "2026-03-29T01:20:24.918228Z"
   },
   "electe-srl": {
     "company_name": "ELECTE S.R.L",
@@ -62,46 +57,51 @@
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-03-28T18:27:09.252506Z"
-  },
-  "loancrate": {
-    "company_name": "Loancrate",
-    "score": 15,
-    "last_seen": "2026-03-28T18:27:09.252596Z"
+    "last_seen": "2026-03-29T01:20:24.918224Z"
   },
   "schneider-electric": {
     "company_name": "Schneider Electric",
     "score": 15,
-    "last_seen": "2026-03-28T18:27:09.252537Z"
+    "last_seen": "2026-03-29T01:20:24.918252Z"
   },
   "autohdr": {
     "company_name": "AutoHDR",
     "score": 15,
-    "last_seen": "2026-03-28T18:27:09.252497Z"
+    "last_seen": "2026-03-29T01:20:24.918216Z"
   },
-  "whatnot": {
-    "company_name": "Whatnot",
-    "score": 13,
-    "last_seen": "2026-03-27T12:41:38.538748Z"
+  "the-tjx-companies-inc": {
+    "company_name": "The TJX Companies, Inc.",
+    "score": 14,
+    "last_seen": "2026-03-28T18:27:09.252524Z"
+  },
+  "loancrate": {
+    "company_name": "Loancrate",
+    "score": 14,
+    "last_seen": "2026-03-28T18:27:09.252596Z"
   },
   "meta": {
     "company_name": "Meta",
-    "score": 13,
-    "last_seen": "2026-03-28T06:51:01.350541Z"
-  },
-  "veeam-software": {
-    "company_name": "Veeam Software",
-    "score": 13,
-    "last_seen": "2026-03-28T12:34:07.179835Z"
+    "score": 14,
+    "last_seen": "2026-03-29T01:20:24.918255Z"
   },
   "wipro": {
     "company_name": "Wipro",
-    "score": 13,
-    "last_seen": "2026-03-28T18:27:09.252522Z"
+    "score": 14,
+    "last_seen": "2026-03-29T01:20:24.918239Z"
+  },
+  "whatnot": {
+    "company_name": "Whatnot",
+    "score": 12,
+    "last_seen": "2026-03-27T12:41:38.538748Z"
+  },
+  "veeam-software": {
+    "company_name": "Veeam Software",
+    "score": 12,
+    "last_seen": "2026-03-28T12:34:07.179835Z"
   },
   "precision-medicine-group": {
     "company_name": "Precision Medicine Group",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-03-27T18:47:04.570645Z"
   },
   "solaredge": {
@@ -111,7 +111,7 @@
   },
   "kraken": {
     "company_name": "Kraken",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-03-28T06:51:01.350555Z"
   },
   "automat-it": {
@@ -121,23 +121,18 @@
   },
   "remote": {
     "company_name": "Remote",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-03-26T07:03:52.344427Z"
   },
   "gitlab": {
     "company_name": "GitLab",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-03-28T06:51:01.350550Z"
   },
   "pavago": {
     "company_name": "Pavago",
-    "score": 6,
-    "last_seen": "2026-03-28T06:51:01.350603Z"
-  },
-  "doit-international": {
-    "company_name": "DoiT International",
     "score": 5,
-    "last_seen": "2026-03-26T07:03:52.344425Z"
+    "last_seen": "2026-03-28T06:51:01.350603Z"
   },
   "ping-identity": {
     "company_name": "Ping Identity",
@@ -149,54 +144,59 @@
     "score": 5,
     "last_seen": "2026-03-28T06:51:01.350557Z"
   },
-  "claritev": {
-    "company_name": "Claritev",
+  "doit-international": {
+    "company_name": "DoiT International",
     "score": 4,
-    "last_seen": "2026-03-28T06:51:01.350544Z"
-  },
-  "ecs": {
-    "company_name": "ECS",
-    "score": 4,
-    "last_seen": "2026-03-28T06:51:01.350546Z"
+    "last_seen": "2026-03-26T07:03:52.344425Z"
   },
   "alpaca": {
     "company_name": "Alpaca",
     "score": 4,
     "last_seen": "2026-03-14T19:32:49.326956Z"
   },
-  "eleventh-hour-games": {
-    "company_name": "Eleventh Hour Games",
+  "claritev": {
+    "company_name": "Claritev",
     "score": 3,
-    "last_seen": "2026-03-25T18:54:06.449810Z"
+    "last_seen": "2026-03-28T06:51:01.350544Z"
   },
-  "paddle": {
-    "company_name": "Paddle",
+  "ecs": {
+    "company_name": "ECS",
     "score": 3,
-    "last_seen": "2026-03-28T06:51:01.350560Z"
+    "last_seen": "2026-03-28T06:51:01.350546Z"
   },
   "nagarro": {
     "company_name": "Nagarro",
     "score": 3,
     "last_seen": "2026-03-27T12:41:38.538686Z"
   },
-  "hilton": {
-    "company_name": "Hilton",
+  "eleventh-hour-games": {
+    "company_name": "Eleventh Hour Games",
     "score": 2,
-    "last_seen": "2026-03-25T12:51:50.588282Z"
+    "last_seen": "2026-03-25T18:54:06.449810Z"
   },
-  "docplanner": {
-    "company_name": "Docplanner",
+  "paddle": {
+    "company_name": "Paddle",
     "score": 2,
-    "last_seen": "2026-03-26T07:03:52.344429Z"
+    "last_seen": "2026-03-28T06:51:01.350560Z"
   },
-  "ucas": {
-    "company_name": "UCAS",
+  "bikeleasing-service-gmbh-co-kg": {
+    "company_name": "Bikeleasing-Service GmbH & Co. KG",
     "score": 2,
-    "last_seen": "2026-03-26T07:03:52.344433Z"
+    "last_seen": "2026-03-29T01:20:24.918234Z"
   },
-  "revecore": {
-    "company_name": "Revecore",
+  "smithrx": {
+    "company_name": "SmithRx",
     "score": 2,
-    "last_seen": "2026-03-28T06:51:01.350548Z"
+    "last_seen": "2026-03-29T01:20:24.918257Z"
+  },
+  "waymark": {
+    "company_name": "Waymark",
+    "score": 2,
+    "last_seen": "2026-03-29T01:20:24.918259Z"
+  },
+  "new-relic": {
+    "company_name": "New Relic",
+    "score": 2,
+    "last_seen": "2026-03-29T01:20:24.918262Z"
   }
 }
