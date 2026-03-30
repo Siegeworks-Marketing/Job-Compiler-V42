@@ -20319,57 +20319,6 @@
       "fetched_at": "2026-03-30T07:18:37.229503Z"
     },
     {
-      "id": "themuse_19987712",
-      "title": "Department Supervisor",
-      "company": "Walmart",
-      "location": "Akron, OH",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-08-22",
-      "url": "https://www.themuse.com/jobs/walmart/department-supervisor-dea16d",
-      "source": "The Muse",
-      "description": "Position Summary...    What you'll do...   Provides supervision and development opportunities for hourly associates by hiring, training, and mentoring of associates; assigning duties; setting clear expectations; providing associate recognition; communicating expectations consistently and effectively promoting a belonging mindset in the workplace and recruiting and developing qualified associates to meet staffing needs and achieve company growth potential. Coordinates, completes, and oversees job-related activities and assignments by developing and maintaining relation",
-      "requirements": [
-        "Mid Level"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-03-30T07:18:37.914244Z"
-    },
-    {
-      "id": "themuse_19644462",
-      "title": "Product Operation Specialist - Comprehensive Search Operation",
-      "company": "TikTok",
-      "location": "Singapore",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-07-29",
-      "url": "https://www.themuse.com/jobs/tiktok/product-operation-specialist-comprehensive-search-operation",
-      "source": "The Muse",
-      "description": "Responsibilities    About the team The T&amp;S Evaluation and Investigation team, working closely with the Search team, taking the evaluation standards as the baseline and principles, and manually evaluating the search query and corresponding search results page to reflect the real user experience of the search function.     Responsibilities - Have a deep understanding and knowledge of the English speaking markets, including local cultural norms. - Responsible for search evaluation, investigation, and other search-related business requirements and provide guidance",
-      "requirements": [
-        "Senior Level"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-03-30T07:18:37.914244Z"
-    },
-    {
-      "id": "themuse_16125011",
-      "title": "Software Engineer - Product (Technical Leadership)",
-      "company": "Meta",
-      "location": "Menlo Park, CA",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-03-11",
-      "url": "https://www.themuse.com/jobs/meta/software-engineer-product-technical-leadership-835238",
-      "source": "The Muse",
-      "description": "We are the teams who create all of Facebook's product used by more than 1.5 billion people around the world. Want to build new features and improve existing products like Commerce, Ads, Video, Groups, News Feed, Search, and more? Want to solve unique, large scale, highly complex technical problems? Facebook is seeking experienced full-stack software engineers to join our product teams. You can help build products that help us connect the next billion people, create new features that have billions of interactions per day, and be a part of a team that's working to help people connect around t",
-      "requirements": [
-        "Senior Level"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-03-30T07:18:37.914244Z"
-    },
-    {
       "id": "himalayas_",
       "title": "Vibration Engineer",
       "company": "Cutsforth, LLC",
@@ -20668,8 +20617,89 @@
       "requirements": [],
       "ats_board": null,
       "fetched_at": "2026-03-30T07:18:38.327812Z"
+    },
+    {
+      "id": "arbeitnow_founding-engineer-equity-cologne-469179",
+      "title": "Founding Engineer (equity)",
+      "company": "enum GmbH",
+      "location": "Cologne",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "2026-03-30",
+      "url": "https://www.arbeitnow.com/jobs/companies/enum-gmbh/founding-engineer-equity-cologne-469179",
+      "source": "Arbeitnow",
+      "description": "At  enum , we're building our the  European cloud platform  on bare metal hardware. Not a wrapper around hyperscalers, not a managed Kubernetes reseller, not sovereignty marketing on someone else's infrastructure. We design, operate, and continuously improve the full stack: compute, Kubernetes, storage, and networking. Bare metal to API. \n We have paying customers, a growing platform, and a small team that builds fast. What we're missing is someone who's built large-scale cloud infrastructure before, someone who already built the things we're building for",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-30T12:55:37.710757Z"
+    },
+    {
+      "id": "themuse_19987712",
+      "title": "Department Supervisor",
+      "company": "Walmart",
+      "location": "Akron, OH",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-08-22",
+      "url": "https://www.themuse.com/jobs/walmart/department-supervisor-dea16d",
+      "source": "The Muse",
+      "description": "Position Summary...    What you'll do...   Provides supervision and development opportunities for hourly associates by hiring, training, and mentoring of associates; assigning duties; setting clear expectations; providing associate recognition; communicating expectations consistently and effectively promoting a belonging mindset in the workplace and recruiting and developing qualified associates to meet staffing needs and achieve company growth potential. Coordinates, completes, and oversees job-related activities and assignments by developing and maintaining relation",
+      "requirements": [
+        "Mid Level"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-03-30T12:55:37.879850Z"
+    },
+    {
+      "id": "themuse_19644462",
+      "title": "Product Operation Specialist - Comprehensive Search Operation",
+      "company": "TikTok",
+      "location": "Singapore",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-07-29",
+      "url": "https://www.themuse.com/jobs/tiktok/product-operation-specialist-comprehensive-search-operation",
+      "source": "The Muse",
+      "description": "Responsibilities    About the team The T&amp;S Evaluation and Investigation team, working closely with the Search team, taking the evaluation standards as the baseline and principles, and manually evaluating the search query and corresponding search results page to reflect the real user experience of the search function.     Responsibilities - Have a deep understanding and knowledge of the English speaking markets, including local cultural norms. - Responsible for search evaluation, investigation, and other search-related business requirements and provide guidance",
+      "requirements": [
+        "Senior Level"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-03-30T12:55:37.879850Z"
+    },
+    {
+      "id": "themuse_16125011",
+      "title": "Software Engineer - Product (Technical Leadership)",
+      "company": "Meta",
+      "location": "Menlo Park, CA",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-03-11",
+      "url": "https://www.themuse.com/jobs/meta/software-engineer-product-technical-leadership-835238",
+      "source": "The Muse",
+      "description": "We are the teams who create all of Facebook's product used by more than 1.5 billion people around the world. Want to build new features and improve existing products like Commerce, Ads, Video, Groups, News Feed, Search, and more? Want to solve unique, large scale, highly complex technical problems? Facebook is seeking experienced full-stack software engineers to join our product teams. You can help build products that help us connect the next billion people, create new features that have billions of interactions per day, and be a part of a team that's working to help people connect around t",
+      "requirements": [
+        "Senior Level"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-03-30T12:55:37.879850Z"
+    },
+    {
+      "id": "remoteok_1130930",
+      "title": "Biomedical Clinical Engineer Senior",
+      "company": "Ibility",
+      "location": "Washington DC",
+      "remote_type": "Remote",
+      "salary": 0,
+      "posted": "2026-03-29",
+      "url": "https://remoteOK.com/remote-jobs/remote-biomedical-clinical-engineer-senior-ibility-1130930",
+      "source": "Remote OK",
+      "description": "Founded in early 2021, Ibility is a Service-Disabled Veteran-Owned Small Business and a Woman-Owned Small Business, headquartered in Gaithersburg, MD.&nbsp; Ibility is a small but mighty company that is positioned for rapid growth.&nbsp; Simply put, we help government leaders to achieve their mission by designing creative products and programs that delight their customers and make their employees more efficient - building trust and improving overall satisfaction. We use human-centered design principles in every engagement because we believe the end-user is critical to the long-term success of",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-03-30T12:55:37.956766Z"
     }
   ],
-  "updated_at": "2026-03-30T07:19:07.612654Z",
-  "total": 1375
+  "updated_at": "2026-03-30T12:56:01.427984Z",
+  "total": 1377
 }
