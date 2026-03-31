@@ -2,12 +2,12 @@
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-03-31T12:51:47.447489Z"
+    "last_seen": "2026-03-31T18:48:13.972404Z"
   },
   "bd": {
     "company_name": "BD",
     "score": 15,
-    "last_seen": "2026-03-31T12:51:47.447499Z"
+    "last_seen": "2026-03-31T18:48:13.972414Z"
   },
   "xxix": {
     "company_name": "XXIX",
@@ -17,32 +17,32 @@
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-03-31T12:51:47.447491Z"
+    "last_seen": "2026-03-31T18:48:13.972406Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-03-31T12:51:47.447493Z"
+    "last_seen": "2026-03-31T18:48:13.972408Z"
   },
   "davita": {
     "company_name": "DaVita",
     "score": 15,
-    "last_seen": "2026-03-31T12:51:47.447495Z"
+    "last_seen": "2026-03-31T18:48:13.972410Z"
   },
   "kroger": {
     "company_name": "Kroger",
     "score": 15,
-    "last_seen": "2026-03-31T12:51:47.447501Z"
+    "last_seen": "2026-03-31T18:48:13.972416Z"
   },
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-03-31T12:51:47.447456Z"
+    "last_seen": "2026-03-31T18:48:13.972371Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
     "score": 15,
-    "last_seen": "2026-03-31T12:51:47.447454Z"
+    "last_seen": "2026-03-31T18:48:13.972368Z"
   },
   "electe-srl": {
     "company_name": "ELECTE S.R.L",
@@ -57,56 +57,66 @@
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-03-31T12:51:47.447450Z"
+    "last_seen": "2026-03-31T18:48:13.972365Z"
   },
   "schneider-electric": {
     "company_name": "Schneider Electric",
     "score": 15,
-    "last_seen": "2026-03-31T12:51:47.447507Z"
+    "last_seen": "2026-03-31T18:48:13.972422Z"
   },
   "autohdr": {
     "company_name": "AutoHDR",
     "score": 15,
-    "last_seen": "2026-03-31T12:51:47.447442Z"
+    "last_seen": "2026-03-31T18:48:13.972356Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-03-31T12:51:47.447480Z"
+    "last_seen": "2026-03-31T18:48:13.972384Z"
+  },
+  "smithrx": {
+    "company_name": "SmithRx",
+    "score": 13,
+    "last_seen": "2026-03-31T18:48:13.972427Z"
+  },
+  "waymark": {
+    "company_name": "Waymark",
+    "score": 13,
+    "last_seen": "2026-03-31T18:48:13.972429Z"
+  },
+  "new-relic": {
+    "company_name": "New Relic",
+    "score": 13,
+    "last_seen": "2026-03-31T18:48:13.972431Z"
   },
   "wipro": {
     "company_name": "Wipro",
-    "score": 12,
+    "score": 11,
     "last_seen": "2026-03-30T18:48:16.303886Z"
   },
   "solaredge": {
     "company_name": "SolarEdge",
-    "score": 12,
+    "score": 11,
     "last_seen": "2026-03-30T07:18:38.329728Z"
   },
-  "smithrx": {
-    "company_name": "SmithRx",
-    "score": 12,
-    "last_seen": "2026-03-31T12:51:47.447511Z"
+  "the-tjx-companies-inc": {
+    "company_name": "The TJX Companies, Inc.",
+    "score": 11,
+    "last_seen": "2026-03-31T18:48:13.972412Z"
   },
-  "waymark": {
-    "company_name": "Waymark",
-    "score": 12,
-    "last_seen": "2026-03-31T12:51:47.447514Z"
-  },
-  "new-relic": {
-    "company_name": "New Relic",
-    "score": 12,
-    "last_seen": "2026-03-31T12:51:47.447516Z"
+  "moonpay": {
+    "company_name": "MoonPay",
+    "score": 11,
+    "last_seen": "2026-03-31T18:48:13.972425Z"
   },
   "claritev": {
     "company_name": "Claritev",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-03-31T12:51:47.447483Z"
   },
   "ecs": {
     "company_name": "ECS",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-03-31T12:51:47.447485Z"
   },
   "veeam-software": {
@@ -114,40 +124,35 @@
     "score": 10,
     "last_seen": "2026-03-28T12:34:07.179835Z"
   },
-  "the-tjx-companies-inc": {
-    "company_name": "The TJX Companies, Inc.",
-    "score": 10,
-    "last_seen": "2026-03-31T12:51:47.447497Z"
-  },
   "deel": {
     "company_name": "Deel",
     "score": 10,
     "last_seen": "2026-03-31T12:51:47.447469Z"
   },
-  "moonpay": {
-    "company_name": "MoonPay",
-    "score": 10,
-    "last_seen": "2026-03-31T12:51:47.447509Z"
-  },
   "vanta": {
     "company_name": "Vanta",
-    "score": 9,
-    "last_seen": "2026-03-31T12:51:47.447518Z"
+    "score": 10,
+    "last_seen": "2026-03-31T18:48:13.972433Z"
   },
   "twilio": {
     "company_name": "Twilio",
-    "score": 8,
-    "last_seen": "2026-03-31T12:51:47.447459Z"
-  },
-  "fourbyte-gmbh": {
-    "company_name": "FourByte GmbH",
-    "score": 7,
-    "last_seen": "2026-03-31T07:04:28.194614Z"
+    "score": 9,
+    "last_seen": "2026-03-31T18:48:13.972379Z"
   },
   "greenlyte-carbon-technologies": {
     "company_name": "Greenlyte Carbon Technologies",
+    "score": 8,
+    "last_seen": "2026-03-31T18:48:13.972391Z"
+  },
+  "techmagic": {
+    "company_name": "TechMagic",
     "score": 7,
-    "last_seen": "2026-03-31T12:51:47.447462Z"
+    "last_seen": "2026-03-31T18:48:13.972396Z"
+  },
+  "fourbyte-gmbh": {
+    "company_name": "FourByte GmbH",
+    "score": 6,
+    "last_seen": "2026-03-31T07:04:28.194614Z"
   },
   "ping-identity": {
     "company_name": "Ping Identity",
@@ -159,16 +164,6 @@
     "score": 6,
     "last_seen": "2026-03-29T06:56:28.004232Z"
   },
-  "techmagic": {
-    "company_name": "TechMagic",
-    "score": 6,
-    "last_seen": "2026-03-31T12:51:47.447467Z"
-  },
-  "loancrate": {
-    "company_name": "Loancrate",
-    "score": 4,
-    "last_seen": "2026-03-28T18:27:09.252596Z"
-  },
   "automat-it": {
     "company_name": "Automat-it",
     "score": 4,
@@ -179,9 +174,19 @@
     "score": 4,
     "last_seen": "2026-03-14T19:32:49.326956Z"
   },
+  "akamai-technologies": {
+    "company_name": "Akamai Technologies",
+    "score": 4,
+    "last_seen": "2026-03-31T18:48:13.972394Z"
+  },
+  "loancrate": {
+    "company_name": "Loancrate",
+    "score": 3,
+    "last_seen": "2026-03-28T18:27:09.252596Z"
+  },
   "ecoonline": {
     "company_name": "EcoOnline",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-03-31T12:51:47.447471Z"
   },
   "doordash": {
@@ -189,14 +194,9 @@
     "score": 3,
     "last_seen": "2026-03-31T12:51:47.447473Z"
   },
-  "akamai-technologies": {
-    "company_name": "Akamai Technologies",
-    "score": 3,
-    "last_seen": "2026-03-31T12:51:47.447464Z"
-  },
-  "whatnot": {
-    "company_name": "Whatnot",
+  "house-rx": {
+    "company_name": "House Rx",
     "score": 2,
-    "last_seen": "2026-03-27T12:41:38.538748Z"
+    "last_seen": "2026-03-31T18:48:13.972374Z"
   }
 }
