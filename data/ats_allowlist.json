@@ -2,12 +2,12 @@
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-03-30T18:48:16.303884Z"
+    "last_seen": "2026-03-31T01:18:41.581397Z"
   },
   "bd": {
     "company_name": "BD",
     "score": 15,
-    "last_seen": "2026-03-30T18:48:16.303894Z"
+    "last_seen": "2026-03-31T01:18:41.581407Z"
   },
   "xxix": {
     "company_name": "XXIX",
@@ -17,32 +17,32 @@
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-03-30T18:48:16.303888Z"
+    "last_seen": "2026-03-31T01:18:41.581399Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-03-30T18:48:16.303890Z"
+    "last_seen": "2026-03-31T01:18:41.581401Z"
   },
   "davita": {
     "company_name": "DaVita",
     "score": 15,
-    "last_seen": "2026-03-30T18:48:16.303892Z"
+    "last_seen": "2026-03-31T01:18:41.581403Z"
   },
   "kroger": {
     "company_name": "Kroger",
     "score": 15,
-    "last_seen": "2026-03-30T18:48:16.303896Z"
+    "last_seen": "2026-03-31T01:18:41.581409Z"
   },
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-03-30T18:48:16.303856Z"
+    "last_seen": "2026-03-31T01:18:41.581365Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
     "score": 15,
-    "last_seen": "2026-03-30T18:48:16.303852Z"
+    "last_seen": "2026-03-31T01:18:41.581363Z"
   },
   "electe-srl": {
     "company_name": "ELECTE S.R.L",
@@ -57,26 +57,26 @@
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-03-30T18:48:16.303849Z"
+    "last_seen": "2026-03-31T01:18:41.581359Z"
   },
   "schneider-electric": {
     "company_name": "Schneider Electric",
     "score": 15,
-    "last_seen": "2026-03-30T18:48:16.303898Z"
+    "last_seen": "2026-03-31T01:18:41.581415Z"
   },
   "autohdr": {
     "company_name": "AutoHDR",
     "score": 15,
-    "last_seen": "2026-03-30T18:48:16.303841Z"
+    "last_seen": "2026-03-31T01:18:41.581351Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-03-30T18:48:16.303877Z"
+    "last_seen": "2026-03-31T01:18:41.581388Z"
   },
   "wipro": {
     "company_name": "Wipro",
-    "score": 15,
+    "score": 14,
     "last_seen": "2026-03-30T18:48:16.303886Z"
   },
   "solaredge": {
@@ -91,53 +91,63 @@
   },
   "smithrx": {
     "company_name": "SmithRx",
-    "score": 9,
-    "last_seen": "2026-03-30T18:48:16.303902Z"
+    "score": 10,
+    "last_seen": "2026-03-31T01:18:41.581419Z"
   },
   "waymark": {
     "company_name": "Waymark",
-    "score": 9,
-    "last_seen": "2026-03-30T18:48:16.303904Z"
+    "score": 10,
+    "last_seen": "2026-03-31T01:18:41.581422Z"
   },
   "new-relic": {
     "company_name": "New Relic",
-    "score": 9,
-    "last_seen": "2026-03-30T18:48:16.303906Z"
+    "score": 10,
+    "last_seen": "2026-03-31T01:18:41.581424Z"
   },
   "claritev": {
     "company_name": "Claritev",
-    "score": 8,
-    "last_seen": "2026-03-30T18:48:16.303879Z"
+    "score": 9,
+    "last_seen": "2026-03-31T01:18:41.581390Z"
   },
   "ecs": {
     "company_name": "ECS",
-    "score": 8,
-    "last_seen": "2026-03-30T18:48:16.303881Z"
+    "score": 9,
+    "last_seen": "2026-03-31T01:18:41.581392Z"
   },
   "the-tjx-companies-inc": {
     "company_name": "The TJX Companies, Inc.",
+    "score": 8,
+    "last_seen": "2026-03-31T01:18:41.581405Z"
+  },
+  "deel": {
+    "company_name": "Deel",
+    "score": 8,
+    "last_seen": "2026-03-31T01:18:41.581377Z"
+  },
+  "moonpay": {
+    "company_name": "MoonPay",
+    "score": 8,
+    "last_seen": "2026-03-31T01:18:41.581417Z"
+  },
+  "vanta": {
+    "company_name": "Vanta",
     "score": 7,
-    "last_seen": "2026-03-28T18:27:09.252524Z"
+    "last_seen": "2026-03-31T01:18:41.581426Z"
+  },
+  "fourbyte-gmbh": {
+    "company_name": "FourByte GmbH",
+    "score": 7,
+    "last_seen": "2026-03-31T01:18:41.581394Z"
   },
   "loancrate": {
     "company_name": "Loancrate",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-03-28T18:27:09.252596Z"
   },
   "automat-it": {
     "company_name": "Automat-it",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-03-30T07:18:38.329725Z"
-  },
-  "deel": {
-    "company_name": "Deel",
-    "score": 7,
-    "last_seen": "2026-03-30T18:48:16.303866Z"
-  },
-  "moonpay": {
-    "company_name": "MoonPay",
-    "score": 7,
-    "last_seen": "2026-03-30T18:48:16.303900Z"
   },
   "ping-identity": {
     "company_name": "Ping Identity",
@@ -149,54 +159,44 @@
     "score": 6,
     "last_seen": "2026-03-29T06:56:28.004232Z"
   },
-  "vanta": {
-    "company_name": "Vanta",
+  "twilio": {
+    "company_name": "Twilio",
     "score": 6,
-    "last_seen": "2026-03-30T18:48:16.303909Z"
+    "last_seen": "2026-03-31T01:18:41.581368Z"
+  },
+  "greenlyte-carbon-technologies": {
+    "company_name": "Greenlyte Carbon Technologies",
+    "score": 5,
+    "last_seen": "2026-03-31T01:18:41.581371Z"
   },
   "whatnot": {
     "company_name": "Whatnot",
-    "score": 5,
-    "last_seen": "2026-03-27T12:41:38.538748Z"
-  },
-  "twilio": {
-    "company_name": "Twilio",
-    "score": 5,
-    "last_seen": "2026-03-30T18:48:16.303858Z"
-  },
-  "nagarro": {
-    "company_name": "Nagarro",
     "score": 4,
-    "last_seen": "2026-03-30T01:24:47.596926Z"
+    "last_seen": "2026-03-27T12:41:38.538748Z"
   },
   "alpaca": {
     "company_name": "Alpaca",
     "score": 4,
     "last_seen": "2026-03-14T19:32:49.326956Z"
   },
-  "greenlyte-carbon-technologies": {
-    "company_name": "Greenlyte Carbon Technologies",
+  "techmagic": {
+    "company_name": "TechMagic",
     "score": 4,
-    "last_seen": "2026-03-30T18:48:16.303861Z"
+    "last_seen": "2026-03-31T01:18:41.581374Z"
+  },
+  "nagarro": {
+    "company_name": "Nagarro",
+    "score": 3,
+    "last_seen": "2026-03-30T01:24:47.596926Z"
   },
   "precision-medicine-group": {
     "company_name": "Precision Medicine Group",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-03-27T18:47:04.570645Z"
   },
-  "techmagic": {
-    "company_name": "TechMagic",
-    "score": 3,
-    "last_seen": "2026-03-30T18:48:16.303864Z"
-  },
-  "kraken": {
-    "company_name": "Kraken",
+  "ecoonline": {
+    "company_name": "EcoOnline",
     "score": 2,
-    "last_seen": "2026-03-29T06:56:28.004230Z"
-  },
-  "pradeepit-consulting-services-pvt-ltd": {
-    "company_name": "PradeepIT Consulting Services Pvt Ltd",
-    "score": 2,
-    "last_seen": "2026-03-30T01:24:47.596924Z"
+    "last_seen": "2026-03-31T01:18:41.581379Z"
   }
 }
