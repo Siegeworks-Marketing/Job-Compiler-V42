@@ -1,111 +1,6 @@
 {
   "jobs": [
     {
-      "id": "remoteok_1130842",
-      "title": "Government Underwriter",
-      "company": "JMAC Lending",
-      "location": "Remote",
-      "remote_type": "Remote",
-      "salary": 0,
-      "posted": "2026-03-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-government-underwriter-jmac-lending-1130842",
-      "source": "Remote OK",
-      "description": "About JMAC Lending:   With over 25 years of experience, JMAC Lending has established itself as a leader in the industry. We pride ourselves on our innovative products, outstanding service, and unwavering commitment to supporting our partners in growing their businesses. Our culture revolves around surpassing conventional market options, positioning us as the preferred lender for our clients. Our team boasts impressive credentials and participates in ongoing education to blend knowledge with experience seamlessly. Built on a foundation of the highest ethical standards, our company excels in del",
-      "requirements": [],
-      "ats_board": null,
-      "fetched_at": "2026-03-28T06:51:01.147890Z"
-    },
-    {
-      "id": "remoteok_1130841",
-      "title": "58134729590 Marketing Operations & Execution Lead",
-      "company": "Activate Talent",
-      "location": "Remote",
-      "remote_type": "Remote",
-      "salary": 0,
-      "posted": "2026-03-20",
-      "url": "https://remoteOK.com/remote-jobs/remote-58134729590-marketing-operations-execution-lead-activate-talent-1130841",
-      "source": "Remote OK",
-      "description": "We are a modern menâs skincare brand rooted in ancient wisdomâfocused on simple, 100% natural ingredients with zero shortcuts. Our mission is to build the #1 personal care brand for health-conscious, high-performing men who value discipline and results.    Co-founded by Sahil Bloom, we are an early-stage company with high velocity, high standards, and a bias toward execution.         Role Overview     This is not a traditional marketing role. This is a hands-on growth operator position.    As the second full-time hire, you will own growth end-to-endâworking directly with the CEO and coll",
-      "requirements": [],
-      "ats_board": null,
-      "fetched_at": "2026-03-28T06:51:01.147890Z"
-    },
-    {
-      "id": "remoteok_1130840",
-      "title": "Forward Deployed Engineer VoIP",
-      "company": "Parloa",
-      "location": "New York",
-      "remote_type": "Remote",
-      "salary": 0,
-      "posted": "2026-03-19",
-      "url": "https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-voip-parloa-1130840",
-      "source": "Remote OK",
-      "description": "YOUR MISSION:  \n As a  Forward Deployed Engineer, VoIP  your mission is to make Parloa work flawlessly in the real world of enterprise telephony. You are the deep VoIP/SIP expert embedded in our most critical customer integrationsâowning the end-to-end technical path from \"a phone rings\" to \"the bot answers,\" across carriers, SIP trunks, SBCs, networks, and enterprise constraints. \n You'll operate where product, infrastructure, and customer reality meet: diagnosing tricky call flows, designing robust connectivity patterns, unblocking go-lives under pressure, and shaping how Parloa integrates",
-      "requirements": [],
-      "ats_board": null,
-      "fetched_at": "2026-03-28T06:51:01.147890Z"
-    },
-    {
-      "id": "remoteok_1130839",
-      "title": "Senior Staff Software Engineer AI Customer Operations",
-      "company": "Monzo",
-      "location": "Cardiff, London",
-      "remote_type": "Remote",
-      "salary": 135000,
-      "posted": "2026-03-19",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-staff-software-engineer-ai-customer-operations-monzo-1130839",
-      "source": "Remote OK",
-      "description": "ð We're on a mission to make money work for everyone.    We're waving goodbye to the complicated and confusing ways of traditional banking.  After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as&nbsp; personal  and  business  bank accounts, we offer  joint accounts ,  accounts for 16-17 year olds , a  free kids account  and  credit cards  in the UK, with more exciting things to come beyond. Our UK customers can also  save ,  invest  and&nbsp; combine their pensions  with us.&nbsp;  With our hot coral cards and get-paid-early featur",
-      "requirements": [],
-      "ats_board": null,
-      "fetched_at": "2026-03-28T06:51:01.147890Z"
-    },
-    {
-      "id": "greenhouse_8461096002",
-      "title": "Demo Architect",
-      "company": "GitLab",
-      "location": "Remote, North America",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2026-03-13",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8461096002",
-      "source": "Greenhouse ATS",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt;\n&lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expect",
-      "requirements": [],
-      "ats_board": "gitlab",
-      "fetched_at": "2026-03-28T06:51:10.434905Z"
-    },
-    {
-      "id": "greenhouse_8451971002",
-      "title": "Manager, Solutions Architects - West",
-      "company": "GitLab",
-      "location": "Remote, North America",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2026-03-13",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8451971002",
-      "source": "Greenhouse ATS",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt;\n&lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expect",
-      "requirements": [],
-      "ats_board": "gitlab",
-      "fetched_at": "2026-03-28T06:51:10.434905Z"
-    },
-    {
-      "id": "greenhouse_5837825004",
-      "title": "Head of Compliance",
-      "company": "Alpaca",
-      "location": "Remote - Asia",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2026-03-27",
-      "url": "https://job-boards.greenhouse.io/alpaca/jobs/5837825004",
-      "source": "Greenhouse ATS",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who We Are:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Alpaca is a US-headquartered self-clearing broker-dealer and brokerage infrastructure for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more. Our&amp;nbsp;&lt;a href=&quot;https://alpaca.markets/blog/alpaca-raises-150-million-at-a-1-15b-valuation-to-build-the-global-standard-for-brokerage-infrastructure/&quot;&gt;recent Series D funding round&lt;/a&gt; brought our total investment to over $320 million, fueling our ambitious vision.&lt;/p&gt;\n&lt;p&gt;Amongst our subs",
-      "requirements": [],
-      "ats_board": "alpaca",
-      "fetched_at": "2026-03-28T06:51:18.573641Z"
-    },
-    {
       "id": "remotive_2088696",
       "title": "Technical Support Operator",
       "company": "KnownHost",
@@ -29953,40 +29848,6 @@
       "fetched_at": "2026-04-04T06:57:20.493990Z"
     },
     {
-      "id": "themuse_19987712",
-      "title": "Department Supervisor",
-      "company": "Walmart",
-      "location": "Akron, OH",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-08-22",
-      "url": "https://www.themuse.com/jobs/walmart/department-supervisor-dea16d",
-      "source": "The Muse",
-      "description": "Position Summary...    What you'll do...   Provides supervision and development opportunities for hourly associates by hiring, training, and mentoring of associates; assigning duties; setting clear expectations; providing associate recognition; communicating expectations consistently and effectively promoting a belonging mindset in the workplace and recruiting and developing qualified associates to meet staffing needs and achieve company growth potential. Coordinates, completes, and oversees job-related activities and assignments by developing and maintaining relation",
-      "requirements": [
-        "Mid Level"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-04-04T06:57:20.711395Z"
-    },
-    {
-      "id": "themuse_19644462",
-      "title": "Product Operation Specialist - Comprehensive Search Operation",
-      "company": "TikTok",
-      "location": "Singapore",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-07-29",
-      "url": "https://www.themuse.com/jobs/tiktok/product-operation-specialist-comprehensive-search-operation",
-      "source": "The Muse",
-      "description": "Responsibilities    About the team The T&amp;S Evaluation and Investigation team, working closely with the Search team, taking the evaluation standards as the baseline and principles, and manually evaluating the search query and corresponding search results page to reflect the real user experience of the search function.     Responsibilities - Have a deep understanding and knowledge of the English speaking markets, including local cultural norms. - Responsible for search evaluation, investigation, and other search-related business requirements and provide guidance",
-      "requirements": [
-        "Senior Level"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-04-04T06:57:20.711395Z"
-    },
-    {
       "id": "himalayas_",
       "title": "Account Director, Enterprise (Mid-West)",
       "company": "NAVEX",
@@ -30270,8 +30131,42 @@
       "requirements": [],
       "ats_board": null,
       "fetched_at": "2026-04-04T06:57:20.944715Z"
+    },
+    {
+      "id": "themuse_19987712",
+      "title": "Department Supervisor",
+      "company": "Walmart",
+      "location": "Akron, OH",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-08-22",
+      "url": "https://www.themuse.com/jobs/walmart/department-supervisor-dea16d",
+      "source": "The Muse",
+      "description": "Position Summary...    What you'll do...   Provides supervision and development opportunities for hourly associates by hiring, training, and mentoring of associates; assigning duties; setting clear expectations; providing associate recognition; communicating expectations consistently and effectively promoting a belonging mindset in the workplace and recruiting and developing qualified associates to meet staffing needs and achieve company growth potential. Coordinates, completes, and oversees job-related activities and assignments by developing and maintaining relation",
+      "requirements": [
+        "Mid Level"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-04-04T12:44:26.895569Z"
+    },
+    {
+      "id": "themuse_19644462",
+      "title": "Product Operation Specialist - Comprehensive Search Operation",
+      "company": "TikTok",
+      "location": "Singapore",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-07-29",
+      "url": "https://www.themuse.com/jobs/tiktok/product-operation-specialist-comprehensive-search-operation",
+      "source": "The Muse",
+      "description": "Responsibilities    About the team The T&amp;S Evaluation and Investigation team, working closely with the Search team, taking the evaluation standards as the baseline and principles, and manually evaluating the search query and corresponding search results page to reflect the real user experience of the search function.     Responsibilities - Have a deep understanding and knowledge of the English speaking markets, including local cultural norms. - Responsible for search evaluation, investigation, and other search-related business requirements and provide guidance",
+      "requirements": [
+        "Senior Level"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-04-04T12:44:26.895569Z"
     }
   ],
-  "updated_at": "2026-04-04T06:57:53.714363Z",
-  "total": 2015
+  "updated_at": "2026-04-04T12:44:57.805118Z",
+  "total": 2008
 }
