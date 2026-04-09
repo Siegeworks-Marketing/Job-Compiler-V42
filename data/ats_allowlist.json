@@ -2,12 +2,12 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-04-09T13:04:45.849762Z"
+    "last_seen": "2026-04-09T18:56:35.748222Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
     "score": 15,
-    "last_seen": "2026-04-09T13:04:45.849771Z"
+    "last_seen": "2026-04-09T18:56:35.748231Z"
   },
   "electe-srl": {
     "company_name": "ELECTE S.R.L",
@@ -22,172 +22,167 @@
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-04-09T13:04:45.849769Z"
+    "last_seen": "2026-04-09T18:56:35.748229Z"
   },
   "autohdr": {
     "company_name": "AutoHDR",
     "score": 15,
-    "last_seen": "2026-04-09T13:04:45.849766Z"
+    "last_seen": "2026-04-09T18:56:35.748226Z"
   },
   "smithrx": {
     "company_name": "SmithRx",
     "score": 15,
-    "last_seen": "2026-04-09T13:04:45.849853Z"
+    "last_seen": "2026-04-09T18:56:35.748292Z"
   },
   "moonpay": {
     "company_name": "MoonPay",
     "score": 15,
-    "last_seen": "2026-04-09T13:04:45.849851Z"
+    "last_seen": "2026-04-09T18:56:35.748289Z"
   },
   "xsolla": {
     "company_name": "Xsolla",
     "score": 15,
-    "last_seen": "2026-04-09T13:04:45.849845Z"
+    "last_seen": "2026-04-09T18:56:35.748285Z"
   },
   "huzzle": {
     "company_name": "Huzzle",
     "score": 15,
-    "last_seen": "2026-04-09T13:04:45.849816Z"
+    "last_seen": "2026-04-09T18:56:35.748278Z"
   },
   "runn": {
     "company_name": "Runn",
     "score": 15,
-    "last_seen": "2026-04-09T13:04:45.849818Z"
+    "last_seen": "2026-04-09T18:56:35.748280Z"
   },
   "medallion": {
     "company_name": "Medallion",
     "score": 15,
-    "last_seen": "2026-04-09T13:04:45.849820Z"
+    "last_seen": "2026-04-09T18:56:35.748282Z"
   },
   "clover-health": {
     "company_name": "Clover Health",
     "score": 15,
-    "last_seen": "2026-04-09T13:04:45.849848Z"
+    "last_seen": "2026-04-09T18:56:35.748287Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-04-09T13:04:45.849789Z"
+    "last_seen": "2026-04-09T18:56:35.748249Z"
   },
   "bd": {
     "company_name": "BD",
     "score": 15,
-    "last_seen": "2026-04-09T13:04:45.849800Z"
+    "last_seen": "2026-04-09T18:56:35.748259Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-04-09T13:04:45.849791Z"
+    "last_seen": "2026-04-09T18:56:35.748251Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-04-09T13:04:45.849794Z"
+    "last_seen": "2026-04-09T18:56:35.748253Z"
   },
   "davita": {
     "company_name": "DaVita",
     "score": 15,
-    "last_seen": "2026-04-09T13:04:45.849796Z"
+    "last_seen": "2026-04-09T18:56:35.748255Z"
   },
   "kroger": {
     "company_name": "Kroger",
     "score": 15,
-    "last_seen": "2026-04-09T13:04:45.849802Z"
+    "last_seen": "2026-04-09T18:56:35.748261Z"
   },
   "the-tjx-companies-inc": {
     "company_name": "The TJX Companies, Inc.",
     "score": 15,
-    "last_seen": "2026-04-09T13:04:45.849798Z"
+    "last_seen": "2026-04-09T18:56:35.748257Z"
   },
   "hitachi-energy": {
     "company_name": "Hitachi Energy",
     "score": 15,
-    "last_seen": "2026-04-09T13:04:45.849804Z"
+    "last_seen": "2026-04-09T18:56:35.748264Z"
   },
   "zillow": {
     "company_name": "Zillow",
     "score": 15,
-    "last_seen": "2026-04-09T13:04:45.849808Z"
-  },
-  "deel": {
-    "company_name": "Deel",
-    "score": 14,
-    "last_seen": "2026-04-07T13:18:51.739397Z"
+    "last_seen": "2026-04-09T18:56:35.748268Z"
   },
   "clickhouse": {
     "company_name": "ClickHouse",
     "score": 14,
     "last_seen": "2026-04-07T13:18:51.739407Z"
   },
-  "waymark": {
-    "company_name": "Waymark",
-    "score": 12,
-    "last_seen": "2026-04-01T12:56:38.550806Z"
+  "deel": {
+    "company_name": "Deel",
+    "score": 13,
+    "last_seen": "2026-04-07T13:18:51.739397Z"
   },
   "name": {
     "company_name": "name",
+    "score": 12,
+    "last_seen": "2026-04-09T18:56:35.748294Z"
+  },
+  "waymark": {
+    "company_name": "Waymark",
     "score": 11,
-    "last_seen": "2026-04-08T13:24:48.405525Z"
+    "last_seen": "2026-04-01T12:56:38.550806Z"
   },
   "new-relic": {
     "company_name": "New Relic",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-04-08T13:24:48.405523Z"
   },
   "algolia": {
     "company_name": "Algolia",
-    "score": 9,
-    "last_seen": "2026-04-09T13:04:45.849786Z"
+    "score": 10,
+    "last_seen": "2026-04-09T18:56:35.748244Z"
   },
   "chime": {
     "company_name": "Chime",
-    "score": 9,
-    "last_seen": "2026-04-09T13:04:45.849777Z"
+    "score": 10,
+    "last_seen": "2026-04-09T18:56:35.748236Z"
+  },
+  "doordash": {
+    "company_name": "DoorDash",
+    "score": 8,
+    "last_seen": "2026-04-09T18:56:35.748241Z"
   },
   "twilio": {
     "company_name": "Twilio",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-04-07T13:18:51.739375Z"
   },
   "fivetran": {
     "company_name": "Fivetran",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-04-07T13:18:51.739402Z"
   },
   "rithum": {
     "company_name": "Rithum",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-04-07T13:18:51.739405Z"
   },
   "alan": {
     "company_name": "Alan",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-04-07T13:18:51.739400Z"
-  },
-  "doordash": {
-    "company_name": "DoorDash",
-    "score": 7,
-    "last_seen": "2026-04-09T13:04:45.849781Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
-    "score": 4,
-    "last_seen": "2026-04-09T13:04:45.849751Z"
+    "score": 5,
+    "last_seen": "2026-04-09T18:56:35.748213Z"
   },
   "mindrift": {
     "company_name": "Mindrift",
-    "score": 4,
-    "last_seen": "2026-04-09T13:04:45.849774Z"
+    "score": 5,
+    "last_seen": "2026-04-09T18:56:35.748234Z"
   },
   "binance": {
     "company_name": "Binance",
-    "score": 3,
-    "last_seen": "2026-04-09T13:04:45.849779Z"
-  },
-  "mercier-consultancy-group": {
-    "company_name": "Mercier Consultancy Group",
-    "score": 2,
-    "last_seen": "2026-04-05T18:49:08.662627Z"
+    "score": 4,
+    "last_seen": "2026-04-09T18:56:35.748239Z"
   },
   "magicschool-ai": {
     "company_name": "MagicSchool AI",
@@ -198,5 +193,10 @@
     "company_name": "SolarEdge",
     "score": 2,
     "last_seen": "2026-04-07T07:25:40.440168Z"
+  },
+  "fntio": {
+    "company_name": "FNTIO",
+    "score": 2,
+    "last_seen": "2026-04-09T18:56:35.748246Z"
   }
 }
