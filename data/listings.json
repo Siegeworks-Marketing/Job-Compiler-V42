@@ -1,96 +1,6 @@
 {
   "jobs": [
     {
-      "id": "remoteok_1130930",
-      "title": "Biomedical Clinical Engineer Senior",
-      "company": "Ibility",
-      "location": "Washington DC",
-      "remote_type": "Remote",
-      "salary": 0,
-      "posted": "2026-03-29",
-      "url": "https://remoteOK.com/remote-jobs/remote-biomedical-clinical-engineer-senior-ibility-1130930",
-      "source": "Remote OK",
-      "description": "Founded in early 2021, Ibility is a Service-Disabled Veteran-Owned Small Business and a Woman-Owned Small Business, headquartered in Gaithersburg, MD.&nbsp; Ibility is a small but mighty company that is positioned for rapid growth.&nbsp; Simply put, we help government leaders to achieve their mission by designing creative products and programs that delight their customers and make their employees more efficient - building trust and improving overall satisfaction. We use human-centered design principles in every engagement because we believe the end-user is critical to the long-term success of",
-      "requirements": [],
-      "ats_board": null,
-      "fetched_at": "2026-04-06T19:21:52.031532Z"
-    },
-    {
-      "id": "greenhouse_7722115",
-      "title": "Compliance Operations Specialist 1",
-      "company": "Twilio",
-      "location": "Remote - Colombia",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2026-04-06",
-      "url": "https://job-boards.greenhouse.io/twilio/jobs/7722115",
-      "source": "Greenhouse ATS",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who we are&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to&lt;a class=&quot;c-link&quot; href=&quot;https://customers.twilio.com/&quot; target=&quot;_blank&quot; data-stringify-link=&quot;https://customers.twilio.com/&quot; data-sk=&quot;tooltip_parent&quot;&gt;&amp;nbsp;hundreds of thousands of businesses&amp;nbsp;&lt;/a&gt;and empower millions of developers worldwide to craft personalized customer experience",
-      "requirements": [],
-      "ats_board": "twilio",
-      "fetched_at": "2026-04-06T19:22:30.058991Z"
-    },
-    {
-      "id": "greenhouse_7675063003",
-      "title": "GRC Analyst",
-      "company": "Fivetran",
-      "location": "Bengaluru, Karnataka, India, APAC",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2026-04-06",
-      "url": "https://www.fivetran.com/careers/job?gh_jid=7675063003",
-      "source": "Greenhouse ATS",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly data-driven.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&qu",
-      "requirements": [],
-      "ats_board": "fivetran",
-      "fetched_at": "2026-04-06T19:22:34.271692Z"
-    },
-    {
-      "id": "greenhouse_7691154003",
-      "title": "Product Success Manager",
-      "company": "Fivetran",
-      "location": "Denver, Colorado, United States, AMER",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2026-04-06",
-      "url": "https://www.fivetran.com/careers/job?gh_jid=7691154003",
-      "source": "Greenhouse ATS",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly data-driven.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&qu",
-      "requirements": [],
-      "ats_board": "fivetran",
-      "fetched_at": "2026-04-06T19:22:34.271692Z"
-    },
-    {
-      "id": "greenhouse_5819898004",
-      "title": "Strategic Account Executive - Financial Services",
-      "company": "ClickHouse",
-      "location": "NYC, Boston, or Chicago",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2026-04-06",
-      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819898004",
-      "source": "Greenhouse ATS",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About ClickHouse&lt;/h3&gt;\n&lt;p&gt;Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads.&lt;/p&gt;\n&lt;p&gt;The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lova",
-      "requirements": [],
-      "ats_board": "clickhouse",
-      "fetched_at": "2026-04-06T19:22:46.832580Z"
-    },
-    {
-      "id": "greenhouse_7396373",
-      "title": "Senior Sales Quality Program Manager",
-      "company": "Samsara",
-      "location": "Remote - Canada",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2026-04-06",
-      "url": "https://www.samsara.com/company/careers/roles/7396373?gh_jid=7396373",
-      "source": "Greenhouse ATS",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: arial, helvetica, sans-serif;&quot;&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span style=&quot;font-weight: 300; font-family: arial, helvetica, sans-serif;&quot;&gt;Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency",
-      "requirements": [],
-      "ats_board": "samsara",
-      "fetched_at": "2026-04-06T19:22:53.722107Z"
-    },
-    {
       "id": "remoteok_1130997",
       "title": "RevOps AI Analyst Intern",
       "company": "Actian Corporation",
@@ -24622,36 +24532,6 @@
       "fetched_at": "2026-04-13T19:31:32.941369Z"
     },
     {
-      "id": "remotive_2088652",
-      "title": "Full-Stack Developer",
-      "company": "ELECTE S.R.L.",
-      "location": "Worldwide",
-      "remote_type": "Remote",
-      "salary": "$33,6k–$50,4k",
-      "posted": "2026-03-13",
-      "url": "https://remotive.com/remote-jobs/software-development/full-stack-developer-2088652",
-      "source": "Remotive",
-      "description": "We are looking for a strong Full-Stack Developer to execute product features and contribute to our core platform development. Your focus will be clean, scalable implementation and high-quality execution. This role is ideal for a developer who enjoys bui",
-      "requirements": [],
-      "ats_board": null,
-      "fetched_at": "2026-04-13T19:31:32.941369Z"
-    },
-    {
-      "id": "remotive_2088653",
-      "title": "Sr. Firmware Engineer",
-      "company": "Sanctuary Computer",
-      "location": "Worldwide",
-      "remote_type": "Remote",
-      "salary": "$150k - $200k",
-      "posted": "2026-03-13",
-      "url": "https://remotive.com/remote-jobs/software-development/sr-firmware-engineer-2088653",
-      "source": "Remotive",
-      "description": "<p style=\"--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,.5); --tw-ring-of",
-      "requirements": [],
-      "ats_board": null,
-      "fetched_at": "2026-04-13T19:31:32.941369Z"
-    },
-    {
       "id": "arbeitnow_remote-marketing-student-munich-278808",
       "title": "Marketing Student",
       "company": "SolarEdge",
@@ -24725,57 +24605,6 @@
       "requirements": [],
       "ats_board": null,
       "fetched_at": "2026-04-13T19:31:33.112938Z"
-    },
-    {
-      "id": "themuse_19987712",
-      "title": "Department Supervisor",
-      "company": "Walmart",
-      "location": "Akron, OH",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-08-22",
-      "url": "https://www.themuse.com/jobs/walmart/department-supervisor-dea16d",
-      "source": "The Muse",
-      "description": "Position Summary...    What you'll do...   Provides supervision and development opportunities for hourly associates by hiring, training, and mentoring of associates; assigning duties; setting clear expectations; providing associate recognition; communicating expectations consistently and effectively promoting a belonging mindset in the workplace and recruiting and developing qualified associates to meet staffing needs and achieve company growth potential. Coordinates, completes, and oversees job-related activities and assignments by developing and maintaining relation",
-      "requirements": [
-        "Mid Level"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-04-13T19:31:33.460710Z"
-    },
-    {
-      "id": "themuse_19057423",
-      "title": "Spring 2026 Intern - Electronics (Masters), C++",
-      "company": "Ansys",
-      "location": "Austin, TX",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-07-28",
-      "url": "https://www.themuse.com/jobs/ansys/spring-2026-intern-electronics-masters-c",
-      "source": "The Muse",
-      "description": "Requisition #:  16663  Ansys is now a part of Synopsys. Synopsys, Inc. (Nasdaq: SNPS) accelerates technology innovation from silicon to systems. Catalyzing the era of pervasive intelligence, we deliver design solutions, from electronic design automation to silicon IP, to system design and multiphysics simulation and analysis. We partner closely with our customers across a wide range of industries to maximize their R&amp;D capability and productivity, powering innovation today that ignites the ingenuity of tomorrow. Learn more at www.synopsys.com.   SUMMARY",
-      "requirements": [
-        "Internship"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-04-13T19:31:33.460710Z"
-    },
-    {
-      "id": "themuse_19644462",
-      "title": "Product Operation Specialist - Comprehensive Search Operation",
-      "company": "TikTok",
-      "location": "Singapore",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-07-29",
-      "url": "https://www.themuse.com/jobs/tiktok/product-operation-specialist-comprehensive-search-operation",
-      "source": "The Muse",
-      "description": "Responsibilities    About the team The T&amp;S Evaluation and Investigation team, working closely with the Search team, taking the evaluation standards as the baseline and principles, and manually evaluating the search query and corresponding search results page to reflect the real user experience of the search function.     Responsibilities - Have a deep understanding and knowledge of the English speaking markets, including local cultural norms. - Responsible for search evaluation, investigation, and other search-related business requirements and provide guidance",
-      "requirements": [
-        "Senior Level"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-04-13T19:31:33.460710Z"
     },
     {
       "id": "themuse_21406855",
@@ -25813,8 +25642,198 @@
       "requirements": [],
       "ats_board": "varicent",
       "fetched_at": "2026-04-13T19:33:11.895553Z"
+    },
+    {
+      "id": "themuse_19987712",
+      "title": "Department Supervisor",
+      "company": "Walmart",
+      "location": "Akron, OH",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-08-22",
+      "url": "https://www.themuse.com/jobs/walmart/department-supervisor-dea16d",
+      "source": "The Muse",
+      "description": "Position Summary...    What you'll do...   Provides supervision and development opportunities for hourly associates by hiring, training, and mentoring of associates; assigning duties; setting clear expectations; providing associate recognition; communicating expectations consistently and effectively promoting a belonging mindset in the workplace and recruiting and developing qualified associates to meet staffing needs and achieve company growth potential. Coordinates, completes, and oversees job-related activities and assignments by developing and maintaining relation",
+      "requirements": [
+        "Mid Level"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-04-14T01:35:28.403944Z"
+    },
+    {
+      "id": "themuse_19057423",
+      "title": "Spring 2026 Intern - Electronics (Masters), C++",
+      "company": "Ansys",
+      "location": "Austin, TX",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-07-28",
+      "url": "https://www.themuse.com/jobs/ansys/spring-2026-intern-electronics-masters-c",
+      "source": "The Muse",
+      "description": "Requisition #:  16663  Ansys is now a part of Synopsys. Synopsys, Inc. (Nasdaq: SNPS) accelerates technology innovation from silicon to systems. Catalyzing the era of pervasive intelligence, we deliver design solutions, from electronic design automation to silicon IP, to system design and multiphysics simulation and analysis. We partner closely with our customers across a wide range of industries to maximize their R&amp;D capability and productivity, powering innovation today that ignites the ingenuity of tomorrow. Learn more at www.synopsys.com.   SUMMARY",
+      "requirements": [
+        "Internship"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-04-14T01:35:28.403944Z"
+    },
+    {
+      "id": "themuse_19644462",
+      "title": "Product Operation Specialist - Comprehensive Search Operation",
+      "company": "TikTok",
+      "location": "Singapore",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-07-29",
+      "url": "https://www.themuse.com/jobs/tiktok/product-operation-specialist-comprehensive-search-operation",
+      "source": "The Muse",
+      "description": "Responsibilities    About the team The T&amp;S Evaluation and Investigation team, working closely with the Search team, taking the evaluation standards as the baseline and principles, and manually evaluating the search query and corresponding search results page to reflect the real user experience of the search function.     Responsibilities - Have a deep understanding and knowledge of the English speaking markets, including local cultural norms. - Responsible for search evaluation, investigation, and other search-related business requirements and provide guidance",
+      "requirements": [
+        "Senior Level"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-04-14T01:35:28.403944Z"
+    },
+    {
+      "id": "themuse_21559049",
+      "title": "Applied Research Engineer",
+      "company": "Apple",
+      "location": "Sunnyvale, CA",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2026-04-13",
+      "url": "https://www.themuse.com/jobs/apple/applied-research-engineer-410c7f",
+      "source": "The Muse",
+      "description": "Shape the future of wearable technology! The Applied Research and Characterization team combines expertise in mechanical engineering, human factors, biomechanics, data analysis, statistics, software, and advance fabrication. We deliver data-backed insights for design decisions across Apple's entire hardware portfolio, directly influencing products launched worldwide. You'll have access to cutting-edge equipment and collaborate with multidisciplinary experts across our global sites. Few teams offer this breadth of impact combined with world-class resources.  As an Applied Research Engi",
+      "requirements": [
+        "Senior Level"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-04-14T01:35:28.403944Z"
+    },
+    {
+      "id": "themuse_20928678",
+      "title": "E-6B IMMC SCA Aircraft Mechanic 1 (Structures)",
+      "company": "Northrop Grumman",
+      "location": "Lake Charles, LA",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2026-04-13",
+      "url": "https://www.themuse.com/jobs/northropgrumman/e6b-immc-sca-aircraft-mechanic-1-structures",
+      "source": "The Muse",
+      "description": "RELOCATION ASSISTANCE:  Relocation assistance may be availableCLEARANCE TYPE: NoneTRAVEL:  Yes, 25% of the Time  Description  At Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come. Our pioneering and inventive spirit has enabled us to be at the forefront of many technological advancements in our nation's history - from the first flight across the Atlantic Ocean, to stealth bombers, to landing on the moon. We look for people who have bold new ideas, courage and a",
+      "requirements": [
+        "Mid Level"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-04-14T01:35:28.403944Z"
+    },
+    {
+      "id": "remoteok_1131091",
+      "title": "Customer Success Manager II",
+      "company": "Renaissance Learning North America",
+      "location": "IL",
+      "remote_type": "Remote",
+      "salary": 0,
+      "posted": "2026-04-13",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-ii-renaissance-learning-north-america-1131091",
+      "source": "Remote OK",
+      "description": "About Renaissance\n\nWhen you join RenaissanceÂ®, you join a global leader in pre-Kâ12 education technology! Renaissance's solutions help educators analyze, customize, and plan personalized learning paths for students, allowing time for what mattersâcreating energizing learning experiences in the classroom. Our fiercely passionate employees and educational partners have helped drive phenomenal student growth, with Renaissance solutions being used in over one-third of US schools and in more than 100 countries worldwide.\n\nEvery day, we are connected to our mission by exemplifying our values: t",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-04-14T01:35:28.476557Z"
+    },
+    {
+      "id": "remoteok_1131090",
+      "title": "Inside Sales Specialist Lead Manager",
+      "company": "House Buyers of America",
+      "location": "Remote",
+      "remote_type": "Remote",
+      "salary": 0,
+      "posted": "2026-04-13",
+      "url": "https://remoteOK.com/remote-jobs/remote-inside-sales-specialist-lead-manager-house-buyers-of-america-1131090",
+      "source": "Remote OK",
+      "description": "The Inside Sales/ Lead Manager is responsible for converting incoming prospects into leads. This is a high-volume pre-sales role requiring consistent follow-up with new leads.  What you will do:   Answer inbound inquiries and prospect calls from web chat and call centers  Aggressive follow up on \"after-hours\" or missed calls  Utilize multiple methods of contact (text messaging, e-mails, phone calls) to reach prospective sellers  Set appointments for Real Estate Consultants to continue the sales process  Audit leads to ensure theyâre followed up on appropriately  Assign leads that arenât au",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-04-14T01:35:28.476557Z"
+    },
+    {
+      "id": "greenhouse_7291129",
+      "title": "Account Executive, Commercial - SMB",
+      "company": "Smartsheet",
+      "location": "Bellevue, WA, USA",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2026-04-13",
+      "url": "https://job-boards.greenhouse.io/smartsheet/jobs/7291129",
+      "source": "Greenhouse ATS",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;For over 20 years, Smartsheet has helped people and teams achieve–well, anything. From seamless work management to smart, scalable solutions, we’ve always worked with flow. We’re building tools that empower teams to automate the manual, uncover insights, and scale smarter. But more than that, we’re creating space– space to think big, take action, and unlock the kind of work that truly matters. Because when challenge meets purpose, and passion turns into progress, that’s magic at work, and it’s what we show up for everyday.&lt;/p&gt;&lt;/div&g",
+      "requirements": [],
+      "ats_board": "smartsheet",
+      "fetched_at": "2026-04-14T01:35:55.847890Z"
+    },
+    {
+      "id": "greenhouse_5819898004",
+      "title": "Strategic Account Executive - Financial Services",
+      "company": "ClickHouse",
+      "location": "NYC, Boston, or Chicago",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2026-04-06",
+      "url": "https://job-boards.greenhouse.io/clickhouse/jobs/5819898004",
+      "source": "Greenhouse ATS",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About ClickHouse&lt;/h3&gt;\n&lt;p&gt;Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 3,000 customers and ARR that has grown over 250 percent year over year, ClickHouse leads the market in real-time analytics, data warehousing, observability, and AI workloads.&lt;/p&gt;\n&lt;p&gt;The company’s sustained, accelerating momentum was recently validated by a $400M Series D financing round. Over the past three months, customers including Capital One, Lova",
+      "requirements": [],
+      "ats_board": "clickhouse",
+      "fetched_at": "2026-04-14T01:36:01.519593Z"
+    },
+    {
+      "id": "greenhouse_5136708008",
+      "title": "Product Marketing Lead",
+      "company": "Osano",
+      "location": "Austin, TX",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2026-03-01",
+      "url": "https://job-boards.greenhouse.io/osano/jobs/5136708008",
+      "source": "Greenhouse ATS",
+      "description": "&lt;h2&gt;&lt;strong&gt;About Osano&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Osano is an innovative B-Corporation built around a simple belief: privacy is a fundamental right. Since day one, we’ve been focused on giving modern enterprises the ability to innovate quickly, stay competitive, and earn customer trust by respecting data privacy and complying with consent guidelines. Our products help organizations operate confidently in a rapidly evolving regulatory and technological landscape.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We’re looking for a &lt;stro",
+      "requirements": [],
+      "ats_board": "osano",
+      "fetched_at": "2026-04-14T01:36:18.234508Z"
+    },
+    {
+      "id": "greenhouse_5115907008",
+      "title": "Sales Manager",
+      "company": "Osano",
+      "location": "Austin, TX",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2026-02-24",
+      "url": "https://job-boards.greenhouse.io/osano/jobs/5115907008",
+      "source": "Greenhouse ATS",
+      "description": "&lt;h2&gt;About Osano&lt;/h2&gt;\n&lt;p&gt;Osano is an innovative B-Corporation built around a simple belief: privacy is a fundamental right. Since day one, we’ve been focused on giving modern enterprises the ability to innovate quickly, stay competitive, and earn customer trust by respecting data privacy and complying with consent guidelines. Our products help organizations operate confidently in a rapidly evolving regulatory and technological landscape.&lt;/p&gt;\n&lt;h2&gt;About the Role&lt;/h2&gt;\n&lt;p&gt;We’re hiring an experienced Sales Manager to nurture and inspire a high-performing tea",
+      "requirements": [],
+      "ats_board": "osano",
+      "fetched_at": "2026-04-14T01:36:18.234508Z"
+    },
+    {
+      "id": "greenhouse_5125936008",
+      "title": "Sr Account Executive",
+      "company": "Osano",
+      "location": "Austin, TX",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2026-02-24",
+      "url": "https://job-boards.greenhouse.io/osano/jobs/5125936008",
+      "source": "Greenhouse ATS",
+      "description": "&lt;h2&gt;&lt;strong&gt;About Osano&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Osano is an innovative B-Corporation built around a simple belief: privacy is a fundamental right. Since day one, we’ve been focused on giving modern enterprises the ability to innovate quickly, stay competitive, and earn customer trust by respecting data privacy and complying with consent guidelines. Our products help organizations operate confidently in a rapidly evolving regulatory and technological landscape.&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;We’re looking for an &lt;str",
+      "requirements": [],
+      "ats_board": "osano",
+      "fetched_at": "2026-04-14T01:36:18.234508Z"
     }
   ],
-  "updated_at": "2026-04-13T19:33:11.909884Z",
-  "total": 1718
+  "updated_at": "2026-04-14T01:36:18.238666Z",
+  "total": 1719
 }
