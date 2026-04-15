@@ -2,7 +2,7 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-04-15T13:17:20.690375Z"
+    "last_seen": "2026-04-15T19:15:42.164991Z"
   },
   "sanctuary-computer": {
     "company_name": "Sanctuary Computer",
@@ -12,101 +12,101 @@
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-04-15T13:17:20.690391Z"
+    "last_seen": "2026-04-15T19:15:42.164998Z"
   },
   "autohdr": {
     "company_name": "AutoHDR",
     "score": 15,
-    "last_seen": "2026-04-15T13:17:20.690388Z"
+    "last_seen": "2026-04-15T19:15:42.164996Z"
   },
   "xsolla": {
     "company_name": "Xsolla",
     "score": 15,
-    "last_seen": "2026-04-15T13:17:20.690424Z"
+    "last_seen": "2026-04-15T19:15:42.165048Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-04-15T13:17:20.690399Z"
+    "last_seen": "2026-04-15T19:15:42.165025Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-04-15T13:17:20.690403Z"
+    "last_seen": "2026-04-15T19:15:42.165029Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-04-15T13:17:20.690405Z"
+    "last_seen": "2026-04-15T19:15:42.165031Z"
   },
   "davita": {
     "company_name": "DaVita",
     "score": 15,
-    "last_seen": "2026-04-15T13:17:20.690408Z"
+    "last_seen": "2026-04-15T19:15:42.165033Z"
   },
   "kroger": {
     "company_name": "Kroger",
     "score": 15,
-    "last_seen": "2026-04-15T13:17:20.690412Z"
+    "last_seen": "2026-04-15T19:15:42.165038Z"
   },
   "the-tjx-companies-inc": {
     "company_name": "The TJX Companies, Inc.",
     "score": 15,
-    "last_seen": "2026-04-15T13:17:20.690410Z"
+    "last_seen": "2026-04-15T19:15:42.165035Z"
   },
   "hitachi-energy": {
     "company_name": "Hitachi Energy",
     "score": 15,
-    "last_seen": "2026-04-15T13:17:20.690414Z"
+    "last_seen": "2026-04-15T19:15:42.165040Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
     "score": 15,
-    "last_seen": "2026-04-15T13:17:20.690385Z"
+    "last_seen": "2026-04-15T19:15:42.164965Z"
   },
   "wipro": {
     "company_name": "Wipro",
     "score": 15,
-    "last_seen": "2026-04-15T13:17:20.690396Z"
+    "last_seen": "2026-04-15T19:15:42.165023Z"
   },
   "smartsheet": {
     "company_name": "Smartsheet",
     "score": 15,
-    "last_seen": "2026-04-15T13:17:20.690421Z"
+    "last_seen": "2026-04-15T19:15:42.165046Z"
   },
   "huzzle": {
     "company_name": "Huzzle",
-    "score": 14,
+    "score": 13,
     "last_seen": "2026-04-15T01:34:17.237937Z"
   },
   "solaredge": {
     "company_name": "SolarEdge",
-    "score": 13,
+    "score": 12,
     "last_seen": "2026-04-15T07:33:05.888529Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
-    "score": 12,
+    "score": 11,
     "last_seen": "2026-04-14T19:13:06.002913Z"
   },
   "runn": {
     "company_name": "Runn",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-04-14T13:13:58.120810Z"
   },
   "medallion": {
     "company_name": "Medallion",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-04-11T12:52:58.035218Z"
   },
   "bd": {
     "company_name": "BD",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-04-14T13:13:58.120786Z"
   },
   "clickhouse": {
     "company_name": "ClickHouse",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-04-07T13:18:51.739407Z"
   },
   "doordash": {
@@ -116,53 +116,58 @@
   },
   "chime": {
     "company_name": "Chime",
-    "score": 9,
-    "last_seen": "2026-04-15T07:33:05.888521Z"
-  },
-  "remote": {
-    "company_name": "Remote",
-    "score": 9,
-    "last_seen": "2026-04-15T07:33:05.888526Z"
+    "score": 10,
+    "last_seen": "2026-04-15T19:15:42.165010Z"
   },
   "zscaler": {
     "company_name": "Zscaler",
     "score": 9,
     "last_seen": "2026-04-15T07:33:05.888514Z"
   },
-  "electe-srl": {
-    "company_name": "ELECTE S.R.L",
+  "remote": {
+    "company_name": "Remote",
     "score": 8,
-    "last_seen": "2026-03-26T18:57:15.986768Z"
-  },
-  "zillow": {
-    "company_name": "Zillow",
-    "score": 7,
-    "last_seen": "2026-04-13T13:25:53.443543Z"
+    "last_seen": "2026-04-15T07:33:05.888526Z"
   },
   "claritev": {
     "company_name": "Claritev",
+    "score": 8,
+    "last_seen": "2026-04-15T19:15:42.165017Z"
+  },
+  "electe-srl": {
+    "company_name": "ELECTE S.R.L",
     "score": 7,
-    "last_seen": "2026-04-15T07:33:05.888516Z"
+    "last_seen": "2026-03-26T18:57:15.986768Z"
   },
   "commvault": {
     "company_name": "Commvault",
     "score": 7,
     "last_seen": "2026-04-15T07:33:05.888519Z"
   },
+  "zillow": {
+    "company_name": "Zillow",
+    "score": 6,
+    "last_seen": "2026-04-13T13:25:53.443543Z"
+  },
   "automat-it": {
     "company_name": "Automat-it",
-    "score": 6,
-    "last_seen": "2026-04-15T07:33:05.888531Z"
-  },
-  "think-academy-us": {
-    "company_name": "Think Academy US",
     "score": 5,
-    "last_seen": "2026-04-14T07:39:57.356079Z"
+    "last_seen": "2026-04-15T07:33:05.888531Z"
   },
   "ecs": {
     "company_name": "ECS",
     "score": 5,
     "last_seen": "2026-04-13T08:04:23.385340Z"
+  },
+  "meta": {
+    "company_name": "Meta",
+    "score": 5,
+    "last_seen": "2026-04-15T19:15:42.165012Z"
+  },
+  "think-academy-us": {
+    "company_name": "Think Academy US",
+    "score": 4,
+    "last_seen": "2026-04-14T07:39:57.356079Z"
   },
   "world-wide-technology": {
     "company_name": "World Wide Technology",
@@ -171,23 +176,8 @@
   },
   "mindrift": {
     "company_name": "Mindrift",
-    "score": 2,
-    "last_seen": "2026-04-12T12:57:26.606597Z"
-  },
-  "infor": {
-    "company_name": "Infor",
-    "score": 2,
-    "last_seen": "2026-04-13T08:04:23.385347Z"
-  },
-  "ventura-travel": {
-    "company_name": "Ventura TRAVEL",
-    "score": 2,
-    "last_seen": "2026-04-14T07:39:57.356075Z"
-  },
-  "mantech": {
-    "company_name": "ManTech",
-    "score": 2,
-    "last_seen": "2026-04-14T07:39:57.356086Z"
+    "score": 3,
+    "last_seen": "2026-04-15T19:15:42.165003Z"
   },
   "tripleten": {
     "company_name": "TripleTen",
@@ -198,5 +188,15 @@
     "company_name": "Syngenta Group",
     "score": 2,
     "last_seen": "2026-04-15T07:33:05.888508Z"
+  },
+  "sanofi": {
+    "company_name": "Sanofi",
+    "score": 2,
+    "last_seen": "2026-04-15T19:15:42.165001Z"
+  },
+  "launchdarkly": {
+    "company_name": "LaunchDarkly",
+    "score": 2,
+    "last_seen": "2026-04-15T19:15:42.165005Z"
   }
 }
