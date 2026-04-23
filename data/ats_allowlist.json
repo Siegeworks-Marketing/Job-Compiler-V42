@@ -1,13 +1,13 @@
 {
   "name": {
     "company_name": "name",
-    "score": 20,
-    "last_seen": "2026-04-23T01:31:46.501760Z"
+    "score": 15,
+    "last_seen": "2026-04-23T07:26:57.503228Z"
   },
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-04-23T01:31:46.501696Z"
+    "last_seen": "2026-04-23T07:26:57.503123Z"
   },
   "sanctuary-computer": {
     "company_name": "Sanctuary Computer",
@@ -17,67 +17,67 @@
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-04-23T01:31:46.501720Z"
+    "last_seen": "2026-04-23T07:26:57.503160Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-04-23T01:31:46.501723Z"
+    "last_seen": "2026-04-23T07:26:57.503164Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-04-23T01:31:46.501725Z"
+    "last_seen": "2026-04-23T07:26:57.503168Z"
   },
   "davita": {
     "company_name": "DaVita",
     "score": 15,
-    "last_seen": "2026-04-23T01:31:46.501727Z"
+    "last_seen": "2026-04-23T07:26:57.503171Z"
   },
   "kroger": {
     "company_name": "Kroger",
     "score": 15,
-    "last_seen": "2026-04-23T01:31:46.501733Z"
+    "last_seen": "2026-04-23T07:26:57.503182Z"
   },
   "hitachi-energy": {
     "company_name": "Hitachi Energy",
     "score": 15,
-    "last_seen": "2026-04-23T01:31:46.501735Z"
+    "last_seen": "2026-04-23T07:26:57.503186Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
     "score": 15,
-    "last_seen": "2026-04-23T01:31:46.501678Z"
+    "last_seen": "2026-04-23T07:26:57.503098Z"
   },
   "wipro": {
     "company_name": "Wipro",
     "score": 15,
-    "last_seen": "2026-04-23T01:31:46.501729Z"
+    "last_seen": "2026-04-23T07:26:57.503175Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
     "score": 15,
-    "last_seen": "2026-04-23T01:31:46.501693Z"
+    "last_seen": "2026-04-23T07:26:57.503120Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-04-23T01:31:46.501691Z"
+    "last_seen": "2026-04-23T07:26:57.503116Z"
   },
   "autohdr": {
     "company_name": "AutoHDR",
     "score": 15,
-    "last_seen": "2026-04-23T01:31:46.501687Z"
+    "last_seen": "2026-04-23T07:26:57.503111Z"
   },
   "bjak": {
     "company_name": "Bjak",
     "score": 15,
-    "last_seen": "2026-04-23T01:31:46.501754Z"
+    "last_seen": "2026-04-23T07:26:57.503217Z"
   },
   "insider-one": {
     "company_name": "Insider One",
     "score": 15,
-    "last_seen": "2026-04-23T01:31:46.501751Z"
+    "last_seen": "2026-04-23T07:26:57.503213Z"
   },
   "gongio": {
     "company_name": "Gong.io",
@@ -87,27 +87,17 @@
   "guidepoint-security": {
     "company_name": "GuidePoint Security",
     "score": 15,
-    "last_seen": "2026-04-23T01:31:46.501756Z"
+    "last_seen": "2026-04-23T07:26:57.503221Z"
   },
   "540": {
     "company_name": "540",
     "score": 15,
-    "last_seen": "2026-04-23T01:31:46.501758Z"
+    "last_seen": "2026-04-23T07:26:57.503224Z"
   },
   "rowan": {
     "company_name": "Rowan",
-    "score": 14,
+    "score": 13,
     "last_seen": "2026-04-22T19:05:35.607607Z"
-  },
-  "agoda": {
-    "company_name": "Agoda",
-    "score": 13,
-    "last_seen": "2026-04-22T13:08:02.456832Z"
-  },
-  "veeam-software": {
-    "company_name": "Veeam Software",
-    "score": 13,
-    "last_seen": "2026-04-22T01:32:48.222821Z"
   },
   "smartsheet": {
     "company_name": "Smartsheet",
@@ -116,37 +106,52 @@
   },
   "meta": {
     "company_name": "Meta",
+    "score": 13,
+    "last_seen": "2026-04-23T07:26:57.503190Z"
+  },
+  "agoda": {
+    "company_name": "Agoda",
     "score": 12,
-    "last_seen": "2026-04-23T01:31:46.501737Z"
+    "last_seen": "2026-04-22T13:08:02.456832Z"
+  },
+  "veeam-software": {
+    "company_name": "Veeam Software",
+    "score": 12,
+    "last_seen": "2026-04-22T01:32:48.222821Z"
   },
   "solaredge": {
     "company_name": "SolarEdge",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-04-21T13:11:50.351651Z"
   },
   "mindrift": {
     "company_name": "Mindrift",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-04-20T08:00:38.687373Z"
   },
   "deel": {
     "company_name": "Deel",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-04-20T08:00:38.687381Z"
   },
   "mantech": {
     "company_name": "ManTech",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-04-23T01:31:46.501698Z"
+  },
+  "world-wide-technology": {
+    "company_name": "World Wide Technology",
+    "score": 5,
+    "last_seen": "2026-04-23T07:26:57.503152Z"
   },
   "grafana-labs": {
     "company_name": "Grafana Labs",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-04-22T01:32:48.222826Z"
   },
   "ge-healthcare": {
     "company_name": "GE HealthCare",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-04-23T01:31:46.501713Z"
   },
   "spellbook": {
@@ -159,44 +164,39 @@
     "score": 4,
     "last_seen": "2026-04-23T01:31:46.501708Z"
   },
-  "nailmondo-gmbh": {
-    "company_name": "nailmondo GmbH",
-    "score": 4,
-    "last_seen": "2026-04-23T01:31:46.501718Z"
-  },
-  "ascend-healthcare": {
-    "company_name": "Ascend Healthcare",
-    "score": 3,
-    "last_seen": "2026-04-18T07:14:19.053271Z"
-  },
-  "claritev": {
-    "company_name": "Claritev",
-    "score": 3,
-    "last_seen": "2026-04-23T01:31:46.501706Z"
-  },
   "glow25-by-primal-state-performance-gmbh": {
     "company_name": "Glow25 (by Primal State Performance GmbH)",
-    "score": 3,
-    "last_seen": "2026-04-23T01:31:46.501716Z"
+    "score": 4,
+    "last_seen": "2026-04-23T07:26:57.503156Z"
   },
   "gm-financial": {
     "company_name": "GM Financial",
-    "score": 3,
-    "last_seen": "2026-04-23T01:31:46.501731Z"
+    "score": 4,
+    "last_seen": "2026-04-23T07:26:57.503178Z"
   },
   "adswerve-inc": {
     "company_name": "Adswerve, Inc",
-    "score": 3,
-    "last_seen": "2026-04-23T01:31:46.501739Z"
+    "score": 4,
+    "last_seen": "2026-04-23T07:26:57.503194Z"
   },
   "fox-global-assets": {
     "company_name": "Fox GLobal Assets",
-    "score": 3,
-    "last_seen": "2026-04-23T01:31:46.501742Z"
+    "score": 4,
+    "last_seen": "2026-04-23T07:26:57.503198Z"
   },
   "evergreen-nephrology": {
     "company_name": "Evergreen Nephrology",
+    "score": 4,
+    "last_seen": "2026-04-23T07:26:57.503201Z"
+  },
+  "telus-international": {
+    "company_name": "TELUS International",
+    "score": 4,
+    "last_seen": "2026-04-23T07:26:57.503146Z"
+  },
+  "nailmondo-gmbh": {
+    "company_name": "nailmondo GmbH",
     "score": 3,
-    "last_seen": "2026-04-23T01:31:46.501744Z"
+    "last_seen": "2026-04-23T01:31:46.501718Z"
   }
 }
