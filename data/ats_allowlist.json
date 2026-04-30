@@ -2,7 +2,7 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-04-30T01:59:47.927273Z"
+    "last_seen": "2026-04-30T08:08:18.362054Z"
   },
   "sanctuary-computer": {
     "company_name": "Sanctuary Computer",
@@ -12,37 +12,37 @@
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-04-30T01:59:47.927300Z"
+    "last_seen": "2026-04-30T08:08:18.362081Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-04-30T01:59:47.927302Z"
+    "last_seen": "2026-04-30T08:08:18.362083Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-04-30T01:59:47.927304Z"
+    "last_seen": "2026-04-30T08:08:18.362085Z"
   },
   "davita": {
     "company_name": "DaVita",
     "score": 15,
-    "last_seen": "2026-04-30T01:59:47.927306Z"
+    "last_seen": "2026-04-30T08:08:18.362088Z"
   },
   "kroger": {
     "company_name": "Kroger",
     "score": 15,
-    "last_seen": "2026-04-30T01:59:47.927310Z"
+    "last_seen": "2026-04-30T08:08:18.362092Z"
   },
   "hitachi-energy": {
     "company_name": "Hitachi Energy",
     "score": 15,
-    "last_seen": "2026-04-30T01:59:47.927312Z"
+    "last_seen": "2026-04-30T08:08:18.362094Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
     "score": 15,
-    "last_seen": "2026-04-30T01:59:47.927265Z"
+    "last_seen": "2026-04-30T08:08:18.362047Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
@@ -52,107 +52,102 @@
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-04-30T01:59:47.927271Z"
+    "last_seen": "2026-04-30T08:08:18.362052Z"
   },
   "autohdr": {
     "company_name": "AutoHDR",
     "score": 15,
-    "last_seen": "2026-04-30T01:59:47.927268Z"
+    "last_seen": "2026-04-30T08:08:18.362050Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-04-30T01:59:47.927314Z"
+    "last_seen": "2026-04-30T08:08:18.362096Z"
   },
   "gm-financial": {
     "company_name": "GM Financial",
     "score": 15,
-    "last_seen": "2026-04-30T01:59:47.927308Z"
+    "last_seen": "2026-04-30T08:08:18.362090Z"
   },
   "everai": {
     "company_name": "EverAI",
     "score": 15,
-    "last_seen": "2026-04-30T01:59:47.927261Z"
+    "last_seen": "2026-04-30T08:08:18.362043Z"
   },
   "ge-vernova": {
     "company_name": "GE Vernova",
     "score": 15,
-    "last_seen": "2026-04-30T01:59:47.927298Z"
+    "last_seen": "2026-04-30T08:08:18.362079Z"
   },
   "pivotal-health": {
     "company_name": "Pivotal Health",
     "score": 15,
-    "last_seen": "2026-04-30T01:59:47.927319Z"
+    "last_seen": "2026-04-30T08:08:18.362101Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-04-30T01:59:47.927253Z"
-  },
-  "adswerve-inc": {
-    "company_name": "Adswerve, Inc",
-    "score": 14,
-    "last_seen": "2026-04-29T19:14:00.356179Z"
+    "last_seen": "2026-04-30T08:08:18.362035Z"
   },
   "smartsheet": {
     "company_name": "Smartsheet",
     "score": 14,
     "last_seen": "2026-04-28T19:20:16.347719Z"
   },
+  "adswerve-inc": {
+    "company_name": "Adswerve, Inc",
+    "score": 13,
+    "last_seen": "2026-04-29T19:14:00.356179Z"
+  },
   "mindrift": {
     "company_name": "Mindrift",
     "score": 13,
     "last_seen": "2026-04-29T08:05:36.996795Z"
   },
-  "maneuver-marketing": {
-    "company_name": "Maneuver Marketing",
-    "score": 9,
-    "last_seen": "2026-04-28T13:28:55.388265Z"
-  },
   "supportyourapp": {
     "company_name": "SupportYourApp",
-    "score": 9,
-    "last_seen": "2026-04-30T01:59:47.927287Z"
+    "score": 10,
+    "last_seen": "2026-04-30T08:08:18.362069Z"
+  },
+  "maneuver-marketing": {
+    "company_name": "Maneuver Marketing",
+    "score": 8,
+    "last_seen": "2026-04-28T13:28:55.388265Z"
   },
   "pindrop": {
     "company_name": "Pindrop",
-    "score": 7,
-    "last_seen": "2026-04-30T01:59:47.927289Z"
+    "score": 8,
+    "last_seen": "2026-04-30T08:08:18.362072Z"
+  },
+  "oruka-therapeutics": {
+    "company_name": "Oruka Therapeutics",
+    "score": 6,
+    "last_seen": "2026-04-30T08:08:18.362098Z"
+  },
+  "lumen-technologies": {
+    "company_name": "Lumen Technologies",
+    "score": 6,
+    "last_seen": "2026-04-30T08:08:18.362062Z"
+  },
+  "doordash": {
+    "company_name": "DoorDash",
+    "score": 6,
+    "last_seen": "2026-04-30T08:08:18.362064Z"
+  },
+  "mercor": {
+    "company_name": "Mercor",
+    "score": 6,
+    "last_seen": "2026-04-30T08:08:18.362104Z"
   },
   "evergreen-nephrology": {
     "company_name": "Evergreen Nephrology",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-04-24T18:43:34.618159Z"
   },
   "imagine-pediatrics": {
     "company_name": "Imagine Pediatrics",
-    "score": 5,
-    "last_seen": "2026-04-26T07:18:45.861311Z"
-  },
-  "oruka-therapeutics": {
-    "company_name": "Oruka Therapeutics",
-    "score": 5,
-    "last_seen": "2026-04-30T01:59:47.927317Z"
-  },
-  "lumen-technologies": {
-    "company_name": "Lumen Technologies",
-    "score": 5,
-    "last_seen": "2026-04-30T01:59:47.927280Z"
-  },
-  "doordash": {
-    "company_name": "DoorDash",
-    "score": 5,
-    "last_seen": "2026-04-30T01:59:47.927283Z"
-  },
-  "mercor": {
-    "company_name": "Mercor",
-    "score": 5,
-    "last_seen": "2026-04-30T01:59:47.927323Z"
-  },
-  "fox-global-assets": {
-    "company_name": "Fox GLobal Assets",
     "score": 4,
-    "last_seen": "2026-04-23T19:01:17.741447Z"
+    "last_seen": "2026-04-26T07:18:45.861311Z"
   },
   "collibra": {
     "company_name": "Collibra",
@@ -163,6 +158,16 @@
     "company_name": "Natera",
     "score": 4,
     "last_seen": "2026-04-29T08:05:36.996799Z"
+  },
+  "mozilla": {
+    "company_name": "Mozilla",
+    "score": 4,
+    "last_seen": "2026-04-30T08:08:18.362057Z"
+  },
+  "fox-global-assets": {
+    "company_name": "Fox GLobal Assets",
+    "score": 3,
+    "last_seen": "2026-04-23T19:01:17.741447Z"
   },
   "veeam-software": {
     "company_name": "Veeam Software",
@@ -179,24 +184,19 @@
     "score": 3,
     "last_seen": "2026-04-29T13:27:51.345249Z"
   },
-  "mozilla": {
-    "company_name": "Mozilla",
+  "mlabs": {
+    "company_name": "MLabs",
     "score": 3,
-    "last_seen": "2026-04-30T01:59:47.927276Z"
-  },
-  "crowdstrike": {
-    "company_name": "Crowdstrike",
-    "score": 2,
-    "last_seen": "2026-04-29T08:05:36.996809Z"
+    "last_seen": "2026-04-30T08:08:18.362060Z"
   },
   "habitat-health": {
     "company_name": "Habitat Health",
     "score": 2,
     "last_seen": "2026-04-29T08:05:36.996839Z"
   },
-  "mlabs": {
-    "company_name": "MLabs",
+  "datavant": {
+    "company_name": "Datavant",
     "score": 2,
-    "last_seen": "2026-04-30T01:59:47.927278Z"
+    "last_seen": "2026-04-30T08:08:18.362066Z"
   }
 }
