@@ -2,47 +2,47 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-05-02T12:50:34.982044Z"
+    "last_seen": "2026-05-02T18:47:32.389203Z"
   },
   "sanctuary-computer": {
     "company_name": "Sanctuary Computer",
     "score": 15,
-    "last_seen": "2026-05-02T12:50:34.982047Z"
+    "last_seen": "2026-05-02T18:47:32.389205Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-05-02T12:50:34.982050Z"
+    "last_seen": "2026-05-02T18:47:32.389208Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-05-02T12:50:34.982056Z"
+    "last_seen": "2026-05-02T18:47:32.389212Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-05-02T12:50:34.982053Z"
+    "last_seen": "2026-05-02T18:47:32.389210Z"
   },
   "davita": {
     "company_name": "DaVita",
     "score": 15,
-    "last_seen": "2026-05-02T12:50:34.982059Z"
+    "last_seen": "2026-05-02T18:47:32.389215Z"
   },
   "kroger": {
     "company_name": "Kroger",
     "score": 15,
-    "last_seen": "2026-05-02T12:50:34.982064Z"
+    "last_seen": "2026-05-02T18:47:32.389219Z"
   },
   "hitachi-energy": {
     "company_name": "Hitachi Energy",
     "score": 15,
-    "last_seen": "2026-05-02T12:50:34.982067Z"
+    "last_seen": "2026-05-02T18:47:32.389221Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
     "score": 15,
-    "last_seen": "2026-05-02T12:50:34.982034Z"
+    "last_seen": "2026-05-02T18:47:32.389193Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
@@ -52,22 +52,22 @@
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-05-02T12:50:34.982041Z"
+    "last_seen": "2026-05-02T18:47:32.389200Z"
   },
   "autohdr": {
     "company_name": "AutoHDR",
     "score": 15,
-    "last_seen": "2026-05-02T12:50:34.982038Z"
+    "last_seen": "2026-05-02T18:47:32.389197Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-05-02T12:50:34.982069Z"
+    "last_seen": "2026-05-02T18:47:32.389223Z"
   },
   "gm-financial": {
     "company_name": "GM Financial",
     "score": 15,
-    "last_seen": "2026-05-02T12:50:34.982061Z"
+    "last_seen": "2026-05-02T18:47:32.389217Z"
   },
   "everai": {
     "company_name": "EverAI",
@@ -77,87 +77,82 @@
   "pivotal-health": {
     "company_name": "Pivotal Health",
     "score": 15,
-    "last_seen": "2026-05-02T12:50:34.982085Z"
+    "last_seen": "2026-05-02T18:47:32.389241Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-05-02T12:50:34.982020Z"
+    "last_seen": "2026-05-02T18:47:32.389185Z"
   },
   "oruka-therapeutics": {
     "company_name": "Oruka Therapeutics",
     "score": 15,
-    "last_seen": "2026-05-02T12:50:34.982082Z"
+    "last_seen": "2026-05-02T18:47:32.389238Z"
   },
   "supportyourapp": {
     "company_name": "SupportYourApp",
-    "score": 12,
+    "score": 11,
     "last_seen": "2026-05-01T19:03:42.933656Z"
   },
   "mindrift": {
     "company_name": "Mindrift",
-    "score": 12,
+    "score": 11,
     "last_seen": "2026-05-02T01:34:56.658614Z"
   },
   "smartsheet": {
     "company_name": "Smartsheet",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-04-28T19:20:16.347719Z"
   },
   "pindrop": {
     "company_name": "Pindrop",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-05-01T19:03:42.933659Z"
   },
   "lumen-technologies": {
     "company_name": "Lumen Technologies",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-05-02T01:34:56.658627Z"
+  },
+  "paperpile": {
+    "company_name": "Paperpile",
+    "score": 9,
+    "last_seen": "2026-05-02T18:47:32.389233Z"
   },
   "doordash": {
     "company_name": "DoorDash",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-05-01T19:03:42.933652Z"
   },
   "mozilla": {
     "company_name": "Mozilla",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-05-02T01:34:56.658609Z"
   },
   "mlabs": {
     "company_name": "MLabs",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-05-02T01:34:56.658625Z"
-  },
-  "paperpile": {
-    "company_name": "Paperpile",
-    "score": 8,
-    "last_seen": "2026-05-02T12:50:34.982076Z"
   },
   "ge-vernova": {
     "company_name": "GE Vernova",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-04-30T13:29:32.649613Z"
   },
   "datavant": {
     "company_name": "Datavant",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-05-01T19:03:42.933654Z"
   },
   "adswerve-inc": {
     "company_name": "Adswerve, Inc",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-04-29T19:14:00.356179Z"
   },
   "mercor": {
     "company_name": "Mercor",
-    "score": 4,
-    "last_seen": "2026-05-02T01:34:56.658659Z"
-  },
-  "bikeleasing-service-gmbh-co-kg": {
-    "company_name": "Bikeleasing-Service GmbH & Co. KG",
     "score": 3,
-    "last_seen": "2026-05-01T13:01:19.091101Z"
+    "last_seen": "2026-05-02T01:34:56.658659Z"
   },
   "veeam-software": {
     "company_name": "Veeam Software",
@@ -169,34 +164,39 @@
     "score": 3,
     "last_seen": "2026-04-29T13:27:51.345249Z"
   },
+  "garner-health": {
+    "company_name": "Garner Health",
+    "score": 3,
+    "last_seen": "2026-05-02T18:47:32.389230Z"
+  },
+  "interra-health": {
+    "company_name": "Interra Health",
+    "score": 3,
+    "last_seen": "2026-05-02T18:47:32.389235Z"
+  },
+  "bikeleasing-service-gmbh-co-kg": {
+    "company_name": "Bikeleasing-Service GmbH & Co. KG",
+    "score": 2,
+    "last_seen": "2026-05-01T13:01:19.091101Z"
+  },
+  "monzo": {
+    "company_name": "Monzo",
+    "score": 2,
+    "last_seen": "2026-05-02T18:47:32.389225Z"
+  },
+  "imagine-pediatrics": {
+    "company_name": "Imagine Pediatrics",
+    "score": 2,
+    "last_seen": "2026-05-02T18:47:32.389228Z"
+  },
   "schneider-electric": {
     "company_name": "Schneider Electric",
-    "score": 2,
+    "score": 1,
     "last_seen": "2026-05-01T19:03:42.933678Z"
   },
   "natera": {
     "company_name": "Natera",
-    "score": 2,
-    "last_seen": "2026-04-29T08:05:36.996799Z"
-  },
-  "parexel": {
-    "company_name": "Parexel",
-    "score": 2,
-    "last_seen": "2026-05-02T01:34:56.658616Z"
-  },
-  "garner-health": {
-    "company_name": "Garner Health",
-    "score": 2,
-    "last_seen": "2026-05-02T12:50:34.982072Z"
-  },
-  "interra-health": {
-    "company_name": "Interra Health",
-    "score": 2,
-    "last_seen": "2026-05-02T12:50:34.982079Z"
-  },
-  "collibra": {
-    "company_name": "Collibra",
     "score": 1,
-    "last_seen": "2026-04-29T08:05:36.996786Z"
+    "last_seen": "2026-04-29T08:05:36.996799Z"
   }
 }
