@@ -19940,57 +19940,6 @@
       "fetched_at": "2026-05-02T01:35:16.604807Z"
     },
     {
-      "id": "themuse_19987712",
-      "title": "Department Supervisor",
-      "company": "Walmart",
-      "location": "Akron, OH",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-08-22",
-      "url": "https://www.themuse.com/jobs/walmart/department-supervisor-dea16d",
-      "source": "The Muse",
-      "description": "Position Summary...    What you'll do...   Provides supervision and development opportunities for hourly associates by hiring, training, and mentoring of associates; assigning duties; setting clear expectations; providing associate recognition; communicating expectations consistently and effectively promoting a belonging mindset in the workplace and recruiting and developing qualified associates to meet staffing needs and achieve company growth potential. Coordinates, completes, and oversees job-related activities and assignments by developing and maintaining relation",
-      "requirements": [
-        "Mid Level"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-05-02T07:25:29.303886Z"
-    },
-    {
-      "id": "themuse_19057423",
-      "title": "Spring 2026 Intern - Electronics (Masters), C++",
-      "company": "Ansys",
-      "location": "Austin, TX",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-07-28",
-      "url": "https://www.themuse.com/jobs/ansys/spring-2026-intern-electronics-masters-c",
-      "source": "The Muse",
-      "description": "Requisition #:  16663  Ansys is now a part of Synopsys. Synopsys, Inc. (Nasdaq: SNPS) accelerates technology innovation from silicon to systems. Catalyzing the era of pervasive intelligence, we deliver design solutions, from electronic design automation to silicon IP, to system design and multiphysics simulation and analysis. We partner closely with our customers across a wide range of industries to maximize their R&amp;D capability and productivity, powering innovation today that ignites the ingenuity of tomorrow. Learn more at www.synopsys.com.   SUMMARY",
-      "requirements": [
-        "Internship"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-05-02T07:25:29.303886Z"
-    },
-    {
-      "id": "themuse_19644462",
-      "title": "Product Operation Specialist - Comprehensive Search Operation",
-      "company": "TikTok",
-      "location": "Singapore",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-07-29",
-      "url": "https://www.themuse.com/jobs/tiktok/product-operation-specialist-comprehensive-search-operation",
-      "source": "The Muse",
-      "description": "Responsibilities    About the team The T&amp;S Evaluation and Investigation team, working closely with the Search team, taking the evaluation standards as the baseline and principles, and manually evaluating the search query and corresponding search results page to reflect the real user experience of the search function.     Responsibilities - Have a deep understanding and knowledge of the English speaking markets, including local cultural norms. - Responsible for search evaluation, investigation, and other search-related business requirements and provide guidance",
-      "requirements": [
-        "Senior Level"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-05-02T07:25:29.303886Z"
-    },
-    {
       "id": "themuse_18972718",
       "title": "Retail Associate",
       "company": "Walmart",
@@ -20003,23 +19952,6 @@
       "description": "Position Summary...   Why do people love eating in our café at Sam's Club? Our members tell us one of the biggest reasons is our hard-working and happy-to-help café associates. Do you have a passion for preparing food? Our cafe associates listen to our member's needs, prepare their food orders and provide fast and friendly service. We take pride in every aspect of our work and perform it with energy and enthusiasm. We need strong team players, with a commitment to serving our members and creating the warm and friendly environment they deserve - serving up a meal just like at hom",
       "requirements": [
         "Entry Level"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-05-02T07:25:29.303886Z"
-    },
-    {
-      "id": "themuse_16125011",
-      "title": "Software Engineer - Product (Technical Leadership)",
-      "company": "Meta",
-      "location": "Menlo Park, CA",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-03-11",
-      "url": "https://www.themuse.com/jobs/meta/software-engineer-product-technical-leadership-835238",
-      "source": "The Muse",
-      "description": "We are the teams who create all of Facebook's product used by more than 1.5 billion people around the world. Want to build new features and improve existing products like Commerce, Ads, Video, Groups, News Feed, Search, and more? Want to solve unique, large scale, highly complex technical problems? Facebook is seeking experienced full-stack software engineers to join our product teams. You can help build products that help us connect the next billion people, create new features that have billions of interactions per day, and be a part of a team that's working to help people connect around t",
-      "requirements": [
-        "Senior Level"
       ],
       "ats_board": null,
       "fetched_at": "2026-05-02T07:25:29.303886Z"
@@ -21568,8 +21500,136 @@
       "requirements": [],
       "ats_board": "smartsheet",
       "fetched_at": "2026-05-02T07:25:38.672872Z"
+    },
+    {
+      "id": "themuse_19987712",
+      "title": "Department Supervisor",
+      "company": "Walmart",
+      "location": "Akron, OH",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-08-22",
+      "url": "https://www.themuse.com/jobs/walmart/department-supervisor-dea16d",
+      "source": "The Muse",
+      "description": "Position Summary...    What you'll do...   Provides supervision and development opportunities for hourly associates by hiring, training, and mentoring of associates; assigning duties; setting clear expectations; providing associate recognition; communicating expectations consistently and effectively promoting a belonging mindset in the workplace and recruiting and developing qualified associates to meet staffing needs and achieve company growth potential. Coordinates, completes, and oversees job-related activities and assignments by developing and maintaining relation",
+      "requirements": [
+        "Mid Level"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-05-02T12:50:34.702202Z"
+    },
+    {
+      "id": "themuse_19057423",
+      "title": "Spring 2026 Intern - Electronics (Masters), C++",
+      "company": "Ansys",
+      "location": "Austin, TX",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-07-28",
+      "url": "https://www.themuse.com/jobs/ansys/spring-2026-intern-electronics-masters-c",
+      "source": "The Muse",
+      "description": "Requisition #:  16663  Ansys is now a part of Synopsys. Synopsys, Inc. (Nasdaq: SNPS) accelerates technology innovation from silicon to systems. Catalyzing the era of pervasive intelligence, we deliver design solutions, from electronic design automation to silicon IP, to system design and multiphysics simulation and analysis. We partner closely with our customers across a wide range of industries to maximize their R&amp;D capability and productivity, powering innovation today that ignites the ingenuity of tomorrow. Learn more at www.synopsys.com.   SUMMARY",
+      "requirements": [
+        "Internship"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-05-02T12:50:34.702202Z"
+    },
+    {
+      "id": "themuse_19644462",
+      "title": "Product Operation Specialist - Comprehensive Search Operation",
+      "company": "TikTok",
+      "location": "Singapore",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-07-29",
+      "url": "https://www.themuse.com/jobs/tiktok/product-operation-specialist-comprehensive-search-operation",
+      "source": "The Muse",
+      "description": "Responsibilities    About the team The T&amp;S Evaluation and Investigation team, working closely with the Search team, taking the evaluation standards as the baseline and principles, and manually evaluating the search query and corresponding search results page to reflect the real user experience of the search function.     Responsibilities - Have a deep understanding and knowledge of the English speaking markets, including local cultural norms. - Responsible for search evaluation, investigation, and other search-related business requirements and provide guidance",
+      "requirements": [
+        "Senior Level"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-05-02T12:50:34.702202Z"
+    },
+    {
+      "id": "themuse_16125011",
+      "title": "Software Engineer - Product (Technical Leadership)",
+      "company": "Meta",
+      "location": "Menlo Park, CA",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-03-11",
+      "url": "https://www.themuse.com/jobs/meta/software-engineer-product-technical-leadership-835238",
+      "source": "The Muse",
+      "description": "We are the teams who create all of Facebook's product used by more than 1.5 billion people around the world. Want to build new features and improve existing products like Commerce, Ads, Video, Groups, News Feed, Search, and more? Want to solve unique, large scale, highly complex technical problems? Facebook is seeking experienced full-stack software engineers to join our product teams. You can help build products that help us connect the next billion people, create new features that have billions of interactions per day, and be a part of a team that's working to help people connect around t",
+      "requirements": [
+        "Senior Level"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-05-02T12:50:34.702202Z"
+    },
+    {
+      "id": "remoteok_1131416",
+      "title": "Entry Level Crypto Market Specialist",
+      "company": "Infiniti Group",
+      "location": "Remote",
+      "remote_type": "Remote",
+      "salary": 50000,
+      "posted": "2026-05-01",
+      "url": "https://remoteOK.com/remote-jobs/remote-entry-level-crypto-market-specialist-infiniti-group-1131416",
+      "source": "Remote OK",
+      "description": "Infiniti Group Ltd is an international company working with digital assets, market research, and data-driven trading solutions. We are building a team of specialists who want to understand how crypto markets operate in practice and develop professional skills in a real market environment.  We are opening anÂ  Entry-Level Crypto Market Specialist Â position for candidates who are starting their career in the crypto space and are interested in analytics, market behavior, and structured decision-making. No prior professional experience is required â training and guidance are provided.    Your R",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-05-02T12:50:34.779949Z"
+    },
+    {
+      "id": "remoteok_1131415",
+      "title": "Senior Data Engineer",
+      "company": "Business Wire",
+      "location": "Remote",
+      "remote_type": "Remote",
+      "salary": 0,
+      "posted": "2026-05-01",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-business-wire-1131415",
+      "source": "Remote OK",
+      "description": "About the Role The Senior Data Engineer plays an integral role in creating and maintaining Business Wire's data pipelines, APIs, and services. As a member of our Engineering team, this role partners with other engineers, business analysts, and project managers to create applications for news processing, syndication, and metrics reporting systems.  Please mention the word **BREATHTAKINGLY** and tag RMjYwMDoxOTAwOjA6MmQxMDo6MTEwMA== when applying to show you read the job post completely (#RMjYwMDoxOTAwOjA6MmQxMDo6MTEwMA==). This is a beta feature to avoid spam applicants. Companies can search th",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-05-02T12:50:34.779949Z"
+    },
+    {
+      "id": "remoteok_1131414",
+      "title": "Digital Full Stack Engineer HR172",
+      "company": "Smart Working Solutions",
+      "location": "Remote",
+      "remote_type": "Remote",
+      "salary": 0,
+      "posted": "2026-05-01",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-full-stack-engineer-hr172-smart-working-solutions-1131414",
+      "source": "Remote OK",
+      "description": "About Smart Working  \n At Smart Working, we believe your job should not only look right on paper but also feel right every day. This isnât just another remote opportunity - itâs about finding where you truly belong, no matter where you are. From day one, youâre welcomed into a genuine community that values your growth and well-being. \n Our mission is simple: to break down geographic barriers and connect skilled professionals with outstanding global teams and products for full-time, long-term roles. We help you discover meaningful work with teams that invest in your success, where youâr",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-05-02T12:50:34.779949Z"
+    },
+    {
+      "id": "remoteok_1131413",
+      "title": "Full stack Staff Engineer",
+      "company": "Join",
+      "location": "Remote",
+      "remote_type": "Remote",
+      "salary": 0,
+      "posted": "2026-05-01",
+      "url": "https://remoteOK.com/remote-jobs/remote-full-stack-staff-engineer-join-1131413",
+      "source": "Remote OK",
+      "description": "Oakland, United States - Multiple Roles: Frontend-Heavy, Fullstack, Backend-HeavyAbout UsJoin is a leading provider of innovative SaaS solutions for the construction industry. Join brings together contractors, owners, and design teams to facilitate better decision-making throughout the pro...  Please mention the word **EASE** and tag RMjYwMDoxOTAwOjA6MmQxMDo6MTEwMA== when applying to show you read the job post completely (#RMjYwMDoxOTAwOjA6MmQxMDo6MTEwMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-05-02T12:50:34.779949Z"
     }
   ],
-  "updated_at": "2026-05-02T07:25:47.391565Z",
-  "total": 1435
+  "updated_at": "2026-05-02T12:50:48.473083Z",
+  "total": 1439
 }
