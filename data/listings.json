@@ -1,171 +1,6 @@
 {
   "jobs": [
     {
-      "id": "remotive_2088708",
-      "title": "🇩🇪 Senior/Staff Software Engineer PHP, TS, Rust, Kotlin (m/w/d)",
-      "company": "easybill GmbH",
-      "location": "Germany",
-      "remote_type": "Remote",
-      "salary": "",
-      "posted": "2026-04-10",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-staff-software-engineer-php-ts-rust-kotlin-m-w-d-2088708",
-      "source": "Remotive",
-      "description": "🇩🇪 This job ad is written in German. 🇩🇪  \n  easybill  ist eine cloudbasierte Rechnungssoftware, die sich durch einfache Anwendung, umfassende Funktionalität und vielfältige Anbindungen über Schnittstellen schon seit mehr als 18 Jahren am Markt behauptet. Aktuell haben wir mehr als 21.000 aktive Kunden und wachsen stetig weiter. Deshalb suchen wir nach einer motivierten Verstärkung für unser Team. \n Bei easybill arbeiten wir Remote-First, dein Wohnort ist uns egal - wir suchen die besten Kollegen*, nicht die schönste Stadt. Unsere festen Standorte bef",
-      "requirements": [],
-      "ats_board": null,
-      "fetched_at": "2026-04-26T07:18:45.296223Z"
-    },
-    {
-      "id": "remoteok_1131210",
-      "title": "Senior Sales Operations Analyst",
-      "company": "Honeycomb.io",
-      "location": "United States",
-      "remote_type": "Remote",
-      "salary": 0,
-      "posted": "2026-04-18",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-sales-operations-analyst-honeycomb-io-1131210",
-      "source": "Remote OK",
-      "description": "What We're Building  \n Honeycomb is a service for the near and present future, defining observability and raising expectations of what developer tools can do! We're working with well known companies like HelloFresh, Slack, LaunchDarkly, and Vanguard and more across a range of industries. This is an exciting time in our trajectory, we've closed Series D funding, scaled past the 200-person mark, and were named to Forbes' America's Best Startups of 2022 and 2023!&nbsp; \n &nbsp; \n If you want to see what we've been up to, please check out these  blog posts  and Honeycomb.io  press releases .&nbsp;",
-      "requirements": [],
-      "ats_board": null,
-      "fetched_at": "2026-04-26T07:18:45.670628Z"
-    },
-    {
-      "id": "remoteok_1131209",
-      "title": "Certified Medical Coder",
-      "company": "Cartwheel",
-      "location": "Cambridge, MA",
-      "remote_type": "Remote",
-      "salary": 30,
-      "posted": "2026-04-18",
-      "url": "https://remoteOK.com/remote-jobs/remote-certified-medical-coder-cartwheel-1131209",
-      "source": "Remote OK",
-      "description": "Join Cartwheel to help tackle the student mental health crisis. Cartwheel is an early-stage company building a new kind of mental health program for kids that puts schools at the center. We see our role as supporting school staff who see kids every single day. Instead of going around them, we collaborate with them. This means: Earlier intervention Higher student and family engagement in care Better coordination among the trusted adults in a student's life Kids shouldn't just aspire to get out of bed and drag themselves to class. They should be able to experience joy. They deserve to envision a",
-      "requirements": [],
-      "ats_board": null,
-      "fetched_at": "2026-04-26T07:18:45.670628Z"
-    },
-    {
-      "id": "remoteok_1131208",
-      "title": "Vice President Marketing",
-      "company": "Imagine Pediatrics",
-      "location": "Remote",
-      "remote_type": "Remote",
-      "salary": 0,
-      "posted": "2026-04-18",
-      "url": "https://remoteOK.com/remote-jobs/remote-vice-president-marketing-imagine-pediatrics-1131208",
-      "source": "Remote OK",
-      "description": "Who We Are      Imagine Pediatrics is a tech enabled, pediatrician led medical group reimagining care for children with special health care needs. We deliver 24/7 virtual first and in home medical, behavioral, and social care, working alongside families, providers, and health plans to break down barriers to quality care. We do not replace existing care teams; we enhance them, providing an extra layer of support with compassion, creativity, and an unwavering commitment to children with medical complexity.       What You'll Do   &nbsp;      As Vice President of Marketing at Imagine Pediatrics, y",
-      "requirements": [],
-      "ats_board": null,
-      "fetched_at": "2026-04-26T07:18:45.670628Z"
-    },
-    {
-      "id": "remoteok_1131207",
-      "title": "Local Advertising Account Executive",
-      "company": "Axios",
-      "location": "Atlanta, GA",
-      "remote_type": "Remote",
-      "salary": 0,
-      "posted": "2026-04-18",
-      "url": "https://remoteOK.com/remote-jobs/remote-local-advertising-account-executive-axios-1131207",
-      "source": "Remote OK",
-      "description": "The big picture:  Axios is a media company dedicated to delivering trustworthy, award-winning news in an audience-first format. We are building a new category of local revenue generation and are hiring  Local Market Builders  to help scale Axios Local across key markets. \n This is not a traditional Account Executive role. This is a  foundational, in-market revenue leader  responsible for building Axios' local advertising business from the ground up. \n  Why it matters : The Local Market Builder is the  face of Axios in their city or region âresponsible for developing deep relationships with l",
-      "requirements": [],
-      "ats_board": null,
-      "fetched_at": "2026-04-26T07:18:45.670628Z"
-    },
-    {
-      "id": "greenhouse_7679370003",
-      "title": "Data Platform Operations Lead (GCP, PostgreSQL) - Contract",
-      "company": "540",
-      "location": "Remote",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2026-04-15",
-      "url": "https://job-boards.greenhouse.io/540/jobs/7679370003",
-      "source": "Greenhouse ATS",
-      "description": "&lt;p&gt;540 is seeking a Data Platform Operations Lead to serve as an embedded SME and advisor, driving operational excellence, performance optimization, and production readiness for an AlloyDB-based platform in a FedRAMP High environment. You’ll join a high-impact team supporting a mission-critical data platform built on Google Cloud Platform (GCP). In this role, you will bridge the gap between complex database architecture and mission objectives, serving as a strategic liaison to client stakeholders while overseeing the technical evolution of the platform’s operations. This is a hands-on le",
-      "requirements": [],
-      "ats_board": "540",
-      "fetched_at": "2026-04-26T07:18:59.439105Z"
-    },
-    {
-      "id": "greenhouse_6073768003",
-      "title": "Pitch Your Position!",
-      "company": "540",
-      "location": "Arlington, VA",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2026-04-15",
-      "url": "https://job-boards.greenhouse.io/540/jobs/6073768003",
-      "source": "Greenhouse ATS",
-      "description": "&lt;div&gt;Do you want to work at 540, but don&#39;t see a posting that&#39;s the right fit? Submit your resume and a cover letter to pitch your dream job. Things change quickly here - you may be a great fit for a future role on our team.&lt;/div&gt;\n&lt;div&gt;\n&lt;p&gt;&lt;strong&gt;WHY 540?&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;540 is a forward-thinking company that the government turns to in order to #getshitdone. We don’t just talk about innovation – we deliver it. We break down barriers, build impactful technology, and solve mission-critical problems.&lt;/p&gt;\n&lt;/div&gt;\n&lt;div&gt;&lt;st",
-      "requirements": [],
-      "ats_board": "540",
-      "fetched_at": "2026-04-26T07:18:59.439105Z"
-    },
-    {
-      "id": "greenhouse_7692701003",
-      "title": "Senior Technical Project Manager",
-      "company": "540",
-      "location": "Patrick SFB, FL",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2026-04-17",
-      "url": "https://job-boards.greenhouse.io/540/jobs/7692701003",
-      "source": "Greenhouse ATS",
-      "description": "&lt;p&gt;540 is seeking a Senior Technical Project Manager to support our partnership with Google and the Department of War in advancing mission-critical capabilities for a global detection and data processing platform. This platform leverages modern cloud and containerized technologies to ingest, process, and analyze high-volume, time-series data from a distributed sensor network.&lt;/p&gt;\n&lt;p&gt;In this role, you will provide project oversight and enable Agile delivery across a complex, distributed technical environment. You will work closely with engineers, architects, and mission stakeh",
-      "requirements": [],
-      "ats_board": "540",
-      "fetched_at": "2026-04-26T07:18:59.439105Z"
-    },
-    {
-      "id": "greenhouse_7671003003",
-      "title": "Senior UI/UX Designer",
-      "company": "540",
-      "location": "Remote",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2026-04-15",
-      "url": "https://job-boards.greenhouse.io/540/jobs/7671003003",
-      "source": "Greenhouse ATS",
-      "description": "&lt;p&gt;540 is seeking a Senior UI/UX Designer to support the DoW in building a next-generation Air Force aircraft maintenance application powered by Angular, Apigee, Kubernetes, and Google Cloud. Designers on this team play a critical role in shaping how Air Force maintainers interact with the platform by translating complex maintenance workflows into intuitive and effective user experiences.&lt;/p&gt;\n&lt;p&gt;You’ll work closely with engineers, architects, product stakeholders, and end users to design interfaces that improve usability, efficiency, and operational effectiveness across the a",
-      "requirements": [],
-      "ats_board": "540",
-      "fetched_at": "2026-04-26T07:18:59.439105Z"
-    },
-    {
-      "id": "greenhouse_7702022003",
-      "title": "Software Engineer (Contract)",
-      "company": "540",
-      "location": "Remote",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2026-04-15",
-      "url": "https://job-boards.greenhouse.io/540/jobs/7702022003",
-      "source": "Greenhouse ATS",
-      "description": "&lt;p&gt;540 is seeking a Software Engineer to support the DoW in building a next-generation Air Force aircraft maintenance platform. This application leverages Java/Spring Boot microservices, Angular front-end applications, and cloud-native infrastructure (Kubernetes, Google Cloud, Apigee). Engineers on this team build and scale full-stack features across user interfaces, backend services, and data layers that power critical maintenance operations. This platform will modernize how Air Force maintainers plan and execute maintenance and is a key part of the Air Force’s technology strategy for t",
-      "requirements": [],
-      "ats_board": "540",
-      "fetched_at": "2026-04-26T07:18:59.439105Z"
-    },
-    {
-      "id": "greenhouse_7702051003",
-      "title": "Test Automation Engineer (Contract)",
-      "company": "540",
-      "location": "Remote",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2026-04-15",
-      "url": "https://job-boards.greenhouse.io/540/jobs/7702051003",
-      "source": "Greenhouse ATS",
-      "description": "&lt;p&gt;540 is seeking a Test Automation Engineer to support the DoW in building a next-generation Air Force aircraft maintenance application powered by Angular, Apigee, Kubernetes, and Google Cloud. Test Engineers on this team design and implement automated tests to ensure the platform performs reliably as it supports Air Force maintenance operations. You’ll work closely with engineers, architects, and product stakeholders to validate system integrations, improve test coverage, and ensure the platform operates reliably across distributed systems and services.&lt;/p&gt;\n&lt;p&gt;This role is",
-      "requirements": [],
-      "ats_board": "540",
-      "fetched_at": "2026-04-26T07:18:59.439105Z"
-    },
-    {
       "id": "remoteok_1131326",
       "title": "Tax AI Expert",
       "company": "Weekday",
@@ -20345,74 +20180,6 @@
       "fetched_at": "2026-05-03T01:52:45.517250Z"
     },
     {
-      "id": "themuse_19987712",
-      "title": "Department Supervisor",
-      "company": "Walmart",
-      "location": "Akron, OH",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-08-22",
-      "url": "https://www.themuse.com/jobs/walmart/department-supervisor-dea16d",
-      "source": "The Muse",
-      "description": "Position Summary...    What you'll do...   Provides supervision and development opportunities for hourly associates by hiring, training, and mentoring of associates; assigning duties; setting clear expectations; providing associate recognition; communicating expectations consistently and effectively promoting a belonging mindset in the workplace and recruiting and developing qualified associates to meet staffing needs and achieve company growth potential. Coordinates, completes, and oversees job-related activities and assignments by developing and maintaining relation",
-      "requirements": [
-        "Mid Level"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-05-03T01:52:45.814059Z"
-    },
-    {
-      "id": "themuse_19057423",
-      "title": "Spring 2026 Intern - Electronics (Masters), C++",
-      "company": "Ansys",
-      "location": "Austin, TX",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-07-28",
-      "url": "https://www.themuse.com/jobs/ansys/spring-2026-intern-electronics-masters-c",
-      "source": "The Muse",
-      "description": "Requisition #:  16663  Ansys is now a part of Synopsys. Synopsys, Inc. (Nasdaq: SNPS) accelerates technology innovation from silicon to systems. Catalyzing the era of pervasive intelligence, we deliver design solutions, from electronic design automation to silicon IP, to system design and multiphysics simulation and analysis. We partner closely with our customers across a wide range of industries to maximize their R&amp;D capability and productivity, powering innovation today that ignites the ingenuity of tomorrow. Learn more at www.synopsys.com.   SUMMARY",
-      "requirements": [
-        "Internship"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-05-03T01:52:45.814059Z"
-    },
-    {
-      "id": "themuse_19644462",
-      "title": "Product Operation Specialist - Comprehensive Search Operation",
-      "company": "TikTok",
-      "location": "Singapore",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-07-29",
-      "url": "https://www.themuse.com/jobs/tiktok/product-operation-specialist-comprehensive-search-operation",
-      "source": "The Muse",
-      "description": "Responsibilities    About the team The T&amp;S Evaluation and Investigation team, working closely with the Search team, taking the evaluation standards as the baseline and principles, and manually evaluating the search query and corresponding search results page to reflect the real user experience of the search function.     Responsibilities - Have a deep understanding and knowledge of the English speaking markets, including local cultural norms. - Responsible for search evaluation, investigation, and other search-related business requirements and provide guidance",
-      "requirements": [
-        "Senior Level"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-05-03T01:52:45.814059Z"
-    },
-    {
-      "id": "themuse_16125011",
-      "title": "Software Engineer - Product (Technical Leadership)",
-      "company": "Meta",
-      "location": "Menlo Park, CA",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-03-11",
-      "url": "https://www.themuse.com/jobs/meta/software-engineer-product-technical-leadership-835238",
-      "source": "The Muse",
-      "description": "We are the teams who create all of Facebook's product used by more than 1.5 billion people around the world. Want to build new features and improve existing products like Commerce, Ads, Video, Groups, News Feed, Search, and more? Want to solve unique, large scale, highly complex technical problems? Facebook is seeking experienced full-stack software engineers to join our product teams. You can help build products that help us connect the next billion people, create new features that have billions of interactions per day, and be a part of a team that's working to help people connect around t",
-      "requirements": [
-        "Senior Level"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-05-03T01:52:45.814059Z"
-    },
-    {
       "id": "remoteok_1131434",
       "title": "Social Media Growth Lead",
       "company": "Black &amp; White Zebra",
@@ -20951,8 +20718,91 @@
       "requirements": [],
       "ats_board": null,
       "fetched_at": "2026-05-03T01:52:46.209780Z"
+    },
+    {
+      "id": "remotive_2088708",
+      "title": "🇩🇪 Senior/Staff Software Engineer PHP, TS, Rust, Kotlin (m/w/d)",
+      "company": "easybill GmbH",
+      "location": "Germany",
+      "remote_type": "Remote",
+      "salary": "",
+      "posted": "2026-04-10",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-staff-software-engineer-php-ts-rust-kotlin-m-w-d-2088708",
+      "source": "Remotive",
+      "description": "🇩🇪 This job ad is written in German. 🇩🇪  \n  easybill  ist eine cloudbasierte Rechnungssoftware, die sich durch einfache Anwendung, umfassende Funktionalität und vielfältige Anbindungen über Schnittstellen schon seit mehr als 18 Jahren am Markt behauptet. Aktuell haben wir mehr als 21.000 aktive Kunden und wachsen stetig weiter. Deshalb suchen wir nach einer motivierten Verstärkung für unser Team. \n Bei easybill arbeiten wir Remote-First, dein Wohnort ist uns egal - wir suchen die besten Kollegen*, nicht die schönste Stadt. Unsere festen Standorte bef",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-05-03T07:53:32.555481Z"
+    },
+    {
+      "id": "themuse_19987712",
+      "title": "Department Supervisor",
+      "company": "Walmart",
+      "location": "Akron, OH",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-08-22",
+      "url": "https://www.themuse.com/jobs/walmart/department-supervisor-dea16d",
+      "source": "The Muse",
+      "description": "Position Summary...    What you'll do...   Provides supervision and development opportunities for hourly associates by hiring, training, and mentoring of associates; assigning duties; setting clear expectations; providing associate recognition; communicating expectations consistently and effectively promoting a belonging mindset in the workplace and recruiting and developing qualified associates to meet staffing needs and achieve company growth potential. Coordinates, completes, and oversees job-related activities and assignments by developing and maintaining relation",
+      "requirements": [
+        "Mid Level"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-05-03T07:53:33.174277Z"
+    },
+    {
+      "id": "themuse_19057423",
+      "title": "Spring 2026 Intern - Electronics (Masters), C++",
+      "company": "Ansys",
+      "location": "Austin, TX",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-07-28",
+      "url": "https://www.themuse.com/jobs/ansys/spring-2026-intern-electronics-masters-c",
+      "source": "The Muse",
+      "description": "Requisition #:  16663  Ansys is now a part of Synopsys. Synopsys, Inc. (Nasdaq: SNPS) accelerates technology innovation from silicon to systems. Catalyzing the era of pervasive intelligence, we deliver design solutions, from electronic design automation to silicon IP, to system design and multiphysics simulation and analysis. We partner closely with our customers across a wide range of industries to maximize their R&amp;D capability and productivity, powering innovation today that ignites the ingenuity of tomorrow. Learn more at www.synopsys.com.   SUMMARY",
+      "requirements": [
+        "Internship"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-05-03T07:53:33.174277Z"
+    },
+    {
+      "id": "themuse_19644462",
+      "title": "Product Operation Specialist - Comprehensive Search Operation",
+      "company": "TikTok",
+      "location": "Singapore",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-07-29",
+      "url": "https://www.themuse.com/jobs/tiktok/product-operation-specialist-comprehensive-search-operation",
+      "source": "The Muse",
+      "description": "Responsibilities    About the team The T&amp;S Evaluation and Investigation team, working closely with the Search team, taking the evaluation standards as the baseline and principles, and manually evaluating the search query and corresponding search results page to reflect the real user experience of the search function.     Responsibilities - Have a deep understanding and knowledge of the English speaking markets, including local cultural norms. - Responsible for search evaluation, investigation, and other search-related business requirements and provide guidance",
+      "requirements": [
+        "Senior Level"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-05-03T07:53:33.174277Z"
+    },
+    {
+      "id": "themuse_16125011",
+      "title": "Software Engineer - Product (Technical Leadership)",
+      "company": "Meta",
+      "location": "Menlo Park, CA",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-03-11",
+      "url": "https://www.themuse.com/jobs/meta/software-engineer-product-technical-leadership-835238",
+      "source": "The Muse",
+      "description": "We are the teams who create all of Facebook's product used by more than 1.5 billion people around the world. Want to build new features and improve existing products like Commerce, Ads, Video, Groups, News Feed, Search, and more? Want to solve unique, large scale, highly complex technical problems? Facebook is seeking experienced full-stack software engineers to join our product teams. You can help build products that help us connect the next billion people, create new features that have billions of interactions per day, and be a part of a team that's working to help people connect around t",
+      "requirements": [
+        "Senior Level"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-05-03T07:53:33.174277Z"
     }
   ],
-  "updated_at": "2026-05-03T01:53:09.321738Z",
-  "total": 1394
+  "updated_at": "2026-05-03T07:53:56.877494Z",
+  "total": 1384
 }
