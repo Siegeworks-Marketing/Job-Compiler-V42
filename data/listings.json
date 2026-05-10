@@ -18294,38 +18294,6 @@
       "fetched_at": "2026-05-10T12:57:55.598267Z"
     },
     {
-      "id": "remotive_2088707",
-      "title": "Senior Frontend Developer",
-      "company": "Sanctuary Computer",
-      "location": "LATAM, Asia",
-      "remote_type": "Remote",
-      "salary": "$80k - $120k",
-      "posted": "2026-04-08",
-      "url": "https://remotive.com/remote-jobs/software-development/senior-frontend-developer-2088707",
-      "source": "Remotive",
-      "description": "We are hiring a contract-based   Senior Frontend Developer<",
-      "requirements": [],
-      "ats_board": null,
-      "fetched_at": "2026-05-10T12:57:55.598267Z"
-    },
-    {
-      "id": "themuse_19987712",
-      "title": "Department Supervisor",
-      "company": "Walmart",
-      "location": "Akron, OH",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-08-22",
-      "url": "https://www.themuse.com/jobs/walmart/department-supervisor-dea16d",
-      "source": "The Muse",
-      "description": "Position Summary...    What you'll do...   Provides supervision and development opportunities for hourly associates by hiring, training, and mentoring of associates; assigning duties; setting clear expectations; providing associate recognition; communicating expectations consistently and effectively promoting a belonging mindset in the workplace and recruiting and developing qualified associates to meet staffing needs and achieve company growth potential. Coordinates, completes, and oversees job-related activities and assignments by developing and maintaining relation",
-      "requirements": [
-        "Mid Level"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-05-10T12:57:55.968690Z"
-    },
-    {
       "id": "themuse_19057423",
       "title": "Spring 2026 Intern - Electronics (Masters), C++",
       "company": "Ansys",
@@ -18338,23 +18306,6 @@
       "description": "Requisition #:  16663  Ansys is now a part of Synopsys. Synopsys, Inc. (Nasdaq: SNPS) accelerates technology innovation from silicon to systems. Catalyzing the era of pervasive intelligence, we deliver design solutions, from electronic design automation to silicon IP, to system design and multiphysics simulation and analysis. We partner closely with our customers across a wide range of industries to maximize their R&amp;D capability and productivity, powering innovation today that ignites the ingenuity of tomorrow. Learn more at www.synopsys.com.   SUMMARY",
       "requirements": [
         "Internship"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-05-10T12:57:55.968690Z"
-    },
-    {
-      "id": "themuse_19644462",
-      "title": "Product Operation Specialist - Comprehensive Search Operation",
-      "company": "TikTok",
-      "location": "Singapore",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-07-29",
-      "url": "https://www.themuse.com/jobs/tiktok/product-operation-specialist-comprehensive-search-operation",
-      "source": "The Muse",
-      "description": "Responsibilities    About the team The T&amp;S Evaluation and Investigation team, working closely with the Search team, taking the evaluation standards as the baseline and principles, and manually evaluating the search query and corresponding search results page to reflect the real user experience of the search function.     Responsibilities - Have a deep understanding and knowledge of the English speaking markets, including local cultural norms. - Responsible for search evaluation, investigation, and other search-related business requirements and provide guidance",
-      "requirements": [
-        "Senior Level"
       ],
       "ats_board": null,
       "fetched_at": "2026-05-10T12:57:55.968690Z"
@@ -18388,8 +18339,162 @@
       "requirements": [],
       "ats_board": null,
       "fetched_at": "2026-05-10T12:57:56.030242Z"
+    },
+    {
+      "id": "remotive_2086540",
+      "title": "Inside Sales Contractor",
+      "company": "Credit Wellness, LLC",
+      "location": "Worldwide",
+      "remote_type": "Remote",
+      "salary": "OTE $25k - $35k",
+      "posted": "2026-05-08",
+      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+      "source": "Remotive",
+      "description": "About Us  \n <span style=\"color: #2d2d2d; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-05-10T18:51:30.625817Z"
+    },
+    {
+      "id": "remotive_2090878",
+      "title": "Director of Revenue Systems and AI Automation (Offshore)",
+      "company": "Caul Group",
+      "location": "LATAM",
+      "remote_type": "Remote",
+      "salary": "$60k–$72k",
+      "posted": "2026-05-08",
+      "url": "https://remotive.com/remote-jobs/software-development/director-of-revenue-systems-and-ai-automation-offshore-2090878",
+      "source": "Remotive",
+      "description": "This search is open exclusively to candidates based in Latin America.     <span style=\"color: #000000; background-color: transpar",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-05-10T18:51:30.625817Z"
+    },
+    {
+      "id": "arbeitnow_unpaid-internship-full-stack-php-developer-immediate-start-munich-452488",
+      "title": "Unpaid Internship: Full-Stack PHP Developer (Immediate Start)",
+      "company": "HOPn",
+      "location": "Munich",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "2026-05-10",
+      "url": "https://www.arbeitnow.com/jobs/companies/hopn/unpaid-internship-full-stack-php-developer-immediate-start-munich-452488",
+      "source": "Arbeitnow",
+      "description": "We are looking for a motivated  Full-Stack PHP Developer Intern  who can start soon and contribute to real-world web platforms and software systems in a fast-paced environment. \n This role is ideal for candidates comfortable with rapid prototyping, AI-assisted coding, and delivering practical solutions quickly using modern development workflows. \n The internship is fully remote, flexible, and focused on hands-on experience with real projects. \n Tasks \n \n Develop and maintain web applications using PHP (Laravel or similar frameworks) \n Build an",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-05-10T18:51:30.709976Z"
+    },
+    {
+      "id": "arbeitnow_minijob-webdesigner-remote-moglich-potsdam-364379",
+      "title": "Minijob Webdesigner - Remote möglich",
+      "company": "OnlineVision",
+      "location": "Potsdam",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "2026-05-10",
+      "url": "https://www.arbeitnow.com/jobs/companies/onlinevision/minijob-webdesigner-remote-moglich-potsdam-364379",
+      "source": "Arbeitnow",
+      "description": "Zur Unterstützung unseres Teams suchen wir eine motivierte Person im Bereich Webdesign mit Fokus auf WordPress. Egal ob mit erster Erfahrung oder bereits fortgeschrittenen Kenntnissen – wichtig sind uns Kreativität, Zuverlässigkeit und Lust auf moderne Webprojekte. \n Aufgaben \n \n Erstellung und Pflege von Webseiten mit WordPress \n Anpassung von Themes, Layouts und Inhalten \n Unterstützung bei Webdesign- und UI/UX-Aufgaben \n Arbeiten mit verschiedenen CMS-Systemen (hauptsächlich WordPress, teilweise andere Systeme) \n Optimierung bestehender Webseit",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-05-10T18:51:30.709976Z"
+    },
+    {
+      "id": "arbeitnow_performance-marketing-manager-run-the-machine-across-a-brand-portfolio-cologne-223888",
+      "title": "Performance Marketing Manager:  Run the Machine Across a Brand Portfolio",
+      "company": "TheFamilyGroup",
+      "location": "Cologne",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "2026-05-10",
+      "url": "https://www.arbeitnow.com/jobs/companies/thefamilygroup/performance-marketing-manager-run-the-machine-across-a-brand-portfolio-cologne-223888",
+      "source": "Arbeitnow",
+      "description": "We're bringing performance marketing fully in-house across our brand portfolio. No more agencies. No more middlemen. \n You'll work directly with our founders. Your job: own the accounts, run the tests, scale what works. \n The Family Group is a house of brands for families, from baby to teenage years. We move fast, build in-house, and we're just getting started. \n Tasks \n \n Own and operate Meta and Google Ads across our brands day-to-day \n Run structured creative and audience tests: weekly, not quarterly \n Translate CMO strategy into campaign execution",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-05-10T18:51:30.709976Z"
+    },
+    {
+      "id": "themuse_19987712",
+      "title": "Department Supervisor",
+      "company": "Walmart",
+      "location": "Akron, OH",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-08-22",
+      "url": "https://www.themuse.com/jobs/walmart/department-supervisor-dea16d",
+      "source": "The Muse",
+      "description": "Position Summary...    What you'll do...   Provides supervision and development opportunities for hourly associates by hiring, training, and mentoring of associates; assigning duties; setting clear expectations; providing associate recognition; communicating expectations consistently and effectively promoting a belonging mindset in the workplace and recruiting and developing qualified associates to meet staffing needs and achieve company growth potential. Coordinates, completes, and oversees job-related activities and assignments by developing and maintaining relation",
+      "requirements": [
+        "Mid Level"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-05-10T18:51:30.897858Z"
+    },
+    {
+      "id": "themuse_19644462",
+      "title": "Product Operation Specialist - Comprehensive Search Operation",
+      "company": "TikTok",
+      "location": "Singapore",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-07-29",
+      "url": "https://www.themuse.com/jobs/tiktok/product-operation-specialist-comprehensive-search-operation",
+      "source": "The Muse",
+      "description": "Responsibilities    About the team The T&amp;S Evaluation and Investigation team, working closely with the Search team, taking the evaluation standards as the baseline and principles, and manually evaluating the search query and corresponding search results page to reflect the real user experience of the search function.     Responsibilities - Have a deep understanding and knowledge of the English speaking markets, including local cultural norms. - Responsible for search evaluation, investigation, and other search-related business requirements and provide guidance",
+      "requirements": [
+        "Senior Level"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-05-10T18:51:30.897858Z"
+    },
+    {
+      "id": "remoteok_1131532",
+      "title": "CNC Machinist Milling",
+      "company": "CX2",
+      "location": "El Segundo, CA",
+      "remote_type": "Remote",
+      "salary": 0,
+      "posted": "2026-05-09",
+      "url": "https://remoteOK.com/remote-jobs/remote-cnc-machinist-milling-cx2-1131532",
+      "source": "Remote OK",
+      "description": "CX2 is a next-generation defense technology company founded to deliver spectrum dominance for the United States and our allies. CX2âs AI-enabled hardware and software platforms detect, disrupt and defend the electromagnetic spectrum across land, air, sea and space domains.      CX2 is seeking an engaged, self-starting machinist who wants to own prototyping and small volume production. \n As the first CNC Machinist, you will be a key player in building out our machining capabilities for prototypes, tools and fixtures, and small batch production of flight critical components.&nbsp; You will tou",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-05-10T18:51:30.955661Z"
+    },
+    {
+      "id": "remoteok_1131531",
+      "title": "Staff Product Manager Enterprise",
+      "company": "LiveKit",
+      "location": "Remote",
+      "remote_type": "Remote",
+      "salary": 225000,
+      "posted": "2026-05-09",
+      "url": "https://remoteOK.com/remote-jobs/remote-staff-product-manager-enterprise-livekit-1131531",
+      "source": "Remote OK",
+      "description": "About LiveKit  LiveKit is the developer platform for building and operating real-time voice AI agents. We started as the leading open-source WebRTC platform and have grown into a comprehensive stack: SDKs and developer tooling, agent hosting, inference, telephony, and observability. Our goal is to become the default platform for voice agents, the way Stripe became the default for payments.  We're venture-backed, growing fast, and working with some of the largest companies in the world as they deploy voice agents at massive scale.     You'll thrive at LiveKit if you:     obsess with crafting co",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-05-10T18:51:30.955661Z"
+    },
+    {
+      "id": "remoteok_1131530",
+      "title": "Customer Support Representative",
+      "company": "Boom Entertainment",
+      "location": "Remote",
+      "remote_type": "Remote",
+      "salary": 0,
+      "posted": "2026-05-09",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-support-representative-boom-entertainment-1131530",
+      "source": "Remote OK",
+      "description": "Boom Entertainment is redefining the way fans engage with sports through innovative, high-quality sports products. Our flagship app, Boom Sports, delivers a fast, fun, and accessible Daily Fantasy Sports experience thatâs open to players of all skill levels. To date, players on Boom Sports have won close to $100 million in prizes, and our user base continues to grow as more fans choose Boom as their go-to place to play.\n\nBoom is a small team with high standards. We move fast, operate with urgency, and expect high ownership. You will be trusted to figure things out, spot issues early, and dri",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-05-10T18:51:30.955661Z"
     }
   ],
-  "updated_at": "2026-05-10T12:58:07.625418Z",
-  "total": 1223
+  "updated_at": "2026-05-10T18:51:47.746722Z",
+  "total": 1230
 }
