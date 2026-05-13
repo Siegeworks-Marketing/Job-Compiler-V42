@@ -7,37 +7,37 @@
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-05-13T08:39:30.051271Z"
+    "last_seen": "2026-05-13T14:11:41.454492Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-05-13T08:39:30.051278Z"
+    "last_seen": "2026-05-13T14:11:41.454499Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-05-13T08:39:30.051274Z"
+    "last_seen": "2026-05-13T14:11:41.454494Z"
   },
   "davita": {
     "company_name": "DaVita",
     "score": 15,
-    "last_seen": "2026-05-13T08:39:30.051280Z"
+    "last_seen": "2026-05-13T14:11:41.454501Z"
   },
   "kroger": {
     "company_name": "Kroger",
     "score": 15,
-    "last_seen": "2026-05-13T08:39:30.051286Z"
+    "last_seen": "2026-05-13T14:11:41.454507Z"
   },
   "hitachi-energy": {
     "company_name": "Hitachi Energy",
     "score": 15,
-    "last_seen": "2026-05-13T08:39:30.051287Z"
+    "last_seen": "2026-05-13T14:11:41.454509Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
     "score": 15,
-    "last_seen": "2026-05-13T08:39:30.051245Z"
+    "last_seen": "2026-05-13T14:11:41.454465Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
@@ -47,32 +47,32 @@
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-05-13T08:39:30.051250Z"
+    "last_seen": "2026-05-13T14:11:41.454471Z"
   },
   "autohdr": {
     "company_name": "AutoHDR",
     "score": 15,
-    "last_seen": "2026-05-13T08:39:30.051247Z"
+    "last_seen": "2026-05-13T14:11:41.454468Z"
   },
   "gm-financial": {
     "company_name": "GM Financial",
     "score": 15,
-    "last_seen": "2026-05-13T08:39:30.051282Z"
+    "last_seen": "2026-05-13T14:11:41.454503Z"
   },
   "everai": {
     "company_name": "EverAI",
     "score": 15,
-    "last_seen": "2026-05-13T08:39:30.051241Z"
+    "last_seen": "2026-05-13T14:11:41.454461Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-05-13T08:39:30.051233Z"
+    "last_seen": "2026-05-13T14:11:41.454453Z"
   },
   "careers-in-travel-destination-planners": {
     "company_name": "Careers In Travel | Destination Planners",
     "score": 15,
-    "last_seen": "2026-05-13T08:39:30.051292Z"
+    "last_seen": "2026-05-13T14:11:41.454514Z"
   },
   "global-elite-empire-consultants": {
     "company_name": "Global Elite Empire Consultants",
@@ -82,17 +82,17 @@
   "correlation-one": {
     "company_name": "Correlation One",
     "score": 15,
-    "last_seen": "2026-05-13T08:39:30.051302Z"
+    "last_seen": "2026-05-13T14:11:41.454523Z"
   },
   "contact-government-services-llc": {
     "company_name": "Contact Government Services, LLC",
     "score": 15,
-    "last_seen": "2026-05-13T08:39:30.051304Z"
+    "last_seen": "2026-05-13T14:11:41.454525Z"
   },
   "leidos": {
     "company_name": "Leidos",
     "score": 15,
-    "last_seen": "2026-05-13T08:39:30.051284Z"
+    "last_seen": "2026-05-13T14:11:41.454505Z"
   },
   "care-access": {
     "company_name": "Care Access",
@@ -101,102 +101,102 @@
   },
   "gofasti": {
     "company_name": "GoFasti",
-    "score": 14,
-    "last_seen": "2026-05-13T08:39:30.051297Z"
+    "score": 15,
+    "last_seen": "2026-05-13T14:11:41.454518Z"
   },
   "rivia-mind-mental-healthcare": {
     "company_name": "Rivia Mind - Mental Healthcare",
-    "score": 14,
-    "last_seen": "2026-05-13T08:39:30.051299Z"
+    "score": 15,
+    "last_seen": "2026-05-13T14:11:41.454521Z"
   },
   "name": {
     "company_name": "name",
-    "score": 12,
+    "score": 11,
     "last_seen": "2026-05-12T14:06:32.979364Z"
   },
   "imagine-pediatrics": {
     "company_name": "Imagine Pediatrics",
-    "score": 12,
+    "score": 11,
     "last_seen": "2026-05-10T08:01:17.313419Z"
   },
   "varicent": {
     "company_name": "Varicent",
-    "score": 10,
-    "last_seen": "2026-05-13T08:39:30.051255Z"
+    "score": 11,
+    "last_seen": "2026-05-13T14:11:41.454478Z"
   },
   "aisles-amp-abroad": {
     "company_name": "Aisles &amp; Abroad",
-    "score": 9,
-    "last_seen": "2026-05-13T08:39:30.051295Z"
+    "score": 10,
+    "last_seen": "2026-05-13T14:11:41.454516Z"
   },
   "defense-unicorns": {
     "company_name": "Defense Unicorns",
-    "score": 8,
-    "last_seen": "2026-05-13T08:39:30.051260Z"
+    "score": 9,
+    "last_seen": "2026-05-13T14:11:41.454483Z"
   },
-  "gridlines": {
-    "company_name": "Gridlines",
-    "score": 6,
-    "last_seen": "2026-05-11T19:32:06.744836Z"
+  "tailscale": {
+    "company_name": "Tailscale",
+    "score": 7,
+    "last_seen": "2026-05-13T14:11:41.454490Z"
   },
   "geotab": {
     "company_name": "Geotab",
     "score": 6,
     "last_seen": "2026-05-09T12:57:57.874872Z"
   },
-  "tailscale": {
-    "company_name": "Tailscale",
+  "nrg": {
+    "company_name": "NRG",
     "score": 6,
-    "last_seen": "2026-05-13T08:39:30.051267Z"
+    "last_seen": "2026-05-13T14:11:41.454487Z"
+  },
+  "gridlines": {
+    "company_name": "Gridlines",
+    "score": 5,
+    "last_seen": "2026-05-11T19:32:06.744836Z"
   },
   "clickout-media": {
     "company_name": "ClickOut Media",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-05-13T08:39:30.051269Z"
+  },
+  "medical-review-institute-of-america": {
+    "company_name": "Medical Review Institute of America",
+    "score": 5,
+    "last_seen": "2026-05-13T14:11:41.454481Z"
+  },
+  "gainwell-technologies": {
+    "company_name": "Gainwell Technologies",
+    "score": 5,
+    "last_seen": "2026-05-13T14:11:41.454485Z"
   },
   "sanctuary-computer": {
     "company_name": "Sanctuary Computer",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-05-08T19:14:27.064279Z"
   },
   "magic": {
     "company_name": "Magic",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-05-13T02:00:23.567264Z"
-  },
-  "nrg": {
-    "company_name": "NRG",
-    "score": 5,
-    "last_seen": "2026-05-13T08:39:30.051264Z"
   },
   "samsara": {
     "company_name": "Samsara",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-05-13T02:00:23.567266Z"
-  },
-  "medical-review-institute-of-america": {
-    "company_name": "Medical Review Institute of America",
-    "score": 4,
-    "last_seen": "2026-05-13T08:39:30.051258Z"
-  },
-  "gainwell-technologies": {
-    "company_name": "Gainwell Technologies",
-    "score": 4,
-    "last_seen": "2026-05-13T08:39:30.051262Z"
   },
   "nachhilfeunterricht": {
     "company_name": "Nachhilfeunterricht",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-05-12T14:06:32.979299Z"
   },
-  "nvidia": {
-    "company_name": "NVIDIA",
+  "forbes-advisor": {
+    "company_name": "Forbes Advisor",
     "score": 2,
-    "last_seen": "2026-05-12T14:06:32.979296Z"
+    "last_seen": "2026-05-13T14:11:41.454473Z"
   },
-  "instacart": {
-    "company_name": "Instacart",
+  "nagarro": {
+    "company_name": "Nagarro",
     "score": 2,
-    "last_seen": "2026-05-13T02:00:23.567242Z"
+    "last_seen": "2026-05-13T14:11:41.454476Z"
   }
 }
