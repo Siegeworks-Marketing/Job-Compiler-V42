@@ -1,36 +1,6 @@
 {
   "jobs": [
     {
-      "id": "remoteok_1131529",
-      "title": "Lead Software Engineer",
-      "company": "CSC Generation",
-      "location": "Remote - Canada",
-      "remote_type": "Remote",
-      "salary": 0,
-      "posted": "2026-05-09",
-      "url": "https://remoteOK.com/remote-jobs/remote-lead-software-engineer-csc-generation-1131529",
-      "source": "Remote OK",
-      "description": "Design Your Future With Us. Creativity lives here. We celebrate craftsmanship, design, and inspired living. Whether you are in marketing, tech, or logistics, your voice and vision matter. We showcase employee spaces, share design stories, and promote growth through a culture of flexibility, storytelling, and opportunity. From onboarding to day-to-day, we help you bring your style to life. \n &nbsp; \n  Reports to:  Director of Engineering&nbsp; \n  Location: &nbsp;Remote, United States \n  \\n      About the Role  \n Our retail platform is scaling across multiple brands and needs a senior engineer w",
-      "requirements": [],
-      "ats_board": null,
-      "fetched_at": "2026-05-10T12:57:56.030242Z"
-    },
-    {
-      "id": "remoteok_1131528",
-      "title": "Marketing Copywriter",
-      "company": "BIS Safety Software",
-      "location": "Toronto, Ontario",
-      "remote_type": "Remote",
-      "salary": 0,
-      "posted": "2026-05-09",
-      "url": "https://remoteOK.com/remote-jobs/remote-marketing-copywriter-bis-safety-software-1131528",
-      "source": "Remote OK",
-      "description": "BIS Safety Software   is a SaaS company on a mission to change how organizations manage safety, learning, and compliance. As we continue to grow, clear and consistent messaging across our marketing channels is increasingly important. We are looking for a&nbsp; Marketing Copywriter  who can help lead that effort. \n &nbsp; \n   About this role:   \n &nbsp; \n You'll own the  quality, clarity, and consistency of BIS marketing messaging.   You will work closely with marketing leadership to understand the companyâs positioning and translate it into clear, compelling copy across a wide range of chann",
-      "requirements": [],
-      "ats_board": null,
-      "fetched_at": "2026-05-10T12:57:56.030242Z"
-    },
-    {
       "id": "remotive_2086540",
       "title": "Inside Sales Contractor",
       "company": "Credit Wellness, LLC",
@@ -26589,6 +26559,36 @@
       "fetched_at": "2026-05-17T08:16:11.968026Z"
     },
     {
+      "id": "remoteok_1131611",
+      "title": "Forward Deployed Engineer Agentic Platform",
+      "company": "Cohere",
+      "location": "Remote",
+      "remote_type": "Remote",
+      "salary": 0,
+      "posted": "2026-05-16",
+      "url": "https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611",
+      "source": "Remote OK",
+      "description": "Who are we?   Our mission is to scale intelligence to serve humanity. Weâre training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI.  We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. We like to work hard and move fast to do whatâs best for our customers.  Cohere is a team of",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-05-17T13:01:47.417661Z"
+    },
+    {
+      "id": "arbeitnow_content-engine-fur-founder-voice-ampfing-208951",
+      "title": "Content Engine für Founder-Voice (m/w/d)",
+      "company": "Neurawork GmbH & Co. KG",
+      "location": "Ampfing",
+      "remote_type": "Remote",
+      "salary": null,
+      "posted": "2026-05-17",
+      "url": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/content-engine-fur-founder-voice-ampfing-208951",
+      "source": "Arbeitnow",
+      "description": "Du baust gerne Reichweite — aber nicht deine eigene. Du bist die Person, die im Hintergrund arbeitet und andere stark aussehen lässt. Du weißt, wie aus einem Founder-Gespräch ein Reel wird, das Leute teilen, ein Newsletter, der gelesen wird, und ein LinkedIn-Post, der bei der richtigen Zielgruppe ankommt. Du hast keine Lust auf Corporate-Marketing und auch keine Lust, dich an Diskussionen über den Sinn von KI im Workflow zu beteiligen. Du willst eine Stimme multiplizieren, die etwas zu sagen hat. \n Dann lies weiter. \n Neurawork ist eine KI-Beratung mit eigenem Framework — Operatio",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-05-17T18:58:29.798047Z"
+    },
+    {
       "id": "themuse_19987712",
       "title": "Department Supervisor",
       "company": "Walmart",
@@ -26603,7 +26603,7 @@
         "Mid Level"
       ],
       "ats_board": null,
-      "fetched_at": "2026-05-17T13:01:47.284988Z"
+      "fetched_at": "2026-05-17T18:58:29.957390Z"
     },
     {
       "id": "themuse_19057423",
@@ -26620,7 +26620,7 @@
         "Internship"
       ],
       "ats_board": null,
-      "fetched_at": "2026-05-17T13:01:47.284988Z"
+      "fetched_at": "2026-05-17T18:58:29.957390Z"
     },
     {
       "id": "themuse_19644462",
@@ -26637,24 +26637,54 @@
         "Senior Level"
       ],
       "ats_board": null,
-      "fetched_at": "2026-05-17T13:01:47.284988Z"
+      "fetched_at": "2026-05-17T18:58:29.957390Z"
     },
     {
-      "id": "remoteok_1131611",
-      "title": "Forward Deployed Engineer Agentic Platform",
-      "company": "Cohere",
+      "id": "remoteok_1131613",
+      "title": "Senior Database Reliability Engineer",
+      "company": "Cloudlinux",
       "location": "Remote",
       "remote_type": "Remote",
       "salary": 0,
       "posted": "2026-05-16",
-      "url": "https://remoteOK.com/remote-jobs/remote-forward-deployed-engineer-agentic-platform-cohere-1131611",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-database-reliability-engineer-cloudlinux-1131613",
       "source": "Remote OK",
-      "description": "Who are we?   Our mission is to scale intelligence to serve humanity. Weâre training and deploying frontier models for developers and enterprises who are building AI systems to power magical experiences like content generation, semantic search, RAG, and agents. We believe that our work is instrumental to the widespread adoption of AI.  We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. We like to work hard and move fast to do whatâs best for our customers.  Cohere is a team of",
+      "description": "CloudLinux / TuxCare is a remote-first infrastructure and security company. More than 300 engineers build and operate products used by hosting providers, enterprises, and internal service teams worldwide. Our Infrastructure Department runs the platforms behind CloudLinux OS, Imunify, KernelCare, TuxCare ELS, and our engineering systems.  We are hiring a Senior Database Reliability Engineer to join the Infrastructure DBA cell. This is a hands-on production ownership role, not a narrow ticket-processing DBA position. You will keep critical database services reliable, automate repeated work, supp",
       "requirements": [],
       "ats_board": null,
-      "fetched_at": "2026-05-17T13:01:47.417661Z"
+      "fetched_at": "2026-05-17T18:58:30.023091Z"
+    },
+    {
+      "id": "remoteok_1131529",
+      "title": "Lead Software Engineer",
+      "company": "CSC Generation",
+      "location": "Remote - Canada",
+      "remote_type": "Remote",
+      "salary": 0,
+      "posted": "2026-05-09",
+      "url": "https://remoteOK.com/remote-jobs/remote-lead-software-engineer-csc-generation-1131529",
+      "source": "Remote OK",
+      "description": "Design Your Future With Us. Creativity lives here. We celebrate craftsmanship, design, and inspired living. Whether you are in marketing, tech, or logistics, your voice and vision matter. We showcase employee spaces, share design stories, and promote growth through a culture of flexibility, storytelling, and opportunity. From onboarding to day-to-day, we help you bring your style to life. \n &nbsp; \n  Reports to:  Director of Engineering&nbsp; \n  Location: &nbsp;Remote, United States \n  \\n      About the Role  \n Our retail platform is scaling across multiple brands and needs a senior engineer w",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-05-17T18:58:30.023091Z"
+    },
+    {
+      "id": "remoteok_1131528",
+      "title": "Marketing Copywriter",
+      "company": "BIS Safety Software",
+      "location": "Toronto, Ontario",
+      "remote_type": "Remote",
+      "salary": 0,
+      "posted": "2026-05-09",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-copywriter-bis-safety-software-1131528",
+      "source": "Remote OK",
+      "description": "BIS Safety Software   is a SaaS company on a mission to change how organizations manage safety, learning, and compliance. As we continue to grow, clear and consistent messaging across our marketing channels is increasingly important. We are looking for a&nbsp; Marketing Copywriter  who can help lead that effort. \n &nbsp; \n   About this role:   \n &nbsp; \n You'll own the  quality, clarity, and consistency of BIS marketing messaging.   You will work closely with marketing leadership to understand the companyâs positioning and translate it into clear, compelling copy across a wide range of chann",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-05-17T18:58:30.023091Z"
     }
   ],
-  "updated_at": "2026-05-17T13:02:18.783499Z",
-  "total": 1774
+  "updated_at": "2026-05-17T18:58:38.257390Z",
+  "total": 1776
 }
