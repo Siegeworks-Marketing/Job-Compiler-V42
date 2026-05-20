@@ -2,37 +2,37 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-05-20T14:34:40.066997Z"
+    "last_seen": "2026-05-20T20:02:51.542925Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-05-20T14:34:40.067029Z"
+    "last_seen": "2026-05-20T20:02:51.542954Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-05-20T14:34:40.067034Z"
+    "last_seen": "2026-05-20T20:02:51.542959Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-05-20T14:34:40.067031Z"
+    "last_seen": "2026-05-20T20:02:51.542957Z"
   },
   "davita": {
     "company_name": "DaVita",
     "score": 15,
-    "last_seen": "2026-05-20T14:34:40.067037Z"
+    "last_seen": "2026-05-20T20:02:51.542961Z"
   },
   "kroger": {
     "company_name": "Kroger",
     "score": 15,
-    "last_seen": "2026-05-20T14:34:40.067042Z"
+    "last_seen": "2026-05-20T20:02:51.542966Z"
   },
   "hitachi-energy": {
     "company_name": "Hitachi Energy",
     "score": 15,
-    "last_seen": "2026-05-20T14:34:40.067044Z"
+    "last_seen": "2026-05-20T20:02:51.542968Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
@@ -47,12 +47,12 @@
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-05-20T14:34:40.066990Z"
+    "last_seen": "2026-05-20T20:02:51.542918Z"
   },
   "careers-in-travel-destination-planners": {
     "company_name": "Careers In Travel | Destination Planners",
     "score": 15,
-    "last_seen": "2026-05-20T14:34:40.067065Z"
+    "last_seen": "2026-05-20T20:02:51.542989Z"
   },
   "global-elite-empire-consultants": {
     "company_name": "Global Elite Empire Consultants",
@@ -62,12 +62,12 @@
   "contact-government-services-llc": {
     "company_name": "Contact Government Services, LLC",
     "score": 15,
-    "last_seen": "2026-05-20T14:34:40.067048Z"
+    "last_seen": "2026-05-20T20:02:51.542972Z"
   },
   "leidos": {
     "company_name": "Leidos",
     "score": 15,
-    "last_seen": "2026-05-20T14:34:40.067040Z"
+    "last_seen": "2026-05-20T20:02:51.542964Z"
   },
   "care-access": {
     "company_name": "Care Access",
@@ -77,7 +77,7 @@
   "gofasti": {
     "company_name": "GoFasti",
     "score": 15,
-    "last_seen": "2026-05-20T14:34:40.067055Z"
+    "last_seen": "2026-05-20T20:02:51.542979Z"
   },
   "rivia-mind-mental-healthcare": {
     "company_name": "Rivia Mind - Mental Healthcare",
@@ -92,67 +92,72 @@
   "deep-fission-inc": {
     "company_name": "Deep Fission, Inc",
     "score": 15,
-    "last_seen": "2026-05-20T14:34:40.067062Z"
+    "last_seen": "2026-05-20T20:02:51.542986Z"
   },
   "mindrift": {
     "company_name": "Mindrift",
     "score": 15,
-    "last_seen": "2026-05-20T14:34:40.067070Z"
+    "last_seen": "2026-05-20T20:02:51.543007Z"
   },
   "varicent": {
     "company_name": "Varicent",
     "score": 15,
-    "last_seen": "2026-05-20T14:34:40.067025Z"
+    "last_seen": "2026-05-20T20:02:51.542950Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-05-20T14:34:40.066982Z"
+    "last_seen": "2026-05-20T20:02:51.542908Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-05-20T14:34:40.067046Z"
+    "last_seen": "2026-05-20T20:02:51.542970Z"
   },
   "avalere-health": {
     "company_name": "Avalere Health",
     "score": 15,
-    "last_seen": "2026-05-20T14:34:40.067052Z"
+    "last_seen": "2026-05-20T20:02:51.542977Z"
   },
   "expion-health": {
     "company_name": "Expion Health",
     "score": 15,
-    "last_seen": "2026-05-20T14:34:40.066994Z"
-  },
-  "name": {
-    "company_name": "name",
-    "score": 14,
-    "last_seen": "2026-05-20T08:55:39.963387Z"
+    "last_seen": "2026-05-20T20:02:51.542922Z"
   },
   "gympass": {
     "company_name": "Gympass",
+    "score": 14,
+    "last_seen": "2026-05-20T20:02:51.542939Z"
+  },
+  "name": {
+    "company_name": "name",
     "score": 13,
-    "last_seen": "2026-05-20T14:34:40.067011Z"
+    "last_seen": "2026-05-20T08:55:39.963387Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
     "score": 11,
     "last_seen": "2026-04-28T13:28:55.388235Z"
   },
-  "deel": {
-    "company_name": "Deel",
-    "score": 10,
-    "last_seen": "2026-05-19T19:49:44.417616Z"
-  },
-  "ruby-labs": {
-    "company_name": "Ruby Labs",
-    "score": 10,
-    "last_seen": "2026-05-20T08:55:39.963341Z"
-  },
   "remote": {
     "company_name": "Remote",
     "score": 10,
     "last_seen": "2026-05-16T18:55:13.306002Z"
+  },
+  "national-veterinary-associates": {
+    "company_name": "National Veterinary Associates",
+    "score": 10,
+    "last_seen": "2026-05-20T20:02:51.542948Z"
+  },
+  "deel": {
+    "company_name": "Deel",
+    "score": 9,
+    "last_seen": "2026-05-19T19:49:44.417616Z"
+  },
+  "ruby-labs": {
+    "company_name": "Ruby Labs",
+    "score": 9,
+    "last_seen": "2026-05-20T08:55:39.963341Z"
   },
   "mantech": {
     "company_name": "ManTech",
@@ -169,34 +174,29 @@
     "score": 9,
     "last_seen": "2026-05-15T19:21:46.456205Z"
   },
-  "national-veterinary-associates": {
-    "company_name": "National Veterinary Associates",
-    "score": 9,
-    "last_seen": "2026-05-20T14:34:40.067022Z"
-  },
   "plain-concepts": {
     "company_name": "Plain Concepts",
     "score": 8,
     "last_seen": "2026-05-20T08:55:39.963316Z"
   },
-  "gitlab": {
-    "company_name": "GitLab",
-    "score": 7,
-    "last_seen": "2026-05-17T18:58:30.192486Z"
-  },
   "truelogic": {
     "company_name": "Truelogic",
-    "score": 7,
-    "last_seen": "2026-05-20T14:34:40.067027Z"
+    "score": 8,
+    "last_seen": "2026-05-20T20:02:51.542952Z"
+  },
+  "gitlab": {
+    "company_name": "GitLab",
+    "score": 6,
+    "last_seen": "2026-05-17T18:58:30.192486Z"
   },
   "autohdr": {
     "company_name": "AutoHDR",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-05-18T02:13:33.250835Z"
   },
   "mozilla": {
     "company_name": "Mozilla",
-    "score": 3,
-    "last_seen": "2026-05-20T14:34:40.067000Z"
+    "score": 4,
+    "last_seen": "2026-05-20T20:02:51.542928Z"
   }
 }
