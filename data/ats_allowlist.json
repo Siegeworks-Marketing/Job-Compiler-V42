@@ -2,37 +2,37 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-05-20T20:02:51.542925Z"
+    "last_seen": "2026-05-21T02:09:00.571547Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-05-20T20:02:51.542954Z"
+    "last_seen": "2026-05-21T02:09:00.571577Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-05-20T20:02:51.542959Z"
+    "last_seen": "2026-05-21T02:09:00.571581Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-05-20T20:02:51.542957Z"
+    "last_seen": "2026-05-21T02:09:00.571579Z"
   },
   "davita": {
     "company_name": "DaVita",
     "score": 15,
-    "last_seen": "2026-05-20T20:02:51.542961Z"
+    "last_seen": "2026-05-21T02:09:00.571584Z"
   },
   "kroger": {
     "company_name": "Kroger",
     "score": 15,
-    "last_seen": "2026-05-20T20:02:51.542966Z"
+    "last_seen": "2026-05-21T02:09:00.571588Z"
   },
   "hitachi-energy": {
     "company_name": "Hitachi Energy",
     "score": 15,
-    "last_seen": "2026-05-20T20:02:51.542968Z"
+    "last_seen": "2026-05-21T02:09:00.571590Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
@@ -47,12 +47,12 @@
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-05-20T20:02:51.542918Z"
+    "last_seen": "2026-05-21T02:09:00.571540Z"
   },
   "careers-in-travel-destination-planners": {
     "company_name": "Careers In Travel | Destination Planners",
     "score": 15,
-    "last_seen": "2026-05-20T20:02:51.542989Z"
+    "last_seen": "2026-05-21T02:09:00.571608Z"
   },
   "global-elite-empire-consultants": {
     "company_name": "Global Elite Empire Consultants",
@@ -62,12 +62,12 @@
   "contact-government-services-llc": {
     "company_name": "Contact Government Services, LLC",
     "score": 15,
-    "last_seen": "2026-05-20T20:02:51.542972Z"
+    "last_seen": "2026-05-21T02:09:00.571594Z"
   },
   "leidos": {
     "company_name": "Leidos",
     "score": 15,
-    "last_seen": "2026-05-20T20:02:51.542964Z"
+    "last_seen": "2026-05-21T02:09:00.571585Z"
   },
   "care-access": {
     "company_name": "Care Access",
@@ -77,7 +77,7 @@
   "gofasti": {
     "company_name": "GoFasti",
     "score": 15,
-    "last_seen": "2026-05-20T20:02:51.542979Z"
+    "last_seen": "2026-05-21T02:09:00.571601Z"
   },
   "rivia-mind-mental-healthcare": {
     "company_name": "Rivia Mind - Mental Healthcare",
@@ -92,7 +92,7 @@
   "deep-fission-inc": {
     "company_name": "Deep Fission, Inc",
     "score": 15,
-    "last_seen": "2026-05-20T20:02:51.542986Z"
+    "last_seen": "2026-05-21T02:09:00.571606Z"
   },
   "mindrift": {
     "company_name": "Mindrift",
@@ -102,36 +102,36 @@
   "varicent": {
     "company_name": "Varicent",
     "score": 15,
-    "last_seen": "2026-05-20T20:02:51.542950Z"
+    "last_seen": "2026-05-21T02:09:00.571572Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-05-20T20:02:51.542908Z"
-  },
-  "meta": {
-    "company_name": "Meta",
-    "score": 15,
-    "last_seen": "2026-05-20T20:02:51.542970Z"
+    "last_seen": "2026-05-21T02:09:00.571531Z"
   },
   "avalere-health": {
     "company_name": "Avalere Health",
     "score": 15,
-    "last_seen": "2026-05-20T20:02:51.542977Z"
+    "last_seen": "2026-05-21T02:09:00.571598Z"
   },
   "expion-health": {
     "company_name": "Expion Health",
     "score": 15,
-    "last_seen": "2026-05-20T20:02:51.542922Z"
+    "last_seen": "2026-05-21T02:09:00.571544Z"
   },
   "gympass": {
     "company_name": "Gympass",
+    "score": 15,
+    "last_seen": "2026-05-21T02:09:00.571561Z"
+  },
+  "meta": {
+    "company_name": "Meta",
     "score": 14,
-    "last_seen": "2026-05-20T20:02:51.542939Z"
+    "last_seen": "2026-05-20T20:02:51.542970Z"
   },
   "name": {
     "company_name": "name",
-    "score": 13,
+    "score": 12,
     "last_seen": "2026-05-20T08:55:39.963387Z"
   },
   "mitre-media": {
@@ -139,25 +139,15 @@
     "score": 11,
     "last_seen": "2026-04-28T13:28:55.388235Z"
   },
+  "national-veterinary-associates": {
+    "company_name": "National Veterinary Associates",
+    "score": 11,
+    "last_seen": "2026-05-21T02:09:00.571570Z"
+  },
   "remote": {
     "company_name": "Remote",
     "score": 10,
     "last_seen": "2026-05-16T18:55:13.306002Z"
-  },
-  "national-veterinary-associates": {
-    "company_name": "National Veterinary Associates",
-    "score": 10,
-    "last_seen": "2026-05-20T20:02:51.542948Z"
-  },
-  "deel": {
-    "company_name": "Deel",
-    "score": 9,
-    "last_seen": "2026-05-19T19:49:44.417616Z"
-  },
-  "ruby-labs": {
-    "company_name": "Ruby Labs",
-    "score": 9,
-    "last_seen": "2026-05-20T08:55:39.963341Z"
   },
   "mantech": {
     "company_name": "ManTech",
@@ -174,29 +164,39 @@
     "score": 9,
     "last_seen": "2026-05-15T19:21:46.456205Z"
   },
+  "truelogic": {
+    "company_name": "Truelogic",
+    "score": 9,
+    "last_seen": "2026-05-21T02:09:00.571575Z"
+  },
+  "deel": {
+    "company_name": "Deel",
+    "score": 8,
+    "last_seen": "2026-05-19T19:49:44.417616Z"
+  },
+  "ruby-labs": {
+    "company_name": "Ruby Labs",
+    "score": 8,
+    "last_seen": "2026-05-20T08:55:39.963341Z"
+  },
   "plain-concepts": {
     "company_name": "Plain Concepts",
     "score": 8,
     "last_seen": "2026-05-20T08:55:39.963316Z"
   },
-  "truelogic": {
-    "company_name": "Truelogic",
-    "score": 8,
-    "last_seen": "2026-05-20T20:02:51.542952Z"
-  },
   "gitlab": {
     "company_name": "GitLab",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-05-17T18:58:30.192486Z"
-  },
-  "autohdr": {
-    "company_name": "AutoHDR",
-    "score": 4,
-    "last_seen": "2026-05-18T02:13:33.250835Z"
   },
   "mozilla": {
     "company_name": "Mozilla",
-    "score": 4,
-    "last_seen": "2026-05-20T20:02:51.542928Z"
+    "score": 5,
+    "last_seen": "2026-05-21T02:09:00.571550Z"
+  },
+  "autohdr": {
+    "company_name": "AutoHDR",
+    "score": 3,
+    "last_seen": "2026-05-18T02:13:33.250835Z"
   }
 }
