@@ -22042,21 +22042,6 @@
       "fetched_at": "2026-05-21T14:39:40.962319Z"
     },
     {
-      "id": "remotive_2090883",
-      "title": "Marketing Manager, Content & AI Enablement",
-      "company": "Expion Health",
-      "location": "USA",
-      "remote_type": "Remote",
-      "salary": "$75k - $95k",
-      "posted": "2026-05-15",
-      "url": "https://remotive.com/remote-jobs/marketing/marketing-manager-content-ai-enablement-2090883",
-      "source": "Remotive",
-      "description": "Title   : Marketing Manager, Content &amp; AI\r\nEnablement       Location   : Fully Remote    <p class=\"MsoNor",
-      "requirements": [],
-      "ats_board": null,
-      "fetched_at": "2026-05-21T19:46:34.401324Z"
-    },
-    {
       "id": "remotive_2090881",
       "title": "Business Transformation Lead",
       "company": "Expion Health",
@@ -22100,57 +22085,6 @@
       "requirements": [],
       "ats_board": null,
       "fetched_at": "2026-05-21T19:46:34.523770Z"
-    },
-    {
-      "id": "themuse_19987712",
-      "title": "Department Supervisor",
-      "company": "Walmart",
-      "location": "Akron, OH",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-08-22",
-      "url": "https://www.themuse.com/jobs/walmart/department-supervisor-dea16d",
-      "source": "The Muse",
-      "description": "Position Summary...    What you'll do...   Provides supervision and development opportunities for hourly associates by hiring, training, and mentoring of associates; assigning duties; setting clear expectations; providing associate recognition; communicating expectations consistently and effectively promoting a belonging mindset in the workplace and recruiting and developing qualified associates to meet staffing needs and achieve company growth potential. Coordinates, completes, and oversees job-related activities and assignments by developing and maintaining relation",
-      "requirements": [
-        "Mid Level"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-05-21T19:46:34.831439Z"
-    },
-    {
-      "id": "themuse_19057423",
-      "title": "Spring 2026 Intern - Electronics (Masters), C++",
-      "company": "Ansys",
-      "location": "Austin, TX",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-07-28",
-      "url": "https://www.themuse.com/jobs/ansys/spring-2026-intern-electronics-masters-c",
-      "source": "The Muse",
-      "description": "Requisition #:  16663  Ansys is now a part of Synopsys. Synopsys, Inc. (Nasdaq: SNPS) accelerates technology innovation from silicon to systems. Catalyzing the era of pervasive intelligence, we deliver design solutions, from electronic design automation to silicon IP, to system design and multiphysics simulation and analysis. We partner closely with our customers across a wide range of industries to maximize their R&amp;D capability and productivity, powering innovation today that ignites the ingenuity of tomorrow. Learn more at www.synopsys.com.   SUMMARY",
-      "requirements": [
-        "Internship"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-05-21T19:46:34.831439Z"
-    },
-    {
-      "id": "themuse_19644462",
-      "title": "Product Operation Specialist - Comprehensive Search Operation",
-      "company": "TikTok",
-      "location": "Singapore",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-07-29",
-      "url": "https://www.themuse.com/jobs/tiktok/product-operation-specialist-comprehensive-search-operation",
-      "source": "The Muse",
-      "description": "Responsibilities    About the team The T&amp;S Evaluation and Investigation team, working closely with the Search team, taking the evaluation standards as the baseline and principles, and manually evaluating the search query and corresponding search results page to reflect the real user experience of the search function.     Responsibilities - Have a deep understanding and knowledge of the English speaking markets, including local cultural norms. - Responsible for search evaluation, investigation, and other search-related business requirements and provide guidance",
-      "requirements": [
-        "Senior Level"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-05-21T19:46:34.831439Z"
     },
     {
       "id": "remoteok_1131580",
@@ -22691,8 +22625,119 @@
       "requirements": [],
       "ats_board": "stone",
       "fetched_at": "2026-05-21T19:46:44.531780Z"
+    },
+    {
+      "id": "remotive_2090883",
+      "title": "Marketing Manager, Content & AI Enablement",
+      "company": "Expion Health",
+      "location": "USA",
+      "remote_type": "Remote",
+      "salary": "$75k - $95k",
+      "posted": "2026-05-15",
+      "url": "https://remotive.com/remote-jobs/marketing/marketing-manager-content-ai-enablement-2090883",
+      "source": "Remotive",
+      "description": "Title   : Marketing Manager, Content &amp; AI\r\nEnablement       Location   : Fully Remote    <p class=\"MsoNor",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-05-22T02:08:48.762418Z"
+    },
+    {
+      "id": "themuse_19987712",
+      "title": "Department Supervisor",
+      "company": "Walmart",
+      "location": "Akron, OH",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-08-22",
+      "url": "https://www.themuse.com/jobs/walmart/department-supervisor-dea16d",
+      "source": "The Muse",
+      "description": "Position Summary...    What you'll do...   Provides supervision and development opportunities for hourly associates by hiring, training, and mentoring of associates; assigning duties; setting clear expectations; providing associate recognition; communicating expectations consistently and effectively promoting a belonging mindset in the workplace and recruiting and developing qualified associates to meet staffing needs and achieve company growth potential. Coordinates, completes, and oversees job-related activities and assignments by developing and maintaining relation",
+      "requirements": [
+        "Mid Level"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-05-22T02:08:49.146566Z"
+    },
+    {
+      "id": "themuse_19057423",
+      "title": "Spring 2026 Intern - Electronics (Masters), C++",
+      "company": "Ansys",
+      "location": "Austin, TX",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-07-28",
+      "url": "https://www.themuse.com/jobs/ansys/spring-2026-intern-electronics-masters-c",
+      "source": "The Muse",
+      "description": "Requisition #:  16663  Ansys is now a part of Synopsys. Synopsys, Inc. (Nasdaq: SNPS) accelerates technology innovation from silicon to systems. Catalyzing the era of pervasive intelligence, we deliver design solutions, from electronic design automation to silicon IP, to system design and multiphysics simulation and analysis. We partner closely with our customers across a wide range of industries to maximize their R&amp;D capability and productivity, powering innovation today that ignites the ingenuity of tomorrow. Learn more at www.synopsys.com.   SUMMARY",
+      "requirements": [
+        "Internship"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-05-22T02:08:49.146566Z"
+    },
+    {
+      "id": "themuse_19644462",
+      "title": "Product Operation Specialist - Comprehensive Search Operation",
+      "company": "TikTok",
+      "location": "Singapore",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-07-29",
+      "url": "https://www.themuse.com/jobs/tiktok/product-operation-specialist-comprehensive-search-operation",
+      "source": "The Muse",
+      "description": "Responsibilities    About the team The T&amp;S Evaluation and Investigation team, working closely with the Search team, taking the evaluation standards as the baseline and principles, and manually evaluating the search query and corresponding search results page to reflect the real user experience of the search function.     Responsibilities - Have a deep understanding and knowledge of the English speaking markets, including local cultural norms. - Responsible for search evaluation, investigation, and other search-related business requirements and provide guidance",
+      "requirements": [
+        "Senior Level"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-05-22T02:08:49.146566Z"
+    },
+    {
+      "id": "remoteok_1131633",
+      "title": "Chief Technology Officer",
+      "company": "Access Softek",
+      "location": "Remote USA",
+      "remote_type": "Remote",
+      "salary": 0,
+      "posted": "2026-05-21",
+      "url": "https://remoteOK.com/remote-jobs/remote-chief-technology-officer-access-softek-1131633",
+      "source": "Remote OK",
+      "description": "Access Softek is a leading provider of digital banking platforms for financial institutions across the U.S.&nbsp; \n We are seeking a Chief Technology Officer to define and lead the companyâs technology vision, architecture strategy, and long-term platform evolution. This is an executive role responsible for ensuring technology is a core driver of business growth, product scalability, and operational resilience. \n As CTO, you will partner with the CEO and executive leadership team to shape company strategy through technology, make high-impact architectural decisions, and ensure the organizati",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-05-22T02:08:49.228949Z"
+    },
+    {
+      "id": "greenhouse_7743304003",
+      "title": "Agente Stone - Consultor (a) Comercial Externo | Mauá/SP",
+      "company": "Stone",
+      "location": "Maua, Sao Paulo, Brasil",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2026-05-21",
+      "url": "https://job-boards.greenhouse.io/stone/jobs/7743304003",
+      "source": "Greenhouse ATS",
+      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;img style=&quot;max-width: 100%;&quot; src=&quot;https://mcusercontent.com/ebbe7d01ee6723e2c280a82a6/images/8b25c19a-a07c-1d87-808a-07ea30b6b18e.png&quot; alt=&quot;&quot; width=&quot;868&quot;&gt;&lt;img style=&quot;max-width: 100%;&quot; src=&quot;https://mcusercontent.com/7dc7b499a44bba30cadcc7a61/images/50edd009-d2ca-4175-4d3f-340cb228cb61.png&quot; alt=&quot;&quot; width=&quot;758&quot;&gt;&lt;/p&gt;\n&lt;h2&gt;&lt;strong&gt;A Stone:&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;A&lt;strong&gt;&amp;nbsp;Stone&lt;/strong&gt;&amp;nbsp;é uma&amp;nbsp;&lt;strong",
+      "requirements": [],
+      "ats_board": "stone",
+      "fetched_at": "2026-05-22T02:08:58.256306Z"
+    },
+    {
+      "id": "greenhouse_7743225003",
+      "title": "Especialista de Políticas de Crédito",
+      "company": "Stone",
+      "location": "São Paulo, São Paulo, Brasil",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2026-05-21",
+      "url": "https://job-boards.greenhouse.io/stone/jobs/7743225003",
+      "source": "Greenhouse ATS",
+      "description": "&lt;h2&gt;&lt;strong&gt;Como é ser um(a) Especialista de Políticas de Crédito:&lt;/strong&gt;&lt;/h2&gt;\n&lt;p&gt;Buscamos um(a) Especialista de Políticas de Crédito para atuar de forma estratégica no desenvolvimento, implantação e monitoramento de políticas para os segmentos PF (Pessoa Física) e PJ (Pessoa Jurídica). Você será peça-chave na alavancagem de produtos como Limite de Conta e Capital de Giro (concessão e manutenção de limites), equilibrando o apetite de risco com as metas de crescimento do negócio.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;div&gt;&lt;strong&gt;Responsabilidades e",
+      "requirements": [],
+      "ats_board": "stone",
+      "fetched_at": "2026-05-22T02:08:58.256306Z"
     }
   ],
-  "updated_at": "2026-05-21T19:46:46.296065Z",
-  "total": 1510
+  "updated_at": "2026-05-22T02:09:02.357067Z",
+  "total": 1513
 }
