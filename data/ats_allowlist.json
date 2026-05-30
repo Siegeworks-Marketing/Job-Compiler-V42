@@ -1,43 +1,43 @@
 {
   "name": {
     "company_name": "name",
-    "score": 20,
-    "last_seen": "2026-05-29T20:10:55.142902Z"
+    "score": 15,
+    "last_seen": "2026-05-30T01:57:37.225999Z"
   },
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-05-29T20:10:55.142841Z"
+    "last_seen": "2026-05-30T01:57:37.225936Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-05-29T20:10:55.142859Z"
+    "last_seen": "2026-05-30T01:57:37.225952Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-05-29T20:10:55.142863Z"
+    "last_seen": "2026-05-30T01:57:37.225957Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-05-29T20:10:55.142861Z"
+    "last_seen": "2026-05-30T01:57:37.225954Z"
   },
   "davita": {
     "company_name": "DaVita",
     "score": 15,
-    "last_seen": "2026-05-29T20:10:55.142868Z"
+    "last_seen": "2026-05-30T01:57:37.225961Z"
   },
   "kroger": {
     "company_name": "Kroger",
     "score": 15,
-    "last_seen": "2026-05-29T20:10:55.142872Z"
+    "last_seen": "2026-05-30T01:57:37.225965Z"
   },
   "hitachi-energy": {
     "company_name": "Hitachi Energy",
     "score": 15,
-    "last_seen": "2026-05-29T20:10:55.142874Z"
+    "last_seen": "2026-05-30T01:57:37.225967Z"
   },
   "everai": {
     "company_name": "EverAI",
@@ -47,17 +47,17 @@
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-05-29T20:10:55.142838Z"
+    "last_seen": "2026-05-30T01:57:37.225933Z"
   },
   "leidos": {
     "company_name": "Leidos",
     "score": 15,
-    "last_seen": "2026-05-29T20:10:55.142870Z"
+    "last_seen": "2026-05-30T01:57:37.225963Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-05-29T20:10:55.142835Z"
+    "last_seen": "2026-05-30T01:57:37.225929Z"
   },
   "expion-health": {
     "company_name": "Expion Health",
@@ -67,12 +67,12 @@
   "crossing-hurdles": {
     "company_name": "Crossing Hurdles",
     "score": 15,
-    "last_seen": "2026-05-29T20:10:55.142894Z"
+    "last_seen": "2026-05-30T01:57:37.225990Z"
   },
   "ge-vernova": {
     "company_name": "GE Vernova",
     "score": 15,
-    "last_seen": "2026-05-29T20:10:55.142866Z"
+    "last_seen": "2026-05-30T01:57:37.225959Z"
   },
   "apprentus": {
     "company_name": "Apprentus",
@@ -91,18 +91,13 @@
   },
   "universia-mxico": {
     "company_name": "Universia MÃ©xico",
-    "score": 10,
-    "last_seen": "2026-05-29T20:10:55.142885Z"
+    "score": 11,
+    "last_seen": "2026-05-30T01:57:37.225980Z"
   },
   "recruitlyticx-hire": {
     "company_name": "RecruitLyticx Hire",
-    "score": 9,
-    "last_seen": "2026-05-29T20:10:55.142900Z"
-  },
-  "sword-health": {
-    "company_name": "Sword Health",
-    "score": 7,
-    "last_seen": "2026-05-28T20:10:40.340401Z"
+    "score": 10,
+    "last_seen": "2026-05-30T01:57:37.225996Z"
   },
   "philips": {
     "company_name": "Philips",
@@ -114,89 +109,94 @@
     "score": 7,
     "last_seen": "2026-05-29T14:39:10.158628Z"
   },
-  "1password": {
-    "company_name": "1Password",
-    "score": 6,
-    "last_seen": "2026-05-26T14:38:18.608857Z"
-  },
   "lawnstarter": {
     "company_name": "LawnStarter",
-    "score": 6,
-    "last_seen": "2026-05-29T20:10:55.142826Z"
+    "score": 7,
+    "last_seen": "2026-05-30T01:57:37.225920Z"
   },
   "temporal-technologies": {
     "company_name": "Temporal Technologies",
-    "score": 6,
-    "last_seen": "2026-05-29T20:10:55.142847Z"
+    "score": 7,
+    "last_seen": "2026-05-30T01:57:37.225941Z"
   },
-  "apple": {
-    "company_name": "Apple",
-    "score": 5,
-    "last_seen": "2026-05-29T14:39:10.158606Z"
+  "sword-health": {
+    "company_name": "Sword Health",
+    "score": 6,
+    "last_seen": "2026-05-28T20:10:40.340401Z"
   },
   "tus-media": {
     "company_name": "TUS Media",
-    "score": 5,
-    "last_seen": "2026-05-29T20:10:55.142890Z"
+    "score": 6,
+    "last_seen": "2026-05-30T01:57:37.225985Z"
   },
   "celsius": {
     "company_name": "CELSIUS",
-    "score": 5,
-    "last_seen": "2026-05-29T20:10:55.142878Z"
+    "score": 6,
+    "last_seen": "2026-05-30T01:57:37.225972Z"
   },
-  "mercor": {
-    "company_name": "Mercor",
-    "score": 4,
-    "last_seen": "2026-05-25T19:17:50.560947Z"
+  "1password": {
+    "company_name": "1Password",
+    "score": 5,
+    "last_seen": "2026-05-26T14:38:18.608857Z"
   },
   "marqeta": {
     "company_name": "Marqeta",
+    "score": 5,
+    "last_seen": "2026-05-30T01:57:37.225938Z"
+  },
+  "apple": {
+    "company_name": "Apple",
     "score": 4,
-    "last_seen": "2026-05-29T20:10:55.142844Z"
+    "last_seen": "2026-05-29T14:39:10.158606Z"
+  },
+  "jamf": {
+    "company_name": "Jamf",
+    "score": 4,
+    "last_seen": "2026-05-30T01:57:37.225947Z"
+  },
+  "fntio": {
+    "company_name": "FNTIO",
+    "score": 4,
+    "last_seen": "2026-05-30T01:57:37.225950Z"
+  },
+  "mercor": {
+    "company_name": "Mercor",
+    "score": 3,
+    "last_seen": "2026-05-25T19:17:50.560947Z"
+  },
+  "tremendous": {
+    "company_name": "Tremendous",
+    "score": 3,
+    "last_seen": "2026-05-30T01:57:37.225944Z"
   },
   "ge-healthcare": {
     "company_name": "GE HealthCare",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-05-28T09:45:15.462830Z"
   },
   "two-chairs": {
     "company_name": "Two Chairs",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-05-28T09:45:15.462808Z"
   },
-  "jamf": {
-    "company_name": "Jamf",
-    "score": 3,
-    "last_seen": "2026-05-29T20:10:55.142852Z"
-  },
-  "fntio": {
-    "company_name": "FNTIO",
-    "score": 3,
-    "last_seen": "2026-05-29T20:10:55.142854Z"
-  },
-  "rgampt-solutions": {
-    "company_name": "RG&amp;T Solutions",
+  "rentokil-terminix": {
+    "company_name": "Rentokil Terminix",
     "score": 2,
-    "last_seen": "2026-05-26T14:38:18.608890Z"
+    "last_seen": "2026-05-30T01:57:37.225969Z"
   },
-  "eli-lilly-and-company": {
-    "company_name": "Eli Lilly and Company",
+  "newsweek": {
+    "company_name": "Newsweek",
     "score": 2,
-    "last_seen": "2026-05-27T14:58:06.414552Z"
+    "last_seen": "2026-05-30T01:57:37.225974Z"
   },
-  "monzo": {
-    "company_name": "Monzo",
+  "utopia-design": {
+    "company_name": "Utopia Design",
     "score": 2,
-    "last_seen": "2026-05-26T14:38:18.608853Z"
+    "last_seen": "2026-05-30T01:57:37.225977Z"
   },
-  "tremendous": {
-    "company_name": "Tremendous",
+  "zirtual": {
+    "company_name": "Zirtual",
     "score": 2,
-    "last_seen": "2026-05-29T20:10:55.142850Z"
-  },
-  "bikeleasing-service-gmbh-co-kg": {
-    "company_name": "Bikeleasing-Service GmbH & Co. KG",
-    "score": 2,
-    "last_seen": "2026-05-29T20:10:55.142856Z"
+    "last_seen": "2026-05-30T01:57:37.225983Z"
   }
 }
