@@ -2,37 +2,37 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-06-01T02:38:13.386871Z"
+    "last_seen": "2026-06-01T11:08:51.790096Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-06-01T02:38:13.386899Z"
+    "last_seen": "2026-06-01T11:08:51.790124Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-06-01T02:38:13.386903Z"
+    "last_seen": "2026-06-01T11:08:51.790128Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-06-01T02:38:13.386901Z"
+    "last_seen": "2026-06-01T11:08:51.790126Z"
   },
   "davita": {
     "company_name": "DaVita",
     "score": 15,
-    "last_seen": "2026-06-01T02:38:13.386907Z"
+    "last_seen": "2026-06-01T11:08:51.790132Z"
   },
   "kroger": {
     "company_name": "Kroger",
     "score": 15,
-    "last_seen": "2026-06-01T02:38:13.386911Z"
+    "last_seen": "2026-06-01T11:08:51.790137Z"
   },
   "hitachi-energy": {
     "company_name": "Hitachi Energy",
     "score": 15,
-    "last_seen": "2026-06-01T02:38:13.386913Z"
+    "last_seen": "2026-06-01T11:08:51.790139Z"
   },
   "everai": {
     "company_name": "EverAI",
@@ -47,12 +47,12 @@
   "leidos": {
     "company_name": "Leidos",
     "score": 15,
-    "last_seen": "2026-06-01T02:38:13.386909Z"
+    "last_seen": "2026-06-01T11:08:51.790135Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-06-01T02:38:13.386866Z"
+    "last_seen": "2026-06-01T11:08:51.790092Z"
   },
   "expion-health": {
     "company_name": "Expion Health",
@@ -62,41 +62,41 @@
   "ge-vernova": {
     "company_name": "GE Vernova",
     "score": 15,
-    "last_seen": "2026-06-01T02:38:13.386905Z"
+    "last_seen": "2026-06-01T11:08:51.790130Z"
   },
   "universia-mxico": {
     "company_name": "Universia MÃ©xico",
     "score": 15,
-    "last_seen": "2026-05-31T02:14:53.741558Z"
+    "last_seen": "2026-06-01T11:08:51.790148Z"
   },
   "mindrift": {
     "company_name": "Mindrift",
     "score": 15,
-    "last_seen": "2026-06-01T02:38:13.386895Z"
+    "last_seen": "2026-06-01T11:08:51.790121Z"
   },
   "lawnstarter": {
     "company_name": "LawnStarter",
     "score": 15,
-    "last_seen": "2026-06-01T02:38:13.386856Z"
-  },
-  "crossing-hurdles": {
-    "company_name": "Crossing Hurdles",
-    "score": 14,
-    "last_seen": "2026-05-31T19:02:33.687758Z"
+    "last_seen": "2026-06-01T11:08:51.790083Z"
   },
   "name": {
     "company_name": "name",
-    "score": 14,
-    "last_seen": "2026-05-31T19:02:33.687776Z"
+    "score": 15,
+    "last_seen": "2026-06-01T11:08:51.790167Z"
   },
   "celsius": {
     "company_name": "CELSIUS",
     "score": 14,
     "last_seen": "2026-06-01T02:38:13.386936Z"
   },
+  "crossing-hurdles": {
+    "company_name": "Crossing Hurdles",
+    "score": 13,
+    "last_seen": "2026-05-31T19:02:33.687758Z"
+  },
   "apprentus": {
     "company_name": "Apprentus",
-    "score": 13,
+    "score": 12,
     "last_seen": "2026-05-29T02:05:21.027241Z"
   },
   "mitre-media": {
@@ -106,23 +106,38 @@
   },
   "rentokil-terminix": {
     "company_name": "Rentokil Terminix",
-    "score": 10,
-    "last_seen": "2026-06-01T02:38:13.386915Z"
-  },
-  "newsweek": {
-    "company_name": "Newsweek",
-    "score": 10,
-    "last_seen": "2026-06-01T02:38:13.386938Z"
+    "score": 11,
+    "last_seen": "2026-06-01T11:08:51.790141Z"
   },
   "revive": {
     "company_name": "Revive",
-    "score": 9,
-    "last_seen": "2026-06-01T02:38:13.386934Z"
+    "score": 10,
+    "last_seen": "2026-06-01T11:08:51.790165Z"
   },
   "grafana-labs": {
     "company_name": "Grafana Labs",
+    "score": 10,
+    "last_seen": "2026-06-01T11:08:51.790119Z"
+  },
+  "newsweek": {
+    "company_name": "Newsweek",
     "score": 9,
-    "last_seen": "2026-06-01T02:38:13.386892Z"
+    "last_seen": "2026-06-01T02:38:13.386938Z"
+  },
+  "mantech": {
+    "company_name": "ManTech",
+    "score": 9,
+    "last_seen": "2026-06-01T11:08:51.790116Z"
+  },
+  "core-code-io": {
+    "company_name": "Core Code io",
+    "score": 9,
+    "last_seen": "2026-06-01T11:08:51.790157Z"
+  },
+  "rithum": {
+    "company_name": "Rithum",
+    "score": 9,
+    "last_seen": "2026-06-01T11:08:51.790159Z"
   },
   "tus-media": {
     "company_name": "TUS Media",
@@ -134,30 +149,15 @@
     "score": 8,
     "last_seen": "2026-05-30T19:02:26.391142Z"
   },
-  "mantech": {
-    "company_name": "ManTech",
+  "bairesdev": {
+    "company_name": "BairesDev",
     "score": 8,
-    "last_seen": "2026-06-01T02:38:13.386889Z"
-  },
-  "core-code-io": {
-    "company_name": "Core Code io",
-    "score": 8,
-    "last_seen": "2026-06-01T02:38:13.386927Z"
-  },
-  "rithum": {
-    "company_name": "Rithum",
-    "score": 8,
-    "last_seen": "2026-06-01T02:38:13.386929Z"
+    "last_seen": "2026-06-01T11:08:51.790155Z"
   },
   "utopia-design": {
     "company_name": "Utopia Design",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-05-31T13:11:45.966293Z"
-  },
-  "bairesdev": {
-    "company_name": "BairesDev",
-    "score": 7,
-    "last_seen": "2026-06-01T02:38:13.386925Z"
   },
   "tremendous": {
     "company_name": "Tremendous",
@@ -171,13 +171,8 @@
   },
   "temporal-technologies": {
     "company_name": "Temporal Technologies",
-    "score": 5,
-    "last_seen": "2026-05-30T19:02:26.391158Z"
-  },
-  "fntio": {
-    "company_name": "FNTIO",
     "score": 4,
-    "last_seen": "2026-05-31T02:14:53.741524Z"
+    "last_seen": "2026-05-30T19:02:26.391158Z"
   },
   "wiz": {
     "company_name": "Wiz",
@@ -186,17 +181,22 @@
   },
   "headspace": {
     "company_name": "Headspace",
-    "score": 3,
-    "last_seen": "2026-06-01T02:38:13.386874Z"
+    "score": 4,
+    "last_seen": "2026-06-01T11:08:51.790102Z"
   },
   "five9": {
     "company_name": "Five9",
-    "score": 3,
-    "last_seen": "2026-06-01T02:38:13.386878Z"
+    "score": 4,
+    "last_seen": "2026-06-01T11:08:51.790107Z"
   },
   "remoteva": {
     "company_name": "RemoteVA",
+    "score": 4,
+    "last_seen": "2026-06-01T11:08:51.790145Z"
+  },
+  "fntio": {
+    "company_name": "FNTIO",
     "score": 3,
-    "last_seen": "2026-06-01T02:38:13.386919Z"
+    "last_seen": "2026-05-31T02:14:53.741524Z"
   }
 }
