@@ -2,37 +2,37 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-06-04T14:33:46.194788Z"
+    "last_seen": "2026-06-04T19:57:51.569744Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-06-04T14:33:46.194829Z"
+    "last_seen": "2026-06-04T19:57:51.569783Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-06-04T14:33:46.194834Z"
+    "last_seen": "2026-06-04T19:57:51.569788Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-06-04T14:33:46.194832Z"
+    "last_seen": "2026-06-04T19:57:51.569786Z"
   },
   "davita": {
     "company_name": "DaVita",
     "score": 15,
-    "last_seen": "2026-06-04T14:33:46.194838Z"
+    "last_seen": "2026-06-04T19:57:51.569791Z"
   },
   "kroger": {
     "company_name": "Kroger",
     "score": 15,
-    "last_seen": "2026-06-04T14:33:46.194843Z"
+    "last_seen": "2026-06-04T19:57:51.569795Z"
   },
   "hitachi-energy": {
     "company_name": "Hitachi Energy",
     "score": 15,
-    "last_seen": "2026-06-04T14:33:46.194845Z"
+    "last_seen": "2026-06-04T19:57:51.569797Z"
   },
   "everai": {
     "company_name": "EverAI",
@@ -47,12 +47,12 @@
   "leidos": {
     "company_name": "Leidos",
     "score": 15,
-    "last_seen": "2026-06-04T14:33:46.194841Z"
+    "last_seen": "2026-06-04T19:57:51.569793Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-06-04T14:33:46.194801Z"
+    "last_seen": "2026-06-04T19:57:51.569756Z"
   },
   "expion-health": {
     "company_name": "Expion Health",
@@ -62,141 +62,141 @@
   "lawnstarter": {
     "company_name": "LawnStarter",
     "score": 15,
-    "last_seen": "2026-06-04T14:33:46.194796Z"
+    "last_seen": "2026-06-04T19:57:51.569753Z"
   },
   "rentokil-terminix": {
     "company_name": "Rentokil Terminix",
     "score": 15,
-    "last_seen": "2026-06-04T14:33:46.194847Z"
-  },
-  "remoteva": {
-    "company_name": "RemoteVA",
-    "score": 14,
-    "last_seen": "2026-06-03T20:49:32.564957Z"
+    "last_seen": "2026-06-04T19:57:51.569799Z"
   },
   "marqeta": {
     "company_name": "Marqeta",
-    "score": 13,
-    "last_seen": "2026-06-04T14:33:46.194816Z"
+    "score": 14,
+    "last_seen": "2026-06-04T19:57:51.569770Z"
   },
   "reddit": {
     "company_name": "Reddit",
-    "score": 13,
-    "last_seen": "2026-06-04T14:33:46.194807Z"
+    "score": 14,
+    "last_seen": "2026-06-04T19:57:51.569761Z"
   },
-  "universia-mxico": {
-    "company_name": "Universia MÃ©xico",
-    "score": 12,
-    "last_seen": "2026-06-03T20:49:32.564945Z"
+  "remoteva": {
+    "company_name": "RemoteVA",
+    "score": 13,
+    "last_seen": "2026-06-03T20:49:32.564957Z"
+  },
+  "lyra-health": {
+    "company_name": "Lyra Health",
+    "score": 13,
+    "last_seen": "2026-06-04T19:57:51.569772Z"
   },
   "bairesdev": {
     "company_name": "BairesDev",
     "score": 12,
     "last_seen": "2026-06-02T20:38:34.458851Z"
   },
-  "lyra-health": {
-    "company_name": "Lyra Health",
-    "score": 12,
-    "last_seen": "2026-06-04T14:33:46.194819Z"
-  },
-  "mindrift": {
-    "company_name": "Mindrift",
+  "universia-mxico": {
+    "company_name": "Universia MÃ©xico",
     "score": 11,
-    "last_seen": "2026-06-03T16:18:24.624812Z"
+    "last_seen": "2026-06-03T20:49:32.564945Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
     "score": 11,
     "last_seen": "2026-04-28T13:28:55.388235Z"
   },
+  "mindrift": {
+    "company_name": "Mindrift",
+    "score": 10,
+    "last_seen": "2026-06-03T16:18:24.624812Z"
+  },
+  "celsius": {
+    "company_name": "CELSIUS",
+    "score": 10,
+    "last_seen": "2026-06-04T19:57:51.569807Z"
+  },
+  "diptyque-paris": {
+    "company_name": "Diptyque Paris",
+    "score": 10,
+    "last_seen": "2026-06-04T19:57:51.569816Z"
+  },
   "core-code-io": {
     "company_name": "Core Code io",
-    "score": 10,
+    "score": 9,
     "last_seen": "2026-06-03T10:32:18.590010Z"
   },
   "rithum": {
     "company_name": "Rithum",
-    "score": 10,
+    "score": 9,
     "last_seen": "2026-06-03T10:32:18.590012Z"
-  },
-  "celsius": {
-    "company_name": "CELSIUS",
-    "score": 9,
-    "last_seen": "2026-06-04T14:33:46.194853Z"
-  },
-  "diptyque-paris": {
-    "company_name": "Diptyque Paris",
-    "score": 9,
-    "last_seen": "2026-06-04T14:33:46.194863Z"
   },
   "jobster": {
     "company_name": "Jobster",
-    "score": 8,
-    "last_seen": "2026-06-04T14:33:46.194865Z"
-  },
-  "ge-vernova": {
-    "company_name": "GE Vernova",
-    "score": 7,
-    "last_seen": "2026-06-02T16:00:49.067041Z"
+    "score": 9,
+    "last_seen": "2026-06-04T19:57:51.569818Z"
   },
   "kipp-foundation": {
     "company_name": "KIPP Foundation",
-    "score": 7,
-    "last_seen": "2026-06-04T14:33:46.194855Z"
+    "score": 8,
+    "last_seen": "2026-06-04T19:57:51.569809Z"
   },
-  "hey-contact-heroes-gmbh": {
-    "company_name": "hey contact heroes GmbH",
+  "ge-vernova": {
+    "company_name": "GE Vernova",
     "score": 6,
-    "last_seen": "2026-06-04T09:43:22.987696Z"
+    "last_seen": "2026-06-02T16:00:49.067041Z"
   },
   "tus-media": {
     "company_name": "TUS Media",
     "score": 6,
     "last_seen": "2026-05-30T13:03:36.180447Z"
   },
-  "apprentus": {
-    "company_name": "Apprentus",
+  "hey-contact-heroes-gmbh": {
+    "company_name": "hey contact heroes GmbH",
     "score": 5,
-    "last_seen": "2026-05-29T02:05:21.027241Z"
+    "last_seen": "2026-06-04T09:43:22.987696Z"
   },
   "universia-per": {
     "company_name": "Universia PerÃº",
     "score": 5,
     "last_seen": "2026-06-03T16:18:24.624841Z"
   },
+  "philips": {
+    "company_name": "Philips",
+    "score": 5,
+    "last_seen": "2026-06-04T19:57:51.569759Z"
+  },
+  "yipitdata": {
+    "company_name": "YipitData",
+    "score": 5,
+    "last_seen": "2026-06-04T19:57:51.569763Z"
+  },
+  "pinterest": {
+    "company_name": "Pinterest",
+    "score": 5,
+    "last_seen": "2026-06-04T19:57:51.569766Z"
+  },
+  "apprentus": {
+    "company_name": "Apprentus",
+    "score": 4,
+    "last_seen": "2026-05-29T02:05:21.027241Z"
+  },
+  "natera": {
+    "company_name": "Natera",
+    "score": 4,
+    "last_seen": "2026-06-04T19:57:51.569768Z"
+  },
+  "nestl-health-science": {
+    "company_name": "NestlÃ© Health Science",
+    "score": 4,
+    "last_seen": "2026-06-04T19:57:51.569803Z"
+  },
   "name": {
     "company_name": "name",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-06-01T21:25:28.097543Z"
   },
   "mantech": {
     "company_name": "ManTech",
-    "score": 4,
-    "last_seen": "2026-06-02T10:04:32.244940Z"
-  },
-  "philips": {
-    "company_name": "Philips",
-    "score": 4,
-    "last_seen": "2026-06-04T14:33:46.194804Z"
-  },
-  "yipitdata": {
-    "company_name": "YipitData",
-    "score": 4,
-    "last_seen": "2026-06-04T14:33:46.194810Z"
-  },
-  "pinterest": {
-    "company_name": "Pinterest",
-    "score": 4,
-    "last_seen": "2026-06-04T14:33:46.194812Z"
-  },
-  "natera": {
-    "company_name": "Natera",
     "score": 3,
-    "last_seen": "2026-06-04T14:33:46.194814Z"
-  },
-  "thoughtworks": {
-    "company_name": "Thoughtworks",
-    "score": 2,
-    "last_seen": "2026-06-04T14:33:46.194821Z"
+    "last_seen": "2026-06-02T10:04:32.244940Z"
   }
 }
