@@ -1,38 +1,43 @@
 {
+  "name": {
+    "company_name": "name",
+    "score": 20,
+    "last_seen": "2026-06-06T02:02:50.737473Z"
+  },
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-06-05T19:34:30.072600Z"
+    "last_seen": "2026-06-06T02:02:50.737384Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-06-05T19:34:30.072646Z"
+    "last_seen": "2026-06-06T02:02:50.737416Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-06-05T19:34:30.072650Z"
+    "last_seen": "2026-06-06T02:02:50.737420Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-06-05T19:34:30.072648Z"
+    "last_seen": "2026-06-06T02:02:50.737418Z"
   },
   "davita": {
     "company_name": "DaVita",
     "score": 15,
-    "last_seen": "2026-06-05T19:34:30.072652Z"
+    "last_seen": "2026-06-06T02:02:50.737422Z"
   },
   "kroger": {
     "company_name": "Kroger",
     "score": 15,
-    "last_seen": "2026-06-05T19:34:30.072657Z"
+    "last_seen": "2026-06-06T02:02:50.737426Z"
   },
   "hitachi-energy": {
     "company_name": "Hitachi Energy",
     "score": 15,
-    "last_seen": "2026-06-05T19:34:30.072659Z"
+    "last_seen": "2026-06-06T02:02:50.737428Z"
   },
   "everai": {
     "company_name": "EverAI",
@@ -47,12 +52,12 @@
   "leidos": {
     "company_name": "Leidos",
     "score": 15,
-    "last_seen": "2026-06-05T19:34:30.072655Z"
+    "last_seen": "2026-06-06T02:02:50.737424Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-06-05T19:34:30.072615Z"
+    "last_seen": "2026-06-06T02:02:50.737396Z"
   },
   "expion-health": {
     "company_name": "Expion Health",
@@ -62,16 +67,16 @@
   "lawnstarter": {
     "company_name": "LawnStarter",
     "score": 15,
-    "last_seen": "2026-06-05T19:34:30.072611Z"
+    "last_seen": "2026-06-06T02:02:50.737392Z"
   },
   "rentokil-terminix": {
     "company_name": "Rentokil Terminix",
     "score": 15,
-    "last_seen": "2026-06-05T19:34:30.072661Z"
+    "last_seen": "2026-06-06T02:02:50.737430Z"
   },
   "bairesdev": {
     "company_name": "BairesDev",
-    "score": 15,
+    "score": 14,
     "last_seen": "2026-06-05T19:34:30.072672Z"
   },
   "celsius": {
@@ -79,124 +84,119 @@
     "score": 14,
     "last_seen": "2026-06-05T19:34:30.072682Z"
   },
-  "marqeta": {
-    "company_name": "Marqeta",
-    "score": 12,
-    "last_seen": "2026-06-05T02:10:18.413009Z"
-  },
-  "reddit": {
-    "company_name": "Reddit",
-    "score": 12,
-    "last_seen": "2026-06-05T02:10:18.412999Z"
-  },
   "remoteva": {
     "company_name": "RemoteVA",
     "score": 12,
     "last_seen": "2026-06-03T20:49:32.564957Z"
   },
-  "lyra-health": {
-    "company_name": "Lyra Health",
+  "marqeta": {
+    "company_name": "Marqeta",
     "score": 11,
-    "last_seen": "2026-06-05T02:10:18.413012Z"
+    "last_seen": "2026-06-05T02:10:18.413009Z"
+  },
+  "reddit": {
+    "company_name": "Reddit",
+    "score": 11,
+    "last_seen": "2026-06-05T02:10:18.412999Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
     "score": 11,
     "last_seen": "2026-04-28T13:28:55.388235Z"
   },
+  "lyra-health": {
+    "company_name": "Lyra Health",
+    "score": 10,
+    "last_seen": "2026-06-05T02:10:18.413012Z"
+  },
   "kipp-foundation": {
     "company_name": "KIPP Foundation",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-06-05T14:27:12.179190Z"
-  },
-  "diptyque-paris": {
-    "company_name": "Diptyque Paris",
-    "score": 8,
-    "last_seen": "2026-06-05T02:10:18.413069Z"
   },
   "nestl-health-science": {
     "company_name": "NestlÃ© Health Science",
-    "score": 8,
-    "last_seen": "2026-06-05T19:34:30.072678Z"
+    "score": 9,
+    "last_seen": "2026-06-06T02:02:50.737435Z"
   },
   "nabu-casa": {
     "company_name": "Nabu Casa",
+    "score": 9,
+    "last_seen": "2026-06-06T02:02:50.737460Z"
+  },
+  "stem-sync-ai": {
+    "company_name": "STEM Sync AI",
     "score": 8,
-    "last_seen": "2026-06-05T19:34:30.072668Z"
+    "last_seen": "2026-06-06T02:02:50.737464Z"
+  },
+  "diptyque-paris": {
+    "company_name": "Diptyque Paris",
+    "score": 7,
+    "last_seen": "2026-06-05T02:10:18.413069Z"
   },
   "universia-mxico": {
     "company_name": "Universia MÃ©xico",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-06-03T20:49:32.564945Z"
   },
   "jobster": {
     "company_name": "Jobster",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-06-05T02:10:18.413071Z"
   },
-  "stem-sync-ai": {
-    "company_name": "STEM Sync AI",
-    "score": 7,
-    "last_seen": "2026-06-05T19:34:30.072674Z"
+  "martell-media": {
+    "company_name": "Martell Media",
+    "score": 6,
+    "last_seen": "2026-06-06T02:02:50.737458Z"
   },
   "mindrift": {
     "company_name": "Mindrift",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-06-03T16:18:24.624812Z"
+  },
+  "agilent-technologies": {
+    "company_name": "Agilent Technologies",
+    "score": 5,
+    "last_seen": "2026-06-06T02:02:50.737410Z"
   },
   "core-code-io": {
     "company_name": "Core Code io",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-06-03T10:32:18.590010Z"
   },
   "rithum": {
     "company_name": "Rithum",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-06-03T10:32:18.590012Z"
   },
   "tus-media": {
     "company_name": "TUS Media",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-05-30T13:03:36.180447Z"
   },
-  "martell-media": {
-    "company_name": "Martell Media",
-    "score": 5,
-    "last_seen": "2026-06-05T19:34:30.072665Z"
+  "claritev": {
+    "company_name": "Claritev",
+    "score": 4,
+    "last_seen": "2026-06-06T02:02:50.737404Z"
   },
   "philips": {
     "company_name": "Philips",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-06-05T02:10:18.412996Z"
   },
   "universia-per": {
     "company_name": "Universia PerÃº",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-06-03T16:18:24.624841Z"
-  },
-  "agilent-technologies": {
-    "company_name": "Agilent Technologies",
-    "score": 4,
-    "last_seen": "2026-06-05T19:34:30.072624Z"
-  },
-  "yipitdata": {
-    "company_name": "YipitData",
-    "score": 3,
-    "last_seen": "2026-06-05T02:10:18.413002Z"
-  },
-  "pinterest": {
-    "company_name": "Pinterest",
-    "score": 3,
-    "last_seen": "2026-06-05T02:10:18.413005Z"
-  },
-  "smartsheet": {
-    "company_name": "Smartsheet",
-    "score": 3,
-    "last_seen": "2026-06-05T09:29:05.825836Z"
   },
   "magic": {
     "company_name": "Magic",
     "score": 3,
     "last_seen": "2026-06-05T19:34:30.072630Z"
+  },
+  "remote": {
+    "company_name": "Remote",
+    "score": 3,
+    "last_seen": "2026-06-06T02:02:50.737399Z"
   }
 }
