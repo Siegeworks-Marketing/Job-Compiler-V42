@@ -2,42 +2,42 @@
   "name": {
     "company_name": "name",
     "score": 15,
-    "last_seen": "2026-06-06T08:27:35.236831Z"
+    "last_seen": "2026-06-06T13:06:38.995896Z"
   },
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-06-06T08:27:35.236763Z"
+    "last_seen": "2026-06-06T13:06:38.995827Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-06-06T08:27:35.236792Z"
+    "last_seen": "2026-06-06T13:06:38.995858Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-06-06T08:27:35.236796Z"
+    "last_seen": "2026-06-06T13:06:38.995863Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-06-06T08:27:35.236794Z"
+    "last_seen": "2026-06-06T13:06:38.995860Z"
   },
   "davita": {
     "company_name": "DaVita",
     "score": 15,
-    "last_seen": "2026-06-06T08:27:35.236798Z"
+    "last_seen": "2026-06-06T13:06:38.995865Z"
   },
   "kroger": {
     "company_name": "Kroger",
     "score": 15,
-    "last_seen": "2026-06-06T08:27:35.236803Z"
+    "last_seen": "2026-06-06T13:06:38.995869Z"
   },
   "hitachi-energy": {
     "company_name": "Hitachi Energy",
     "score": 15,
-    "last_seen": "2026-06-06T08:27:35.236805Z"
+    "last_seen": "2026-06-06T13:06:38.995871Z"
   },
   "everai": {
     "company_name": "EverAI",
@@ -52,12 +52,12 @@
   "leidos": {
     "company_name": "Leidos",
     "score": 15,
-    "last_seen": "2026-06-06T08:27:35.236801Z"
+    "last_seen": "2026-06-06T13:06:38.995867Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-06-06T08:27:35.236771Z"
+    "last_seen": "2026-06-06T13:06:38.995835Z"
   },
   "expion-health": {
     "company_name": "Expion Health",
@@ -67,12 +67,12 @@
   "lawnstarter": {
     "company_name": "LawnStarter",
     "score": 15,
-    "last_seen": "2026-06-06T08:27:35.236768Z"
+    "last_seen": "2026-06-06T13:06:38.995832Z"
   },
   "rentokil-terminix": {
     "company_name": "Rentokil Terminix",
     "score": 15,
-    "last_seen": "2026-06-06T08:27:35.236807Z"
+    "last_seen": "2026-06-06T13:06:38.995873Z"
   },
   "celsius": {
     "company_name": "CELSIUS",
@@ -81,7 +81,7 @@
   },
   "bairesdev": {
     "company_name": "BairesDev",
-    "score": 13,
+    "score": 12,
     "last_seen": "2026-06-05T19:34:30.072672Z"
   },
   "remoteva": {
@@ -94,109 +94,109 @@
     "score": 11,
     "last_seen": "2026-04-28T13:28:55.388235Z"
   },
+  "nestl-health-science": {
+    "company_name": "NestlÃ© Health Science",
+    "score": 11,
+    "last_seen": "2026-06-06T13:06:38.995884Z"
+  },
+  "nabu-casa": {
+    "company_name": "Nabu Casa",
+    "score": 11,
+    "last_seen": "2026-06-06T13:06:38.995889Z"
+  },
+  "stem-sync-ai": {
+    "company_name": "STEM Sync AI",
+    "score": 10,
+    "last_seen": "2026-06-06T13:06:38.995894Z"
+  },
   "marqeta": {
     "company_name": "Marqeta",
-    "score": 10,
+    "score": 9,
     "last_seen": "2026-06-05T02:10:18.413009Z"
   },
   "reddit": {
     "company_name": "Reddit",
-    "score": 10,
+    "score": 9,
     "last_seen": "2026-06-05T02:10:18.412999Z"
-  },
-  "nestl-health-science": {
-    "company_name": "NestlÃ© Health Science",
-    "score": 10,
-    "last_seen": "2026-06-06T08:27:35.236817Z"
-  },
-  "nabu-casa": {
-    "company_name": "Nabu Casa",
-    "score": 10,
-    "last_seen": "2026-06-06T08:27:35.236822Z"
   },
   "lyra-health": {
     "company_name": "Lyra Health",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-06-05T02:10:18.413012Z"
   },
   "kipp-foundation": {
     "company_name": "KIPP Foundation",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-06-05T14:27:12.179190Z"
-  },
-  "stem-sync-ai": {
-    "company_name": "STEM Sync AI",
-    "score": 9,
-    "last_seen": "2026-06-06T08:27:35.236827Z"
   },
   "martell-media": {
     "company_name": "Martell Media",
-    "score": 7,
-    "last_seen": "2026-06-06T08:27:35.236819Z"
-  },
-  "diptyque-paris": {
-    "company_name": "Diptyque Paris",
-    "score": 6,
-    "last_seen": "2026-06-05T02:10:18.413069Z"
+    "score": 8,
+    "last_seen": "2026-06-06T13:06:38.995887Z"
   },
   "agilent-technologies": {
     "company_name": "Agilent Technologies",
+    "score": 7,
+    "last_seen": "2026-06-06T13:06:38.995849Z"
+  },
+  "claritev": {
+    "company_name": "Claritev",
     "score": 6,
-    "last_seen": "2026-06-06T08:27:35.236785Z"
+    "last_seen": "2026-06-06T13:06:38.995844Z"
+  },
+  "diptyque-paris": {
+    "company_name": "Diptyque Paris",
+    "score": 5,
+    "last_seen": "2026-06-05T02:10:18.413069Z"
+  },
+  "remote": {
+    "company_name": "Remote",
+    "score": 5,
+    "last_seen": "2026-06-06T13:06:38.995838Z"
+  },
+  "recruitlytic-hires": {
+    "company_name": "RecruitLytic Hires",
+    "score": 5,
+    "last_seen": "2026-06-06T13:06:38.995880Z"
   },
   "universia-mxico": {
     "company_name": "Universia MÃ©xico",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-06-03T20:49:32.564945Z"
   },
   "jobster": {
     "company_name": "Jobster",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-06-05T02:10:18.413071Z"
   },
-  "claritev": {
-    "company_name": "Claritev",
-    "score": 5,
-    "last_seen": "2026-06-06T08:27:35.236779Z"
+  "telus-digital": {
+    "company_name": "TELUS Digital",
+    "score": 4,
+    "last_seen": "2026-06-06T13:06:38.995817Z"
   },
   "mindrift": {
     "company_name": "Mindrift",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-06-03T16:18:24.624812Z"
-  },
-  "remote": {
-    "company_name": "Remote",
-    "score": 4,
-    "last_seen": "2026-06-06T08:27:35.236774Z"
-  },
-  "recruitlytic-hires": {
-    "company_name": "RecruitLytic Hires",
-    "score": 4,
-    "last_seen": "2026-06-06T08:27:35.236813Z"
-  },
-  "core-code-io": {
-    "company_name": "Core Code io",
-    "score": 3,
-    "last_seen": "2026-06-03T10:32:18.590010Z"
-  },
-  "rithum": {
-    "company_name": "Rithum",
-    "score": 3,
-    "last_seen": "2026-06-03T10:32:18.590012Z"
-  },
-  "tus-media": {
-    "company_name": "TUS Media",
-    "score": 3,
-    "last_seen": "2026-05-30T13:03:36.180447Z"
   },
   "magic": {
     "company_name": "Magic",
     "score": 3,
     "last_seen": "2026-06-05T19:34:30.072630Z"
   },
-  "telus-digital": {
-    "company_name": "TELUS Digital",
+  "ecs": {
+    "company_name": "ECS",
     "score": 3,
-    "last_seen": "2026-06-06T08:27:35.236754Z"
+    "last_seen": "2026-06-06T13:06:38.995841Z"
+  },
+  "core-code-io": {
+    "company_name": "Core Code io",
+    "score": 2,
+    "last_seen": "2026-06-03T10:32:18.590010Z"
+  },
+  "rithum": {
+    "company_name": "Rithum",
+    "score": 2,
+    "last_seen": "2026-06-03T10:32:18.590012Z"
   }
 }
