@@ -2,37 +2,37 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-06-10T02:11:20.191071Z"
+    "last_seen": "2026-06-10T09:38:57.810869Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-06-10T02:11:20.191090Z"
+    "last_seen": "2026-06-10T09:38:57.810902Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-06-10T02:11:20.191097Z"
+    "last_seen": "2026-06-10T09:38:57.810909Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-06-10T02:11:20.191092Z"
+    "last_seen": "2026-06-10T09:38:57.810904Z"
   },
   "davita": {
     "company_name": "DaVita",
     "score": 15,
-    "last_seen": "2026-06-10T02:11:20.191099Z"
+    "last_seen": "2026-06-10T09:38:57.810911Z"
   },
   "kroger": {
     "company_name": "Kroger",
     "score": 15,
-    "last_seen": "2026-06-10T02:11:20.191103Z"
+    "last_seen": "2026-06-10T09:38:57.810915Z"
   },
   "hitachi-energy": {
     "company_name": "Hitachi Energy",
     "score": 15,
-    "last_seen": "2026-06-10T02:11:20.191105Z"
+    "last_seen": "2026-06-10T09:38:57.810918Z"
   },
   "everai": {
     "company_name": "EverAI",
@@ -47,12 +47,12 @@
   "leidos": {
     "company_name": "Leidos",
     "score": 15,
-    "last_seen": "2026-06-10T02:11:20.191101Z"
+    "last_seen": "2026-06-10T09:38:57.810913Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-06-10T02:11:20.191078Z"
+    "last_seen": "2026-06-10T09:38:57.810877Z"
   },
   "expion-health": {
     "company_name": "Expion Health",
@@ -62,42 +62,37 @@
   "lawnstarter": {
     "company_name": "LawnStarter",
     "score": 15,
-    "last_seen": "2026-06-10T02:11:20.191075Z"
+    "last_seen": "2026-06-10T09:38:57.810873Z"
   },
   "rentokil-terminix": {
     "company_name": "Rentokil Terminix",
     "score": 15,
-    "last_seen": "2026-06-10T02:11:20.191107Z"
-  },
-  "kipp-foundation": {
-    "company_name": "KIPP Foundation",
-    "score": 15,
-    "last_seen": "2026-06-09T19:56:24.985148Z"
+    "last_seen": "2026-06-10T09:38:57.810920Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
     "score": 15,
-    "last_seen": "2026-06-10T02:11:20.191061Z"
+    "last_seen": "2026-06-10T09:38:57.810857Z"
   },
   "impact-hr-amp-km-solutions": {
     "company_name": "Impact HR &amp; KM Solutions",
     "score": 15,
-    "last_seen": "2026-06-10T02:11:20.191126Z"
+    "last_seen": "2026-06-10T09:38:57.810937Z"
+  },
+  "kipp-foundation": {
+    "company_name": "KIPP Foundation",
+    "score": 14,
+    "last_seen": "2026-06-09T19:56:24.985148Z"
   },
   "bonkk": {
     "company_name": "Bonkk.",
-    "score": 14,
+    "score": 13,
     "last_seen": "2026-06-09T14:19:50.091270Z"
   },
   "dana-incorporated": {
     "company_name": "Dana Incorporated",
-    "score": 13,
+    "score": 12,
     "last_seen": "2026-06-09T19:56:24.985151Z"
-  },
-  "recruitlytic-hires": {
-    "company_name": "RecruitLytic Hires",
-    "score": 11,
-    "last_seen": "2026-06-09T01:57:43.223945Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
@@ -106,38 +101,63 @@
   },
   "empresa-confidencial": {
     "company_name": "Empresa Confidencial",
+    "score": 11,
+    "last_seen": "2026-06-10T09:38:57.810935Z"
+  },
+  "recruitlytic-hires": {
+    "company_name": "RecruitLytic Hires",
     "score": 10,
-    "last_seen": "2026-06-10T02:11:20.191124Z"
+    "last_seen": "2026-06-09T01:57:43.223945Z"
   },
   "dreamscape-learn": {
     "company_name": "Dreamscape Learn",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-06-09T19:56:24.985153Z"
   },
   "celsius": {
     "company_name": "CELSIUS",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-06-05T19:34:30.072682Z"
   },
   "bendigo-advertiser": {
     "company_name": "Bendigo Advertiser",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-06-09T01:57:43.223943Z"
+  },
+  "palo-alto-networks": {
+    "company_name": "Palo Alto Networks",
+    "score": 6,
+    "last_seen": "2026-06-10T09:38:57.810907Z"
+  },
+  "moda-health": {
+    "company_name": "Moda Health",
+    "score": 6,
+    "last_seen": "2026-06-10T09:38:57.810933Z"
+  },
+  "passport-business-engineering-gmbh": {
+    "company_name": "passport Business Engineering GmbH",
+    "score": 6,
+    "last_seen": "2026-06-10T09:38:57.810900Z"
+  },
+  "samsara": {
+    "company_name": "Samsara",
+    "score": 6,
+    "last_seen": "2026-06-10T09:38:57.810893Z"
+  },
+  "motive": {
+    "company_name": "Motive",
+    "score": 6,
+    "last_seen": "2026-06-10T09:38:57.810895Z"
   },
   "nestl-health-science": {
     "company_name": "NestlÃ© Health Science",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-06-06T13:06:38.995884Z"
   },
   "magic": {
     "company_name": "Magic",
-    "score": 6,
-    "last_seen": "2026-06-10T02:11:20.191135Z"
-  },
-  "name": {
-    "company_name": "name",
     "score": 5,
-    "last_seen": "2026-06-07T13:21:32.348592Z"
+    "last_seen": "2026-06-10T02:11:20.191135Z"
   },
   "remote": {
     "company_name": "Remote",
@@ -149,54 +169,34 @@
     "score": 5,
     "last_seen": "2026-06-08T20:00:58.067632Z"
   },
-  "palo-alto-networks": {
-    "company_name": "Palo Alto Networks",
+  "zscaler": {
+    "company_name": "Zscaler",
     "score": 5,
-    "last_seen": "2026-06-10T02:11:20.191094Z"
+    "last_seen": "2026-06-10T09:38:57.810880Z"
   },
-  "moda-health": {
-    "company_name": "Moda Health",
-    "score": 5,
-    "last_seen": "2026-06-10T02:11:20.191121Z"
-  },
-  "passport-business-engineering-gmbh": {
-    "company_name": "passport Business Engineering GmbH",
-    "score": 5,
-    "last_seen": "2026-06-10T02:11:20.191084Z"
+  "name": {
+    "company_name": "name",
+    "score": 4,
+    "last_seen": "2026-06-07T13:21:32.348592Z"
   },
   "martell-media": {
     "company_name": "Martell Media",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-06-07T19:05:35.720507Z"
   },
   "hire-hangar": {
     "company_name": "Hire Hangar",
-    "score": 4,
-    "last_seen": "2026-06-09T19:56:24.985158Z"
-  },
-  "mercor": {
-    "company_name": "mercor",
     "score": 3,
-    "last_seen": "2026-06-09T01:57:43.223947Z"
+    "last_seen": "2026-06-09T19:56:24.985158Z"
   },
   "remoteva": {
     "company_name": "RemoteVA",
     "score": 3,
     "last_seen": "2026-06-03T20:49:32.564957Z"
   },
-  "pro-coffee-gear": {
-    "company_name": "Pro Coffee Gear",
+  "cision": {
+    "company_name": "Cision",
     "score": 3,
-    "last_seen": "2026-06-10T02:11:20.191129Z"
-  },
-  "claritev": {
-    "company_name": "Claritev",
-    "score": 2,
-    "last_seen": "2026-06-07T19:05:35.720465Z"
-  },
-  "ess-defence-energy-and-government-services": {
-    "company_name": "ESS â Defence, Energy and Government Services",
-    "score": 2,
-    "last_seen": "2026-06-07T19:05:35.720492Z"
+    "last_seen": "2026-06-10T09:38:57.810883Z"
   }
 }
