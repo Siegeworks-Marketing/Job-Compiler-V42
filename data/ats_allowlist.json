@@ -7,27 +7,27 @@
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-06-13T02:12:23.911263Z"
+    "last_seen": "2026-06-13T08:50:53.569223Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-06-13T02:12:23.911267Z"
+    "last_seen": "2026-06-13T08:50:53.569227Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-06-13T02:12:23.911265Z"
+    "last_seen": "2026-06-13T08:50:53.569225Z"
   },
   "davita": {
     "company_name": "DaVita",
     "score": 15,
-    "last_seen": "2026-06-13T02:12:23.911272Z"
+    "last_seen": "2026-06-13T08:50:53.569232Z"
   },
   "kroger": {
     "company_name": "Kroger",
     "score": 15,
-    "last_seen": "2026-06-13T02:12:23.911276Z"
+    "last_seen": "2026-06-13T08:50:53.569237Z"
   },
   "everai": {
     "company_name": "EverAI",
@@ -42,12 +42,12 @@
   "leidos": {
     "company_name": "Leidos",
     "score": 15,
-    "last_seen": "2026-06-13T02:12:23.911274Z"
+    "last_seen": "2026-06-13T08:50:53.569235Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-06-13T02:12:23.911247Z"
+    "last_seen": "2026-06-13T08:50:53.569219Z"
   },
   "expion-health": {
     "company_name": "Expion Health",
@@ -57,31 +57,31 @@
   "lawnstarter": {
     "company_name": "LawnStarter",
     "score": 15,
-    "last_seen": "2026-06-13T02:12:23.911243Z"
+    "last_seen": "2026-06-13T08:50:53.569215Z"
   },
   "rentokil-terminix": {
     "company_name": "Rentokil Terminix",
     "score": 15,
-    "last_seen": "2026-06-13T02:12:23.911279Z"
+    "last_seen": "2026-06-13T08:50:53.569239Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
     "score": 15,
-    "last_seen": "2026-06-13T02:12:23.911234Z"
-  },
-  "hitachi-energy": {
-    "company_name": "Hitachi Energy",
-    "score": 14,
-    "last_seen": "2026-06-12T19:59:30.085205Z"
+    "last_seen": "2026-06-13T08:50:53.569206Z"
   },
   "nabu-casa": {
     "company_name": "Nabu Casa",
-    "score": 14,
-    "last_seen": "2026-06-13T02:12:23.911297Z"
+    "score": 15,
+    "last_seen": "2026-06-13T08:50:53.569262Z"
+  },
+  "hitachi-energy": {
+    "company_name": "Hitachi Energy",
+    "score": 13,
+    "last_seen": "2026-06-12T19:59:30.085205Z"
   },
   "truelogic": {
     "company_name": "Truelogic",
-    "score": 14,
+    "score": 13,
     "last_seen": "2026-06-13T02:12:23.911255Z"
   },
   "mitre-media": {
@@ -89,114 +89,114 @@
     "score": 11,
     "last_seen": "2026-04-28T13:28:55.388235Z"
   },
-  "axiom": {
-    "company_name": "Axiom",
-    "score": 10,
-    "last_seen": "2026-06-12T19:59:30.085161Z"
-  },
   "empresa-confidencial": {
     "company_name": "Empresa Confidencial",
-    "score": 10,
-    "last_seen": "2026-06-13T02:12:23.911290Z"
+    "score": 11,
+    "last_seen": "2026-06-13T08:50:53.569253Z"
+  },
+  "axiom": {
+    "company_name": "Axiom",
+    "score": 9,
+    "last_seen": "2026-06-12T19:59:30.085161Z"
+  },
+  "fedex": {
+    "company_name": "FedEx",
+    "score": 9,
+    "last_seen": "2026-06-13T08:50:53.569250Z"
+  },
+  "curasenseai": {
+    "company_name": "CuraSenseAI",
+    "score": 9,
+    "last_seen": "2026-06-13T08:50:53.569242Z"
   },
   "soracom": {
     "company_name": "SORACOM",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-06-13T02:12:23.911299Z"
   },
   "ecs": {
     "company_name": "ECS",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-06-11T15:38:17.994520Z"
   },
   "impact-hr-amp-km-solutions": {
     "company_name": "Impact HR &amp; KM Solutions",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-06-10T14:55:08.509929Z"
   },
   "mantech": {
     "company_name": "ManTech",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-06-12T19:59:30.085170Z"
-  },
-  "fedex": {
-    "company_name": "FedEx",
-    "score": 8,
-    "last_seen": "2026-06-13T02:12:23.911288Z"
-  },
-  "curasenseai": {
-    "company_name": "CuraSenseAI",
-    "score": 8,
-    "last_seen": "2026-06-13T02:12:23.911281Z"
   },
   "mercor": {
     "company_name": "mercor",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-06-13T02:12:23.911301Z"
-  },
-  "adani-airport-holdings-ltd": {
-    "company_name": "Adani Airport Holdings Ltd",
-    "score": 6,
-    "last_seen": "2026-06-12T19:59:30.085236Z"
   },
   "1komma5": {
     "company_name": "1KOMMA5˚",
     "score": 6,
     "last_seen": "2026-06-13T02:12:23.911260Z"
   },
-  "nymbus": {
-    "company_name": "Nymbus",
-    "score": 5,
-    "last_seen": "2026-06-12T10:01:32.367737Z"
-  },
   "360dialog": {
     "company_name": "360Dialog",
-    "score": 5,
-    "last_seen": "2026-06-13T02:12:23.911292Z"
+    "score": 6,
+    "last_seen": "2026-06-13T08:50:53.569255Z"
   },
   "women-builders-council": {
     "company_name": "Women Builders Council",
-    "score": 5,
-    "last_seen": "2026-06-13T02:12:23.911286Z"
+    "score": 6,
+    "last_seen": "2026-06-13T08:50:53.569248Z"
   },
-  "think-academy-us": {
-    "company_name": "Think Academy US",
-    "score": 4,
-    "last_seen": "2026-06-12T19:59:30.085164Z"
+  "adani-airport-holdings-ltd": {
+    "company_name": "Adani Airport Holdings Ltd",
+    "score": 5,
+    "last_seen": "2026-06-12T19:59:30.085236Z"
   },
   "healthcorps": {
     "company_name": "HealthCorps",
-    "score": 4,
-    "last_seen": "2026-06-13T02:12:23.911283Z"
+    "score": 5,
+    "last_seen": "2026-06-13T08:50:53.569245Z"
   },
-  "kipp-foundation": {
-    "company_name": "KIPP Foundation",
+  "nymbus": {
+    "company_name": "Nymbus",
+    "score": 4,
+    "last_seen": "2026-06-12T10:01:32.367737Z"
+  },
+  "think-academy-us": {
+    "company_name": "Think Academy US",
     "score": 3,
-    "last_seen": "2026-06-09T19:56:24.985148Z"
+    "last_seen": "2026-06-12T19:59:30.085164Z"
   },
   "stem-sync-ai": {
     "company_name": "STEM Sync AI",
     "score": 3,
     "last_seen": "2026-06-11T20:14:28.646994Z"
   },
+  "kipp-foundation": {
+    "company_name": "KIPP Foundation",
+    "score": 2,
+    "last_seen": "2026-06-09T19:56:24.985148Z"
+  },
   "remote": {
     "company_name": "Remote",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-06-12T19:59:30.085157Z"
   },
   "databricks": {
     "company_name": "Databricks",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-06-12T19:59:30.085167Z"
   },
   "canonical-ltd": {
     "company_name": "Canonical Ltd.",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-06-12T19:59:30.085154Z"
   },
-  "bonkk": {
-    "company_name": "Bonkk.",
+  "kindercare-learning-companies": {
+    "company_name": "KinderCare Learning Companies",
     "score": 2,
-    "last_seen": "2026-06-09T14:19:50.091270Z"
+    "last_seen": "2026-06-13T08:50:53.569229Z"
   }
 }
