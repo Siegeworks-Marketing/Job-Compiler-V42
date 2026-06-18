@@ -1,28 +1,23 @@
 {
-  "name": {
-    "company_name": "name",
-    "score": 15,
-    "last_seen": "2026-06-16T20:44:33.259738Z"
-  },
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-06-18T02:34:54.736593Z"
+    "last_seen": "2026-06-18T10:08:28.153840Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-06-18T02:34:54.736607Z"
+    "last_seen": "2026-06-18T10:08:28.153869Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-06-18T02:34:54.736612Z"
+    "last_seen": "2026-06-18T10:08:28.153873Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-06-18T02:34:54.736609Z"
+    "last_seen": "2026-06-18T10:08:28.153871Z"
   },
   "everai": {
     "company_name": "EverAI",
@@ -32,57 +27,52 @@
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-06-18T02:34:54.736586Z"
+    "last_seen": "2026-06-18T10:08:28.153837Z"
   },
   "leidos": {
     "company_name": "Leidos",
     "score": 15,
-    "last_seen": "2026-06-18T02:34:54.736616Z"
+    "last_seen": "2026-06-18T10:08:28.153863Z"
   },
   "lawnstarter": {
     "company_name": "LawnStarter",
     "score": 15,
-    "last_seen": "2026-06-18T02:34:54.736601Z"
+    "last_seen": "2026-06-18T10:08:28.153845Z"
   },
   "rentokil-terminix": {
     "company_name": "Rentokil Terminix",
     "score": 15,
-    "last_seen": "2026-06-18T02:34:54.736618Z"
+    "last_seen": "2026-06-18T10:08:28.153876Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
     "score": 15,
-    "last_seen": "2026-06-18T02:34:54.736597Z"
-  },
-  "aramco": {
-    "company_name": "aramco",
-    "score": 15,
-    "last_seen": "2026-06-18T02:34:54.736638Z"
+    "last_seen": "2026-06-18T10:08:28.153843Z"
   },
   "kindercare-learning-companies": {
     "company_name": "KinderCare Learning Companies",
     "score": 15,
-    "last_seen": "2026-06-18T02:34:54.736614Z"
+    "last_seen": "2026-06-18T10:08:28.153875Z"
+  },
+  "name": {
+    "company_name": "name",
+    "score": 14,
+    "last_seen": "2026-06-16T20:44:33.259738Z"
+  },
+  "aramco": {
+    "company_name": "aramco",
+    "score": 14,
+    "last_seen": "2026-06-18T02:34:54.736638Z"
   },
   "davita": {
     "company_name": "DaVita",
-    "score": 14,
+    "score": 13,
     "last_seen": "2026-06-17T20:02:57.224811Z"
   },
   "kroger": {
     "company_name": "Kroger",
-    "score": 14,
+    "score": 13,
     "last_seen": "2026-06-17T20:02:57.224814Z"
-  },
-  "digital": {
-    "company_name": "Digital",
-    "score": 12,
-    "last_seen": "2026-06-17T10:28:23.192669Z"
-  },
-  "truelogic": {
-    "company_name": "Truelogic",
-    "score": 12,
-    "last_seen": "2026-06-17T20:02:57.224764Z"
   },
   "expion-health": {
     "company_name": "Expion Health",
@@ -91,28 +81,33 @@
   },
   "ateam": {
     "company_name": "A.Team",
+    "score": 12,
+    "last_seen": "2026-06-18T10:08:28.153830Z"
+  },
+  "digital": {
+    "company_name": "Digital",
     "score": 11,
-    "last_seen": "2026-06-17T02:42:09.063187Z"
+    "last_seen": "2026-06-17T10:28:23.192669Z"
+  },
+  "truelogic": {
+    "company_name": "Truelogic",
+    "score": 11,
+    "last_seen": "2026-06-17T20:02:57.224764Z"
   },
   "curasenseai": {
     "company_name": "CuraSenseAI",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-06-17T02:42:09.063246Z"
   },
   "cloetta": {
     "company_name": "Cloetta",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-06-16T02:44:07.059967Z"
   },
   "healthcorps": {
     "company_name": "HealthCorps",
-    "score": 8,
-    "last_seen": "2026-06-16T10:58:11.153110Z"
-  },
-  "women-builders-council": {
-    "company_name": "Women Builders Council",
     "score": 7,
-    "last_seen": "2026-06-15T20:51:19.820580Z"
+    "last_seen": "2026-06-16T10:58:11.153110Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
@@ -121,82 +116,87 @@
   },
   "capitexai": {
     "company_name": "CapitexAI",
+    "score": 7,
+    "last_seen": "2026-06-18T10:08:28.153889Z"
+  },
+  "women-builders-council": {
+    "company_name": "Women Builders Council",
     "score": 6,
-    "last_seen": "2026-06-18T02:34:54.736632Z"
+    "last_seen": "2026-06-15T20:51:19.820580Z"
   },
   "work-force-nexus": {
     "company_name": "Work Force Nexus",
+    "score": 6,
+    "last_seen": "2026-06-18T10:08:28.153882Z"
+  },
+  "meta": {
+    "company_name": "Meta",
     "score": 5,
-    "last_seen": "2026-06-18T02:34:54.736628Z"
+    "last_seen": "2026-06-18T10:08:28.153878Z"
   },
-  "inspira-education": {
-    "company_name": "Inspira Education",
-    "score": 4,
-    "last_seen": "2026-06-15T20:51:19.820528Z"
-  },
-  "tu-empleo-rd": {
-    "company_name": "Tu Empleo RD",
-    "score": 4,
-    "last_seen": "2026-06-16T20:44:33.259729Z"
+  "findtutors": {
+    "company_name": "FindTutors",
+    "score": 5,
+    "last_seen": "2026-06-18T10:08:28.153887Z"
   },
   "stem-sync-ai": {
     "company_name": "STEM Sync AI",
     "score": 4,
     "last_seen": "2026-06-17T02:42:09.063234Z"
   },
-  "meta": {
-    "company_name": "Meta",
-    "score": 4,
-    "last_seen": "2026-06-18T02:34:54.736620Z"
-  },
-  "findtutors": {
-    "company_name": "FindTutors",
-    "score": 4,
-    "last_seen": "2026-06-18T02:34:54.736630Z"
-  },
   "angel-city-va-recruitment": {
     "company_name": "Angel City VA Recruitment",
     "score": 4,
     "last_seen": "2026-06-18T02:34:54.736635Z"
   },
+  "philips": {
+    "company_name": "Philips",
+    "score": 4,
+    "last_seen": "2026-06-18T10:08:28.153849Z"
+  },
+  "autodesk": {
+    "company_name": "Autodesk",
+    "score": 4,
+    "last_seen": "2026-06-18T10:08:28.153852Z"
+  },
+  "inspira-education": {
+    "company_name": "Inspira Education",
+    "score": 3,
+    "last_seen": "2026-06-15T20:51:19.820528Z"
+  },
+  "tu-empleo-rd": {
+    "company_name": "Tu Empleo RD",
+    "score": 3,
+    "last_seen": "2026-06-16T20:44:33.259729Z"
+  },
   "stewart": {
     "company_name": "Stewart",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-06-18T02:34:54.736643Z"
-  },
-  "empresa-confidencial": {
-    "company_name": "Empresa Confidencial",
-    "score": 3,
-    "last_seen": "2026-06-15T02:42:02.835028Z"
-  },
-  "launch-potato": {
-    "company_name": "Launch Potato",
-    "score": 3,
-    "last_seen": "2026-06-17T20:02:57.224752Z"
   },
   "somewhere": {
     "company_name": "Somewhere",
     "score": 3,
     "last_seen": "2026-06-17T20:02:57.224822Z"
   },
-  "remote": {
-    "company_name": "Remote",
-    "score": 2,
-    "last_seen": "2026-06-17T20:02:57.224750Z"
-  },
-  "impel": {
-    "company_name": "Impel",
-    "score": 2,
-    "last_seen": "2026-06-17T20:02:57.224762Z"
-  },
   "twentythree-gmbh": {
     "company_name": "twentythree GmbH",
-    "score": 2,
-    "last_seen": "2026-06-18T02:34:54.736604Z"
+    "score": 3,
+    "last_seen": "2026-06-18T10:08:28.153868Z"
   },
   "pbg": {
     "company_name": "PBG",
+    "score": 3,
+    "last_seen": "2026-06-18T10:08:28.153884Z"
+  },
+  "agilent-technologies": {
+    "company_name": "Agilent Technologies",
+    "score": 3,
+    "last_seen": "2026-06-18T10:08:28.153850Z"
+  },
+  "empresa-confidencial": {
+    "company_name": "Empresa Confidencial",
     "score": 2,
-    "last_seen": "2026-06-18T02:34:54.736623Z"
+    "last_seen": "2026-06-15T02:42:02.835028Z"
   }
 }
