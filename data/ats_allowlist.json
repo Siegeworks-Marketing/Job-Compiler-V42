@@ -2,57 +2,57 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-06-21T02:37:49.343627Z"
+    "last_seen": "2026-06-21T09:40:20.627018Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-06-21T02:37:49.343659Z"
+    "last_seen": "2026-06-21T09:40:20.627048Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-06-21T02:37:49.343666Z"
+    "last_seen": "2026-06-21T09:40:20.627055Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-06-21T02:37:49.343661Z"
+    "last_seen": "2026-06-21T09:40:20.627051Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-06-21T02:37:49.343623Z"
+    "last_seen": "2026-06-21T09:40:20.627014Z"
   },
   "leidos": {
     "company_name": "Leidos",
     "score": 15,
-    "last_seen": "2026-06-21T02:37:49.343672Z"
+    "last_seen": "2026-06-21T09:40:20.627061Z"
   },
   "lawnstarter": {
     "company_name": "LawnStarter",
     "score": 15,
-    "last_seen": "2026-06-21T02:37:49.343633Z"
+    "last_seen": "2026-06-21T09:40:20.627023Z"
   },
   "rentokil-terminix": {
     "company_name": "Rentokil Terminix",
     "score": 15,
-    "last_seen": "2026-06-21T02:37:49.343674Z"
+    "last_seen": "2026-06-21T09:40:20.627063Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
     "score": 15,
-    "last_seen": "2026-06-21T02:37:49.343630Z"
+    "last_seen": "2026-06-21T09:40:20.627021Z"
   },
   "kindercare-learning-companies": {
     "company_name": "KinderCare Learning Companies",
     "score": 15,
-    "last_seen": "2026-06-21T02:37:49.343668Z"
+    "last_seen": "2026-06-21T09:40:20.627057Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-06-21T02:37:49.343614Z"
+    "last_seen": "2026-06-21T09:40:20.627006Z"
   },
   "capitexai": {
     "company_name": "CapitexAI",
@@ -67,7 +67,7 @@
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-06-21T02:37:49.343650Z"
+    "last_seen": "2026-06-21T09:40:20.627065Z"
   },
   "everai": {
     "company_name": "EverAI",
@@ -79,50 +79,50 @@
     "score": 11,
     "last_seen": "2026-06-20T19:12:12.878716Z"
   },
-  "expion-health": {
-    "company_name": "Expion Health",
-    "score": 9,
-    "last_seen": "2026-05-22T02:08:49.540088Z"
-  },
   "applied-materials": {
     "company_name": "Applied Materials",
+    "score": 9,
+    "last_seen": "2026-06-21T09:40:20.627053Z"
+  },
+  "expion-health": {
+    "company_name": "Expion Health",
     "score": 8,
-    "last_seen": "2026-06-21T02:37:49.343663Z"
+    "last_seen": "2026-05-22T02:08:49.540088Z"
+  },
+  "aljazira-bank": {
+    "company_name": "Aljazira Bank | Ø¨ÙÙ Ø§ÙØ¬Ø²ÙØ±Ø©",
+    "score": 8,
+    "last_seen": "2026-06-21T09:40:20.627078Z"
+  },
+  "plain-concepts": {
+    "company_name": "Plain Concepts",
+    "score": 8,
+    "last_seen": "2026-06-21T09:40:20.627046Z"
+  },
+  "gympass": {
+    "company_name": "Gympass",
+    "score": 8,
+    "last_seen": "2026-06-21T09:40:20.627026Z"
+  },
+  "iherb": {
+    "company_name": "iHerb",
+    "score": 8,
+    "last_seen": "2026-06-21T09:40:20.627033Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
     "score": 7,
     "last_seen": "2026-04-28T13:28:55.388235Z"
   },
-  "aljazira-bank": {
-    "company_name": "Aljazira Bank | Ø¨ÙÙ Ø§ÙØ¬Ø²ÙØ±Ø©",
+  "autodesk": {
+    "company_name": "Autodesk",
     "score": 7,
-    "last_seen": "2026-06-21T02:37:49.343684Z"
-  },
-  "plain-concepts": {
-    "company_name": "Plain Concepts",
-    "score": 7,
-    "last_seen": "2026-06-21T02:37:49.343640Z"
-  },
-  "gympass": {
-    "company_name": "Gympass",
-    "score": 7,
-    "last_seen": "2026-06-21T02:37:49.343645Z"
+    "last_seen": "2026-06-21T09:40:20.627043Z"
   },
   "ericsson": {
     "company_name": "Ericsson",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-06-21T02:37:49.343657Z"
-  },
-  "i-pharm-consulting": {
-    "company_name": "i-Pharm Consulting",
-    "score": 6,
-    "last_seen": "2026-06-20T02:10:31.857399Z"
-  },
-  "mantech": {
-    "company_name": "ManTech",
-    "score": 6,
-    "last_seen": "2026-06-20T13:28:43.109523Z"
   },
   "elevenlabs": {
     "company_name": "Elevenlabs",
@@ -134,69 +134,69 @@
     "score": 6,
     "last_seen": "2026-06-21T02:37:49.343647Z"
   },
-  "autodesk": {
-    "company_name": "Autodesk",
-    "score": 6,
-    "last_seen": "2026-06-21T02:37:49.343635Z"
-  },
   "name": {
     "company_name": "name",
-    "score": 5,
-    "last_seen": "2026-06-19T02:57:20.526449Z"
+    "score": 6,
+    "last_seen": "2026-06-21T09:40:20.627081Z"
   },
-  "pbg": {
-    "company_name": "PBG",
+  "i-pharm-consulting": {
+    "company_name": "i-Pharm Consulting",
     "score": 5,
-    "last_seen": "2026-06-19T19:24:09.244891Z"
+    "last_seen": "2026-06-20T02:10:31.857399Z"
   },
-  "noble": {
-    "company_name": "NOBLE",
+  "mantech": {
+    "company_name": "ManTech",
     "score": 5,
-    "last_seen": "2026-06-19T19:24:09.244886Z"
+    "last_seen": "2026-06-20T13:28:43.109523Z"
   },
   "somewhere": {
     "company_name": "Somewhere",
     "score": 5,
     "last_seen": "2026-06-19T10:13:02.028427Z"
   },
+  "molina-healthcare": {
+    "company_name": "Molina Healthcare",
+    "score": 5,
+    "last_seen": "2026-06-21T09:40:20.627036Z"
+  },
+  "ateneo-de-manila-university": {
+    "company_name": "Ateneo de Manila University",
+    "score": 5,
+    "last_seen": "2026-06-21T09:40:20.627071Z"
+  },
+  "pbg": {
+    "company_name": "PBG",
+    "score": 4,
+    "last_seen": "2026-06-19T19:24:09.244891Z"
+  },
+  "noble": {
+    "company_name": "NOBLE",
+    "score": 4,
+    "last_seen": "2026-06-19T19:24:09.244886Z"
+  },
   "revenuecat": {
     "company_name": "RevenueCat",
     "score": 4,
     "last_seen": "2026-06-20T13:28:43.109512Z"
   },
-  "molina-healthcare": {
-    "company_name": "Molina Healthcare",
-    "score": 4,
-    "last_seen": "2026-06-21T02:37:49.343637Z"
-  },
-  "ateneo-de-manila-university": {
-    "company_name": "Ateneo de Manila University",
-    "score": 4,
-    "last_seen": "2026-06-21T02:37:49.343676Z"
-  },
-  "aramco": {
-    "company_name": "aramco",
-    "score": 3,
-    "last_seen": "2026-06-18T02:34:54.736638Z"
-  },
   "apple": {
     "company_name": "Apple",
-    "score": 3,
-    "last_seen": "2026-06-21T02:37:49.343670Z"
-  },
-  "davita": {
-    "company_name": "DaVita",
-    "score": 2,
-    "last_seen": "2026-06-17T20:02:57.224811Z"
-  },
-  "kroger": {
-    "company_name": "Kroger",
-    "score": 2,
-    "last_seen": "2026-06-17T20:02:57.224814Z"
+    "score": 4,
+    "last_seen": "2026-06-21T09:40:20.627059Z"
   },
   "samsara": {
     "company_name": "Samsara",
+    "score": 3,
+    "last_seen": "2026-06-21T09:40:20.627039Z"
+  },
+  "mindrift": {
+    "company_name": "Mindrift",
+    "score": 3,
+    "last_seen": "2026-06-21T09:40:20.627031Z"
+  },
+  "aramco": {
+    "company_name": "aramco",
     "score": 2,
-    "last_seen": "2026-06-20T02:10:31.857351Z"
+    "last_seen": "2026-06-18T02:34:54.736638Z"
   }
 }
