@@ -2,57 +2,57 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-06-22T11:36:37.274687Z"
+    "last_seen": "2026-06-22T16:32:35.758114Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-06-22T11:36:37.274721Z"
+    "last_seen": "2026-06-22T16:32:35.758122Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-06-22T11:36:37.274727Z"
+    "last_seen": "2026-06-22T16:32:35.758128Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-06-22T11:36:37.274723Z"
+    "last_seen": "2026-06-22T16:32:35.758124Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-06-22T11:36:37.274683Z"
+    "last_seen": "2026-06-22T16:32:35.758110Z"
   },
   "leidos": {
     "company_name": "Leidos",
     "score": 15,
-    "last_seen": "2026-06-22T11:36:37.274732Z"
+    "last_seen": "2026-06-22T16:32:35.758133Z"
   },
   "lawnstarter": {
     "company_name": "LawnStarter",
     "score": 15,
-    "last_seen": "2026-06-22T11:36:37.274693Z"
+    "last_seen": "2026-06-22T16:32:35.758120Z"
   },
   "rentokil-terminix": {
     "company_name": "Rentokil Terminix",
     "score": 15,
-    "last_seen": "2026-06-22T11:36:37.274734Z"
+    "last_seen": "2026-06-22T16:32:35.758135Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
     "score": 15,
-    "last_seen": "2026-06-22T11:36:37.274690Z"
+    "last_seen": "2026-06-22T16:32:35.758117Z"
   },
   "kindercare-learning-companies": {
     "company_name": "KinderCare Learning Companies",
     "score": 15,
-    "last_seen": "2026-06-22T11:36:37.274730Z"
+    "last_seen": "2026-06-22T16:32:35.758131Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-06-22T11:36:37.274674Z"
+    "last_seen": "2026-06-22T16:32:35.758100Z"
   },
   "work-force-nexus": {
     "company_name": "Work Force Nexus",
@@ -62,12 +62,12 @@
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-06-22T11:36:37.274698Z"
+    "last_seen": "2026-06-22T16:32:35.758138Z"
   },
   "applied-materials": {
     "company_name": "Applied Materials",
-    "score": 13,
-    "last_seen": "2026-06-22T11:36:37.274725Z"
+    "score": 14,
+    "last_seen": "2026-06-22T16:32:35.758126Z"
   },
   "everai": {
     "company_name": "EverAI",
@@ -76,13 +76,8 @@
   },
   "iherb": {
     "company_name": "iHerb",
-    "score": 12,
-    "last_seen": "2026-06-22T11:36:37.274714Z"
-  },
-  "capitexai": {
-    "company_name": "CapitexAI",
     "score": 11,
-    "last_seen": "2026-06-21T02:37:49.343687Z"
+    "last_seen": "2026-06-22T11:36:37.274714Z"
   },
   "onlinejobsph": {
     "company_name": "OnlineJobs.PH",
@@ -94,109 +89,114 @@
     "score": 11,
     "last_seen": "2026-06-22T02:43:52.633745Z"
   },
+  "capitexai": {
+    "company_name": "CapitexAI",
+    "score": 10,
+    "last_seen": "2026-06-21T02:37:49.343687Z"
+  },
   "gympass": {
     "company_name": "Gympass",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-06-22T02:43:52.633686Z"
   },
   "autodesk": {
     "company_name": "Autodesk",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-06-22T11:36:37.274719Z"
+  },
+  "ateneo-de-manila-university": {
+    "company_name": "Ateneo de Manila University",
+    "score": 10,
+    "last_seen": "2026-06-22T16:32:35.758154Z"
   },
   "plain-concepts": {
     "company_name": "Plain Concepts",
-    "score": 10,
+    "score": 9,
     "last_seen": "2026-06-22T02:43:52.633705Z"
   },
   "molina-healthcare": {
     "company_name": "Molina Healthcare",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-06-22T11:36:37.274702Z"
-  },
-  "ateneo-de-manila-university": {
-    "company_name": "Ateneo de Manila University",
-    "score": 9,
-    "last_seen": "2026-06-22T11:36:37.274764Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
     "score": 7,
     "last_seen": "2026-04-28T13:28:55.388235Z"
   },
+  "tu-empleo-rd": {
+    "company_name": "Tu Empleo RD",
+    "score": 7,
+    "last_seen": "2026-06-22T16:32:35.758161Z"
+  },
   "samsara": {
     "company_name": "Samsara",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-06-22T11:36:37.274717Z"
   },
   "mindrift": {
     "company_name": "Mindrift",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-06-22T11:36:37.274712Z"
-  },
-  "cint": {
-    "company_name": "Cint",
-    "score": 6,
-    "last_seen": "2026-06-21T02:37:49.343647Z"
-  },
-  "tu-empleo-rd": {
-    "company_name": "Tu Empleo RD",
-    "score": 6,
-    "last_seen": "2026-06-22T11:36:37.274771Z"
-  },
-  "elevenlabs": {
-    "company_name": "Elevenlabs",
-    "score": 5,
-    "last_seen": "2026-06-21T02:37:49.343643Z"
   },
   "rgampt-solutions": {
     "company_name": "RG&amp;T Solutions",
+    "score": 6,
+    "last_seen": "2026-06-22T16:32:35.758152Z"
+  },
+  "cint": {
+    "company_name": "Cint",
     "score": 5,
-    "last_seen": "2026-06-22T11:36:37.274762Z"
+    "last_seen": "2026-06-21T02:37:49.343647Z"
+  },
+  "elevenlabs": {
+    "company_name": "Elevenlabs",
+    "score": 4,
+    "last_seen": "2026-06-21T02:37:49.343643Z"
   },
   "expion-health": {
     "company_name": "Expion Health",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-05-22T02:08:49.540088Z"
   },
   "apple": {
     "company_name": "Apple",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-06-21T19:18:05.925450Z"
+  },
+  "destination-careers": {
+    "company_name": "Destination Careers",
+    "score": 3,
+    "last_seen": "2026-06-22T16:32:35.758158Z"
   },
   "revenuecat": {
     "company_name": "RevenueCat",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-06-20T13:28:43.109512Z"
   },
   "marqeta": {
     "company_name": "Marqeta",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-06-22T11:36:37.274710Z"
   },
   "mozilla": {
     "company_name": "Mozilla",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-06-22T11:36:37.274707Z"
   },
-  "ericsson": {
-    "company_name": "Ericsson",
+  "steward": {
+    "company_name": "Steward",
     "score": 2,
-    "last_seen": "2026-06-21T02:37:49.343657Z"
+    "last_seen": "2026-06-22T16:32:35.758140Z"
   },
-  "name": {
-    "company_name": "name",
+  "mississippi-army-national-guard-biloxi-office": {
+    "company_name": "Mississippi Army National Guard Biloxi Office",
     "score": 2,
-    "last_seen": "2026-06-21T09:40:20.627081Z"
+    "last_seen": "2026-06-22T16:32:35.758143Z"
   },
-  "somewhere": {
-    "company_name": "Somewhere",
+  "twine": {
+    "company_name": "Twine",
     "score": 2,
-    "last_seen": "2026-06-19T10:13:02.028427Z"
-  },
-  "mantech": {
-    "company_name": "ManTech",
-    "score": 2,
-    "last_seen": "2026-06-20T13:28:43.109523Z"
+    "last_seen": "2026-06-22T16:32:35.758145Z"
   }
 }
