@@ -2,107 +2,107 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-06-26T14:07:10.132156Z"
+    "last_seen": "2026-06-26T19:35:50.604275Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-06-26T14:07:10.132164Z"
+    "last_seen": "2026-06-26T19:35:50.604298Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-06-26T14:07:10.132170Z"
+    "last_seen": "2026-06-26T19:35:50.604304Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-06-26T14:07:10.132166Z"
+    "last_seen": "2026-06-26T19:35:50.604300Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-06-26T14:07:10.132147Z"
+    "last_seen": "2026-06-26T19:35:50.604266Z"
   },
   "leidos": {
     "company_name": "Leidos",
     "score": 15,
-    "last_seen": "2026-06-26T14:07:10.132175Z"
+    "last_seen": "2026-06-26T19:35:50.604295Z"
   },
   "lawnstarter": {
     "company_name": "LawnStarter",
     "score": 15,
-    "last_seen": "2026-06-26T14:07:10.132151Z"
+    "last_seen": "2026-06-26T19:35:50.604269Z"
   },
   "rentokil-terminix": {
     "company_name": "Rentokil Terminix",
     "score": 15,
-    "last_seen": "2026-06-26T14:07:10.132177Z"
+    "last_seen": "2026-06-26T19:35:50.604308Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
     "score": 15,
-    "last_seen": "2026-06-26T14:07:10.132159Z"
+    "last_seen": "2026-06-26T19:35:50.604277Z"
   },
   "kindercare-learning-companies": {
     "company_name": "KinderCare Learning Companies",
     "score": 15,
-    "last_seen": "2026-06-26T14:07:10.132173Z"
+    "last_seen": "2026-06-26T19:35:50.604306Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-06-26T14:07:10.132154Z"
+    "last_seen": "2026-06-26T19:35:50.604272Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-06-26T14:07:10.132179Z"
+    "last_seen": "2026-06-26T19:35:50.604310Z"
   },
   "applied-materials": {
     "company_name": "Applied Materials",
     "score": 15,
-    "last_seen": "2026-06-26T14:07:10.132168Z"
+    "last_seen": "2026-06-26T19:35:50.604302Z"
   },
   "everai": {
     "company_name": "EverAI",
     "score": 15,
-    "last_seen": "2026-06-26T14:07:10.132138Z"
+    "last_seen": "2026-06-26T19:35:50.604257Z"
   },
   "work-force-nexus": {
     "company_name": "Work Force Nexus",
-    "score": 12,
-    "last_seen": "2026-06-26T14:07:10.132185Z"
-  },
-  "onlinejobsph": {
-    "company_name": "OnlineJobs.PH",
-    "score": 8,
-    "last_seen": "2026-06-23T19:57:02.615655Z"
+    "score": 13,
+    "last_seen": "2026-06-26T19:35:50.604318Z"
   },
   "strange-face": {
     "company_name": "Strange Face",
-    "score": 8,
-    "last_seen": "2026-06-26T14:07:10.132188Z"
+    "score": 9,
+    "last_seen": "2026-06-26T19:35:50.604320Z"
   },
-  "name": {
-    "company_name": "name",
+  "onlinejobsph": {
+    "company_name": "OnlineJobs.PH",
     "score": 7,
-    "last_seen": "2026-06-24T14:11:38.193849Z"
-  },
-  "recruit-lytics-hires": {
-    "company_name": "Recruit Lytics Hires",
-    "score": 7,
-    "last_seen": "2026-06-25T08:53:52.135489Z"
-  },
-  "binance": {
-    "company_name": "Binance",
-    "score": 7,
-    "last_seen": "2026-06-26T08:57:36.196328Z"
+    "last_seen": "2026-06-23T19:57:02.615655Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
     "score": 7,
     "last_seen": "2026-04-28T13:28:55.388235Z"
+  },
+  "name": {
+    "company_name": "name",
+    "score": 6,
+    "last_seen": "2026-06-24T14:11:38.193849Z"
+  },
+  "recruit-lytics-hires": {
+    "company_name": "Recruit Lytics Hires",
+    "score": 6,
+    "last_seen": "2026-06-25T08:53:52.135489Z"
+  },
+  "binance": {
+    "company_name": "Binance",
+    "score": 6,
+    "last_seen": "2026-06-26T08:57:36.196328Z"
   },
   "aecon-group-inc": {
     "company_name": "Aecon Group Inc.",
@@ -111,92 +111,92 @@
   },
   "ateneo-de-manila-university": {
     "company_name": "Ateneo de Manila University",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-06-24T02:10:29.172738Z"
   },
   "celsius-studios": {
     "company_name": "Celsius Studios",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-06-25T14:10:30.942079Z"
   },
   "apple": {
     "company_name": "Apple",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-06-25T19:52:14.819501Z"
   },
   "tu-empleo-rd": {
     "company_name": "Tu Empleo RD",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-06-23T09:04:21.800285Z"
+  },
+  "perle": {
+    "company_name": "Perle",
+    "score": 4,
+    "last_seen": "2026-06-26T19:35:50.604315Z"
+  },
+  "smartsheet": {
+    "company_name": "Smartsheet",
+    "score": 4,
+    "last_seen": "2026-06-26T19:35:50.604284Z"
   },
   "rgampt-solutions": {
     "company_name": "RG&amp;T Solutions",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-06-24T09:04:01.359026Z"
   },
   "steward": {
     "company_name": "Steward",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-06-24T19:35:43.146566Z"
   },
   "mississippi-army-national-guard-biloxi-office": {
     "company_name": "Mississippi Army National Guard Biloxi Office",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-06-24T19:35:43.146568Z"
   },
   "mantech": {
     "company_name": "ManTech",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-06-26T08:57:36.196321Z"
   },
   "ricoh": {
     "company_name": "RICOH",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-06-26T08:57:36.196319Z"
+  },
+  "stackadapt": {
+    "company_name": "StackAdapt",
+    "score": 3,
+    "last_seen": "2026-06-26T19:35:50.604280Z"
+  },
+  "natera": {
+    "company_name": "Natera",
+    "score": 3,
+    "last_seen": "2026-06-26T19:35:50.604286Z"
+  },
+  "travel-planning-professionals": {
+    "company_name": "Travel Planning Professionals",
+    "score": 3,
+    "last_seen": "2026-06-26T19:35:50.604312Z"
   },
   "twine": {
     "company_name": "Twine",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-06-24T14:11:38.193845Z"
-  },
-  "perle": {
-    "company_name": "Perle",
-    "score": 3,
-    "last_seen": "2026-06-26T14:07:10.132182Z"
-  },
-  "yo-it-consulting": {
-    "company_name": "YO IT Consulting",
-    "score": 2,
-    "last_seen": "2026-06-25T02:11:48.516139Z"
-  },
-  "astronomer": {
-    "company_name": "Astronomer",
-    "score": 2,
-    "last_seen": "2026-06-26T08:57:36.196314Z"
-  },
-  "supportyourapp": {
-    "company_name": "SupportYourApp",
-    "score": 2,
-    "last_seen": "2026-06-26T08:57:36.196317Z"
   },
   "ashby": {
     "company_name": "Ashby",
     "score": 2,
     "last_seen": "2026-06-26T08:57:36.196323Z"
   },
-  "montu": {
-    "company_name": "Montu",
-    "score": 2,
-    "last_seen": "2026-06-26T08:57:36.196326Z"
-  },
   "autodesk": {
     "company_name": "Autodesk",
     "score": 2,
     "last_seen": "2026-06-25T08:53:52.135460Z"
   },
-  "tecfox-gmbh": {
-    "company_name": "TecFox GmbH",
+  "neuraflash": {
+    "company_name": "NeuraFlash",
     "score": 2,
-    "last_seen": "2026-06-26T14:07:10.132161Z"
+    "last_seen": "2026-06-26T19:35:50.604282Z"
   }
 }
