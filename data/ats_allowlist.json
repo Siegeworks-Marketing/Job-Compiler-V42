@@ -7,66 +7,66 @@
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-07-03T08:58:36.978093Z"
+    "last_seen": "2026-07-03T13:42:03.121520Z"
   },
   "lawnstarter": {
     "company_name": "LawnStarter",
     "score": 15,
-    "last_seen": "2026-07-03T08:58:36.978106Z"
+    "last_seen": "2026-07-03T13:42:03.121533Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
     "score": 15,
-    "last_seen": "2026-07-03T08:58:36.978111Z"
+    "last_seen": "2026-07-03T13:42:03.121538Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-07-03T08:58:36.978109Z"
+    "last_seen": "2026-07-03T13:42:03.121535Z"
   },
   "everai": {
     "company_name": "EverAI",
     "score": 15,
-    "last_seen": "2026-07-03T08:58:36.978102Z"
+    "last_seen": "2026-07-03T13:42:03.121529Z"
   },
   "onlinejobsph": {
     "company_name": "OnlineJobs.PH",
-    "score": 15,
+    "score": 14,
     "last_seen": "2026-07-01T09:35:03.172520Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-07-03T08:58:36.978126Z"
+    "last_seen": "2026-07-03T13:42:03.121556Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-07-03T08:58:36.978132Z"
+    "last_seen": "2026-07-03T13:42:03.121563Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-07-03T08:58:36.978128Z"
+    "last_seen": "2026-07-03T13:42:03.121558Z"
   },
   "rentokil-terminix": {
     "company_name": "Rentokil Terminix",
     "score": 15,
-    "last_seen": "2026-07-03T08:58:36.978139Z"
+    "last_seen": "2026-07-03T13:42:03.121569Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-07-03T08:58:36.978116Z"
+    "last_seen": "2026-07-03T13:42:03.121543Z"
   },
   "applied-materials": {
     "company_name": "Applied Materials",
     "score": 15,
-    "last_seen": "2026-07-03T08:58:36.978130Z"
+    "last_seen": "2026-07-03T13:42:03.121561Z"
   },
   "innodrei": {
     "company_name": "Innodrei",
-    "score": 15,
+    "score": 14,
     "last_seen": "2026-07-03T08:58:36.978150Z"
   },
   "office-of-energy-amp-sustainability": {
@@ -76,32 +76,32 @@
   },
   "tyviso": {
     "company_name": "Tyviso",
-    "score": 12,
+    "score": 11,
     "last_seen": "2026-07-02T13:38:31.038976Z"
   },
   "tus-media": {
     "company_name": "TUS Media",
-    "score": 13,
-    "last_seen": "2026-07-03T08:58:36.978146Z"
+    "score": 14,
+    "last_seen": "2026-07-03T13:42:03.121576Z"
   },
   "4build-group": {
     "company_name": "4BUILD Group",
-    "score": 13,
-    "last_seen": "2026-07-03T08:58:36.978148Z"
+    "score": 14,
+    "last_seen": "2026-07-03T13:42:03.121578Z"
   },
   "tory-burch": {
     "company_name": "Tory Burch",
-    "score": 11,
-    "last_seen": "2026-07-03T08:58:36.978135Z"
+    "score": 12,
+    "last_seen": "2026-07-03T13:42:03.121565Z"
   },
   "recruit-lytics-hiring": {
     "company_name": "Recruit Lytics Hiring",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-07-01T14:14:24.087198Z"
   },
   "stio": {
     "company_name": "StioÂ®",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-07-02T13:38:31.038974Z"
   },
   "mitre-media": {
@@ -111,22 +111,22 @@
   },
   "travel-planning-professionals": {
     "company_name": "Travel Planning Professionals",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-06-30T14:06:45.412501Z"
   },
   "perle": {
     "company_name": "Perle",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-06-30T09:06:45.776909Z"
   },
   "bikeleasing-service-gmbh-co-kg": {
     "company_name": "Bikeleasing-Service GmbH & Co. KG",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-07-03T01:59:34.715724Z"
   },
   "welo-global": {
     "company_name": "Welo Global",
-    "score": 2,
+    "score": 1,
     "last_seen": "2026-07-02T13:38:31.038979Z"
   },
   "american-public-university-system": {
@@ -134,20 +134,10 @@
     "score": 3,
     "last_seen": "2026-07-02T19:17:38.279804Z"
   },
-  "name": {
-    "company_name": "name",
-    "score": 1,
-    "last_seen": "2026-06-29T19:56:51.902094Z"
-  },
-  "genuit-group": {
-    "company_name": "Genuit Group",
-    "score": 1,
-    "last_seen": "2026-06-29T19:56:51.902039Z"
-  },
   "the-tjx-companies-inc": {
     "company_name": "The TJX Companies, Inc.",
-    "score": 3,
-    "last_seen": "2026-07-03T08:58:36.978137Z"
+    "score": 4,
+    "last_seen": "2026-07-03T13:42:03.121567Z"
   },
   "university-of-colorado-anschutz-medical-campus": {
     "company_name": "University of Colorado Anschutz Medical Campus",
@@ -171,32 +161,37 @@
   },
   "u-haul": {
     "company_name": "U-Haul",
-    "score": 2,
-    "last_seen": "2026-07-03T08:58:36.978121Z"
+    "score": 3,
+    "last_seen": "2026-07-03T13:42:03.121548Z"
   },
   "life-without-barriers": {
     "company_name": "Life Without Barriers",
-    "score": 2,
-    "last_seen": "2026-07-03T08:58:36.978124Z"
+    "score": 3,
+    "last_seen": "2026-07-03T13:42:03.121551Z"
   },
   "nogigiddy": {
     "company_name": "NoGigiddy",
-    "score": 2,
-    "last_seen": "2026-07-03T08:58:36.978114Z"
+    "score": 3,
+    "last_seen": "2026-07-03T13:42:03.121540Z"
   },
   "qad-inc": {
     "company_name": "QAD, Inc.",
-    "score": 2,
-    "last_seen": "2026-07-03T08:58:36.978119Z"
+    "score": 3,
+    "last_seen": "2026-07-03T13:42:03.121546Z"
   },
   "apprentus": {
     "company_name": "Apprentus",
-    "score": 2,
-    "last_seen": "2026-07-03T08:58:36.978142Z"
+    "score": 3,
+    "last_seen": "2026-07-03T13:42:03.121573Z"
   },
   "toloka-ai": {
     "company_name": "Toloka AI",
-    "score": 2,
+    "score": 1,
     "last_seen": "2026-07-03T08:58:36.978153Z"
+  },
+  "retentionclub-gmbh": {
+    "company_name": "retentionclub GmbH",
+    "score": 2,
+    "last_seen": "2026-07-03T13:42:03.121553Z"
   }
 }
