@@ -7,91 +7,91 @@
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-07-04T01:54:12.611343Z"
+    "last_seen": "2026-07-04T08:31:10.905542Z"
   },
   "lawnstarter": {
     "company_name": "LawnStarter",
     "score": 15,
-    "last_seen": "2026-07-04T01:54:12.611355Z"
+    "last_seen": "2026-07-04T08:31:10.905553Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
     "score": 15,
-    "last_seen": "2026-07-04T01:54:12.611361Z"
+    "last_seen": "2026-07-04T08:31:10.905559Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-07-04T01:54:12.611358Z"
+    "last_seen": "2026-07-04T08:31:10.905556Z"
   },
   "everai": {
     "company_name": "EverAI",
     "score": 15,
-    "last_seen": "2026-07-04T01:54:12.611351Z"
+    "last_seen": "2026-07-04T08:31:10.905549Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-07-04T01:54:12.611387Z"
+    "last_seen": "2026-07-04T08:31:10.905563Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-07-04T01:54:12.611394Z"
+    "last_seen": "2026-07-04T08:31:10.905570Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-07-04T01:54:12.611390Z"
+    "last_seen": "2026-07-04T08:31:10.905566Z"
   },
   "rentokil-terminix": {
     "company_name": "Rentokil Terminix",
     "score": 15,
-    "last_seen": "2026-07-04T01:54:12.611401Z"
+    "last_seen": "2026-07-04T08:31:10.905577Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-07-04T01:54:12.611374Z"
+    "last_seen": "2026-07-04T08:31:10.905579Z"
   },
   "applied-materials": {
     "company_name": "Applied Materials",
     "score": 15,
-    "last_seen": "2026-07-04T01:54:12.611392Z"
+    "last_seen": "2026-07-04T08:31:10.905568Z"
+  },
+  "tory-burch": {
+    "company_name": "Tory Burch",
+    "score": 15,
+    "last_seen": "2026-07-04T08:31:10.905573Z"
   },
   "tus-media": {
     "company_name": "TUS Media",
-    "score": 15,
+    "score": 14,
     "last_seen": "2026-07-03T19:08:24.264887Z"
   },
   "4build-group": {
     "company_name": "4BUILD Group",
-    "score": 14,
+    "score": 13,
     "last_seen": "2026-07-03T19:08:24.264889Z"
-  },
-  "tory-burch": {
-    "company_name": "Tory Burch",
-    "score": 14,
-    "last_seen": "2026-07-04T01:54:12.611397Z"
   },
   "office-of-energy-amp-sustainability": {
     "company_name": "Office of Energy &amp; Sustainability",
-    "score": 13,
+    "score": 12,
     "last_seen": "2026-07-03T01:59:34.715745Z"
   },
   "onlinejobsph": {
     "company_name": "OnlineJobs.PH",
-    "score": 12,
+    "score": 11,
     "last_seen": "2026-07-01T09:35:03.172520Z"
   },
   "innodrei": {
     "company_name": "Innodrei",
-    "score": 12,
+    "score": 11,
     "last_seen": "2026-07-03T08:58:36.978150Z"
   },
   "tyviso": {
     "company_name": "Tyviso",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-07-02T13:38:31.038976Z"
   },
   "mitre-media": {
@@ -101,102 +101,102 @@
   },
   "the-tjx-companies-inc": {
     "company_name": "The TJX Companies, Inc.",
+    "score": 7,
+    "last_seen": "2026-07-04T08:31:10.905575Z"
+  },
+  "apprentus": {
+    "company_name": "Apprentus",
     "score": 6,
-    "last_seen": "2026-07-04T01:54:12.611399Z"
+    "last_seen": "2026-07-04T08:31:10.905591Z"
   },
   "recruit-lytics-hiring": {
     "company_name": "Recruit Lytics Hiring",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-07-01T14:14:24.087198Z"
   },
   "nogigiddy": {
     "company_name": "NoGigiddy",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-07-04T01:54:12.611385Z"
   },
-  "apprentus": {
-    "company_name": "Apprentus",
-    "score": 5,
-    "last_seen": "2026-07-04T01:54:12.611413Z"
+  "the-home-depot-canada": {
+    "company_name": "The Home Depot Canada",
+    "score": 4,
+    "last_seen": "2026-07-04T08:31:10.905586Z"
   },
   "stio": {
     "company_name": "StioÂ®",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-07-02T13:38:31.038974Z"
+  },
+  "apple": {
+    "company_name": "Apple",
+    "score": 3,
+    "last_seen": "2026-07-04T08:31:10.905581Z"
+  },
+  "kanahoma": {
+    "company_name": "Kanahoma",
+    "score": 3,
+    "last_seen": "2026-07-04T08:31:10.905584Z"
+  },
+  "new-engen": {
+    "company_name": "New Engen",
+    "score": 3,
+    "last_seen": "2026-07-04T08:31:10.905588Z"
+  },
+  "ruangguru-for-business": {
+    "company_name": "Ruangguru for Business",
+    "score": 3,
+    "last_seen": "2026-07-04T08:31:10.905595Z"
+  },
+  "bjak": {
+    "company_name": "Bjak",
+    "score": 3,
+    "last_seen": "2026-07-04T08:31:10.905597Z"
   },
   "qad-inc": {
     "company_name": "QAD, Inc.",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-07-03T19:08:24.264861Z"
   },
   "marqeta": {
     "company_name": "Marqeta",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-07-04T01:54:12.611380Z"
   },
   "reddit": {
     "company_name": "Reddit",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-07-04T01:54:12.611383Z"
   },
-  "the-home-depot-canada": {
-    "company_name": "The Home Depot Canada",
-    "score": 3,
-    "last_seen": "2026-07-04T01:54:12.611407Z"
+  "gfic": {
+    "company_name": "GFIC",
+    "score": 2,
+    "last_seen": "2026-07-04T08:31:10.905561Z"
   },
   "life-without-barriers": {
     "company_name": "Life Without Barriers",
-    "score": 2,
+    "score": 1,
     "last_seen": "2026-07-03T13:42:03.121551Z"
   },
   "mindrift": {
     "company_name": "Mindrift",
-    "score": 2,
+    "score": 1,
     "last_seen": "2026-07-04T01:54:12.611364Z"
   },
   "pfizer": {
     "company_name": "Pfizer",
-    "score": 2,
+    "score": 1,
     "last_seen": "2026-07-04T01:54:12.611366Z"
   },
   "precision-medicine-group": {
     "company_name": "Precision Medicine Group",
-    "score": 2,
+    "score": 1,
     "last_seen": "2026-07-04T01:54:12.611368Z"
   },
   "liberty-mutual": {
     "company_name": "Liberty Mutual",
-    "score": 2,
-    "last_seen": "2026-07-04T01:54:12.611371Z"
-  },
-  "tripleten": {
-    "company_name": "TripleTen",
-    "score": 2,
-    "last_seen": "2026-07-04T01:54:12.611377Z"
-  },
-  "apple": {
-    "company_name": "Apple",
-    "score": 2,
-    "last_seen": "2026-07-04T01:54:12.611403Z"
-  },
-  "kanahoma": {
-    "company_name": "Kanahoma",
-    "score": 2,
-    "last_seen": "2026-07-04T01:54:12.611405Z"
-  },
-  "new-engen": {
-    "company_name": "New Engen",
-    "score": 2,
-    "last_seen": "2026-07-04T01:54:12.611409Z"
-  },
-  "ruangguru-for-business": {
-    "company_name": "Ruangguru for Business",
-    "score": 2,
-    "last_seen": "2026-07-04T01:54:12.611416Z"
-  },
-  "travel-planning-professionals": {
-    "company_name": "Travel Planning Professionals",
     "score": 1,
-    "last_seen": "2026-06-30T14:06:45.412501Z"
+    "last_seen": "2026-07-04T01:54:12.611371Z"
   }
 }
