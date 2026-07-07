@@ -1,23 +1,23 @@
 {
   "name": {
     "company_name": "name",
-    "score": 16,
+    "score": 15,
     "last_seen": "2026-07-06T14:57:52.607295Z"
   },
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-07-07T14:09:45.038194Z"
+    "last_seen": "2026-07-07T19:37:59.871707Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-07-07T14:09:45.038204Z"
+    "last_seen": "2026-07-07T19:37:59.871714Z"
   },
   "lawnstarter": {
     "company_name": "LawnStarter",
     "score": 15,
-    "last_seen": "2026-07-07T14:09:45.038211Z"
+    "last_seen": "2026-07-07T19:37:59.871721Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
@@ -27,67 +27,67 @@
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-07-07T14:09:45.038213Z"
+    "last_seen": "2026-07-07T19:37:59.871724Z"
   },
   "everai": {
     "company_name": "EverAI",
     "score": 15,
-    "last_seen": "2026-07-07T14:09:45.038208Z"
+    "last_seen": "2026-07-07T19:37:59.871718Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-07-07T14:09:45.038224Z"
+    "last_seen": "2026-07-07T19:37:59.871727Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-07-07T14:09:45.038231Z"
+    "last_seen": "2026-07-07T19:37:59.871733Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-07-07T14:09:45.038226Z"
+    "last_seen": "2026-07-07T19:37:59.871729Z"
   },
   "rentokil-terminix": {
     "company_name": "Rentokil Terminix",
     "score": 15,
-    "last_seen": "2026-07-07T14:09:45.038238Z"
+    "last_seen": "2026-07-07T19:37:59.871739Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-07-07T14:09:45.038215Z"
+    "last_seen": "2026-07-07T19:37:59.871741Z"
   },
   "applied-materials": {
     "company_name": "Applied Materials",
     "score": 15,
-    "last_seen": "2026-07-07T14:09:45.038229Z"
+    "last_seen": "2026-07-07T19:37:59.871731Z"
   },
   "tory-burch": {
     "company_name": "Tory Burch",
     "score": 15,
-    "last_seen": "2026-07-07T14:09:45.038233Z"
+    "last_seen": "2026-07-07T19:37:59.871735Z"
   },
   "the-tjx-companies-inc": {
     "company_name": "The TJX Companies, Inc.",
     "score": 15,
-    "last_seen": "2026-07-07T14:09:45.038235Z"
+    "last_seen": "2026-07-07T19:37:59.871737Z"
   },
   "the-home-depot-canada": {
     "company_name": "The Home Depot Canada",
     "score": 15,
-    "last_seen": "2026-07-07T14:09:45.038248Z"
+    "last_seen": "2026-07-07T19:37:59.871754Z"
   },
   "kanahoma": {
     "company_name": "Kanahoma",
     "score": 15,
-    "last_seen": "2026-07-07T14:09:45.038250Z"
+    "last_seen": "2026-07-07T19:37:59.871757Z"
   },
   "new-engen": {
     "company_name": "New Engen",
     "score": 15,
-    "last_seen": "2026-07-07T14:09:45.038253Z"
+    "last_seen": "2026-07-07T19:37:59.871759Z"
   },
   "tus-media": {
     "company_name": "TUS Media",
@@ -96,8 +96,8 @@
   },
   "recruitlytics-hiring": {
     "company_name": "Recruitlytics Hiring",
-    "score": 12,
-    "last_seen": "2026-07-07T14:09:45.038245Z"
+    "score": 13,
+    "last_seen": "2026-07-07T19:37:59.871751Z"
   },
   "cxc-upstream-ltd": {
     "company_name": "CXC Upstream Ltd",
@@ -106,7 +106,7 @@
   },
   "apprentus": {
     "company_name": "Apprentus",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-07-05T19:05:23.070934Z"
   },
   "mitre-media": {
@@ -116,12 +116,12 @@
   },
   "datadog": {
     "company_name": "Datadog",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-07-06T19:38:30.372314Z"
   },
   "gitlab": {
     "company_name": "GitLab",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-07-06T19:38:30.372311Z"
   },
   "ajax-systems": {
@@ -131,72 +131,52 @@
   },
   "gfic": {
     "company_name": "GFIC",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-07-06T02:07:54.585059Z"
   },
   "fivetran": {
     "company_name": "Fivetran",
-    "score": 2,
+    "score": 1,
     "last_seen": "2026-07-06T14:57:52.607261Z"
   },
   "remote": {
     "company_name": "Remote",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-07-06T02:07:54.585056Z"
-  },
-  "autodesk": {
-    "company_name": "Autodesk",
-    "score": 1,
-    "last_seen": "2026-07-06T09:56:18.795953Z"
-  },
-  "nagarro": {
-    "company_name": "Nagarro",
-    "score": 1,
-    "last_seen": "2026-07-06T14:57:52.607254Z"
-  },
-  "fortive": {
-    "company_name": "Fortive",
-    "score": 1,
-    "last_seen": "2026-07-06T14:57:52.607256Z"
   },
   "elevenlabs": {
     "company_name": "Elevenlabs",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-07-07T14:09:45.038221Z"
-  },
-  "pavago": {
-    "company_name": "Pavago",
-    "score": 1,
-    "last_seen": "2026-07-07T09:28:52.512636Z"
   },
   "liberty-mutual": {
     "company_name": "Liberty Mutual",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-07-07T14:09:45.038218Z"
   },
   "recruitlytic-hiring": {
     "company_name": "Recruitlytic Hiring",
-    "score": 3,
-    "last_seen": "2026-07-07T14:09:45.038243Z"
+    "score": 4,
+    "last_seen": "2026-07-07T19:37:59.871749Z"
   },
   "bjak": {
     "company_name": "Bjak",
-    "score": 2,
-    "last_seen": "2026-07-07T09:28:52.512638Z"
-  },
-  "supportyourapp": {
-    "company_name": "SupportYourApp",
     "score": 1,
-    "last_seen": "2026-07-06T14:57:52.607249Z"
+    "last_seen": "2026-07-07T09:28:52.512638Z"
   },
   "skanska-costain-strabag-joint-venture": {
     "company_name": "Skanska Costain STRABAG Joint Venture",
-    "score": 2,
-    "last_seen": "2026-07-07T14:09:45.038240Z"
+    "score": 3,
+    "last_seen": "2026-07-07T19:37:59.871746Z"
   },
   "mercor": {
     "company_name": "mercor",
     "score": 2,
     "last_seen": "2026-07-07T14:09:45.038256Z"
+  },
+  "linkedin": {
+    "company_name": "LinkedIn",
+    "score": 2,
+    "last_seen": "2026-07-07T19:37:59.871743Z"
   }
 }
