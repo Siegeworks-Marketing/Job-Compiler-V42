@@ -1,23 +1,23 @@
 {
   "name": {
     "company_name": "name",
-    "score": 19,
+    "score": 18,
     "last_seen": "2026-07-06T14:57:52.607295Z"
   },
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-07-06T19:38:30.372287Z"
+    "last_seen": "2026-07-07T01:57:14.879386Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-07-06T19:38:30.372296Z"
+    "last_seen": "2026-07-07T01:57:14.879394Z"
   },
   "lawnstarter": {
     "company_name": "LawnStarter",
     "score": 15,
-    "last_seen": "2026-07-06T19:38:30.372302Z"
+    "last_seen": "2026-07-07T01:57:14.879401Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
@@ -27,52 +27,52 @@
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-07-06T19:38:30.372305Z"
+    "last_seen": "2026-07-07T01:57:14.879404Z"
   },
   "everai": {
     "company_name": "EverAI",
     "score": 15,
-    "last_seen": "2026-07-06T19:38:30.372300Z"
+    "last_seen": "2026-07-07T01:57:14.879398Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-07-06T19:38:30.372317Z"
+    "last_seen": "2026-07-07T01:57:14.879407Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-07-06T19:38:30.372323Z"
+    "last_seen": "2026-07-07T01:57:14.879413Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-07-06T19:38:30.372319Z"
+    "last_seen": "2026-07-07T01:57:14.879409Z"
   },
   "rentokil-terminix": {
     "company_name": "Rentokil Terminix",
     "score": 15,
-    "last_seen": "2026-07-06T19:38:30.372330Z"
+    "last_seen": "2026-07-07T01:57:14.879420Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-07-06T19:38:30.372332Z"
+    "last_seen": "2026-07-07T01:57:14.879422Z"
   },
   "applied-materials": {
     "company_name": "Applied Materials",
     "score": 15,
-    "last_seen": "2026-07-06T19:38:30.372321Z"
+    "last_seen": "2026-07-07T01:57:14.879411Z"
   },
   "tory-burch": {
     "company_name": "Tory Burch",
     "score": 15,
-    "last_seen": "2026-07-06T19:38:30.372325Z"
+    "last_seen": "2026-07-07T01:57:14.879415Z"
   },
   "the-tjx-companies-inc": {
     "company_name": "The TJX Companies, Inc.",
     "score": 15,
-    "last_seen": "2026-07-06T19:38:30.372327Z"
+    "last_seen": "2026-07-07T01:57:14.879418Z"
   },
   "tus-media": {
     "company_name": "TUS Media",
@@ -81,18 +81,18 @@
   },
   "the-home-depot-canada": {
     "company_name": "The Home Depot Canada",
-    "score": 14,
-    "last_seen": "2026-07-06T19:38:30.372337Z"
+    "score": 15,
+    "last_seen": "2026-07-07T01:57:14.879427Z"
   },
   "kanahoma": {
     "company_name": "Kanahoma",
-    "score": 13,
-    "last_seen": "2026-07-06T19:38:30.372340Z"
+    "score": 14,
+    "last_seen": "2026-07-07T01:57:14.879430Z"
   },
   "new-engen": {
     "company_name": "New Engen",
-    "score": 13,
-    "last_seen": "2026-07-06T19:38:30.372344Z"
+    "score": 14,
+    "last_seen": "2026-07-07T01:57:14.879432Z"
   },
   "cxc-upstream-ltd": {
     "company_name": "CXC Upstream Ltd",
@@ -101,13 +101,13 @@
   },
   "apprentus": {
     "company_name": "Apprentus",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-07-05T19:05:23.070934Z"
   },
   "recruitlytics-hiring": {
     "company_name": "Recruitlytics Hiring",
-    "score": 9,
-    "last_seen": "2026-07-06T19:38:30.372335Z"
+    "score": 10,
+    "last_seen": "2026-07-07T01:57:14.879425Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
@@ -116,22 +116,22 @@
   },
   "gfic": {
     "company_name": "GFIC",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-07-06T02:07:54.585059Z"
   },
   "datadog": {
     "company_name": "Datadog",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-07-06T19:38:30.372314Z"
   },
   "gitlab": {
     "company_name": "GitLab",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-07-06T19:38:30.372311Z"
   },
   "fivetran": {
     "company_name": "Fivetran",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-07-06T14:57:52.607261Z"
   },
   "ajax-systems": {
@@ -141,62 +141,62 @@
   },
   "autodesk": {
     "company_name": "Autodesk",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-07-06T09:56:18.795953Z"
   },
   "nagarro": {
     "company_name": "Nagarro",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-07-06T14:57:52.607254Z"
   },
   "fortive": {
     "company_name": "Fortive",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-07-06T14:57:52.607256Z"
   },
   "remote": {
     "company_name": "Remote",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-07-06T02:07:54.585056Z"
   },
   "4build-group": {
     "company_name": "4BUILD Group",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-07-03T19:08:24.264889Z"
   },
   "apple": {
     "company_name": "Apple",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-07-06T14:57:52.607275Z"
   },
   "supportyourapp": {
     "company_name": "SupportYourApp",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-07-06T14:57:52.607249Z"
   },
   "office-of-energy-amp-sustainability": {
     "company_name": "Office of Energy &amp; Sustainability",
-    "score": 2,
+    "score": 1,
     "last_seen": "2026-07-03T01:59:34.715745Z"
   },
   "ruby-labs": {
     "company_name": "Ruby Labs",
-    "score": 2,
+    "score": 1,
     "last_seen": "2026-07-05T01:56:05.681327Z"
   },
   "elevenlabs": {
     "company_name": "Elevenlabs",
-    "score": 2,
+    "score": 1,
     "last_seen": "2026-07-06T19:38:30.372308Z"
   },
   "pavago": {
     "company_name": "Pavago",
-    "score": 2,
+    "score": 1,
     "last_seen": "2026-07-06T19:38:30.372347Z"
   },
-  "onlinejobsph": {
-    "company_name": "OnlineJobs.PH",
-    "score": 1,
-    "last_seen": "2026-07-01T09:35:03.172520Z"
+  "mercier-consultancy-bg": {
+    "company_name": "Mercier Consultancy BG",
+    "score": 2,
+    "last_seen": "2026-07-07T01:57:14.879436Z"
   }
 }
