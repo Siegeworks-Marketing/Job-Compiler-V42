@@ -12100,21 +12100,6 @@
       "fetched_at": "2026-07-05T19:05:33.078253Z"
     },
     {
-      "id": "greenhouse_7946478",
-      "title": "Senior Billing Operations Analyst",
-      "company": "Datadog",
-      "location": "Tokyo, Japan",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2026-06-15",
-      "url": "https://careers.datadoghq.com/detail/7946478/?gh_jid=7946478",
-      "source": "Greenhouse ATS",
-      "description": "&lt;p&gt;Datadog’s Finance team collaborates with teams across the organization, providing commercial, operational, and analytical support to ensure that Datadog’s business continues to grow as rapidly and efficiently as possible.&lt;/p&gt;\n&lt;p&gt;We are seeking a Billing Operations Analyst to join our growing Finance team at Datadog. As a member of the Billing Operations team, you will serve as a trusted partner within the Finance organization, delivering support to a wide range of internal departments and external customers. In this role, you will play a meaningful part in key initiatives",
-      "requirements": [],
-      "ats_board": "datadog",
-      "fetched_at": "2026-07-05T19:05:33.078253Z"
-    },
-    {
       "id": "greenhouse_7815616",
       "title": "Senior Cloud Security Engineer - K8s",
       "company": "Datadog",
@@ -30382,74 +30367,6 @@
       "fetched_at": "2026-07-10T19:19:41.586592Z"
     },
     {
-      "id": "themuse_19987712",
-      "title": "Department Supervisor",
-      "company": "Walmart",
-      "location": "Akron, OH",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-08-22",
-      "url": "https://www.themuse.com/jobs/walmart/department-supervisor-dea16d",
-      "source": "The Muse",
-      "description": "Position Summary...    What you'll do...   Provides supervision and development opportunities for hourly associates by hiring, training, and mentoring of associates; assigning duties; setting clear expectations; providing associate recognition; communicating expectations consistently and effectively promoting a belonging mindset in the workplace and recruiting and developing qualified associates to meet staffing needs and achieve company growth potential. Coordinates, completes, and oversees job-related activities and assignments by developing and maintaining relation",
-      "requirements": [
-        "Mid Level"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-07-10T19:19:41.844330Z"
-    },
-    {
-      "id": "themuse_19057423",
-      "title": "Spring 2026 Intern - Electronics (Masters), C++",
-      "company": "Ansys",
-      "location": "Austin, TX",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-07-28",
-      "url": "https://www.themuse.com/jobs/ansys/spring-2026-intern-electronics-masters-c",
-      "source": "The Muse",
-      "description": "Requisition #:  16663  Ansys is now a part of Synopsys. Synopsys, Inc. (Nasdaq: SNPS) accelerates technology innovation from silicon to systems. Catalyzing the era of pervasive intelligence, we deliver design solutions, from electronic design automation to silicon IP, to system design and multiphysics simulation and analysis. We partner closely with our customers across a wide range of industries to maximize their R&amp;D capability and productivity, powering innovation today that ignites the ingenuity of tomorrow. Learn more at www.synopsys.com.   SUMMARY",
-      "requirements": [
-        "Internship"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-07-10T19:19:41.844330Z"
-    },
-    {
-      "id": "themuse_19644462",
-      "title": "Product Operation Specialist - Comprehensive Search Operation",
-      "company": "TikTok",
-      "location": "Singapore",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-07-29",
-      "url": "https://www.themuse.com/jobs/tiktok/product-operation-specialist-comprehensive-search-operation",
-      "source": "The Muse",
-      "description": "Responsibilities    About the team The T&amp;S Evaluation and Investigation team, working closely with the Search team, taking the evaluation standards as the baseline and principles, and manually evaluating the search query and corresponding search results page to reflect the real user experience of the search function.     Responsibilities - Have a deep understanding and knowledge of the English speaking markets, including local cultural norms. - Responsible for search evaluation, investigation, and other search-related business requirements and provide guidance",
-      "requirements": [
-        "Senior Level"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-07-10T19:19:41.844330Z"
-    },
-    {
-      "id": "themuse_16125011",
-      "title": "Software Engineer - Product (Technical Leadership)",
-      "company": "Meta",
-      "location": "Menlo Park, CA",
-      "remote_type": "See listing",
-      "salary": null,
-      "posted": "2025-03-11",
-      "url": "https://www.themuse.com/jobs/meta/software-engineer-product-technical-leadership-835238",
-      "source": "The Muse",
-      "description": "We are the teams who create all of Facebook's product used by more than 1.5 billion people around the world. Want to build new features and improve existing products like Commerce, Ads, Video, Groups, News Feed, Search, and more? Want to solve unique, large scale, highly complex technical problems? Facebook is seeking experienced full-stack software engineers to join our product teams. You can help build products that help us connect the next billion people, create new features that have billions of interactions per day, and be a part of a team that's working to help people connect around t",
-      "requirements": [
-        "Senior Level"
-      ],
-      "ats_board": null,
-      "fetched_at": "2026-07-10T19:19:41.844330Z"
-    },
-    {
       "id": "remoteok_1134652",
       "title": "Health Navigator I",
       "company": "Moda Health",
@@ -32248,8 +32165,241 @@
       "requirements": [],
       "ats_board": "cresta",
       "fetched_at": "2026-07-10T19:19:51.812544Z"
+    },
+    {
+      "id": "themuse_19987712",
+      "title": "Department Supervisor",
+      "company": "Walmart",
+      "location": "Akron, OH",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-08-22",
+      "url": "https://www.themuse.com/jobs/walmart/department-supervisor-dea16d",
+      "source": "The Muse",
+      "description": "Position Summary...    What you'll do...   Provides supervision and development opportunities for hourly associates by hiring, training, and mentoring of associates; assigning duties; setting clear expectations; providing associate recognition; communicating expectations consistently and effectively promoting a belonging mindset in the workplace and recruiting and developing qualified associates to meet staffing needs and achieve company growth potential. Coordinates, completes, and oversees job-related activities and assignments by developing and maintaining relation",
+      "requirements": [
+        "Mid Level"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-07-11T01:26:57.117938Z"
+    },
+    {
+      "id": "themuse_19057423",
+      "title": "Spring 2026 Intern - Electronics (Masters), C++",
+      "company": "Ansys",
+      "location": "Austin, TX",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-07-28",
+      "url": "https://www.themuse.com/jobs/ansys/spring-2026-intern-electronics-masters-c",
+      "source": "The Muse",
+      "description": "Requisition #:  16663  Ansys is now a part of Synopsys. Synopsys, Inc. (Nasdaq: SNPS) accelerates technology innovation from silicon to systems. Catalyzing the era of pervasive intelligence, we deliver design solutions, from electronic design automation to silicon IP, to system design and multiphysics simulation and analysis. We partner closely with our customers across a wide range of industries to maximize their R&amp;D capability and productivity, powering innovation today that ignites the ingenuity of tomorrow. Learn more at www.synopsys.com.   SUMMARY",
+      "requirements": [
+        "Internship"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-07-11T01:26:57.117938Z"
+    },
+    {
+      "id": "themuse_19644462",
+      "title": "Product Operation Specialist - Comprehensive Search Operation",
+      "company": "TikTok",
+      "location": "Singapore",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-07-29",
+      "url": "https://www.themuse.com/jobs/tiktok/product-operation-specialist-comprehensive-search-operation",
+      "source": "The Muse",
+      "description": "Responsibilities    About the team The T&amp;S Evaluation and Investigation team, working closely with the Search team, taking the evaluation standards as the baseline and principles, and manually evaluating the search query and corresponding search results page to reflect the real user experience of the search function.     Responsibilities - Have a deep understanding and knowledge of the English speaking markets, including local cultural norms. - Responsible for search evaluation, investigation, and other search-related business requirements and provide guidance",
+      "requirements": [
+        "Senior Level"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-07-11T01:26:57.117938Z"
+    },
+    {
+      "id": "themuse_16125011",
+      "title": "Software Engineer - Product (Technical Leadership)",
+      "company": "Meta",
+      "location": "Menlo Park, CA",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2025-03-11",
+      "url": "https://www.themuse.com/jobs/meta/software-engineer-product-technical-leadership-835238",
+      "source": "The Muse",
+      "description": "We are the teams who create all of Facebook's product used by more than 1.5 billion people around the world. Want to build new features and improve existing products like Commerce, Ads, Video, Groups, News Feed, Search, and more? Want to solve unique, large scale, highly complex technical problems? Facebook is seeking experienced full-stack software engineers to join our product teams. You can help build products that help us connect the next billion people, create new features that have billions of interactions per day, and be a part of a team that's working to help people connect around t",
+      "requirements": [
+        "Senior Level"
+      ],
+      "ats_board": null,
+      "fetched_at": "2026-07-11T01:26:57.117938Z"
+    },
+    {
+      "id": "remoteok_1134650",
+      "title": "Support Technician Level 1 2",
+      "company": "Magic Memories",
+      "location": "Orlando,",
+      "remote_type": "Remote",
+      "salary": 0,
+      "posted": "2026-07-10",
+      "url": "https://remoteOK.com/remote-jobs/remote-support-technician-level-1-2-magic-memories-1134650",
+      "source": "Remote OK",
+      "description": "Job Details   Description    WE MAKE PEOPLE SMILE    Magic Memories is a company that delights and amazes guests on the simple but universal concept of making people smile, and has driven that concept into its product, service, and innovation philosophy.  Magic Memories is a global leader in capturing and delivering cherished memories for guests at leading tourist attractions and entertainment venues. We combine cutting-edge technology with exceptional guest service to create personalized photo and video experiences that make people smile. Our innovative approach and commitment to excellence h",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-07-11T01:26:57.534314Z"
+    },
+    {
+      "id": "remoteok_1134651",
+      "title": "Customer Success Manager",
+      "company": "INNERGY",
+      "location": "Austin, Austin, Texas, United States",
+      "remote_type": "Remote",
+      "salary": 0,
+      "posted": "2026-07-09",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-innergy-1134651",
+      "source": "Remote OK",
+      "description": "INNERGY is transforming the woodworking industry with purpose built, cloud based ERP software designed exclusively for custom manufacturers. Our platform helps businesses operate smarter, faster, and more efficiently while seamlessly connecting design, production, and delivery for teams creating architectural millwork, cabinetry, and casework.  What truly sets INNERGY apart is our people. Founded in 2016, we are a globally distributed team of 200 plus professionals united by deep software expertise and a shared passion for solving meaningful, real world problems. We value collaboration, creati",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-07-11T01:26:57.534314Z"
+    },
+    {
+      "id": "remoteok_1134648",
+      "title": "Warehouse Inventory Clerk",
+      "company": "Caribbean Bottling Company (Bahamas) Ltd.",
+      "location": "Nassau,",
+      "remote_type": "Remote",
+      "salary": 0,
+      "posted": "2026-07-09",
+      "url": "https://remoteOK.com/remote-jobs/remote-warehouse-inventory-clerk-caribbean-bottling-company-bahamas-ltd-1134648",
+      "source": "Remote OK",
+      "description": "Overview   The Warehouse Inventory Clerk will conduct accurate inventory counting and reporting to ensure the Warehouse Department can function effectively in fulfilling orders.&nbsp; This is an entry-level position reporting to the Warehouse Manager.       Key Responsibilities    Assist in managing inventory for both Caribbean Bottling Company (CBC) and Caribbean Wines &amp; Spirits (CWS)  Monitor inventory levels to ensure all orders can be completely filled  Conduct daily inventory counts and prepare related reports  Check and verify invoices in the system and ensure they are properly signe",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-07-11T01:26:57.534314Z"
+    },
+    {
+      "id": "remoteok_1134647",
+      "title": "Diver",
+      "company": "Amentum",
+      "location": "New Providence,",
+      "remote_type": "Remote",
+      "salary": 0,
+      "posted": "2026-07-09",
+      "url": "https://remoteOK.com/remote-jobs/remote-diver-amentum-1134647",
+      "source": "Remote OK",
+      "description": "Amentum  is seeking a  Diver  to join our team on  Andros Island, Bahamas  to support the Atlantic Undersea Test and Evaluation Center (AUTEC) mission.  Must be able to obtain and maintain a Secret US Government Clearance. Note: US Citizenship is required to obtain a Secret Clearance.    Essential Responsibilities:      Perform strictly limited âNo Decompressionâ dives at a depth no greater than 100 feet of seawater while utilizing open circuit SCUBA and associated diving equipment to recover, inspect, repair, install, and remove devices from USN marine vessels and structures.    Operate a",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-07-11T01:26:57.534314Z"
+    },
+    {
+      "id": "remoteok_1134660",
+      "title": "Nanny",
+      "company": "Jovie",
+      "location": "Fall City,",
+      "remote_type": "Remote",
+      "salary": 0,
+      "posted": "2026-07-09",
+      "url": "https://remoteOK.com/remote-jobs/remote-nanny-jovie-1134660",
+      "source": "Remote OK",
+      "description": "Compensation :    Hourly wage: $20-25 per hour  Overtime wage: $30-37.50 per hour    Have you worked as a babysitter, daycare worker, nanny, or church nursery volunteer? Are you a retired teacher or teaching professional who is seeking a small environment rather than a classroom? Are you known as the familyâs favorite auntie? If this sounds like you, we welcome you to our babysitter team. Youâll provide care for children toddler â elementary school age while their parents work, so most assignments are Monday â Friday during traditional working hours. If you are engaging, communicative,",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-07-11T01:26:57.534314Z"
+    },
+    {
+      "id": "remoteok_1134688",
+      "title": "Asesor de AtenciÃ³n al Cliente Remoto Sueldo Fijo",
+      "company": "Partner Service",
+      "location": "Santa Anita, Santa Anita, PerÃº",
+      "remote_type": "Remote",
+      "salary": 0,
+      "posted": "2026-07-09",
+      "url": "https://remoteOK.com/remote-jobs/remote-asesor-de-atencion-al-cliente-remoto-sueldo-fijo-partner-service-1134688",
+      "source": "Remote OK",
+      "description": "Â¡TRABAJA DESDE CASA! ð¨  ð BUSCAMOS ASESORES(AS) DE ATENCIÃN AL CLIENTE â REMOTO  Â¿Quieres estabilidad laboral, ingresos atractivos y crecer profesionalmente desde casa? ð¼â¨  Â¡Ãnete a nuestro equipo y forma parte de una gran empresa!  ð° Â¿QUÃ TE OFRECEMOS?  â Sueldo fijo Full Time: S/ 1130  â Bono variable: S/ 300  â Bono de permanencia: S/ 300  â Bono de bienvenida: S/ 200  â Capacitaciones PAGADAS desde el primer dÃ­a  â Excelente clima laboral  â LÃ­nea de carrera desde el 3er mes  ð  Modalidad: 100% REMOTO  ð HORARIOS FULL TIME  ð Lunes a Domingo (",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-07-11T01:26:57.534314Z"
+    },
+    {
+      "id": "remoteok_1134689",
+      "title": "Con o Sin Exp. ATC Remoto Turno Tarde Salario fijo+Variable Firma Contrato con Planilla Completa",
+      "company": "Netcall Group",
+      "location": "Lima, Lima, PerÃº",
+      "remote_type": "Remote",
+      "salary": 0,
+      "posted": "2026-07-09",
+      "url": "https://remoteOK.com/remote-jobs/remote-con-o-sin-exp-atc-remoto-turno-tarde-salario-fijo-variable-firma-contrato-con-planilla-completa-netcall-group-1134689",
+      "source": "Remote OK",
+      "description": "PUESTO: Â¡ ASESOR DE ATENCIÃN AL CLIENTE Y CROSSELING ENTEL PERÃ - CAMPAÃA INBOUND 100% REMOTO!    Funciones   Brindar asesorÃ­a y soluciones respecto a consultas, problemas o reclamos de usuarios actuales o potenciales de Entel (Pre y Post pago). Al tÃ©rmino de la atenciÃ³n se debe abordar y cerrar la venta sugerida.   Requisitos   Secundaria completa  Disponibilidad para laborar de manera virtual desde casa.  Manejo bÃ¡sico de computadora  Actitud proactiva y ganas de aprender  Con o sin experiencia   Beneficios   Ingreso a planilla completa al 100%  Sueldo BÃ¡sico: S/ 1130  Variable (suj",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-07-11T01:26:57.534314Z"
+    },
+    {
+      "id": "remoteok_1134686",
+      "title": "Senior Vice President &amp; General Manager Senior Living",
+      "company": "PointClickCare",
+      "location": "Mississauga, Mississauga, Ontario, Canada",
+      "remote_type": "Remote",
+      "salary": 0,
+      "posted": "2026-07-07",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-vice-president-amp-general-manager-senior-living-pointclickcare-1134686",
+      "source": "Remote OK",
+      "description": "Job Title:  Senior Vice President &amp; General Manager, Senior Living   Location:  Mississauga-Hybrid / Canada-Remote    Travel to Office expectations**     For Remote Roles : If this role is remote, there will be in-office events that will require travel to and from the Mississauga and/or Salt Lake City office. These will include, but not limited to, onboarding, team events, semi-annual and annual team meetings.   For Hybrid Roles:  If this role is Hybrid, there will be an expectation to reside within commutable distance to the office/location specified in the job listing. This will include,",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-07-11T01:26:57.534314Z"
+    },
+    {
+      "id": "remoteok_1134684",
+      "title": "Customer Success Manager",
+      "company": "CWILL",
+      "location": "Toronto, Toronto, Ontario, Canada",
+      "remote_type": "Remote",
+      "salary": 0,
+      "posted": "2026-07-06",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-cwill-1134684",
+      "source": "Remote OK",
+      "description": "Role Type: Full-Time Work Location: Remote (Toronto, Canada)  Reports to: Head of Customer Success  Work Authorization: Candidates must have legal authorization to work in Canada at the time of hire. CWILL is not able to provide visa sponsorship at this time.   About CWILL   CWILL (pronounced \"quill\") is a post-purchase and retention suite built for Shopify brands. We help merchants reduce support tickets, recover lost revenue from returns, and turn one-time buyers into loyal fans â with tools purpose-built for every touchpoint that follows the sale.  www.cwill.com    The Role    CWILL is hi",
+      "requirements": [],
+      "ats_board": null,
+      "fetched_at": "2026-07-11T01:26:57.534314Z"
+    },
+    {
+      "id": "lever_a841bb63-39d7-46a1-a057-18d4b3e94ed5",
+      "title": "Sales Development Representative",
+      "company": "Actian",
+      "location": "Round Rock, Texas",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2026-07-10",
+      "url": "https://jobs.lever.co/actian/a841bb63-39d7-46a1-a057-18d4b3e94ed5",
+      "source": "Lever ATS",
+      "description": "Who We Are Looking For\n \nWe are looking for the future’s top salespeople so if you have a passion for sales, an eagerness to learn and grow, and love to run at a fast pace, this is the role for you. As a Sales Development Representative (SDR), you will be strategizing with your Sales Teams, reaching out to both Mid-Market and Fortune 1000 companies, and providing valued insights and stories that showcase Actian technology and unique value proposition. With Actian’s data technology fueling your day-to-day analytics to support your selling + our investments in innovative sales automation tools a",
+      "requirements": [],
+      "ats_board": "actian",
+      "fetched_at": "2026-07-11T01:27:09.355667Z"
+    },
+    {
+      "id": "greenhouse_4873980101",
+      "title": "Head of Strategic Operations (Chief of Staff)",
+      "company": "Nebius",
+      "location": "Remote - United States",
+      "remote_type": "See listing",
+      "salary": null,
+      "posted": "2026-07-10",
+      "url": "https://careers.nebius.com/?gh_jid=4873980101",
+      "source": "Greenhouse ATS",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure.&lt;/p&gt;\n&lt;p&gt;Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networkin",
+      "requirements": [],
+      "ats_board": "nebius",
+      "fetched_at": "2026-07-11T01:27:10.075783Z"
     }
   ],
-  "updated_at": "2026-07-10T19:19:52.110152Z",
-  "total": 2147
+  "updated_at": "2026-07-11T01:27:11.237846Z",
+  "total": 2157
 }
