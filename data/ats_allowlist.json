@@ -1,23 +1,23 @@
 {
   "name": {
     "company_name": "name",
-    "score": 16,
+    "score": 15,
     "last_seen": "2026-07-12T18:50:20.824007Z"
   },
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-07-13T19:12:20.833820Z"
+    "last_seen": "2026-07-14T01:28:45.244069Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-07-13T19:12:20.833833Z"
+    "last_seen": "2026-07-14T01:28:45.244081Z"
   },
   "lawnstarter": {
     "company_name": "LawnStarter",
     "score": 15,
-    "last_seen": "2026-07-13T19:12:20.833828Z"
+    "last_seen": "2026-07-14T01:28:45.244077Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
@@ -27,72 +27,67 @@
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-07-13T19:12:20.833838Z"
+    "last_seen": "2026-07-14T01:28:45.244086Z"
   },
   "everai": {
     "company_name": "EverAI",
     "score": 15,
-    "last_seen": "2026-07-13T19:12:20.833836Z"
+    "last_seen": "2026-07-14T01:28:45.244084Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-07-13T19:12:20.833869Z"
+    "last_seen": "2026-07-14T01:28:45.244114Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-07-13T19:12:20.833875Z"
+    "last_seen": "2026-07-14T01:28:45.244120Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-07-13T19:12:20.833871Z"
+    "last_seen": "2026-07-14T01:28:45.244116Z"
   },
   "rentokil-terminix": {
     "company_name": "Rentokil Terminix",
     "score": 15,
-    "last_seen": "2026-07-13T19:12:20.833879Z"
+    "last_seen": "2026-07-14T01:28:45.244127Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-07-13T19:12:20.833881Z"
+    "last_seen": "2026-07-14T01:28:45.244129Z"
   },
   "applied-materials": {
     "company_name": "Applied Materials",
     "score": 15,
-    "last_seen": "2026-07-13T19:12:20.833873Z"
+    "last_seen": "2026-07-14T01:28:45.244118Z"
   },
   "the-tjx-companies-inc": {
     "company_name": "The TJX Companies, Inc.",
     "score": 15,
-    "last_seen": "2026-07-13T19:12:20.833877Z"
+    "last_seen": "2026-07-14T01:28:45.244125Z"
   },
   "recruitlytixs-hirings": {
     "company_name": "Recruitlytixs Hirings",
     "score": 15,
-    "last_seen": "2026-07-13T19:12:20.833903Z"
+    "last_seen": "2026-07-14T01:28:45.244151Z"
   },
   "cummins": {
     "company_name": "Cummins",
     "score": 15,
-    "last_seen": "2026-07-13T19:12:20.833883Z"
+    "last_seen": "2026-07-14T01:28:45.244131Z"
   },
   "universidad-privada-del-norte": {
     "company_name": "Universidad Privada del Norte",
-    "score": 15,
+    "score": 14,
     "last_seen": "2026-07-13T19:12:20.833908Z"
   },
   "aditya-birla-capital": {
     "company_name": "Aditya Birla Capital",
-    "score": 14,
-    "last_seen": "2026-07-13T14:08:47.721191Z"
-  },
-  "the-home-depot-canada": {
-    "company_name": "The Home Depot Canada",
     "score": 13,
-    "last_seen": "2026-07-12T01:33:45.361147Z"
+    "last_seen": "2026-07-13T14:08:47.721191Z"
   },
   "arabian-private-holdings": {
     "company_name": "Arabian Private Holdings",
@@ -101,37 +96,42 @@
   },
   "pfizer": {
     "company_name": "Pfizer",
+    "score": 13,
+    "last_seen": "2026-07-14T01:28:45.244091Z"
+  },
+  "the-home-depot-canada": {
+    "company_name": "The Home Depot Canada",
     "score": 12,
-    "last_seen": "2026-07-13T19:12:20.833843Z"
+    "last_seen": "2026-07-12T01:33:45.361147Z"
+  },
+  "remote": {
+    "company_name": "Remote",
+    "score": 11,
+    "last_seen": "2026-07-14T01:28:45.244101Z"
   },
   "linkedin": {
     "company_name": "LinkedIn",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-07-11T01:26:57.570237Z"
   },
   "relytics-hire": {
     "company_name": "ReLytics Hire",
-    "score": 10,
+    "score": 9,
     "last_seen": "2026-07-12T12:56:54.329599Z"
   },
   "axiom": {
     "company_name": "Axiom",
-    "score": 10,
+    "score": 9,
     "last_seen": "2026-07-13T14:08:47.721145Z"
-  },
-  "remote": {
-    "company_name": "Remote",
-    "score": 10,
-    "last_seen": "2026-07-13T19:12:20.833852Z"
   },
   "truelogic": {
     "company_name": "Truelogic",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-07-12T12:56:54.329562Z"
   },
   "belle": {
     "company_name": "Belle",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-07-11T01:26:57.570230Z"
   },
   "mitre-media": {
@@ -141,62 +141,62 @@
   },
   "ruby-labs": {
     "company_name": "Ruby Labs",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-07-12T12:56:54.329545Z"
   },
   "bjak": {
     "company_name": "Bjak",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-07-13T08:57:58.519615Z"
   },
   "motive": {
     "company_name": "Motive",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-07-13T14:08:47.721140Z"
   },
   "zscaler": {
     "company_name": "Zscaler",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-07-13T19:12:20.833860Z"
+  },
+  "1komma5": {
+    "company_name": "1KOMMA5˚",
+    "score": 5,
+    "last_seen": "2026-07-14T01:28:45.244112Z"
+  },
+  "remoteva": {
+    "company_name": "RemoteVA",
+    "score": 5,
+    "last_seen": "2026-07-14T01:28:45.244140Z"
   },
   "parcelhero": {
     "company_name": "ParcelHero",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-07-12T01:33:45.361120Z"
   },
   "cxc-upstream-ltd": {
     "company_name": "CXC Upstream Ltd",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-07-06T19:38:30.372342Z"
+  },
+  "bikeleasing-service-gmbh-co-kg": {
+    "company_name": "Bikeleasing-Service GmbH & Co. KG",
+    "score": 4,
+    "last_seen": "2026-07-14T01:28:45.244108Z"
   },
   "oscar": {
     "company_name": "Oscar",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-07-12T12:56:54.329559Z"
   },
   "cision": {
     "company_name": "Cision",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-07-12T12:56:54.329552Z"
   },
-  "1komma5": {
-    "company_name": "1KOMMA5˚",
-    "score": 4,
-    "last_seen": "2026-07-13T19:12:20.833866Z"
-  },
-  "remoteva": {
-    "company_name": "RemoteVA",
-    "score": 4,
-    "last_seen": "2026-07-13T19:12:20.833892Z"
-  },
-  "skanska-costain-strabag-joint-venture": {
-    "company_name": "Skanska Costain STRABAG Joint Venture",
+  "devhub": {
+    "company_name": "DevHub",
     "score": 3,
-    "last_seen": "2026-07-10T19:19:42.639483Z"
-  },
-  "bikeleasing-service-gmbh-co-kg": {
-    "company_name": "Bikeleasing-Service GmbH & Co. KG",
-    "score": 3,
-    "last_seen": "2026-07-13T19:12:20.833862Z"
+    "last_seen": "2026-07-14T01:28:45.244133Z"
   }
 }
