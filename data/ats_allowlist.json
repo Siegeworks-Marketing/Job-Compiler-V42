@@ -2,17 +2,17 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-07-18T01:31:02.229086Z"
+    "last_seen": "2026-07-18T07:37:06.811022Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-07-18T01:31:02.229082Z"
+    "last_seen": "2026-07-18T07:37:06.811019Z"
   },
   "lawnstarter": {
     "company_name": "LawnStarter",
     "score": 15,
-    "last_seen": "2026-07-18T01:31:02.229089Z"
+    "last_seen": "2026-07-18T07:37:06.811024Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
@@ -22,96 +22,96 @@
   "everai": {
     "company_name": "EverAI",
     "score": 15,
-    "last_seen": "2026-07-18T01:31:02.229092Z"
+    "last_seen": "2026-07-18T07:37:06.811026Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-07-18T01:31:02.229097Z"
+    "last_seen": "2026-07-18T07:37:06.811043Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-07-18T01:31:02.229105Z"
+    "last_seen": "2026-07-18T07:37:06.811047Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-07-18T01:31:02.229101Z"
+    "last_seen": "2026-07-18T07:37:06.811044Z"
   },
   "rentokil-terminix": {
     "company_name": "Rentokil Terminix",
     "score": 15,
-    "last_seen": "2026-07-18T01:31:02.229110Z"
+    "last_seen": "2026-07-18T07:37:06.811050Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-07-18T01:31:02.229113Z"
+    "last_seen": "2026-07-18T07:37:06.811051Z"
   },
   "applied-materials": {
     "company_name": "Applied Materials",
     "score": 15,
-    "last_seen": "2026-07-18T01:31:02.229103Z"
+    "last_seen": "2026-07-18T07:37:06.811046Z"
   },
   "the-tjx-companies-inc": {
     "company_name": "The TJX Companies, Inc.",
     "score": 15,
-    "last_seen": "2026-07-18T01:31:02.229108Z"
+    "last_seen": "2026-07-18T07:37:06.811049Z"
   },
   "cummins": {
     "company_name": "Cummins",
     "score": 15,
-    "last_seen": "2026-07-18T01:31:02.229115Z"
+    "last_seen": "2026-07-18T07:37:06.811053Z"
   },
   "ateam": {
     "company_name": "A.Team",
-    "score": 14,
-    "last_seen": "2026-07-18T01:31:02.229072Z"
+    "score": 15,
+    "last_seen": "2026-07-18T07:37:06.811010Z"
   },
   "remote": {
     "company_name": "Remote",
-    "score": 11,
-    "last_seen": "2026-07-17T01:49:38.789075Z"
+    "score": 12,
+    "last_seen": "2026-07-18T07:37:06.811031Z"
   },
   "remoteva": {
     "company_name": "RemoteVA",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-07-16T01:33:36.063990Z"
   },
   "jobsinmasscom": {
     "company_name": "JobsInMass.com",
-    "score": 11,
-    "last_seen": "2026-07-16T19:03:34.167983Z"
-  },
-  "relytics-hires": {
-    "company_name": "ReLytics Hires",
     "score": 10,
-    "last_seen": "2026-07-16T19:03:34.167989Z"
+    "last_seen": "2026-07-16T19:03:34.167983Z"
   },
   "recruit-lytixs-hires": {
     "company_name": "Recruit Lytixs Hires",
-    "score": 9,
-    "last_seen": "2026-07-18T01:31:02.229138Z"
+    "score": 10,
+    "last_seen": "2026-07-18T07:37:06.811069Z"
   },
   "empresa-confidencial": {
     "company_name": "Empresa Confidencial",
-    "score": 9,
-    "last_seen": "2026-07-18T01:31:02.229134Z"
+    "score": 10,
+    "last_seen": "2026-07-18T07:37:06.811066Z"
   },
   "backpack-healthcare": {
     "company_name": "Backpack Healthcare",
-    "score": 9,
-    "last_seen": "2026-07-18T01:31:02.229140Z"
+    "score": 10,
+    "last_seen": "2026-07-18T07:37:06.811071Z"
   },
   "tus-media": {
     "company_name": "TUS Media",
+    "score": 10,
+    "last_seen": "2026-07-18T07:37:06.811068Z"
+  },
+  "relytics-hires": {
+    "company_name": "ReLytics Hires",
     "score": 9,
-    "last_seen": "2026-07-18T01:31:02.229136Z"
+    "last_seen": "2026-07-16T19:03:34.167989Z"
   },
   "devhub": {
     "company_name": "DevHub",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-07-16T13:22:27.135738Z"
   },
   "truelogic": {
@@ -126,77 +126,77 @@
   },
   "gce-academy": {
     "company_name": "GCE-ACADEMY",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-07-17T13:07:04.079945Z"
   },
   "name": {
     "company_name": "name",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-07-17T19:02:29.153930Z"
   },
-  "nebius": {
-    "company_name": "Nebius",
-    "score": 3,
-    "last_seen": "2026-07-17T08:02:43.681128Z"
-  },
-  "perle-systems": {
-    "company_name": "Perle Systems",
-    "score": 3,
-    "last_seen": "2026-07-17T13:07:04.079948Z"
-  },
-  "supportyourapp": {
-    "company_name": "SupportYourApp",
-    "score": 3,
-    "last_seen": "2026-07-17T13:07:04.079902Z"
+  "outsource-access-careers": {
+    "company_name": "Outsource Access Careers",
+    "score": 4,
+    "last_seen": "2026-07-18T07:37:06.811057Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
     "score": 3,
     "last_seen": "2026-04-28T13:28:55.388235Z"
   },
-  "outsource-access-careers": {
-    "company_name": "Outsource Access Careers",
-    "score": 3,
-    "last_seen": "2026-07-18T01:31:02.229120Z"
-  },
-  "recruitlytixs-hirings": {
-    "company_name": "Recruitlytixs Hirings",
-    "score": 2,
-    "last_seen": "2026-07-14T13:10:52.043705Z"
-  },
-  "1komma5": {
-    "company_name": "1KOMMA5˚",
-    "score": 2,
-    "last_seen": "2026-07-17T08:02:43.681133Z"
-  },
-  "ruby-labs": {
-    "company_name": "Ruby Labs",
-    "score": 2,
-    "last_seen": "2026-07-17T08:02:43.681123Z"
-  },
   "bcd-travel": {
     "company_name": "BCD Travel",
-    "score": 2,
-    "last_seen": "2026-07-17T08:02:43.681125Z"
-  },
-  "experian": {
-    "company_name": "Experian",
-    "score": 2,
-    "last_seen": "2026-07-17T13:07:04.079904Z"
+    "score": 3,
+    "last_seen": "2026-07-18T07:37:06.811037Z"
   },
   "hopn-ug": {
     "company_name": "HOPn UG",
-    "score": 2,
-    "last_seen": "2026-07-18T01:31:02.229095Z"
+    "score": 3,
+    "last_seen": "2026-07-18T07:37:06.811041Z"
   },
   "work-force-nexus": {
     "company_name": "Work Force Nexus",
-    "score": 2,
-    "last_seen": "2026-07-18T01:31:02.229117Z"
+    "score": 3,
+    "last_seen": "2026-07-18T07:37:06.811056Z"
   },
   "lockwood-publishing-ltd": {
     "company_name": "Lockwood Publishing Ltd",
+    "score": 3,
+    "last_seen": "2026-07-18T07:37:06.811059Z"
+  },
+  "ashby": {
+    "company_name": "Ashby",
+    "score": 3,
+    "last_seen": "2026-07-18T07:37:06.811028Z"
+  },
+  "welo-global": {
+    "company_name": "Welo Global",
+    "score": 3,
+    "last_seen": "2026-07-18T07:37:06.811032Z"
+  },
+  "superbcompanies": {
+    "company_name": "SuperbCompanies",
+    "score": 3,
+    "last_seen": "2026-07-18T07:37:06.811061Z"
+  },
+  "newsletterjobsio": {
+    "company_name": "NewsletterJobs.io",
+    "score": 3,
+    "last_seen": "2026-07-18T07:37:06.811063Z"
+  },
+  "nebius": {
+    "company_name": "Nebius",
     "score": 2,
-    "last_seen": "2026-07-18T01:31:02.229122Z"
+    "last_seen": "2026-07-17T08:02:43.681128Z"
+  },
+  "perle-systems": {
+    "company_name": "Perle Systems",
+    "score": 2,
+    "last_seen": "2026-07-17T13:07:04.079948Z"
+  },
+  "supportyourapp": {
+    "company_name": "SupportYourApp",
+    "score": 2,
+    "last_seen": "2026-07-17T13:07:04.079902Z"
   }
 }
