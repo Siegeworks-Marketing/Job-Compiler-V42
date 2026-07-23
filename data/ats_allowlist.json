@@ -1,23 +1,18 @@
 {
-  "canonical-ltd": {
-    "company_name": "Canonical Ltd.",
-    "score": 15,
-    "last_seen": "2026-07-22T18:59:29.646235Z"
-  },
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-07-22T18:59:29.646211Z"
+    "last_seen": "2026-07-23T01:41:06.184630Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-07-22T18:59:29.646207Z"
+    "last_seen": "2026-07-23T01:41:06.184627Z"
   },
   "lawnstarter": {
     "company_name": "LawnStarter",
     "score": 15,
-    "last_seen": "2026-07-22T18:59:29.646214Z"
+    "last_seen": "2026-07-23T01:41:06.184633Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
@@ -32,66 +27,71 @@
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-07-22T18:59:29.646240Z"
+    "last_seen": "2026-07-23T01:41:06.184657Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-07-22T18:59:29.646248Z"
+    "last_seen": "2026-07-23T01:41:06.184664Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-07-22T18:59:29.646243Z"
+    "last_seen": "2026-07-23T01:41:06.184660Z"
   },
   "rentokil-terminix": {
     "company_name": "Rentokil Terminix",
     "score": 15,
-    "last_seen": "2026-07-22T18:59:29.646255Z"
-  },
-  "meta": {
-    "company_name": "Meta",
-    "score": 15,
-    "last_seen": "2026-07-22T18:59:29.646258Z"
+    "last_seen": "2026-07-23T01:41:06.184673Z"
   },
   "applied-materials": {
     "company_name": "Applied Materials",
     "score": 15,
-    "last_seen": "2026-07-22T18:59:29.646246Z"
+    "last_seen": "2026-07-23T01:41:06.184662Z"
   },
   "the-tjx-companies-inc": {
     "company_name": "The TJX Companies, Inc.",
     "score": 15,
-    "last_seen": "2026-07-22T18:59:29.646251Z"
+    "last_seen": "2026-07-23T01:41:06.184668Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-07-22T18:59:29.646195Z"
+    "last_seen": "2026-07-23T01:41:06.184618Z"
+  },
+  "deloitte": {
+    "company_name": "Deloitte",
+    "score": 15,
+    "last_seen": "2026-07-23T01:41:06.184655Z"
+  },
+  "canonical-ltd": {
+    "company_name": "Canonical Ltd.",
+    "score": 14,
+    "last_seen": "2026-07-22T18:59:29.646235Z"
+  },
+  "meta": {
+    "company_name": "Meta",
+    "score": 14,
+    "last_seen": "2026-07-22T18:59:29.646258Z"
   },
   "cummins": {
     "company_name": "Cummins",
-    "score": 14,
+    "score": 13,
     "last_seen": "2026-07-22T13:22:01.888375Z"
   },
   "jobsinmasscom": {
     "company_name": "JobsInMass.com",
-    "score": 14,
+    "score": 13,
     "last_seen": "2026-07-22T18:59:29.646285Z"
-  },
-  "deloitte": {
-    "company_name": "Deloitte",
-    "score": 14,
-    "last_seen": "2026-07-22T18:59:29.646237Z"
   },
   "gritter-francona": {
     "company_name": "Gritter Francona",
-    "score": 13,
+    "score": 12,
     "last_seen": "2026-07-22T08:08:32.711761Z"
   },
   "hire-hangar": {
     "company_name": "Hire Hangar",
-    "score": 12,
+    "score": 11,
     "last_seen": "2026-07-22T08:08:32.711767Z"
   },
   "bjak": {
@@ -99,104 +99,104 @@
     "score": 10,
     "last_seen": "2026-07-22T18:59:29.646287Z"
   },
-  "outsource-access-careers": {
-    "company_name": "Outsource Access Careers",
-    "score": 9,
-    "last_seen": "2026-07-21T01:32:31.723622Z"
-  },
   "mr-pape": {
     "company_name": "Mr Pape",
-    "score": 9,
-    "last_seen": "2026-07-22T18:59:29.646277Z"
+    "score": 10,
+    "last_seen": "2026-07-23T01:41:06.184691Z"
+  },
+  "outsource-access-careers": {
+    "company_name": "Outsource Access Careers",
+    "score": 8,
+    "last_seen": "2026-07-21T01:32:31.723622Z"
   },
   "lockwood-publishing-ltd": {
     "company_name": "Lockwood Publishing Ltd",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-07-21T01:32:31.723624Z"
-  },
-  "name": {
-    "company_name": "name",
-    "score": 5,
-    "last_seen": "2026-07-20T08:45:10.869686Z"
   },
   "control-shift-video": {
     "company_name": "Control Shift Video",
-    "score": 5,
-    "last_seen": "2026-07-22T18:59:29.646267Z"
+    "score": 6,
+    "last_seen": "2026-07-23T01:41:06.184682Z"
   },
   "aecon-group-inc": {
     "company_name": "Aecon Group Inc.",
-    "score": 5,
-    "last_seen": "2026-07-22T18:59:29.646271Z"
+    "score": 6,
+    "last_seen": "2026-07-23T01:41:06.184686Z"
+  },
+  "hakatemia": {
+    "company_name": "Hakatemia",
+    "score": 6,
+    "last_seen": "2026-07-23T01:41:06.184680Z"
+  },
+  "natera": {
+    "company_name": "Natera",
+    "score": 6,
+    "last_seen": "2026-07-23T01:41:06.184652Z"
+  },
+  "iherb": {
+    "company_name": "iHerb",
+    "score": 6,
+    "last_seen": "2026-07-23T01:41:06.184636Z"
   },
   "kodland": {
     "company_name": "Kodland",
     "score": 5,
     "last_seen": "2026-07-22T18:59:29.646280Z"
   },
-  "hakatemia": {
-    "company_name": "Hakatemia",
+  "re-lytics-hr": {
+    "company_name": "Re Lytics HR",
     "score": 5,
-    "last_seen": "2026-07-22T18:59:29.646263Z"
+    "last_seen": "2026-07-23T01:41:06.184688Z"
   },
-  "natera": {
-    "company_name": "Natera",
+  "samsara": {
+    "company_name": "Samsara",
     "score": 5,
-    "last_seen": "2026-07-22T18:59:29.646232Z"
+    "last_seen": "2026-07-23T01:41:06.184644Z"
   },
-  "hopn-ug": {
-    "company_name": "HOPn UG",
+  "fivetran": {
+    "company_name": "Fivetran",
+    "score": 5,
+    "last_seen": "2026-07-23T01:41:06.184647Z"
+  },
+  "name": {
+    "company_name": "name",
     "score": 4,
-    "last_seen": "2026-07-20T08:45:10.869646Z"
+    "last_seen": "2026-07-20T08:45:10.869686Z"
   },
   "remote": {
     "company_name": "Remote",
     "score": 4,
     "last_seen": "2026-07-19T12:58:53.373441Z"
   },
-  "re-lytics-hr": {
-    "company_name": "Re Lytics HR",
+  "fortive": {
+    "company_name": "Fortive",
     "score": 4,
-    "last_seen": "2026-07-22T18:59:29.646274Z"
+    "last_seen": "2026-07-23T01:41:06.184639Z"
+  },
+  "hopn-ug": {
+    "company_name": "HOPn UG",
+    "score": 3,
+    "last_seen": "2026-07-20T08:45:10.869646Z"
   },
   "tsc-travels": {
     "company_name": "TSC Travels",
-    "score": 4,
-    "last_seen": "2026-07-22T18:59:29.646282Z"
-  },
-  "samsara": {
-    "company_name": "Samsara",
-    "score": 4,
-    "last_seen": "2026-07-22T18:59:29.646225Z"
-  },
-  "fivetran": {
-    "company_name": "Fivetran",
-    "score": 4,
-    "last_seen": "2026-07-22T18:59:29.646227Z"
-  },
-  "dobinsons-spring-amp-suspension-middle-east-amp-africa": {
-    "company_name": "Dobinsons Spring &amp; Suspension - Middle East &amp; Africa",
     "score": 3,
-    "last_seen": "2026-07-21T19:12:50.629452Z"
+    "last_seen": "2026-07-22T18:59:29.646282Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
     "score": 3,
     "last_seen": "2026-04-28T13:28:55.388235Z"
   },
-  "fortive": {
-    "company_name": "Fortive",
-    "score": 3,
-    "last_seen": "2026-07-22T18:59:29.646220Z"
+  "dobinsons-spring-amp-suspension-middle-east-amp-africa": {
+    "company_name": "Dobinsons Spring &amp; Suspension - Middle East &amp; Africa",
+    "score": 2,
+    "last_seen": "2026-07-21T19:12:50.629452Z"
   },
   "work-force-nexus": {
     "company_name": "Work Force Nexus",
     "score": 2,
     "last_seen": "2026-07-19T08:06:05.984068Z"
-  },
-  "tailscale": {
-    "company_name": "Tailscale",
-    "score": 2,
-    "last_seen": "2026-07-21T19:12:50.629407Z"
   }
 }
