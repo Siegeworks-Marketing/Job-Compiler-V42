@@ -2,77 +2,77 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-07-24T08:14:44.061923Z"
+    "last_seen": "2026-07-24T13:23:59.407342Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-07-24T08:14:44.061920Z"
+    "last_seen": "2026-07-24T13:23:59.407340Z"
   },
   "lawnstarter": {
     "company_name": "LawnStarter",
     "score": 15,
-    "last_seen": "2026-07-24T08:14:44.061926Z"
+    "last_seen": "2026-07-24T13:23:59.407344Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
     "score": 15,
     "last_seen": "2026-07-13T08:57:58.519535Z"
   },
-  "everai": {
-    "company_name": "EverAI",
-    "score": 15,
-    "last_seen": "2026-07-21T08:14:13.940314Z"
-  },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-07-24T08:14:44.061948Z"
+    "last_seen": "2026-07-24T13:23:59.407363Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-07-24T08:14:44.061953Z"
+    "last_seen": "2026-07-24T13:23:59.407367Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-07-24T08:14:44.061951Z"
+    "last_seen": "2026-07-24T13:23:59.407365Z"
   },
   "rentokil-terminix": {
     "company_name": "Rentokil Terminix",
     "score": 15,
-    "last_seen": "2026-07-24T08:14:44.061962Z"
+    "last_seen": "2026-07-24T13:23:59.407374Z"
   },
   "the-tjx-companies-inc": {
     "company_name": "The TJX Companies, Inc.",
     "score": 15,
-    "last_seen": "2026-07-24T08:14:44.061958Z"
+    "last_seen": "2026-07-24T13:23:59.407370Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-07-24T08:14:44.061916Z"
+    "last_seen": "2026-07-24T13:23:59.407337Z"
   },
   "deloitte": {
     "company_name": "Deloitte",
     "score": 15,
-    "last_seen": "2026-07-24T08:14:44.061946Z"
+    "last_seen": "2026-07-24T13:23:59.407362Z"
   },
-  "applied-materials": {
-    "company_name": "Applied Materials",
-    "score": 13,
-    "last_seen": "2026-07-23T19:05:56.625711Z"
+  "everai": {
+    "company_name": "EverAI",
+    "score": 14,
+    "last_seen": "2026-07-21T08:14:13.940314Z"
   },
   "meta": {
     "company_name": "Meta",
-    "score": 12,
-    "last_seen": "2026-07-22T18:59:29.646258Z"
+    "score": 13,
+    "last_seen": "2026-07-24T13:23:59.407353Z"
   },
-  "canonical-ltd": {
-    "company_name": "Canonical Ltd.",
-    "score": 9,
-    "last_seen": "2026-07-22T18:59:29.646235Z"
+  "applied-materials": {
+    "company_name": "Applied Materials",
+    "score": 12,
+    "last_seen": "2026-07-23T19:05:56.625711Z"
+  },
+  "re-lytics-hire": {
+    "company_name": "Re Lytics Hire",
+    "score": 10,
+    "last_seen": "2026-07-24T13:23:59.407382Z"
   },
   "bjak": {
     "company_name": "Bjak",
@@ -84,60 +84,65 @@
     "score": 9,
     "last_seen": "2026-07-23T19:05:56.625699Z"
   },
-  "re-lytics-hire": {
-    "company_name": "Re Lytics Hire",
-    "score": 9,
-    "last_seen": "2026-07-24T08:14:44.061969Z"
+  "canonical-ltd": {
+    "company_name": "Canonical Ltd.",
+    "score": 8,
+    "last_seen": "2026-07-22T18:59:29.646235Z"
+  },
+  "goregional": {
+    "company_name": "GoRegional",
+    "score": 8,
+    "last_seen": "2026-07-24T13:23:59.407386Z"
   },
   "cummins": {
     "company_name": "Cummins",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-07-22T13:22:01.888375Z"
   },
   "jobsinmasscom": {
     "company_name": "JobsInMass.com",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-07-22T18:59:29.646285Z"
   },
   "gritter-francona": {
     "company_name": "Gritter Francona",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-07-22T08:08:32.711761Z"
   },
   "hakatemia": {
     "company_name": "Hakatemia",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-07-23T19:05:56.625741Z"
-  },
-  "goregional": {
-    "company_name": "GoRegional",
-    "score": 7,
-    "last_seen": "2026-07-24T08:14:44.061974Z"
-  },
-  "hire-hangar": {
-    "company_name": "Hire Hangar",
-    "score": 6,
-    "last_seen": "2026-07-22T08:08:32.711767Z"
-  },
-  "mr-pape": {
-    "company_name": "Mr Pape",
-    "score": 6,
-    "last_seen": "2026-07-23T01:41:06.184691Z"
   },
   "samsara": {
     "company_name": "Samsara",
     "score": 6,
     "last_seen": "2026-07-23T19:05:56.625696Z"
   },
+  "tribe-wellness": {
+    "company_name": "Tribe Wellness",
+    "score": 6,
+    "last_seen": "2026-07-24T13:23:59.407329Z"
+  },
+  "apple": {
+    "company_name": "Apple",
+    "score": 6,
+    "last_seen": "2026-07-24T13:23:59.407369Z"
+  },
+  "hire-hangar": {
+    "company_name": "Hire Hangar",
+    "score": 5,
+    "last_seen": "2026-07-22T08:08:32.711767Z"
+  },
+  "mr-pape": {
+    "company_name": "Mr Pape",
+    "score": 5,
+    "last_seen": "2026-07-23T01:41:06.184691Z"
+  },
   "catawiki": {
     "company_name": "Catawiki",
-    "score": 6,
-    "last_seen": "2026-07-24T08:14:44.061941Z"
-  },
-  "control-shift-video": {
-    "company_name": "Control Shift Video",
     "score": 5,
-    "last_seen": "2026-07-23T13:29:43.397527Z"
+    "last_seen": "2026-07-24T08:14:44.061941Z"
   },
   "natera": {
     "company_name": "Natera",
@@ -149,54 +154,49 @@
     "score": 5,
     "last_seen": "2026-07-23T19:05:56.625701Z"
   },
-  "tribe-wellness": {
-    "company_name": "Tribe Wellness",
+  "webbing": {
+    "company_name": "Webbing",
     "score": 5,
-    "last_seen": "2026-07-24T08:14:44.061905Z"
+    "last_seen": "2026-07-24T13:23:59.407359Z"
   },
-  "apple": {
-    "company_name": "Apple",
-    "score": 5,
-    "last_seen": "2026-07-24T08:14:44.061955Z"
+  "control-shift-video": {
+    "company_name": "Control Shift Video",
+    "score": 4,
+    "last_seen": "2026-07-23T13:29:43.397527Z"
   },
   "fivetran": {
     "company_name": "Fivetran",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-07-23T13:29:43.397483Z"
   },
   "remote": {
     "company_name": "Remote",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-07-19T12:58:53.373441Z"
-  },
-  "webbing": {
-    "company_name": "Webbing",
-    "score": 4,
-    "last_seen": "2026-07-24T08:14:44.061933Z"
   },
   "nebius": {
     "company_name": "Nebius",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-07-24T08:14:44.061936Z"
-  },
-  "outsource-access-careers": {
-    "company_name": "Outsource Access Careers",
-    "score": 3,
-    "last_seen": "2026-07-21T01:32:31.723622Z"
-  },
-  "aecon-group-inc": {
-    "company_name": "Aecon Group Inc.",
-    "score": 3,
-    "last_seen": "2026-07-23T08:14:40.303387Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
     "score": 3,
     "last_seen": "2026-04-28T13:28:55.388235Z"
   },
-  "re-lytics-hr": {
-    "company_name": "Re Lytics HR",
+  "reddit": {
+    "company_name": "Reddit",
+    "score": 3,
+    "last_seen": "2026-07-24T13:23:59.407347Z"
+  },
+  "outsource-access-careers": {
+    "company_name": "Outsource Access Careers",
     "score": 2,
-    "last_seen": "2026-07-23T08:14:40.303389Z"
+    "last_seen": "2026-07-21T01:32:31.723622Z"
+  },
+  "aecon-group-inc": {
+    "company_name": "Aecon Group Inc.",
+    "score": 2,
+    "last_seen": "2026-07-23T08:14:40.303387Z"
   }
 }
