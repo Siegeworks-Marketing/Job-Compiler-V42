@@ -2,17 +2,17 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-07-24T19:18:32.138910Z"
+    "last_seen": "2026-07-25T01:39:44.041118Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-07-24T19:18:32.138907Z"
+    "last_seen": "2026-07-25T01:39:44.041115Z"
   },
   "lawnstarter": {
     "company_name": "LawnStarter",
     "score": 15,
-    "last_seen": "2026-07-24T19:18:32.138912Z"
+    "last_seen": "2026-07-25T01:39:44.041120Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
@@ -22,57 +22,57 @@
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-07-24T19:18:32.138941Z"
+    "last_seen": "2026-07-25T01:39:44.041148Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-07-24T19:18:32.138945Z"
+    "last_seen": "2026-07-25T01:39:44.041153Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-07-24T19:18:32.138943Z"
+    "last_seen": "2026-07-25T01:39:44.041151Z"
   },
   "rentokil-terminix": {
     "company_name": "Rentokil Terminix",
     "score": 15,
-    "last_seen": "2026-07-24T19:18:32.138953Z"
+    "last_seen": "2026-07-25T01:39:44.041159Z"
   },
   "the-tjx-companies-inc": {
     "company_name": "The TJX Companies, Inc.",
     "score": 15,
-    "last_seen": "2026-07-24T19:18:32.138950Z"
+    "last_seen": "2026-07-25T01:39:44.041155Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-07-24T19:18:32.138903Z"
+    "last_seen": "2026-07-25T01:39:44.041111Z"
   },
   "deloitte": {
     "company_name": "Deloitte",
     "score": 15,
-    "last_seen": "2026-07-24T19:18:32.138939Z"
+    "last_seen": "2026-07-25T01:39:44.041146Z"
   },
   "meta": {
     "company_name": "Meta",
-    "score": 14,
-    "last_seen": "2026-07-24T19:18:32.138937Z"
+    "score": 15,
+    "last_seen": "2026-07-25T01:39:44.041144Z"
   },
   "everai": {
     "company_name": "EverAI",
-    "score": 13,
+    "score": 12,
     "last_seen": "2026-07-21T08:14:13.940314Z"
-  },
-  "applied-materials": {
-    "company_name": "Applied Materials",
-    "score": 11,
-    "last_seen": "2026-07-23T19:05:56.625711Z"
   },
   "re-lytics-hire": {
     "company_name": "Re Lytics Hire",
-    "score": 11,
-    "last_seen": "2026-07-24T19:18:32.138964Z"
+    "score": 12,
+    "last_seen": "2026-07-25T01:39:44.041179Z"
+  },
+  "applied-materials": {
+    "company_name": "Applied Materials",
+    "score": 10,
+    "last_seen": "2026-07-23T19:05:56.625711Z"
   },
   "bjak": {
     "company_name": "Bjak",
@@ -96,107 +96,107 @@
   },
   "samsara": {
     "company_name": "Samsara",
-    "score": 7,
-    "last_seen": "2026-07-24T19:18:32.138918Z"
+    "score": 8,
+    "last_seen": "2026-07-25T01:39:44.041123Z"
   },
   "tribe-wellness": {
     "company_name": "Tribe Wellness",
-    "score": 7,
-    "last_seen": "2026-07-24T19:18:32.138895Z"
-  },
-  "apple": {
-    "company_name": "Apple",
-    "score": 7,
-    "last_seen": "2026-07-24T19:18:32.138947Z"
+    "score": 8,
+    "last_seen": "2026-07-25T01:39:44.041103Z"
   },
   "cummins": {
     "company_name": "Cummins",
-    "score": 6,
-    "last_seen": "2026-07-22T13:22:01.888375Z"
-  },
-  "jobsinmasscom": {
-    "company_name": "JobsInMass.com",
-    "score": 6,
-    "last_seen": "2026-07-22T18:59:29.646285Z"
+    "score": 7,
+    "last_seen": "2026-07-25T01:39:44.041161Z"
   },
   "fortive": {
     "company_name": "Fortive",
+    "score": 7,
+    "last_seen": "2026-07-25T01:39:44.041131Z"
+  },
+  "apple": {
+    "company_name": "Apple",
     "score": 6,
-    "last_seen": "2026-07-24T19:18:32.138925Z"
+    "last_seen": "2026-07-24T19:18:32.138947Z"
+  },
+  "jobsinmasscom": {
+    "company_name": "JobsInMass.com",
+    "score": 5,
+    "last_seen": "2026-07-22T18:59:29.646285Z"
+  },
+  "reddit": {
+    "company_name": "Reddit",
+    "score": 5,
+    "last_seen": "2026-07-25T01:39:44.041136Z"
   },
   "gritter-francona": {
     "company_name": "Gritter Francona",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-07-22T08:08:32.711761Z"
   },
   "hakatemia": {
     "company_name": "Hakatemia",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-07-23T19:05:56.625741Z"
+  },
+  "welo-global": {
+    "company_name": "Welo Global",
+    "score": 4,
+    "last_seen": "2026-07-25T01:39:44.041129Z"
+  },
+  "experian": {
+    "company_name": "Experian",
+    "score": 4,
+    "last_seen": "2026-07-25T01:39:44.041134Z"
   },
   "hire-hangar": {
     "company_name": "Hire Hangar",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-07-22T08:08:32.711767Z"
   },
   "mr-pape": {
     "company_name": "Mr Pape",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-07-23T01:41:06.184691Z"
   },
   "catawiki": {
     "company_name": "Catawiki",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-07-24T08:14:44.061941Z"
   },
   "natera": {
     "company_name": "Natera",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-07-23T13:29:43.397487Z"
   },
   "webbing": {
     "company_name": "Webbing",
-    "score": 4,
-    "last_seen": "2026-07-24T13:23:59.407359Z"
-  },
-  "reddit": {
-    "company_name": "Reddit",
-    "score": 4,
-    "last_seen": "2026-07-24T19:18:32.138930Z"
-  },
-  "control-shift-video": {
-    "company_name": "Control Shift Video",
     "score": 3,
-    "last_seen": "2026-07-23T13:29:43.397527Z"
+    "last_seen": "2026-07-24T13:23:59.407359Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
     "score": 3,
     "last_seen": "2026-04-28T13:28:55.388235Z"
   },
-  "welo-global": {
-    "company_name": "Welo Global",
+  "peraton": {
+    "company_name": "Peraton",
     "score": 3,
-    "last_seen": "2026-07-24T19:18:32.138922Z"
+    "last_seen": "2026-07-25T01:39:44.041183Z"
   },
-  "experian": {
-    "company_name": "Experian",
-    "score": 3,
-    "last_seen": "2026-07-24T19:18:32.138928Z"
+  "control-shift-video": {
+    "company_name": "Control Shift Video",
+    "score": 2,
+    "last_seen": "2026-07-23T13:29:43.397527Z"
   },
   "the-hello-team": {
     "company_name": "The Hello Team",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-07-24T19:18:32.138974Z"
   },
-  "fivetran": {
-    "company_name": "Fivetran",
+  "upwind-security": {
+    "company_name": "Upwind Security",
     "score": 2,
-    "last_seen": "2026-07-23T13:29:43.397483Z"
-  },
-  "remote": {
-    "company_name": "Remote",
-    "score": 2,
-    "last_seen": "2026-07-19T12:58:53.373441Z"
+    "last_seen": "2026-07-25T01:39:44.041126Z"
   }
 }
