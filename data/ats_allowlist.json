@@ -1,202 +1,202 @@
 {
   "camunda": {
     "company_name": "Camunda",
-    "score": 21,
+    "score": 20,
     "last_seen": "2026-08-02T13:06:29.958016Z"
   },
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-08-03T01:38:18.758309Z"
+    "last_seen": "2026-08-03T09:06:29.784231Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-08-03T01:38:18.758290Z"
+    "last_seen": "2026-08-03T09:06:29.784212Z"
   },
   "lawnstarter": {
     "company_name": "LawnStarter",
     "score": 15,
-    "last_seen": "2026-08-03T01:38:18.758311Z"
+    "last_seen": "2026-08-03T09:06:29.784233Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
     "score": 15,
-    "last_seen": "2026-08-03T01:38:18.758299Z"
+    "last_seen": "2026-08-03T09:06:29.784221Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-08-03T01:38:18.758316Z"
+    "last_seen": "2026-08-03T09:06:29.784238Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-08-03T01:38:18.758320Z"
+    "last_seen": "2026-08-03T09:06:29.784243Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-08-03T01:38:18.758318Z"
+    "last_seen": "2026-08-03T09:06:29.784240Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-08-03T01:38:18.758306Z"
+    "last_seen": "2026-08-03T09:06:29.784228Z"
   },
   "deloitte": {
     "company_name": "Deloitte",
     "score": 15,
-    "last_seen": "2026-08-03T01:38:18.758313Z"
+    "last_seen": "2026-08-03T09:06:29.784236Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-08-03T01:38:18.758324Z"
+    "last_seen": "2026-08-03T09:06:29.784248Z"
   },
   "tribe-wellness": {
     "company_name": "Tribe Wellness",
     "score": 15,
-    "last_seen": "2026-08-03T01:38:18.758303Z"
+    "last_seen": "2026-08-03T09:06:29.784225Z"
   },
   "cummins": {
     "company_name": "Cummins",
     "score": 15,
-    "last_seen": "2026-08-03T01:38:18.758327Z"
+    "last_seen": "2026-08-03T09:06:29.784251Z"
   },
   "micro1": {
     "company_name": "micro1",
-    "score": 13,
+    "score": 12,
     "last_seen": "2026-08-02T13:06:29.958044Z"
   },
   "name": {
     "company_name": "name",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-08-02T18:59:57.381305Z"
   },
   "hometown-deli-amp-grocery": {
     "company_name": "Hometown Deli &amp; Grocery",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-08-02T01:38:33.199214Z"
   },
   "tarsu-alveri-merkezi": {
     "company_name": "Tarsu AlÄ±ÅveriÅ Merkezi",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-08-02T01:38:33.199217Z"
   },
   "radiology-partners": {
     "company_name": "Radiology Partners",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-08-02T01:38:33.199219Z"
   },
   "lsn": {
     "company_name": "Lsn",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-08-01T18:57:25.596064Z"
+  },
+  "marmend": {
+    "company_name": "Marmend",
+    "score": 7,
+    "last_seen": "2026-08-03T09:06:29.784296Z"
   },
   "pointclickcare": {
     "company_name": "PointClickCare",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-08-02T13:06:29.958013Z"
   },
   "gympass": {
     "company_name": "Gympass",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-08-02T13:06:29.958009Z"
   },
   "joi-ai": {
     "company_name": "Joi AI",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-08-01T18:57:25.596061Z"
   },
   "bcd-travel": {
     "company_name": "BCD Travel",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-08-01T01:56:24.048506Z"
   },
   "autodesk": {
     "company_name": "Autodesk",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-08-02T18:59:57.381261Z"
-  },
-  "marmend": {
-    "company_name": "Marmend",
-    "score": 6,
-    "last_seen": "2026-08-03T01:38:18.758348Z"
   },
   "the-tjx-companies-inc": {
     "company_name": "The TJX Companies, Inc.",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-07-31T13:33:49.583300Z"
   },
   "morgan-stanley": {
     "company_name": "Morgan Stanley",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-07-31T13:33:49.583302Z"
   },
   "forward-forward-telecom": {
     "company_name": "FORWARD (Forward Telecom)",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-08-01T08:04:31.969242Z"
   },
   "bjak": {
     "company_name": "Bjak",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-08-02T13:06:29.958045Z"
   },
   "cloudbeds": {
     "company_name": "Cloudbeds",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-08-01T01:56:24.048496Z"
   },
   "smartsheet": {
     "company_name": "Smartsheet",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-08-02T18:59:57.381263Z"
   },
   "gitlab": {
     "company_name": "GitLab",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-08-02T18:59:57.381253Z"
   },
   "veeam-software": {
     "company_name": "Veeam Software",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-08-02T18:59:57.381266Z"
-  },
-  "binance": {
-    "company_name": "Binance",
-    "score": 3,
-    "last_seen": "2026-08-02T18:59:57.381268Z"
-  },
-  "ntt-data": {
-    "company_name": "NTT DATA",
-    "score": 3,
-    "last_seen": "2026-08-02T18:59:57.381250Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
     "score": 3,
     "last_seen": "2026-04-28T13:28:55.388235Z"
   },
-  "clera": {
-    "company_name": "Clera",
-    "score": 2,
-    "last_seen": "2026-08-02T13:06:29.958047Z"
-  },
-  "cvs-health": {
-    "company_name": "CVS Health",
-    "score": 2,
-    "last_seen": "2026-08-02T18:59:57.381283Z"
-  },
   "apple": {
     "company_name": "Apple",
-    "score": 2,
-    "last_seen": "2026-08-03T01:38:18.758322Z"
+    "score": 3,
+    "last_seen": "2026-08-03T09:06:29.784245Z"
   },
   "koodup": {
     "company_name": "koodup",
+    "score": 3,
+    "last_seen": "2026-08-03T09:06:29.784263Z"
+  },
+  "binance": {
+    "company_name": "Binance",
     "score": 2,
-    "last_seen": "2026-08-03T01:38:18.758329Z"
+    "last_seen": "2026-08-02T18:59:57.381268Z"
+  },
+  "ntt-data": {
+    "company_name": "NTT DATA",
+    "score": 2,
+    "last_seen": "2026-08-02T18:59:57.381250Z"
+  },
+  "pattiampmore": {
+    "company_name": "Patti&amp;More!",
+    "score": 2,
+    "last_seen": "2026-08-03T09:06:29.784258Z"
+  },
+  "one-way": {
+    "company_name": "One Way",
+    "score": 2,
+    "last_seen": "2026-08-03T09:06:29.784267Z"
   }
 }
