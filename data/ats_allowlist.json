@@ -1,202 +1,202 @@
 {
+  "name": {
+    "company_name": "name",
+    "score": 20,
+    "last_seen": "2026-08-05T19:19:37.993568Z"
+  },
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-08-05T13:50:49.707138Z"
+    "last_seen": "2026-08-05T19:19:37.993484Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-08-05T13:50:49.707148Z"
+    "last_seen": "2026-08-05T19:19:37.993493Z"
   },
   "lawnstarter": {
     "company_name": "LawnStarter",
     "score": 15,
-    "last_seen": "2026-08-05T13:50:49.707156Z"
+    "last_seen": "2026-08-05T19:19:37.993505Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
     "score": 15,
-    "last_seen": "2026-08-05T13:50:49.707150Z"
+    "last_seen": "2026-08-05T19:19:37.993497Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-08-05T13:50:49.707172Z"
+    "last_seen": "2026-08-05T19:19:37.993525Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-08-05T13:50:49.707175Z"
+    "last_seen": "2026-08-05T19:19:37.993529Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-08-05T13:50:49.707174Z"
+    "last_seen": "2026-08-05T19:19:37.993527Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-08-05T13:50:49.707154Z"
+    "last_seen": "2026-08-05T19:19:37.993503Z"
   },
   "deloitte": {
     "company_name": "Deloitte",
     "score": 15,
-    "last_seen": "2026-08-05T13:50:49.707171Z"
+    "last_seen": "2026-08-05T19:19:37.993523Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-08-05T13:50:49.707158Z"
+    "last_seen": "2026-08-05T19:19:37.993510Z"
   },
   "tribe-wellness": {
     "company_name": "Tribe Wellness",
     "score": 15,
-    "last_seen": "2026-08-05T13:50:49.707152Z"
+    "last_seen": "2026-08-05T19:19:37.993500Z"
   },
   "cummins": {
     "company_name": "Cummins",
     "score": 15,
-    "last_seen": "2026-08-05T13:50:49.707176Z"
-  },
-  "micro1": {
-    "company_name": "micro1",
-    "score": 13,
-    "last_seen": "2026-08-05T13:50:49.707202Z"
-  },
-  "camunda": {
-    "company_name": "Camunda",
-    "score": 12,
-    "last_seen": "2026-08-02T13:06:29.958016Z"
+    "last_seen": "2026-08-05T19:19:37.993531Z"
   },
   "koodup": {
     "company_name": "koodup",
+    "score": 13,
+    "last_seen": "2026-08-05T19:19:37.993567Z"
+  },
+  "micro1": {
+    "company_name": "micro1",
     "score": 12,
-    "last_seen": "2026-08-05T13:50:49.707197Z"
+    "last_seen": "2026-08-05T13:50:49.707202Z"
   },
   "lsn": {
     "company_name": "Lsn",
-    "score": 11,
-    "last_seen": "2026-08-05T13:50:49.707191Z"
+    "score": 12,
+    "last_seen": "2026-08-05T19:19:37.993558Z"
   },
   "pattiampmore": {
     "company_name": "Patti&amp;More!",
-    "score": 11,
-    "last_seen": "2026-08-05T13:50:49.707196Z"
+    "score": 12,
+    "last_seen": "2026-08-05T19:19:37.993564Z"
   },
   "no-quarter": {
     "company_name": "No Quarter",
+    "score": 12,
+    "last_seen": "2026-08-05T19:19:37.993562Z"
+  },
+  "camunda": {
+    "company_name": "Camunda",
     "score": 11,
-    "last_seen": "2026-08-05T13:50:49.707194Z"
+    "last_seen": "2026-08-02T13:06:29.958016Z"
   },
   "one-way": {
     "company_name": "One Way",
-    "score": 10,
+    "score": 9,
     "last_seen": "2026-08-05T08:22:57.587440Z"
+  },
+  "cvs-health": {
+    "company_name": "CVS Health",
+    "score": 9,
+    "last_seen": "2026-08-05T19:19:37.993533Z"
+  },
+  "deliberate-development": {
+    "company_name": "Deliberate Development",
+    "score": 9,
+    "last_seen": "2026-08-05T19:19:37.993560Z"
   },
   "canonical-ltd": {
     "company_name": "Canonical Ltd.",
     "score": 8,
     "last_seen": "2026-08-05T13:50:49.707166Z"
   },
-  "cvs-health": {
-    "company_name": "CVS Health",
-    "score": 8,
-    "last_seen": "2026-08-05T13:50:49.707178Z"
-  },
-  "deliberate-development": {
-    "company_name": "Deliberate Development",
-    "score": 8,
-    "last_seen": "2026-08-05T13:50:49.707193Z"
+  "re-lytics-hires": {
+    "company_name": "Re Lytics Hires",
+    "score": 6,
+    "last_seen": "2026-08-05T19:19:37.993554Z"
   },
   "gitlab": {
     "company_name": "GitLab",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-08-05T01:32:47.530471Z"
   },
-  "re-lytics-hires": {
-    "company_name": "Re Lytics Hires",
-    "score": 5,
-    "last_seen": "2026-08-05T13:50:49.707189Z"
+  "meme-calls": {
+    "company_name": "Meme Calls",
+    "score": 4,
+    "last_seen": "2026-08-05T19:19:37.993542Z"
+  },
+  "accenture-in-india": {
+    "company_name": "Accenture in India",
+    "score": 4,
+    "last_seen": "2026-08-05T19:19:37.993545Z"
+  },
+  "aditya-birla-group": {
+    "company_name": "Aditya Birla Group",
+    "score": 4,
+    "last_seen": "2026-08-05T19:19:37.993547Z"
+  },
+  "ouba": {
+    "company_name": "Ouba",
+    "score": 4,
+    "last_seen": "2026-08-05T19:19:37.993538Z"
+  },
+  "beer-city-code": {
+    "company_name": "Beer City Code",
+    "score": 4,
+    "last_seen": "2026-08-05T19:19:37.993549Z"
   },
   "tangible": {
     "company_name": "Tangible",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-08-05T08:22:57.587402Z"
-  },
-  "nebius": {
-    "company_name": "Nebius",
-    "score": 3,
-    "last_seen": "2026-08-04T19:26:03.383116Z"
-  },
-  "centene-corporation": {
-    "company_name": "Centene Corporation",
-    "score": 3,
-    "last_seen": "2026-08-04T19:26:03.383103Z"
   },
   "mitre-media": {
     "company_name": "Mitre Media",
     "score": 3,
     "last_seen": "2026-04-28T13:28:55.388235Z"
   },
+  "cision": {
+    "company_name": "Cision",
+    "score": 3,
+    "last_seen": "2026-08-05T19:19:37.993513Z"
+  },
+  "zartis": {
+    "company_name": "Zartis",
+    "score": 3,
+    "last_seen": "2026-08-05T19:19:37.993516Z"
+  },
+  "liberty-mutual": {
+    "company_name": "Liberty Mutual",
+    "score": 3,
+    "last_seen": "2026-08-05T19:19:37.993518Z"
+  },
+  "nebius": {
+    "company_name": "Nebius",
+    "score": 2,
+    "last_seen": "2026-08-04T19:26:03.383116Z"
+  },
+  "centene-corporation": {
+    "company_name": "Centene Corporation",
+    "score": 2,
+    "last_seen": "2026-08-04T19:26:03.383103Z"
+  },
   "onepilot": {
     "company_name": "Onepilot",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-08-05T13:50:49.707169Z"
-  },
-  "meme-calls": {
-    "company_name": "Meme Calls",
-    "score": 3,
-    "last_seen": "2026-08-05T13:50:49.707182Z"
-  },
-  "accenture-in-india": {
-    "company_name": "Accenture in India",
-    "score": 3,
-    "last_seen": "2026-08-05T13:50:49.707183Z"
-  },
-  "aditya-birla-group": {
-    "company_name": "Aditya Birla Group",
-    "score": 3,
-    "last_seen": "2026-08-05T13:50:49.707185Z"
-  },
-  "ouba": {
-    "company_name": "Ouba",
-    "score": 3,
-    "last_seen": "2026-08-05T13:50:49.707179Z"
-  },
-  "beer-city-code": {
-    "company_name": "Beer City Code",
-    "score": 3,
-    "last_seen": "2026-08-05T13:50:49.707186Z"
-  },
-  "ntt-data": {
-    "company_name": "NTT DATA",
-    "score": 2,
-    "last_seen": "2026-08-04T13:55:39.305331Z"
-  },
-  "q-energy": {
-    "company_name": "Q Energy",
-    "score": 2,
-    "last_seen": "2026-08-05T08:22:57.587397Z"
   },
   "colgate-palmolive": {
     "company_name": "Colgate-Palmolive",
     "score": 2,
     "last_seen": "2026-08-05T13:50:49.707159Z"
   },
-  "cision": {
-    "company_name": "Cision",
+  "binance": {
+    "company_name": "Binance",
     "score": 2,
-    "last_seen": "2026-08-05T13:50:49.707161Z"
-  },
-  "zartis": {
-    "company_name": "Zartis",
-    "score": 2,
-    "last_seen": "2026-08-05T13:50:49.707162Z"
-  },
-  "liberty-mutual": {
-    "company_name": "Liberty Mutual",
-    "score": 2,
-    "last_seen": "2026-08-05T13:50:49.707164Z"
+    "last_seen": "2026-08-05T19:19:37.993507Z"
   }
 }
