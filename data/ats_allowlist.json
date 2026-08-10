@@ -2,12 +2,12 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-08-09T18:31:57.202125Z"
+    "last_seen": "2026-08-10T00:58:00.366653Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-08-09T18:31:57.202129Z"
+    "last_seen": "2026-08-10T00:58:00.366657Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
@@ -17,27 +17,27 @@
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-08-09T18:31:57.202135Z"
+    "last_seen": "2026-08-10T00:58:00.366683Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-08-09T18:31:57.202139Z"
+    "last_seen": "2026-08-10T00:58:00.366687Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-08-09T18:31:57.202137Z"
+    "last_seen": "2026-08-10T00:58:00.366685Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-08-09T18:31:57.202132Z"
+    "last_seen": "2026-08-10T00:58:00.366659Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-08-09T18:31:57.202144Z"
+    "last_seen": "2026-08-10T00:58:00.366690Z"
   },
   "tribe-wellness": {
     "company_name": "Tribe Wellness",
@@ -47,37 +47,32 @@
   "cummins": {
     "company_name": "Cummins",
     "score": 15,
-    "last_seen": "2026-08-09T18:31:57.202146Z"
+    "last_seen": "2026-08-10T00:58:00.366692Z"
   },
   "cvs-health": {
     "company_name": "CVS Health",
     "score": 15,
-    "last_seen": "2026-08-09T18:31:57.202149Z"
+    "last_seen": "2026-08-10T00:58:00.366694Z"
   },
   "canonical-ltd": {
     "company_name": "Canonical Ltd.",
-    "score": 14,
-    "last_seen": "2026-08-09T12:33:59.025760Z"
+    "score": 15,
+    "last_seen": "2026-08-10T00:58:00.366677Z"
   },
   "skinventory": {
     "company_name": "Skinventory",
-    "score": 13,
-    "last_seen": "2026-08-09T18:31:57.202156Z"
-  },
-  "coldoutreachblog": {
-    "company_name": "COLDOUTREACH.BLOG",
-    "score": 12,
-    "last_seen": "2026-08-09T00:55:05.760582Z"
+    "score": 14,
+    "last_seen": "2026-08-10T00:58:00.366699Z"
   },
   "creative-force": {
     "company_name": "Creative Force",
-    "score": 12,
-    "last_seen": "2026-08-09T18:31:57.202116Z"
+    "score": 13,
+    "last_seen": "2026-08-10T00:58:00.366643Z"
   },
-  "name": {
-    "company_name": "name",
+  "coldoutreachblog": {
+    "company_name": "COLDOUTREACH.BLOG",
     "score": 11,
-    "last_seen": "2026-08-09T18:31:57.202182Z"
+    "last_seen": "2026-08-09T00:55:05.760582Z"
   },
   "new-atlantis": {
     "company_name": "New Atlantis",
@@ -86,22 +81,27 @@
   },
   "radical-reversibility": {
     "company_name": "Radical Reversibility",
-    "score": 10,
-    "last_seen": "2026-08-09T18:31:57.202168Z"
+    "score": 11,
+    "last_seen": "2026-08-10T00:58:00.366708Z"
   },
   "xsbrt": {
     "company_name": "xsbrt",
-    "score": 10,
-    "last_seen": "2026-08-09T18:31:57.202171Z"
+    "score": 11,
+    "last_seen": "2026-08-10T00:58:00.366711Z"
   },
   "westtech-home-automation-llc": {
     "company_name": "WestTech Home Automation, LLC",
+    "score": 11,
+    "last_seen": "2026-08-10T00:58:00.366713Z"
+  },
+  "name": {
+    "company_name": "name",
     "score": 10,
-    "last_seen": "2026-08-09T18:31:57.202173Z"
+    "last_seen": "2026-08-09T18:31:57.202182Z"
   },
   "lawnstarter": {
     "company_name": "LawnStarter",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-08-08T06:46:34.840154Z"
   },
   "gitlab": {
@@ -111,92 +111,92 @@
   },
   "covaltech": {
     "company_name": "CovalTech",
+    "score": 8,
+    "last_seen": "2026-08-10T00:58:00.366714Z"
+  },
+  "simpletechai": {
+    "company_name": "SimpleTech.AI",
     "score": 7,
-    "last_seen": "2026-08-09T18:31:57.202176Z"
+    "last_seen": "2026-08-10T00:58:00.366716Z"
+  },
+  "pnc": {
+    "company_name": "PNC",
+    "score": 6,
+    "last_seen": "2026-08-10T00:58:00.366688Z"
   },
   "build-fast-with-ai": {
     "company_name": "Build Fast with AI",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-08-08T18:27:26.254432Z"
   },
   "capgemini": {
     "company_name": "Capgemini",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-08-09T06:57:58.615254Z"
-  },
-  "simpletechai": {
-    "company_name": "SimpleTech.AI",
-    "score": 6,
-    "last_seen": "2026-08-09T18:31:57.202178Z"
-  },
-  "veeam-software": {
-    "company_name": "Veeam Software",
-    "score": 5,
-    "last_seen": "2026-08-09T06:57:58.615256Z"
-  },
-  "pnc": {
-    "company_name": "PNC",
-    "score": 5,
-    "last_seen": "2026-08-09T18:31:57.202142Z"
-  },
-  "monzo": {
-    "company_name": "Monzo",
-    "score": 4,
-    "last_seen": "2026-08-09T06:57:58.615249Z"
   },
   "zscaler": {
     "company_name": "Zscaler",
-    "score": 4,
-    "last_seen": "2026-08-09T12:33:59.025753Z"
+    "score": 5,
+    "last_seen": "2026-08-10T00:58:00.366671Z"
   },
   "chinadebate": {
     "company_name": "CHINADebate",
-    "score": 4,
-    "last_seen": "2026-08-09T18:31:57.202158Z"
+    "score": 5,
+    "last_seen": "2026-08-10T00:58:00.366701Z"
   },
   "ulta-3-cosmetics-amp-salon": {
     "company_name": "Ulta 3 Cosmetics &amp; Salon",
-    "score": 4,
-    "last_seen": "2026-08-09T18:31:57.202160Z"
+    "score": 5,
+    "last_seen": "2026-08-10T00:58:00.366703Z"
   },
   "productionbeast": {
     "company_name": "ProductionBeast",
+    "score": 5,
+    "last_seen": "2026-08-10T00:58:00.366705Z"
+  },
+  "veeam-software": {
+    "company_name": "Veeam Software",
     "score": 4,
-    "last_seen": "2026-08-09T18:31:57.202163Z"
+    "last_seen": "2026-08-09T06:57:58.615256Z"
   },
-  "elevenlabs": {
-    "company_name": "Elevenlabs",
+  "monzo": {
+    "company_name": "Monzo",
     "score": 3,
-    "last_seen": "2026-08-09T06:57:58.615247Z"
-  },
-  "deloitte": {
-    "company_name": "Deloitte",
-    "score": 2,
-    "last_seen": "2026-08-06T13:42:51.323844Z"
-  },
-  "nexlane": {
-    "company_name": "Nexlane",
-    "score": 2,
-    "last_seen": "2026-08-09T06:57:58.615290Z"
+    "last_seen": "2026-08-09T06:57:58.615249Z"
   },
   "axiom": {
     "company_name": "Axiom",
-    "score": 2,
-    "last_seen": "2026-08-09T12:33:59.025758Z"
+    "score": 3,
+    "last_seen": "2026-08-10T00:58:00.366675Z"
   },
   "liberty-mutual": {
     "company_name": "Liberty Mutual",
-    "score": 2,
-    "last_seen": "2026-08-09T12:33:59.025741Z"
+    "score": 3,
+    "last_seen": "2026-08-10T00:58:00.366662Z"
   },
   "mantech": {
     "company_name": "ManTech",
-    "score": 2,
-    "last_seen": "2026-08-09T12:33:59.025746Z"
+    "score": 3,
+    "last_seen": "2026-08-10T00:58:00.366667Z"
   },
   "garner-health": {
     "company_name": "Garner Health",
+    "score": 3,
+    "last_seen": "2026-08-10T00:58:00.366673Z"
+  },
+  "datads": {
+    "company_name": "DatAds",
+    "score": 3,
+    "last_seen": "2026-08-10T00:58:00.366681Z"
+  },
+  "elevenlabs": {
+    "company_name": "Elevenlabs",
     "score": 2,
-    "last_seen": "2026-08-09T12:33:59.025755Z"
+    "last_seen": "2026-08-09T06:57:58.615247Z"
+  },
+  "fortive": {
+    "company_name": "Fortive",
+    "score": 2,
+    "last_seen": "2026-08-10T00:58:00.366664Z"
   }
 }
