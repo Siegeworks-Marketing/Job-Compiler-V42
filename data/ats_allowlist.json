@@ -2,12 +2,12 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-08-11T13:08:46.347236Z"
+    "last_seen": "2026-08-11T18:56:23.323714Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-08-11T13:08:46.347241Z"
+    "last_seen": "2026-08-11T18:56:23.323717Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
@@ -17,27 +17,27 @@
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-08-11T13:08:46.347278Z"
+    "last_seen": "2026-08-11T18:56:23.323744Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-08-11T13:08:46.347283Z"
+    "last_seen": "2026-08-11T18:56:23.323747Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-08-11T13:08:46.347280Z"
+    "last_seen": "2026-08-11T18:56:23.323745Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-08-11T13:08:46.347244Z"
+    "last_seen": "2026-08-11T18:56:23.323719Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-08-11T13:08:46.347287Z"
+    "last_seen": "2026-08-11T18:56:23.323750Z"
   },
   "tribe-wellness": {
     "company_name": "Tribe Wellness",
@@ -47,81 +47,81 @@
   "cummins": {
     "company_name": "Cummins",
     "score": 15,
-    "last_seen": "2026-08-11T13:08:46.347289Z"
+    "last_seen": "2026-08-11T18:56:23.323751Z"
   },
   "cvs-health": {
     "company_name": "CVS Health",
     "score": 15,
-    "last_seen": "2026-08-11T13:08:46.347291Z"
+    "last_seen": "2026-08-11T18:56:23.323752Z"
   },
   "skinventory": {
     "company_name": "Skinventory",
     "score": 15,
-    "last_seen": "2026-08-11T13:08:46.347298Z"
+    "last_seen": "2026-08-11T18:56:23.323757Z"
   },
   "creative-force": {
     "company_name": "Creative Force",
     "score": 15,
-    "last_seen": "2026-08-11T13:08:46.347227Z"
+    "last_seen": "2026-08-11T18:56:23.323706Z"
   },
   "radical-reversibility": {
     "company_name": "Radical Reversibility",
     "score": 15,
-    "last_seen": "2026-08-11T13:08:46.347308Z"
+    "last_seen": "2026-08-11T18:56:23.323764Z"
   },
   "xsbrt": {
     "company_name": "xsbrt",
     "score": 15,
-    "last_seen": "2026-08-11T13:08:46.347311Z"
+    "last_seen": "2026-08-11T18:56:23.323766Z"
   },
   "westtech-home-automation-llc": {
     "company_name": "WestTech Home Automation, LLC",
     "score": 15,
-    "last_seen": "2026-08-11T13:08:46.347313Z"
+    "last_seen": "2026-08-11T18:56:23.323767Z"
   },
   "covaltech": {
     "company_name": "CovalTech",
-    "score": 14,
-    "last_seen": "2026-08-11T13:08:46.347315Z"
+    "score": 15,
+    "last_seen": "2026-08-11T18:56:23.323769Z"
   },
   "simpletechai": {
     "company_name": "SimpleTech.AI",
-    "score": 13,
-    "last_seen": "2026-08-11T13:08:46.347317Z"
+    "score": 14,
+    "last_seen": "2026-08-11T18:56:23.323770Z"
   },
   "pnc": {
     "company_name": "PNC",
+    "score": 13,
+    "last_seen": "2026-08-11T18:56:23.323748Z"
+  },
+  "chinadebate": {
+    "company_name": "CHINADebate",
     "score": 12,
-    "last_seen": "2026-08-11T13:08:46.347285Z"
+    "last_seen": "2026-08-11T18:56:23.323759Z"
+  },
+  "ulta-3-cosmetics-amp-salon": {
+    "company_name": "Ulta 3 Cosmetics &amp; Salon",
+    "score": 12,
+    "last_seen": "2026-08-11T18:56:23.323760Z"
+  },
+  "productionbeast": {
+    "company_name": "ProductionBeast",
+    "score": 12,
+    "last_seen": "2026-08-11T18:56:23.323762Z"
+  },
+  "parcelhero": {
+    "company_name": "ParcelHero",
+    "score": 12,
+    "last_seen": "2026-08-11T18:56:23.323737Z"
   },
   "new-atlantis": {
     "company_name": "New Atlantis",
     "score": 11,
     "last_seen": "2026-08-09T18:31:57.202166Z"
   },
-  "chinadebate": {
-    "company_name": "CHINADebate",
-    "score": 11,
-    "last_seen": "2026-08-11T13:08:46.347300Z"
-  },
-  "ulta-3-cosmetics-amp-salon": {
-    "company_name": "Ulta 3 Cosmetics &amp; Salon",
-    "score": 11,
-    "last_seen": "2026-08-11T13:08:46.347303Z"
-  },
-  "productionbeast": {
-    "company_name": "ProductionBeast",
-    "score": 11,
-    "last_seen": "2026-08-11T13:08:46.347305Z"
-  },
-  "parcelhero": {
-    "company_name": "ParcelHero",
-    "score": 11,
-    "last_seen": "2026-08-11T13:08:46.347266Z"
-  },
   "canonical-ltd": {
     "company_name": "Canonical Ltd.",
-    "score": 10,
+    "score": 9,
     "last_seen": "2026-08-10T07:15:49.300836Z"
   },
   "liberty-mutual": {
@@ -131,72 +131,72 @@
   },
   "mantech": {
     "company_name": "ManTech",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-08-11T13:08:46.347274Z"
+  },
+  "actian": {
+    "company_name": "Actian",
+    "score": 8,
+    "last_seen": "2026-08-11T18:56:23.323739Z"
   },
   "gitlab": {
     "company_name": "gitlab",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-08-11T06:51:09.856887Z"
   },
   "fortive": {
     "company_name": "Fortive",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-08-11T13:08:46.347272Z"
-  },
-  "actian": {
-    "company_name": "Actian",
-    "score": 7,
-    "last_seen": "2026-08-11T13:08:46.347268Z"
-  },
-  "mercor": {
-    "company_name": "mercor",
-    "score": 7,
-    "last_seen": "2026-08-11T13:08:46.347323Z"
   },
   "name": {
     "company_name": "name",
+    "score": 7,
+    "last_seen": "2026-08-11T18:56:23.323772Z"
+  },
+  "mercor": {
+    "company_name": "mercor",
     "score": 6,
-    "last_seen": "2026-08-10T12:52:40.345787Z"
+    "last_seen": "2026-08-11T13:08:46.347323Z"
+  },
+  "autodesk": {
+    "company_name": "Autodesk",
+    "score": 5,
+    "last_seen": "2026-08-11T18:56:23.323734Z"
+  },
+  "ruby-labs": {
+    "company_name": "Ruby Labs",
+    "score": 5,
+    "last_seen": "2026-08-11T18:56:23.323735Z"
+  },
+  "nebius": {
+    "company_name": "Nebius",
+    "score": 5,
+    "last_seen": "2026-08-11T18:56:23.323740Z"
+  },
+  "captain-pq-chemical-industries-pvt-limited": {
+    "company_name": "Captain PQ chemical industries Pvt. Limited",
+    "score": 5,
+    "last_seen": "2026-08-11T18:56:23.323754Z"
   },
   "coldoutreachblog": {
     "company_name": "COLDOUTREACH.BLOG",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-08-09T00:55:05.760582Z"
   },
   "zscaler": {
     "company_name": "Zscaler",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-08-10T18:50:22.348863Z"
   },
   "everest-clinical-research": {
     "company_name": "Everest Clinical Research",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-08-11T06:51:09.856889Z"
-  },
-  "autodesk": {
-    "company_name": "Autodesk",
-    "score": 4,
-    "last_seen": "2026-08-11T13:08:46.347261Z"
-  },
-  "ruby-labs": {
-    "company_name": "Ruby Labs",
-    "score": 4,
-    "last_seen": "2026-08-11T13:08:46.347263Z"
-  },
-  "nebius": {
-    "company_name": "Nebius",
-    "score": 4,
-    "last_seen": "2026-08-11T13:08:46.347270Z"
-  },
-  "captain-pq-chemical-industries-pvt-limited": {
-    "company_name": "Captain PQ chemical industries Pvt. Limited",
-    "score": 4,
-    "last_seen": "2026-08-11T13:08:46.347293Z"
   },
   "remote": {
     "company_name": "Remote",
-    "score": 3,
-    "last_seen": "2026-08-11T13:08:46.347249Z"
+    "score": 4,
+    "last_seen": "2026-08-11T18:56:23.323728Z"
   }
 }
