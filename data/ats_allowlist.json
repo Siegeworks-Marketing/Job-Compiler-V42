@@ -1,4 +1,9 @@
 {
+  "mercor": {
+    "company_name": "mercor",
+    "score": 17,
+    "last_seen": "2026-08-13T07:14:55.887034Z"
+  },
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
@@ -7,7 +12,7 @@
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-08-13T01:04:04.985042Z"
+    "last_seen": "2026-08-13T07:14:55.886956Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
@@ -17,37 +22,37 @@
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-08-13T01:04:04.985049Z"
+    "last_seen": "2026-08-13T07:14:55.886982Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-08-13T01:04:04.985054Z"
+    "last_seen": "2026-08-13T07:14:55.887005Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-08-13T01:04:04.985052Z"
+    "last_seen": "2026-08-13T07:14:55.886984Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-08-13T01:04:04.985046Z"
+    "last_seen": "2026-08-13T07:14:55.886960Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-08-13T01:04:04.985056Z"
+    "last_seen": "2026-08-13T07:14:55.887008Z"
   },
   "cummins": {
     "company_name": "Cummins",
     "score": 15,
-    "last_seen": "2026-08-13T01:04:04.985058Z"
+    "last_seen": "2026-08-13T07:14:55.887010Z"
   },
   "cvs-health": {
     "company_name": "CVS Health",
     "score": 15,
-    "last_seen": "2026-08-13T01:04:04.985060Z"
+    "last_seen": "2026-08-13T07:14:55.887012Z"
   },
   "skinventory": {
     "company_name": "Skinventory",
@@ -57,146 +62,141 @@
   "creative-force": {
     "company_name": "Creative Force",
     "score": 15,
-    "last_seen": "2026-08-13T01:04:04.985034Z"
+    "last_seen": "2026-08-13T07:14:55.886948Z"
   },
   "chinadebate": {
     "company_name": "CHINADebate",
     "score": 15,
-    "last_seen": "2026-08-13T01:04:04.985079Z"
+    "last_seen": "2026-08-13T07:14:55.887027Z"
   },
   "ulta-3-cosmetics-amp-salon": {
     "company_name": "Ulta 3 Cosmetics &amp; Salon",
     "score": 15,
-    "last_seen": "2026-08-13T01:04:04.985081Z"
+    "last_seen": "2026-08-13T07:14:55.887029Z"
   },
   "productionbeast": {
     "company_name": "ProductionBeast",
     "score": 15,
-    "last_seen": "2026-08-13T01:04:04.985083Z"
+    "last_seen": "2026-08-13T07:14:55.887031Z"
   },
   "pnc": {
     "company_name": "PNC",
-    "score": 14,
+    "score": 13,
     "last_seen": "2026-08-12T18:54:44.469689Z"
   },
   "parcelhero": {
     "company_name": "ParcelHero",
-    "score": 13,
+    "score": 12,
     "last_seen": "2026-08-12T12:49:19.552604Z"
   },
   "tribe-wellness": {
     "company_name": "Tribe Wellness",
-    "score": 12,
+    "score": 11,
     "last_seen": "2026-08-09T06:57:58.615230Z"
   },
   "radical-reversibility": {
     "company_name": "Radical Reversibility",
-    "score": 12,
+    "score": 11,
     "last_seen": "2026-08-12T01:06:00.482302Z"
+  },
+  "captain-pq-chemical-industries-pvt-limited": {
+    "company_name": "Captain PQ chemical industries Pvt. Limited",
+    "score": 11,
+    "last_seen": "2026-08-13T07:14:55.887022Z"
   },
   "xsbrt": {
     "company_name": "xsbrt",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-08-12T01:06:00.482305Z"
   },
   "westtech-home-automation-llc": {
     "company_name": "WestTech Home Automation, LLC",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-08-11T18:56:23.323767Z"
   },
   "covaltech": {
     "company_name": "CovalTech",
-    "score": 10,
+    "score": 9,
     "last_seen": "2026-08-11T18:56:23.323769Z"
-  },
-  "captain-pq-chemical-industries-pvt-limited": {
-    "company_name": "Captain PQ chemical industries Pvt. Limited",
-    "score": 10,
-    "last_seen": "2026-08-13T01:04:04.985074Z"
   },
   "simpletechai": {
     "company_name": "SimpleTech.AI",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-08-11T18:56:23.323770Z"
   },
   "new-atlantis": {
     "company_name": "New Atlantis",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-08-09T18:31:57.202166Z"
-  },
-  "liberty-mutual": {
-    "company_name": "Liberty Mutual",
-    "score": 7,
-    "last_seen": "2026-08-11T13:08:46.347258Z"
   },
   "ai-supermarket": {
     "company_name": "AI Supermarket",
-    "score": 7,
-    "last_seen": "2026-08-13T01:04:04.985068Z"
+    "score": 8,
+    "last_seen": "2026-08-13T07:14:55.887016Z"
   },
-  "autodesk": {
-    "company_name": "Autodesk",
+  "ruby-labs": {
+    "company_name": "Ruby Labs",
+    "score": 7,
+    "last_seen": "2026-08-13T07:14:55.886968Z"
+  },
+  "liberty-mutual": {
+    "company_name": "Liberty Mutual",
     "score": 6,
-    "last_seen": "2026-08-12T12:49:19.552602Z"
+    "last_seen": "2026-08-11T13:08:46.347258Z"
   },
   "remote": {
     "company_name": "Remote",
     "score": 6,
     "last_seen": "2026-08-12T12:49:19.552582Z"
   },
-  "ruby-labs": {
-    "company_name": "Ruby Labs",
-    "score": 6,
-    "last_seen": "2026-08-12T18:54:44.469666Z"
+  "autodesk": {
+    "company_name": "Autodesk",
+    "score": 5,
+    "last_seen": "2026-08-12T12:49:19.552602Z"
+  },
+  "bcd-travel": {
+    "company_name": "BCD Travel",
+    "score": 5,
+    "last_seen": "2026-08-13T07:14:55.886970Z"
   },
   "actian": {
     "company_name": "Actian",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-08-12T01:06:00.482267Z"
   },
   "axiom": {
     "company_name": "Axiom",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-08-12T12:49:19.552579Z"
+  },
+  "nebius": {
+    "company_name": "Nebius",
+    "score": 4,
+    "last_seen": "2026-08-13T07:14:55.886963Z"
+  },
+  "the-home-depot-canada": {
+    "company_name": "The Home Depot Canada",
+    "score": 4,
+    "last_seen": "2026-08-13T07:14:55.887014Z"
   },
   "canonical-ltd": {
     "company_name": "Canonical Ltd.",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-08-10T07:15:49.300836Z"
   },
   "name": {
     "company_name": "name",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-08-12T01:06:00.482307Z"
-  },
-  "bcd-travel": {
-    "company_name": "BCD Travel",
-    "score": 4,
-    "last_seen": "2026-08-12T18:54:44.469668Z"
-  },
-  "mantech": {
-    "company_name": "ManTech",
-    "score": 3,
-    "last_seen": "2026-08-11T13:08:46.347274Z"
-  },
-  "gitlab": {
-    "company_name": "gitlab",
-    "score": 3,
-    "last_seen": "2026-08-11T06:51:09.856887Z"
   },
   "te-connectivity": {
     "company_name": "TE Connectivity",
     "score": 3,
     "last_seen": "2026-08-12T12:49:19.552595Z"
   },
-  "nebius": {
-    "company_name": "Nebius",
+  "saasgroup": {
+    "company_name": "saas.group",
     "score": 3,
-    "last_seen": "2026-08-12T18:54:44.469659Z"
-  },
-  "the-home-depot-canada": {
-    "company_name": "The Home Depot Canada",
-    "score": 3,
-    "last_seen": "2026-08-13T01:04:04.985065Z"
+    "last_seen": "2026-08-13T07:14:55.886965Z"
   }
 }
