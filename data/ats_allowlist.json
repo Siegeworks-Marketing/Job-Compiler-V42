@@ -2,201 +2,201 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-08-15T00:39:03.266825Z"
+    "last_seen": "2026-08-15T06:22:31.818234Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-08-15T00:39:03.266832Z"
+    "last_seen": "2026-08-15T06:22:31.818240Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
     "score": 15,
-    "last_seen": "2026-08-15T00:39:03.266817Z"
+    "last_seen": "2026-08-15T06:22:31.818225Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-08-15T00:39:03.266838Z"
+    "last_seen": "2026-08-15T06:22:31.818247Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-08-15T00:39:03.266842Z"
+    "last_seen": "2026-08-15T06:22:31.818251Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-08-15T00:39:03.266840Z"
+    "last_seen": "2026-08-15T06:22:31.818249Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-08-15T00:39:03.266835Z"
+    "last_seen": "2026-08-15T06:22:31.818242Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-08-15T00:39:03.266846Z"
+    "last_seen": "2026-08-15T06:22:31.818256Z"
   },
   "cummins": {
     "company_name": "Cummins",
     "score": 15,
-    "last_seen": "2026-08-15T00:39:03.266849Z"
+    "last_seen": "2026-08-15T06:22:31.818258Z"
   },
   "cvs-health": {
     "company_name": "CVS Health",
     "score": 15,
-    "last_seen": "2026-08-15T00:39:03.266851Z"
-  },
-  "skinventory": {
-    "company_name": "Skinventory",
-    "score": 15,
-    "last_seen": "2026-08-12T12:49:19.552629Z"
+    "last_seen": "2026-08-15T06:22:31.818260Z"
   },
   "creative-force": {
     "company_name": "Creative Force",
     "score": 15,
-    "last_seen": "2026-08-15T00:39:03.266829Z"
-  },
-  "chinadebate": {
-    "company_name": "CHINADebate",
-    "score": 15,
-    "last_seen": "2026-08-15T00:39:03.266873Z"
+    "last_seen": "2026-08-15T06:22:31.818237Z"
   },
   "ai-supermarket": {
     "company_name": "AI Supermarket",
     "score": 15,
-    "last_seen": "2026-08-15T00:39:03.266863Z"
-  },
-  "ulta-3-cosmetics-amp-salon": {
-    "company_name": "Ulta 3 Cosmetics &amp; Salon",
-    "score": 14,
-    "last_seen": "2026-08-14T18:44:21.231493Z"
+    "last_seen": "2026-08-15T06:22:31.818273Z"
   },
   "name": {
     "company_name": "name",
-    "score": 14,
-    "last_seen": "2026-08-15T00:39:03.266875Z"
+    "score": 15,
+    "last_seen": "2026-08-15T06:22:31.818280Z"
   },
-  "productionbeast": {
-    "company_name": "ProductionBeast",
+  "skinventory": {
+    "company_name": "Skinventory",
+    "score": 14,
+    "last_seen": "2026-08-12T12:49:19.552629Z"
+  },
+  "chinadebate": {
+    "company_name": "CHINADebate",
+    "score": 14,
+    "last_seen": "2026-08-15T00:39:03.266873Z"
+  },
+  "ulta-3-cosmetics-amp-salon": {
+    "company_name": "Ulta 3 Cosmetics &amp; Salon",
     "score": 13,
-    "last_seen": "2026-08-14T12:40:35.541596Z"
+    "last_seen": "2026-08-14T18:44:21.231493Z"
   },
   "captain-pq-chemical-industries-pvt-limited": {
     "company_name": "Captain PQ chemical industries Pvt. Limited",
     "score": 13,
     "last_seen": "2026-08-13T18:50:36.954012Z"
   },
-  "mercor": {
-    "company_name": "mercor",
-    "score": 11,
-    "last_seen": "2026-08-14T01:01:15.435116Z"
+  "productionbeast": {
+    "company_name": "ProductionBeast",
+    "score": 12,
+    "last_seen": "2026-08-14T12:40:35.541596Z"
   },
   "the-home-depot-canada": {
     "company_name": "The Home Depot Canada",
-    "score": 11,
-    "last_seen": "2026-08-15T00:39:03.266854Z"
+    "score": 12,
+    "last_seen": "2026-08-15T06:22:31.818264Z"
+  },
+  "mercor": {
+    "company_name": "mercor",
+    "score": 10,
+    "last_seen": "2026-08-14T01:01:15.435116Z"
   },
   "canonical-ltd": {
     "company_name": "Canonical Ltd.",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-08-14T12:40:35.541553Z"
   },
   "remote": {
     "company_name": "Remote",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-08-14T12:40:35.541546Z"
   },
   "autodesk": {
     "company_name": "Autodesk",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-08-14T18:44:21.231448Z"
   },
   "pnc": {
     "company_name": "PNC",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-08-12T18:54:44.469689Z"
   },
   "parcelhero": {
     "company_name": "ParcelHero",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-08-12T12:49:19.552604Z"
   },
   "axiom": {
     "company_name": "Axiom",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-08-14T12:40:35.541548Z"
   },
   "tribe-wellness": {
     "company_name": "Tribe Wellness",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-08-09T06:57:58.615230Z"
   },
   "radical-reversibility": {
     "company_name": "Radical Reversibility",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-08-12T01:06:00.482302Z"
   },
   "truelogic": {
     "company_name": "Truelogic",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-08-13T12:45:59.283309Z"
+  },
+  "deloitte": {
+    "company_name": "Deloitte",
+    "score": 3,
+    "last_seen": "2026-08-15T06:22:31.818254Z"
   },
   "xsbrt": {
     "company_name": "xsbrt",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-08-12T01:06:00.482305Z"
   },
   "westtech-home-automation-llc": {
     "company_name": "WestTech Home Automation, LLC",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-08-11T18:56:23.323767Z"
   },
   "nash": {
     "company_name": "Nash",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-08-14T18:44:21.231457Z"
   },
-  "covaltech": {
-    "company_name": "CovalTech",
+  "scholarshipowl": {
+    "company_name": "ScholarshipOwl",
     "score": 2,
-    "last_seen": "2026-08-11T18:56:23.323769Z"
+    "last_seen": "2026-08-15T06:22:31.818245Z"
   },
-  "ruby-labs": {
-    "company_name": "Ruby Labs",
+  "macpac-ltd": {
+    "company_name": "Macpac Ltd.",
     "score": 2,
-    "last_seen": "2026-08-13T12:45:59.283317Z"
+    "last_seen": "2026-08-15T06:22:31.818262Z"
   },
-  "university-of-colorado-anschutz-medical-campus": {
-    "company_name": "University of Colorado Anschutz Medical Campus",
+  "aleh-writing-services-aws": {
+    "company_name": "ALEH Writing Services (AWS)",
     "score": 2,
-    "last_seen": "2026-08-14T18:44:21.231450Z"
+    "last_seen": "2026-08-15T06:22:31.818266Z"
   },
-  "university-of-colorado": {
-    "company_name": "University of Colorado",
+  "stone": {
+    "company_name": "Stone",
     "score": 2,
-    "last_seen": "2026-08-14T18:44:21.231453Z"
+    "last_seen": "2026-08-15T06:22:31.818268Z"
   },
-  "assetwatch": {
-    "company_name": "AssetWatch",
+  "skanska-costain-strabag-joint-venture": {
+    "company_name": "Skanska Costain STRABAG Joint Venture",
     "score": 2,
-    "last_seen": "2026-08-14T18:44:21.231455Z"
+    "last_seen": "2026-08-15T06:22:31.818270Z"
   },
-  "te-connectivity": {
-    "company_name": "TE Connectivity",
+  "syfting": {
+    "company_name": "Syfting",
     "score": 2,
-    "last_seen": "2026-08-14T18:44:21.231436Z"
+    "last_seen": "2026-08-15T06:22:31.818275Z"
   },
-  "servicenow": {
-    "company_name": "ServiceNow",
+  "south-shore-holdings-limited": {
+    "company_name": "South Shore Holdings Limited",
     "score": 2,
-    "last_seen": "2026-08-14T18:44:21.231440Z"
-  },
-  "deloitte": {
-    "company_name": "Deloitte",
-    "score": 2,
-    "last_seen": "2026-08-15T00:39:03.266844Z"
+    "last_seen": "2026-08-15T06:22:31.818277Z"
   }
 }
