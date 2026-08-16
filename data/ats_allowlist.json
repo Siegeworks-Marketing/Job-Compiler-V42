@@ -2,201 +2,201 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-08-16T06:26:38.210615Z"
+    "last_seen": "2026-08-16T12:23:58.782561Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-08-16T06:26:38.210623Z"
+    "last_seen": "2026-08-16T12:23:58.782568Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
     "score": 15,
-    "last_seen": "2026-08-16T06:26:38.210607Z"
+    "last_seen": "2026-08-16T12:23:58.782554Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-08-16T06:26:38.210665Z"
+    "last_seen": "2026-08-16T12:23:58.782604Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-08-16T06:26:38.210669Z"
+    "last_seen": "2026-08-16T12:23:58.782609Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-08-16T06:26:38.210667Z"
-  },
-  "ateam": {
-    "company_name": "A.Team",
-    "score": 15,
-    "last_seen": "2026-08-16T06:26:38.210626Z"
+    "last_seen": "2026-08-16T12:23:58.782607Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-08-16T06:26:38.210672Z"
+    "last_seen": "2026-08-16T12:23:58.782579Z"
   },
   "cummins": {
     "company_name": "Cummins",
     "score": 15,
-    "last_seen": "2026-08-16T06:26:38.210674Z"
+    "last_seen": "2026-08-16T12:23:58.782612Z"
   },
   "cvs-health": {
     "company_name": "CVS Health",
     "score": 15,
-    "last_seen": "2026-08-16T06:26:38.210677Z"
+    "last_seen": "2026-08-16T12:23:58.782615Z"
   },
   "creative-force": {
     "company_name": "Creative Force",
     "score": 15,
-    "last_seen": "2026-08-16T06:26:38.210620Z"
+    "last_seen": "2026-08-16T12:23:58.782566Z"
   },
   "ai-supermarket": {
     "company_name": "AI Supermarket",
     "score": 15,
-    "last_seen": "2026-08-16T06:26:38.210695Z"
+    "last_seen": "2026-08-16T12:23:58.782644Z"
   },
   "the-home-depot-canada": {
     "company_name": "The Home Depot Canada",
     "score": 15,
-    "last_seen": "2026-08-16T06:26:38.210685Z"
+    "last_seen": "2026-08-16T12:23:58.782622Z"
+  },
+  "ateam": {
+    "company_name": "A.Team",
+    "score": 14,
+    "last_seen": "2026-08-16T06:26:38.210626Z"
   },
   "name": {
     "company_name": "name",
-    "score": 13,
+    "score": 12,
     "last_seen": "2026-08-15T18:22:19.337750Z"
   },
   "skinventory": {
     "company_name": "Skinventory",
-    "score": 10,
+    "score": 9,
     "last_seen": "2026-08-12T12:49:19.552629Z"
   },
   "chinadebate": {
     "company_name": "CHINADebate",
-    "score": 10,
+    "score": 9,
     "last_seen": "2026-08-15T00:39:03.266873Z"
   },
   "ulta-3-cosmetics-amp-salon": {
     "company_name": "Ulta 3 Cosmetics &amp; Salon",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-08-14T18:44:21.231493Z"
   },
   "captain-pq-chemical-industries-pvt-limited": {
     "company_name": "Captain PQ chemical industries Pvt. Limited",
-    "score": 9,
-    "last_seen": "2026-08-13T18:50:36.954012Z"
-  },
-  "productionbeast": {
-    "company_name": "ProductionBeast",
     "score": 8,
-    "last_seen": "2026-08-14T12:40:35.541596Z"
-  },
-  "mercor": {
-    "company_name": "mercor",
-    "score": 7,
-    "last_seen": "2026-08-14T01:01:15.435116Z"
+    "last_seen": "2026-08-13T18:50:36.954012Z"
   },
   "deloitte": {
     "company_name": "Deloitte",
+    "score": 8,
+    "last_seen": "2026-08-16T12:23:58.782611Z"
+  },
+  "productionbeast": {
+    "company_name": "ProductionBeast",
     "score": 7,
-    "last_seen": "2026-08-16T06:26:38.210670Z"
+    "last_seen": "2026-08-14T12:40:35.541596Z"
   },
   "macpac-ltd": {
     "company_name": "Macpac Ltd.",
-    "score": 6,
-    "last_seen": "2026-08-16T06:26:38.210683Z"
+    "score": 7,
+    "last_seen": "2026-08-16T12:23:58.782620Z"
   },
   "aleh-writing-services-aws": {
     "company_name": "ALEH Writing Services (AWS)",
-    "score": 6,
-    "last_seen": "2026-08-16T06:26:38.210688Z"
+    "score": 7,
+    "last_seen": "2026-08-16T12:23:58.782624Z"
   },
   "stone": {
     "company_name": "Stone",
-    "score": 6,
-    "last_seen": "2026-08-16T06:26:38.210690Z"
+    "score": 7,
+    "last_seen": "2026-08-16T12:23:58.782626Z"
   },
   "skanska-costain-strabag-joint-venture": {
     "company_name": "Skanska Costain STRABAG Joint Venture",
-    "score": 6,
-    "last_seen": "2026-08-16T06:26:38.210692Z"
+    "score": 7,
+    "last_seen": "2026-08-16T12:23:58.782629Z"
   },
   "syfting": {
     "company_name": "Syfting",
-    "score": 6,
-    "last_seen": "2026-08-16T06:26:38.210697Z"
+    "score": 7,
+    "last_seen": "2026-08-16T12:23:58.782647Z"
   },
   "think-academy-us": {
     "company_name": "Think Academy US",
-    "score": 6,
-    "last_seen": "2026-08-16T06:26:38.210642Z"
+    "score": 7,
+    "last_seen": "2026-08-16T12:23:58.782596Z"
   },
-  "canonical-ltd": {
-    "company_name": "Canonical Ltd.",
-    "score": 5,
-    "last_seen": "2026-08-15T12:19:31.869364Z"
+  "mercor": {
+    "company_name": "mercor",
+    "score": 6,
+    "last_seen": "2026-08-14T01:01:15.435116Z"
   },
   "remote": {
     "company_name": "Remote",
-    "score": 5,
-    "last_seen": "2026-08-15T12:19:31.869359Z"
+    "score": 6,
+    "last_seen": "2026-08-16T12:23:58.782576Z"
   },
   "canadian-armed-forces-forces-armes-canadiennes": {
     "company_name": "Canadian Armed Forces | Forces armÃ©es canadiennes",
-    "score": 5,
-    "last_seen": "2026-08-16T06:26:38.210679Z"
+    "score": 6,
+    "last_seen": "2026-08-16T12:23:58.782617Z"
   },
   "fleetio": {
     "company_name": "Fleetio",
-    "score": 5,
-    "last_seen": "2026-08-16T06:26:38.210648Z"
+    "score": 6,
+    "last_seen": "2026-08-16T12:23:58.782602Z"
   },
   "udacity": {
     "company_name": "Udacity",
     "score": 5,
     "last_seen": "2026-08-16T06:26:38.210651Z"
   },
+  "quince": {
+    "company_name": "Quince",
+    "score": 5,
+    "last_seen": "2026-08-16T12:23:58.782586Z"
+  },
+  "fresh-prints": {
+    "company_name": "Fresh Prints",
+    "score": 5,
+    "last_seen": "2026-08-16T12:23:58.782594Z"
+  },
+  "canonical-ltd": {
+    "company_name": "Canonical Ltd.",
+    "score": 4,
+    "last_seen": "2026-08-15T12:19:31.869364Z"
+  },
   "infisical": {
     "company_name": "infisical",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-08-16T06:26:38.210655Z"
   },
   "thoughtworks": {
     "company_name": "Thoughtworks",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-08-16T06:26:38.210660Z"
-  },
-  "quince": {
-    "company_name": "Quince",
-    "score": 4,
-    "last_seen": "2026-08-16T06:26:38.210633Z"
-  },
-  "fresh-prints": {
-    "company_name": "Fresh Prints",
-    "score": 4,
-    "last_seen": "2026-08-16T06:26:38.210640Z"
-  },
-  "autodesk": {
-    "company_name": "Autodesk",
-    "score": 3,
-    "last_seen": "2026-08-14T18:44:21.231448Z"
-  },
-  "axiom": {
-    "company_name": "Axiom",
-    "score": 2,
-    "last_seen": "2026-08-15T12:19:31.869363Z"
   },
   "manay-cpa-inc": {
     "company_name": "Manay CPA Inc.",
-    "score": 2,
-    "last_seen": "2026-08-16T06:26:38.210628Z"
+    "score": 3,
+    "last_seen": "2026-08-16T12:23:58.782582Z"
   },
   "league": {
     "company_name": "League",
+    "score": 3,
+    "last_seen": "2026-08-16T12:23:58.782584Z"
+  },
+  "autodesk": {
+    "company_name": "Autodesk",
     "score": 2,
-    "last_seen": "2026-08-16T06:26:38.210630Z"
+    "last_seen": "2026-08-14T18:44:21.231448Z"
+  },
+  "gopuff": {
+    "company_name": "Gopuff",
+    "score": 2,
+    "last_seen": "2026-08-16T12:23:58.782571Z"
   }
 }
