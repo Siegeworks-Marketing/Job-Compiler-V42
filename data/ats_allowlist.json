@@ -2,52 +2,52 @@
   "canonical-ltd": {
     "company_name": "Canonical Ltd.",
     "score": 15,
-    "last_seen": "2026-08-24T00:39:48.662305Z"
+    "last_seen": "2026-08-24T06:46:15.551399Z"
   },
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-08-24T00:39:48.662286Z"
+    "last_seen": "2026-08-24T06:46:15.551381Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-08-24T00:39:48.662279Z"
+    "last_seen": "2026-08-24T06:46:15.551374Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
     "score": 15,
-    "last_seen": "2026-08-24T00:39:48.662268Z"
+    "last_seen": "2026-08-24T06:46:15.551363Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-08-24T00:39:48.662312Z"
+    "last_seen": "2026-08-24T06:46:15.551408Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-08-24T00:39:48.662316Z"
+    "last_seen": "2026-08-24T06:46:15.551413Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-08-24T00:39:48.662314Z"
+    "last_seen": "2026-08-24T06:46:15.551410Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-08-24T00:39:48.662320Z"
+    "last_seen": "2026-08-24T06:46:15.551417Z"
   },
   "cvs-health": {
     "company_name": "CVS Health",
     "score": 15,
-    "last_seen": "2026-08-24T00:39:48.662322Z"
+    "last_seen": "2026-08-24T06:46:15.551419Z"
   },
   "creative-force": {
     "company_name": "Creative Force",
     "score": 15,
-    "last_seen": "2026-08-24T00:39:48.662289Z"
+    "last_seen": "2026-08-24T06:46:15.551383Z"
   },
   "the-home-depot-canada": {
     "company_name": "The Home Depot Canada",
@@ -57,32 +57,32 @@
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-08-24T00:39:48.662283Z"
+    "last_seen": "2026-08-24T06:46:15.551378Z"
   },
   "deloitte": {
     "company_name": "Deloitte",
     "score": 15,
-    "last_seen": "2026-08-24T00:39:48.662318Z"
+    "last_seen": "2026-08-24T06:46:15.551415Z"
   },
   "baldwin-blueprint": {
     "company_name": "Baldwin Blueprint",
     "score": 15,
-    "last_seen": "2026-08-24T00:39:48.662337Z"
+    "last_seen": "2026-08-24T06:46:15.551433Z"
   },
   "cotton-on-group": {
     "company_name": "Cotton On Group",
     "score": 15,
-    "last_seen": "2026-08-24T00:39:48.662329Z"
+    "last_seen": "2026-08-24T06:46:15.551425Z"
   },
   "fedex": {
     "company_name": "FedEx",
     "score": 15,
-    "last_seen": "2026-08-24T00:39:48.662332Z"
+    "last_seen": "2026-08-24T06:46:15.551428Z"
   },
   "fronix-services": {
     "company_name": "Fronix Services",
     "score": 15,
-    "last_seen": "2026-08-24T00:39:48.662334Z"
+    "last_seen": "2026-08-24T06:46:15.551431Z"
   },
   "hovis-ltd": {
     "company_name": "Hovis Ltd",
@@ -91,7 +91,7 @@
   },
   "canadian-armed-forces-forces-armes-canadiennes": {
     "company_name": "Canadian Armed Forces | Forces armÃ©es canadiennes",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-08-21T18:34:32.937387Z"
   },
   "hilton": {
@@ -99,14 +99,9 @@
     "score": 9,
     "last_seen": "2026-08-21T12:38:45.601508Z"
   },
-  "macpac-ltd": {
-    "company_name": "Macpac Ltd.",
-    "score": 1,
-    "last_seen": "2026-08-20T06:38:24.020932Z"
-  },
   "welo-global": {
     "company_name": "Welo Global",
-    "score": 2,
+    "score": 1,
     "last_seen": "2026-08-22T12:25:39.694812Z"
   },
   "precision-medicine-group": {
@@ -116,8 +111,8 @@
   },
   "intelance": {
     "company_name": "Intelance",
-    "score": 6,
-    "last_seen": "2026-08-24T00:39:48.662308Z"
+    "score": 7,
+    "last_seen": "2026-08-24T06:46:15.551404Z"
   },
   "chaos": {
     "company_name": "Chaos",
@@ -126,28 +121,18 @@
   },
   "shoppers-drug-mart": {
     "company_name": "Shoppers Drug Mart",
-    "score": 5,
-    "last_seen": "2026-08-24T00:39:48.662324Z"
+    "score": 6,
+    "last_seen": "2026-08-24T06:46:15.551421Z"
   },
   "otr": {
     "company_name": "OTR",
-    "score": 5,
-    "last_seen": "2026-08-24T00:39:48.662327Z"
+    "score": 6,
+    "last_seen": "2026-08-24T06:46:15.551423Z"
   },
   "authorityinc": {
     "company_name": "Authority.inc",
-    "score": 8,
-    "last_seen": "2026-08-24T00:39:48.662310Z"
-  },
-  "we-are-tims": {
-    "company_name": "We are Tims",
-    "score": 1,
-    "last_seen": "2026-08-23T12:25:56.271505Z"
-  },
-  "mindrift": {
-    "company_name": "Mindrift",
-    "score": 1,
-    "last_seen": "2026-08-23T18:16:12.725890Z"
+    "score": 9,
+    "last_seen": "2026-08-24T06:46:15.551406Z"
   },
   "remote": {
     "company_name": "Remote",
@@ -156,32 +141,42 @@
   },
   "samsara": {
     "company_name": "Samsara",
-    "score": 3,
-    "last_seen": "2026-08-24T00:39:48.662294Z"
+    "score": 4,
+    "last_seen": "2026-08-24T06:46:15.551387Z"
   },
   "natera": {
     "company_name": "Natera",
-    "score": 2,
-    "last_seen": "2026-08-24T00:39:48.662296Z"
+    "score": 3,
+    "last_seen": "2026-08-24T06:46:15.551389Z"
   },
   "inspira-education": {
     "company_name": "Inspira Education",
-    "score": 2,
-    "last_seen": "2026-08-24T00:39:48.662299Z"
+    "score": 3,
+    "last_seen": "2026-08-24T06:46:15.551392Z"
   },
   "roboflow": {
     "company_name": "Roboflow",
-    "score": 2,
-    "last_seen": "2026-08-24T00:39:48.662301Z"
+    "score": 3,
+    "last_seen": "2026-08-24T06:46:15.551394Z"
   },
   "manay-cpa-inc": {
     "company_name": "Manay CPA Inc.",
-    "score": 2,
-    "last_seen": "2026-08-24T00:39:48.662303Z"
+    "score": 3,
+    "last_seen": "2026-08-24T06:46:15.551397Z"
   },
   "pinterest": {
     "company_name": "Pinterest",
-    "score": 2,
+    "score": 1,
     "last_seen": "2026-08-24T00:39:48.662339Z"
+  },
+  "techbiz-global-gmbh": {
+    "company_name": "TechBiz Global GmbH",
+    "score": 3,
+    "last_seen": "2026-08-24T06:46:15.551401Z"
+  },
+  "scalejet": {
+    "company_name": "ScaleJet",
+    "score": 2,
+    "last_seen": "2026-08-24T06:46:15.551436Z"
   }
 }
