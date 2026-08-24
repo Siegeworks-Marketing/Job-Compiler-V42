@@ -1,53 +1,53 @@
 {
   "canonical-ltd": {
     "company_name": "Canonical Ltd.",
-    "score": 15,
+    "score": 14,
     "last_seen": "2026-08-24T06:46:15.551399Z"
   },
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-08-24T06:46:15.551381Z"
+    "last_seen": "2026-08-24T12:33:13.824695Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-08-24T06:46:15.551374Z"
+    "last_seen": "2026-08-24T12:33:13.824688Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
     "score": 15,
-    "last_seen": "2026-08-24T06:46:15.551363Z"
+    "last_seen": "2026-08-24T12:33:13.824680Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-08-24T06:46:15.551408Z"
+    "last_seen": "2026-08-24T12:33:13.824728Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-08-24T06:46:15.551413Z"
+    "last_seen": "2026-08-24T12:33:13.824732Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-08-24T06:46:15.551410Z"
+    "last_seen": "2026-08-24T12:33:13.824730Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-08-24T06:46:15.551417Z"
+    "last_seen": "2026-08-24T12:33:13.824736Z"
   },
   "cvs-health": {
     "company_name": "CVS Health",
     "score": 15,
-    "last_seen": "2026-08-24T06:46:15.551419Z"
+    "last_seen": "2026-08-24T12:33:13.824738Z"
   },
   "creative-force": {
     "company_name": "Creative Force",
     "score": 15,
-    "last_seen": "2026-08-24T06:46:15.551383Z"
+    "last_seen": "2026-08-24T12:33:13.824698Z"
   },
   "the-home-depot-canada": {
     "company_name": "The Home Depot Canada",
@@ -57,32 +57,32 @@
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-08-24T06:46:15.551378Z"
+    "last_seen": "2026-08-24T12:33:13.824692Z"
   },
   "deloitte": {
     "company_name": "Deloitte",
     "score": 15,
-    "last_seen": "2026-08-24T06:46:15.551415Z"
+    "last_seen": "2026-08-24T12:33:13.824734Z"
   },
   "baldwin-blueprint": {
     "company_name": "Baldwin Blueprint",
     "score": 15,
-    "last_seen": "2026-08-24T06:46:15.551433Z"
+    "last_seen": "2026-08-24T12:33:13.824753Z"
   },
   "cotton-on-group": {
     "company_name": "Cotton On Group",
     "score": 15,
-    "last_seen": "2026-08-24T06:46:15.551425Z"
+    "last_seen": "2026-08-24T12:33:13.824745Z"
   },
   "fedex": {
     "company_name": "FedEx",
     "score": 15,
-    "last_seen": "2026-08-24T06:46:15.551428Z"
+    "last_seen": "2026-08-24T12:33:13.824748Z"
   },
   "fronix-services": {
     "company_name": "Fronix Services",
     "score": 15,
-    "last_seen": "2026-08-24T06:46:15.551431Z"
+    "last_seen": "2026-08-24T12:33:13.824751Z"
   },
   "hovis-ltd": {
     "company_name": "Hovis Ltd",
@@ -91,18 +91,13 @@
   },
   "canadian-armed-forces-forces-armes-canadiennes": {
     "company_name": "Canadian Armed Forces | Forces armÃ©es canadiennes",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-08-21T18:34:32.937387Z"
   },
   "hilton": {
     "company_name": "Hilton",
     "score": 9,
     "last_seen": "2026-08-21T12:38:45.601508Z"
-  },
-  "welo-global": {
-    "company_name": "Welo Global",
-    "score": 1,
-    "last_seen": "2026-08-22T12:25:39.694812Z"
   },
   "precision-medicine-group": {
     "company_name": "Precision Medicine Group",
@@ -111,8 +106,8 @@
   },
   "intelance": {
     "company_name": "Intelance",
-    "score": 7,
-    "last_seen": "2026-08-24T06:46:15.551404Z"
+    "score": 8,
+    "last_seen": "2026-08-24T12:33:13.824724Z"
   },
   "chaos": {
     "company_name": "Chaos",
@@ -121,18 +116,18 @@
   },
   "shoppers-drug-mart": {
     "company_name": "Shoppers Drug Mart",
-    "score": 6,
-    "last_seen": "2026-08-24T06:46:15.551421Z"
+    "score": 7,
+    "last_seen": "2026-08-24T12:33:13.824741Z"
   },
   "otr": {
     "company_name": "OTR",
-    "score": 6,
-    "last_seen": "2026-08-24T06:46:15.551423Z"
+    "score": 7,
+    "last_seen": "2026-08-24T12:33:13.824743Z"
   },
   "authorityinc": {
     "company_name": "Authority.inc",
-    "score": 9,
-    "last_seen": "2026-08-24T06:46:15.551406Z"
+    "score": 10,
+    "last_seen": "2026-08-24T12:33:13.824726Z"
   },
   "remote": {
     "company_name": "Remote",
@@ -141,42 +136,67 @@
   },
   "samsara": {
     "company_name": "Samsara",
-    "score": 4,
-    "last_seen": "2026-08-24T06:46:15.551387Z"
+    "score": 5,
+    "last_seen": "2026-08-24T12:33:13.824703Z"
   },
   "natera": {
     "company_name": "Natera",
-    "score": 3,
-    "last_seen": "2026-08-24T06:46:15.551389Z"
+    "score": 4,
+    "last_seen": "2026-08-24T12:33:13.824712Z"
   },
   "inspira-education": {
     "company_name": "Inspira Education",
-    "score": 3,
-    "last_seen": "2026-08-24T06:46:15.551392Z"
+    "score": 4,
+    "last_seen": "2026-08-24T12:33:13.824715Z"
   },
   "roboflow": {
     "company_name": "Roboflow",
-    "score": 3,
-    "last_seen": "2026-08-24T06:46:15.551394Z"
+    "score": 4,
+    "last_seen": "2026-08-24T12:33:13.824717Z"
   },
   "manay-cpa-inc": {
     "company_name": "Manay CPA Inc.",
     "score": 3,
     "last_seen": "2026-08-24T06:46:15.551397Z"
   },
-  "pinterest": {
-    "company_name": "Pinterest",
-    "score": 1,
-    "last_seen": "2026-08-24T00:39:48.662339Z"
-  },
   "techbiz-global-gmbh": {
     "company_name": "TechBiz Global GmbH",
-    "score": 3,
-    "last_seen": "2026-08-24T06:46:15.551401Z"
+    "score": 4,
+    "last_seen": "2026-08-24T12:33:13.824722Z"
   },
   "scalejet": {
     "company_name": "ScaleJet",
     "score": 2,
     "last_seen": "2026-08-24T06:46:15.551436Z"
+  },
+  "gannett": {
+    "company_name": "Gannett",
+    "score": 2,
+    "last_seen": "2026-08-24T12:33:13.824700Z"
+  },
+  "planful": {
+    "company_name": "Planful",
+    "score": 2,
+    "last_seen": "2026-08-24T12:33:13.824705Z"
+  },
+  "nebius": {
+    "company_name": "Nebius",
+    "score": 2,
+    "last_seen": "2026-08-24T12:33:13.824707Z"
+  },
+  "mantech": {
+    "company_name": "ManTech",
+    "score": 2,
+    "last_seen": "2026-08-24T12:33:13.824710Z"
+  },
+  "covergo": {
+    "company_name": "Covergo",
+    "score": 2,
+    "last_seen": "2026-08-24T12:33:13.824719Z"
+  },
+  "carreiras-simples-dental": {
+    "company_name": "Carreiras Simples Dental",
+    "score": 2,
+    "last_seen": "2026-08-24T12:33:13.824756Z"
   }
 }
