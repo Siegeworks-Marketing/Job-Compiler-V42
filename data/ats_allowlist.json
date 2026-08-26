@@ -2,47 +2,47 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-08-26T12:40:09.175204Z"
+    "last_seen": "2026-08-26T19:47:32.792978Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-08-26T12:40:09.175198Z"
+    "last_seen": "2026-08-26T19:47:32.792971Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
     "score": 15,
-    "last_seen": "2026-08-26T12:40:09.175190Z"
+    "last_seen": "2026-08-26T19:47:32.792963Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-08-26T12:40:09.175238Z"
+    "last_seen": "2026-08-26T19:47:32.793013Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-08-26T12:40:09.175243Z"
+    "last_seen": "2026-08-26T19:47:32.793018Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-08-26T12:40:09.175241Z"
+    "last_seen": "2026-08-26T19:47:32.793015Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-08-26T12:40:09.175247Z"
+    "last_seen": "2026-08-26T19:47:32.793022Z"
   },
   "cvs-health": {
     "company_name": "CVS Health",
     "score": 15,
-    "last_seen": "2026-08-26T12:40:09.175249Z"
+    "last_seen": "2026-08-26T19:47:32.793024Z"
   },
   "creative-force": {
     "company_name": "Creative Force",
     "score": 15,
-    "last_seen": "2026-08-26T12:40:09.175207Z"
+    "last_seen": "2026-08-26T19:47:32.792980Z"
   },
   "the-home-depot-canada": {
     "company_name": "The Home Depot Canada",
@@ -52,12 +52,12 @@
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-08-26T12:40:09.175202Z"
+    "last_seen": "2026-08-26T19:47:32.792975Z"
   },
   "deloitte": {
     "company_name": "Deloitte",
     "score": 15,
-    "last_seen": "2026-08-26T12:40:09.175245Z"
+    "last_seen": "2026-08-26T19:47:32.793020Z"
   },
   "cotton-on-group": {
     "company_name": "Cotton On Group",
@@ -67,7 +67,7 @@
   "fedex": {
     "company_name": "FedEx",
     "score": 15,
-    "last_seen": "2026-08-26T12:40:09.175266Z"
+    "last_seen": "2026-08-26T19:47:32.793039Z"
   },
   "fronix-services": {
     "company_name": "Fronix Services",
@@ -77,126 +77,126 @@
   "shoppers-drug-mart": {
     "company_name": "Shoppers Drug Mart",
     "score": 15,
-    "last_seen": "2026-08-26T12:40:09.175256Z"
+    "last_seen": "2026-08-26T19:47:32.793034Z"
   },
   "otr": {
     "company_name": "OTR",
     "score": 15,
-    "last_seen": "2026-08-26T12:40:09.175259Z"
+    "last_seen": "2026-08-26T19:47:32.793036Z"
   },
   "baldwin-blueprint": {
     "company_name": "Baldwin Blueprint",
-    "score": 12,
+    "score": 11,
     "last_seen": "2026-08-25T12:40:05.820096Z"
-  },
-  "qventus": {
-    "company_name": "Qventus",
-    "score": 9,
-    "last_seen": "2026-08-25T06:38:39.740334Z"
   },
   "hilton": {
     "company_name": "Hilton",
     "score": 9,
     "last_seen": "2026-08-21T12:38:45.601508Z"
   },
+  "qventus": {
+    "company_name": "Qventus",
+    "score": 8,
+    "last_seen": "2026-08-25T06:38:39.740334Z"
+  },
+  "saasuji": {
+    "company_name": "Saasuji",
+    "score": 8,
+    "last_seen": "2026-08-26T19:47:32.793031Z"
+  },
+  "emplyfy": {
+    "company_name": "Emplyfy",
+    "score": 8,
+    "last_seen": "2026-08-26T19:47:32.793011Z"
+  },
   "fieldguide": {
     "company_name": "Fieldguide",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-08-26T06:37:27.799805Z"
   },
   "league": {
     "company_name": "League",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-08-26T06:37:27.799808Z"
   },
   "cloudinary": {
     "company_name": "Cloudinary",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-08-26T06:37:27.799810Z"
   },
-  "saasuji": {
-    "company_name": "Saasuji",
-    "score": 7,
-    "last_seen": "2026-08-26T12:40:09.175253Z"
+  "teamsnap": {
+    "company_name": "TeamSnap",
+    "score": 6,
+    "last_seen": "2026-08-26T19:47:32.792985Z"
+  },
+  "openai": {
+    "company_name": "OpenAI",
+    "score": 6,
+    "last_seen": "2026-08-26T19:47:32.792987Z"
+  },
+  "micro1": {
+    "company_name": "micro1",
+    "score": 6,
+    "last_seen": "2026-08-26T19:47:32.793041Z"
   },
   "canonical-ltd": {
     "company_name": "Canonical Ltd.",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-08-24T06:46:15.551399Z"
   },
   "oowlish-technology": {
     "company_name": "Oowlish Technology",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-08-25T06:38:39.740336Z"
   },
   "mural": {
     "company_name": "Mural",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-08-26T12:40:09.175229Z"
   },
   "branch": {
     "company_name": "Branch",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-08-26T12:40:09.175232Z"
+  },
+  "signifyd": {
+    "company_name": "Signifyd",
+    "score": 5,
+    "last_seen": "2026-08-26T19:47:32.792999Z"
+  },
+  "chargepoint": {
+    "company_name": "ChargePoint",
+    "score": 5,
+    "last_seen": "2026-08-26T19:47:32.793001Z"
+  },
+  "coursecareers": {
+    "company_name": "CourseCareers",
+    "score": 5,
+    "last_seen": "2026-08-26T19:47:32.793005Z"
+  },
+  "medely": {
+    "company_name": "Medely",
+    "score": 5,
+    "last_seen": "2026-08-26T19:47:32.792989Z"
+  },
+  "discord": {
+    "company_name": "Discord",
+    "score": 5,
+    "last_seen": "2026-08-26T19:47:32.792991Z"
   },
   "hovis-ltd": {
     "company_name": "Hovis Ltd",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-08-20T18:42:50.411698Z"
   },
   "ashby": {
     "company_name": "Ashby",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-08-26T06:37:27.799790Z"
   },
   "five9": {
     "company_name": "Five9",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-08-26T06:37:27.799792Z"
-  },
-  "banyan-software": {
-    "company_name": "Banyan Software",
-    "score": 5,
-    "last_seen": "2026-08-26T06:37:27.799795Z"
-  },
-  "revenuecat": {
-    "company_name": "RevenueCat",
-    "score": 5,
-    "last_seen": "2026-08-26T06:37:27.799799Z"
-  },
-  "obsidian-security": {
-    "company_name": "Obsidian Security",
-    "score": 5,
-    "last_seen": "2026-08-26T06:37:27.799801Z"
-  },
-  "authorityinc": {
-    "company_name": "Authority.inc",
-    "score": 4,
-    "last_seen": "2026-08-24T18:36:30.263450Z"
-  },
-  "signifyd": {
-    "company_name": "Signifyd",
-    "score": 4,
-    "last_seen": "2026-08-26T12:40:09.175212Z"
-  },
-  "chargepoint": {
-    "company_name": "ChargePoint",
-    "score": 4,
-    "last_seen": "2026-08-26T12:40:09.175214Z"
-  },
-  "coursecareers": {
-    "company_name": "CourseCareers",
-    "score": 4,
-    "last_seen": "2026-08-26T12:40:09.175219Z"
-  },
-  "clickhouse": {
-    "company_name": "Clickhouse",
-    "score": 4,
-    "last_seen": "2026-08-26T12:40:09.175231Z"
-  },
-  "future-plc": {
-    "company_name": "Future PLC",
-    "score": 4,
-    "last_seen": "2026-08-26T12:40:09.175234Z"
   }
 }
