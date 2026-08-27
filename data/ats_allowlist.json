@@ -2,47 +2,47 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-08-26T19:47:32.792978Z"
+    "last_seen": "2026-08-27T05:49:04.056845Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-08-26T19:47:32.792971Z"
+    "last_seen": "2026-08-27T05:49:04.056838Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
     "score": 15,
-    "last_seen": "2026-08-26T19:47:32.792963Z"
+    "last_seen": "2026-08-27T05:49:04.056827Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-08-26T19:47:32.793013Z"
+    "last_seen": "2026-08-27T05:49:04.056878Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-08-26T19:47:32.793018Z"
+    "last_seen": "2026-08-27T05:49:04.056882Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-08-26T19:47:32.793015Z"
+    "last_seen": "2026-08-27T05:49:04.056880Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-08-26T19:47:32.793022Z"
+    "last_seen": "2026-08-27T05:49:04.056886Z"
   },
   "cvs-health": {
     "company_name": "CVS Health",
     "score": 15,
-    "last_seen": "2026-08-26T19:47:32.793024Z"
+    "last_seen": "2026-08-27T05:49:04.056888Z"
   },
   "creative-force": {
     "company_name": "Creative Force",
     "score": 15,
-    "last_seen": "2026-08-26T19:47:32.792980Z"
+    "last_seen": "2026-08-27T05:49:04.056847Z"
   },
   "the-home-depot-canada": {
     "company_name": "The Home Depot Canada",
@@ -52,12 +52,12 @@
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-08-26T19:47:32.792975Z"
+    "last_seen": "2026-08-27T05:49:04.056842Z"
   },
   "deloitte": {
     "company_name": "Deloitte",
     "score": 15,
-    "last_seen": "2026-08-26T19:47:32.793020Z"
+    "last_seen": "2026-08-27T05:49:04.056884Z"
   },
   "cotton-on-group": {
     "company_name": "Cotton On Group",
@@ -77,7 +77,7 @@
   "shoppers-drug-mart": {
     "company_name": "Shoppers Drug Mart",
     "score": 15,
-    "last_seen": "2026-08-26T19:47:32.793034Z"
+    "last_seen": "2026-08-27T05:49:04.056896Z"
   },
   "otr": {
     "company_name": "OTR",
@@ -86,7 +86,7 @@
   },
   "baldwin-blueprint": {
     "company_name": "Baldwin Blueprint",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-08-25T12:40:05.820096Z"
   },
   "hilton": {
@@ -94,109 +94,109 @@
     "score": 9,
     "last_seen": "2026-08-21T12:38:45.601508Z"
   },
-  "qventus": {
-    "company_name": "Qventus",
-    "score": 8,
-    "last_seen": "2026-08-25T06:38:39.740334Z"
-  },
   "saasuji": {
     "company_name": "Saasuji",
-    "score": 8,
-    "last_seen": "2026-08-26T19:47:32.793031Z"
+    "score": 9,
+    "last_seen": "2026-08-27T05:49:04.056894Z"
+  },
+  "qventus": {
+    "company_name": "Qventus",
+    "score": 7,
+    "last_seen": "2026-08-25T06:38:39.740334Z"
   },
   "emplyfy": {
     "company_name": "Emplyfy",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-08-26T19:47:32.793011Z"
+  },
+  "teamsnap": {
+    "company_name": "TeamSnap",
+    "score": 7,
+    "last_seen": "2026-08-27T05:49:04.056851Z"
+  },
+  "openai": {
+    "company_name": "OpenAI",
+    "score": 7,
+    "last_seen": "2026-08-27T05:49:04.056853Z"
+  },
+  "signifyd": {
+    "company_name": "Signifyd",
+    "score": 6,
+    "last_seen": "2026-08-27T05:49:04.056865Z"
+  },
+  "chargepoint": {
+    "company_name": "ChargePoint",
+    "score": 6,
+    "last_seen": "2026-08-27T05:49:04.056867Z"
+  },
+  "coursecareers": {
+    "company_name": "CourseCareers",
+    "score": 6,
+    "last_seen": "2026-08-27T05:49:04.056871Z"
+  },
+  "medely": {
+    "company_name": "Medely",
+    "score": 6,
+    "last_seen": "2026-08-27T05:49:04.056855Z"
+  },
+  "discord": {
+    "company_name": "Discord",
+    "score": 6,
+    "last_seen": "2026-08-27T05:49:04.056857Z"
   },
   "fieldguide": {
     "company_name": "Fieldguide",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-08-26T06:37:27.799805Z"
   },
   "league": {
     "company_name": "League",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-08-26T06:37:27.799808Z"
   },
   "cloudinary": {
     "company_name": "Cloudinary",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-08-26T06:37:27.799810Z"
-  },
-  "teamsnap": {
-    "company_name": "TeamSnap",
-    "score": 6,
-    "last_seen": "2026-08-26T19:47:32.792985Z"
-  },
-  "openai": {
-    "company_name": "OpenAI",
-    "score": 6,
-    "last_seen": "2026-08-26T19:47:32.792987Z"
   },
   "micro1": {
     "company_name": "micro1",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-08-26T19:47:32.793041Z"
   },
   "canonical-ltd": {
     "company_name": "Canonical Ltd.",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-08-24T06:46:15.551399Z"
   },
   "oowlish-technology": {
     "company_name": "Oowlish Technology",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-08-25T06:38:39.740336Z"
   },
   "mural": {
     "company_name": "Mural",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-08-26T12:40:09.175229Z"
   },
   "branch": {
     "company_name": "Branch",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-08-26T12:40:09.175232Z"
-  },
-  "signifyd": {
-    "company_name": "Signifyd",
-    "score": 5,
-    "last_seen": "2026-08-26T19:47:32.792999Z"
-  },
-  "chargepoint": {
-    "company_name": "ChargePoint",
-    "score": 5,
-    "last_seen": "2026-08-26T19:47:32.793001Z"
-  },
-  "coursecareers": {
-    "company_name": "CourseCareers",
-    "score": 5,
-    "last_seen": "2026-08-26T19:47:32.793005Z"
-  },
-  "medely": {
-    "company_name": "Medely",
-    "score": 5,
-    "last_seen": "2026-08-26T19:47:32.792989Z"
-  },
-  "discord": {
-    "company_name": "Discord",
-    "score": 5,
-    "last_seen": "2026-08-26T19:47:32.792991Z"
   },
   "hovis-ltd": {
     "company_name": "Hovis Ltd",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-08-20T18:42:50.411698Z"
   },
   "ashby": {
     "company_name": "Ashby",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-08-26T06:37:27.799790Z"
   },
   "five9": {
     "company_name": "Five9",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-08-26T06:37:27.799792Z"
   }
 }
