@@ -2,62 +2,57 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-08-30T20:29:18.653069Z"
+    "last_seen": "2026-08-31T02:13:54.353535Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-08-30T20:29:18.653053Z"
+    "last_seen": "2026-08-31T02:13:54.353520Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
     "score": 15,
-    "last_seen": "2026-08-30T20:29:18.653063Z"
+    "last_seen": "2026-08-31T02:13:54.353528Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-08-30T20:29:18.653111Z"
+    "last_seen": "2026-08-31T02:13:54.353578Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-08-30T20:29:18.653115Z"
+    "last_seen": "2026-08-31T02:13:54.353583Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-08-30T20:29:18.653113Z"
+    "last_seen": "2026-08-31T02:13:54.353581Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-08-30T20:29:18.653119Z"
+    "last_seen": "2026-08-31T02:13:54.353585Z"
   },
   "cvs-health": {
     "company_name": "CVS Health",
     "score": 15,
-    "last_seen": "2026-08-30T20:29:18.653121Z"
+    "last_seen": "2026-08-31T02:13:54.353587Z"
   },
   "creative-force": {
     "company_name": "Creative Force",
     "score": 15,
-    "last_seen": "2026-08-30T20:29:18.653071Z"
+    "last_seen": "2026-08-31T02:13:54.353537Z"
   },
   "the-home-depot-canada": {
     "company_name": "The Home Depot Canada",
     "score": 15,
-    "last_seen": "2026-08-30T20:29:18.653140Z"
+    "last_seen": "2026-08-31T02:13:54.353605Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-08-30T20:29:18.653066Z"
-  },
-  "deloitte": {
-    "company_name": "Deloitte",
-    "score": 15,
-    "last_seen": "2026-08-30T20:29:18.653117Z"
+    "last_seen": "2026-08-31T02:13:54.353532Z"
   },
   "shoppers-drug-mart": {
     "company_name": "Shoppers Drug Mart",
@@ -72,131 +67,136 @@
   "saasuji": {
     "company_name": "Saasuji",
     "score": 15,
-    "last_seen": "2026-08-30T20:29:18.653142Z"
+    "last_seen": "2026-08-31T02:13:54.353607Z"
+  },
+  "deloitte": {
+    "company_name": "Deloitte",
+    "score": 14,
+    "last_seen": "2026-08-30T20:29:18.653117Z"
   },
   "truelogic": {
     "company_name": "Truelogic",
-    "score": 14,
+    "score": 13,
     "last_seen": "2026-08-30T15:53:50.472949Z"
   },
-  "cotton-on-group": {
-    "company_name": "Cotton On Group",
-    "score": 12,
-    "last_seen": "2026-08-26T12:40:09.175261Z"
+  "interaction-design-foundation": {
+    "company_name": "Interaction Design Foundation",
+    "score": 13,
+    "last_seen": "2026-08-31T02:13:54.353600Z"
   },
   "fedex": {
     "company_name": "FedEx",
     "score": 12,
     "last_seen": "2026-08-26T19:47:32.793039Z"
   },
-  "interaction-design-foundation": {
-    "company_name": "Interaction Design Foundation",
-    "score": 12,
-    "last_seen": "2026-08-30T20:29:18.653135Z"
+  "cotton-on-group": {
+    "company_name": "Cotton On Group",
+    "score": 11,
+    "last_seen": "2026-08-26T12:40:09.175261Z"
   },
-  "chainguard": {
-    "company_name": "Chainguard",
-    "score": 8,
-    "last_seen": "2026-08-29T20:21:04.624492Z"
+  "bjak": {
+    "company_name": "Bjak",
+    "score": 11,
+    "last_seen": "2026-08-31T02:13:54.353610Z"
   },
   "petes-frootique": {
     "company_name": "Pete's Frootique",
-    "score": 7,
-    "last_seen": "2026-08-30T20:29:18.653130Z"
+    "score": 8,
+    "last_seen": "2026-08-31T02:13:54.353596Z"
   },
   "w-hotels": {
     "company_name": "W Hotels",
-    "score": 7,
-    "last_seen": "2026-08-30T20:29:18.653132Z"
+    "score": 8,
+    "last_seen": "2026-08-31T02:13:54.353598Z"
   },
   "tesco": {
     "company_name": "Tesco",
+    "score": 8,
+    "last_seen": "2026-08-31T02:13:54.353602Z"
+  },
+  "chainguard": {
+    "company_name": "Chainguard",
     "score": 7,
-    "last_seen": "2026-08-30T20:29:18.653137Z"
+    "last_seen": "2026-08-29T20:21:04.624492Z"
   },
   "bright-vision-technologies": {
     "company_name": "Bright Vision Technologies",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-08-30T20:29:18.653147Z"
-  },
-  "d2l": {
-    "company_name": "D2L",
-    "score": 5,
-    "last_seen": "2026-08-29T20:21:04.624495Z"
   },
   "localizaampco": {
     "company_name": "Localiza&amp;Co",
-    "score": 5,
-    "last_seen": "2026-08-30T20:29:18.653124Z"
+    "score": 6,
+    "last_seen": "2026-08-31T02:13:54.353589Z"
   },
   "hola-moda": {
     "company_name": "Hola Moda",
-    "score": 5,
-    "last_seen": "2026-08-30T20:29:18.653126Z"
+    "score": 6,
+    "last_seen": "2026-08-31T02:13:54.353591Z"
   },
   "dart": {
     "company_name": "Dart",
+    "score": 6,
+    "last_seen": "2026-08-31T02:13:54.353593Z"
+  },
+  "micro1": {
+    "company_name": "micro1",
     "score": 5,
-    "last_seen": "2026-08-30T20:29:18.653128Z"
+    "last_seen": "2026-08-31T02:13:54.353616Z"
+  },
+  "sonatype": {
+    "company_name": "Sonatype",
+    "score": 5,
+    "last_seen": "2026-08-31T02:13:54.353554Z"
+  },
+  "d2l": {
+    "company_name": "D2L",
+    "score": 4,
+    "last_seen": "2026-08-29T20:21:04.624495Z"
+  },
+  "language-services-associates": {
+    "company_name": "Language Services Associates",
+    "score": 4,
+    "last_seen": "2026-08-31T02:13:54.353548Z"
+  },
+  "duolingo": {
+    "company_name": "Duolingo",
+    "score": 4,
+    "last_seen": "2026-08-31T02:13:54.353556Z"
+  },
+  "nash": {
+    "company_name": "Nash",
+    "score": 4,
+    "last_seen": "2026-08-31T02:13:54.353566Z"
   },
   "fronix-services": {
     "company_name": "Fronix Services",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-08-26T12:40:09.175268Z"
   },
   "remote": {
     "company_name": "Remote",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-08-30T15:53:50.472953Z"
   },
   "tremendous": {
     "company_name": "Tremendous",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-08-30T15:53:50.472954Z"
   },
-  "micro1": {
-    "company_name": "micro1",
-    "score": 4,
-    "last_seen": "2026-08-30T20:29:18.653145Z"
+  "quantum-metric": {
+    "company_name": "Quantum Metric",
+    "score": 3,
+    "last_seen": "2026-08-31T02:13:54.353570Z"
   },
-  "sonatype": {
-    "company_name": "Sonatype",
-    "score": 4,
-    "last_seen": "2026-08-30T20:29:18.653080Z"
+  "netbox-labs": {
+    "company_name": "NetBox Labs",
+    "score": 3,
+    "last_seen": "2026-08-31T02:13:54.353572Z"
   },
   "ntt-data": {
     "company_name": "NTT DATA",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-08-30T15:53:50.472951Z"
-  },
-  "supabase": {
-    "company_name": "Supabase",
-    "score": 3,
-    "last_seen": "2026-08-30T15:53:50.472944Z"
-  },
-  "gt": {
-    "company_name": "GT",
-    "score": 3,
-    "last_seen": "2026-08-30T15:53:50.472945Z"
-  },
-  "zartis": {
-    "company_name": "Zartis",
-    "score": 3,
-    "last_seen": "2026-08-30T15:53:50.472946Z"
-  },
-  "language-services-associates": {
-    "company_name": "Language Services Associates",
-    "score": 3,
-    "last_seen": "2026-08-30T20:29:18.653073Z"
-  },
-  "duolingo": {
-    "company_name": "Duolingo",
-    "score": 3,
-    "last_seen": "2026-08-30T20:29:18.653082Z"
-  },
-  "nash": {
-    "company_name": "Nash",
-    "score": 3,
-    "last_seen": "2026-08-30T20:29:18.653092Z"
   }
 }
