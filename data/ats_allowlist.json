@@ -2,57 +2,57 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-09-01T10:52:15.430198Z"
+    "last_seen": "2026-09-01T15:59:04.892559Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-09-01T10:52:15.430183Z"
+    "last_seen": "2026-09-01T15:59:04.892542Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
     "score": 15,
-    "last_seen": "2026-09-01T10:52:15.430191Z"
+    "last_seen": "2026-09-01T15:59:04.892552Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-09-01T10:52:15.430229Z"
+    "last_seen": "2026-09-01T15:59:04.892584Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-09-01T10:52:15.430233Z"
+    "last_seen": "2026-09-01T15:59:04.892588Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-09-01T10:52:15.430231Z"
+    "last_seen": "2026-09-01T15:59:04.892586Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-09-01T10:52:15.430213Z"
+    "last_seen": "2026-09-01T15:59:04.892582Z"
   },
   "cvs-health": {
     "company_name": "CVS Health",
     "score": 15,
-    "last_seen": "2026-09-01T10:52:15.430235Z"
+    "last_seen": "2026-09-01T15:59:04.892590Z"
   },
   "creative-force": {
     "company_name": "Creative Force",
     "score": 15,
-    "last_seen": "2026-09-01T10:52:15.430200Z"
+    "last_seen": "2026-09-01T15:59:04.892562Z"
   },
   "the-home-depot-canada": {
     "company_name": "The Home Depot Canada",
     "score": 15,
-    "last_seen": "2026-09-01T10:52:15.430254Z"
+    "last_seen": "2026-09-01T15:59:04.892608Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-09-01T10:52:15.430195Z"
+    "last_seen": "2026-09-01T15:59:04.892556Z"
   },
   "saasuji": {
     "company_name": "Saasuji",
@@ -62,11 +62,31 @@
   "interaction-design-foundation": {
     "company_name": "Interaction Design Foundation",
     "score": 15,
-    "last_seen": "2026-09-01T10:52:15.430249Z"
+    "last_seen": "2026-09-01T15:59:04.892605Z"
+  },
+  "petes-frootique": {
+    "company_name": "Pete's Frootique",
+    "score": 13,
+    "last_seen": "2026-09-01T15:59:04.892603Z"
+  },
+  "w-hotels": {
+    "company_name": "W Hotels",
+    "score": 13,
+    "last_seen": "2026-09-01T15:59:04.892592Z"
+  },
+  "mactores": {
+    "company_name": "Mactores",
+    "score": 13,
+    "last_seen": "2026-09-01T15:59:04.892573Z"
+  },
+  "codepath": {
+    "company_name": "CodePath",
+    "score": 13,
+    "last_seen": "2026-09-01T15:59:04.892576Z"
   },
   "shoppers-drug-mart": {
     "company_name": "Shoppers Drug Mart",
-    "score": 13,
+    "score": 12,
     "last_seen": "2026-08-29T20:21:04.624533Z"
   },
   "fedex": {
@@ -74,129 +94,109 @@
     "score": 12,
     "last_seen": "2026-08-26T19:47:32.793039Z"
   },
-  "petes-frootique": {
-    "company_name": "Pete's Frootique",
-    "score": 12,
-    "last_seen": "2026-09-01T10:52:15.430244Z"
-  },
-  "w-hotels": {
-    "company_name": "W Hotels",
-    "score": 12,
-    "last_seen": "2026-09-01T10:52:15.430246Z"
-  },
   "tesco": {
     "company_name": "Tesco",
     "score": 12,
     "last_seen": "2026-09-01T10:52:15.430251Z"
   },
-  "mactores": {
-    "company_name": "Mactores",
-    "score": 12,
-    "last_seen": "2026-09-01T10:52:15.430203Z"
+  "localizaampco": {
+    "company_name": "Localiza&amp;Co",
+    "score": 11,
+    "last_seen": "2026-09-01T15:59:04.892599Z"
   },
-  "codepath": {
-    "company_name": "CodePath",
-    "score": 12,
-    "last_seen": "2026-09-01T10:52:15.430205Z"
+  "hola-moda": {
+    "company_name": "Hola Moda",
+    "score": 11,
+    "last_seen": "2026-09-01T15:59:04.892601Z"
   },
   "otr": {
     "company_name": "OTR",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-08-26T19:47:32.793036Z"
   },
   "deloitte": {
     "company_name": "Deloitte",
-    "score": 10,
+    "score": 9,
     "last_seen": "2026-08-30T20:29:18.653117Z"
-  },
-  "localizaampco": {
-    "company_name": "Localiza&amp;Co",
-    "score": 10,
-    "last_seen": "2026-09-01T10:52:15.430239Z"
-  },
-  "hola-moda": {
-    "company_name": "Hola Moda",
-    "score": 10,
-    "last_seen": "2026-09-01T10:52:15.430241Z"
   },
   "truelogic": {
     "company_name": "Truelogic",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-08-30T15:53:50.472949Z"
   },
   "bjak": {
     "company_name": "Bjak",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-08-31T02:13:54.353610Z"
   },
   "gismart": {
     "company_name": "Gismart",
-    "score": 8,
-    "last_seen": "2026-09-01T02:35:22.133755Z"
-  },
-  "cotton-on-group": {
-    "company_name": "Cotton On Group",
     "score": 7,
-    "last_seen": "2026-08-26T12:40:09.175261Z"
+    "last_seen": "2026-09-01T02:35:22.133755Z"
   },
   "dart": {
     "company_name": "Dart",
     "score": 7,
     "last_seen": "2026-08-31T12:15:06.283259Z"
   },
+  "cotton-on-group": {
+    "company_name": "Cotton On Group",
+    "score": 6,
+    "last_seen": "2026-08-26T12:40:09.175261Z"
+  },
   "duck-duck-go": {
     "company_name": "Duck Duck Go",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-09-01T10:52:15.430227Z"
   },
   "parity": {
     "company_name": "Parity",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-09-01T02:35:22.133759Z"
   },
   "eleve-talent": {
     "company_name": "Eleve Talent",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-09-01T10:52:15.430224Z"
+  },
+  "karbon": {
+    "company_name": "Karbon",
+    "score": 5,
+    "last_seen": "2026-09-01T15:59:04.892578Z"
   },
   "zscaler": {
     "company_name": "Zscaler",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-09-01T10:52:15.430218Z"
   },
   "rillet": {
     "company_name": "Rillet",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-09-01T10:52:15.430220Z"
   },
   "think-academy-us": {
     "company_name": "Think Academy US",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-08-31T22:21:23.807106Z"
   },
   "roboflow": {
     "company_name": "Roboflow",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-09-01T02:35:22.133748Z"
   },
   "reddit": {
     "company_name": "Reddit",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-09-01T10:52:15.430216Z"
-  },
-  "karbon": {
-    "company_name": "Karbon",
-    "score": 4,
-    "last_seen": "2026-09-01T10:52:15.430208Z"
   },
   "cartesia": {
     "company_name": "Cartesia",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-09-01T10:52:15.430222Z"
   },
   "chainguard": {
     "company_name": "Chainguard",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-08-29T20:21:04.624492Z"
   }
 }
