@@ -2,106 +2,106 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-09-06T19:53:22.128975Z"
+    "last_seen": "2026-09-07T01:49:53.942678Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-09-06T19:53:22.128979Z"
+    "last_seen": "2026-09-07T01:49:53.942682Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
     "score": 15,
-    "last_seen": "2026-09-06T19:53:22.128982Z"
+    "last_seen": "2026-09-07T01:49:53.942685Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-09-06T19:53:22.129010Z"
+    "last_seen": "2026-09-07T01:49:53.942714Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-09-06T19:53:22.129014Z"
+    "last_seen": "2026-09-07T01:49:53.942718Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-09-06T19:53:22.129012Z"
+    "last_seen": "2026-09-07T01:49:53.942716Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-09-06T19:53:22.129020Z"
+    "last_seen": "2026-09-07T01:49:53.942724Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-09-06T19:53:22.128984Z"
+    "last_seen": "2026-09-07T01:49:53.942687Z"
   },
   "petes-frootique": {
     "company_name": "Pete's Frootique",
     "score": 15,
-    "last_seen": "2026-09-06T19:53:22.129034Z"
+    "last_seen": "2026-09-07T01:49:53.942739Z"
   },
   "w-hotels": {
     "company_name": "W Hotels",
     "score": 15,
-    "last_seen": "2026-09-06T19:53:22.129027Z"
+    "last_seen": "2026-09-07T01:49:53.942731Z"
   },
   "localizaampco": {
     "company_name": "Localiza&amp;Co",
     "score": 15,
-    "last_seen": "2026-09-06T19:53:22.129030Z"
+    "last_seen": "2026-09-07T01:49:53.942734Z"
   },
   "hola-moda": {
     "company_name": "Hola Moda",
     "score": 15,
-    "last_seen": "2026-09-06T19:53:22.129032Z"
+    "last_seen": "2026-09-07T01:49:53.942736Z"
   },
   "cvs-health": {
     "company_name": "CVS Health",
     "score": 15,
-    "last_seen": "2026-09-06T19:53:22.129022Z"
+    "last_seen": "2026-09-07T01:49:53.942726Z"
   },
   "creative-force": {
     "company_name": "Creative Force",
+    "score": 14,
+    "last_seen": "2026-09-07T01:49:53.942669Z"
+  },
+  "clickup": {
+    "company_name": "ClickUp",
     "score": 13,
-    "last_seen": "2026-09-06T19:53:22.128966Z"
+    "last_seen": "2026-09-07T01:49:53.942707Z"
   },
   "fedex": {
     "company_name": "FedEx",
     "score": 12,
     "last_seen": "2026-08-26T19:47:32.793039Z"
   },
-  "clickup": {
-    "company_name": "ClickUp",
-    "score": 12,
-    "last_seen": "2026-09-06T19:53:22.129003Z"
-  },
   "flex": {
     "company_name": "Flex",
-    "score": 11,
-    "last_seen": "2026-09-06T19:53:22.128994Z"
+    "score": 12,
+    "last_seen": "2026-09-07T01:49:53.942698Z"
   },
   "tenable": {
     "company_name": "Tenable",
-    "score": 11,
-    "last_seen": "2026-09-06T19:53:22.128997Z"
+    "score": 12,
+    "last_seen": "2026-09-07T01:49:53.942700Z"
   },
   "pnc": {
     "company_name": "PNC",
-    "score": 10,
-    "last_seen": "2026-09-06T19:53:22.129018Z"
+    "score": 11,
+    "last_seen": "2026-09-07T01:49:53.942722Z"
   },
   "instructure": {
     "company_name": "Instructure",
-    "score": 10,
-    "last_seen": "2026-09-06T19:53:22.129005Z"
+    "score": 11,
+    "last_seen": "2026-09-07T01:49:53.942709Z"
   },
   "canonical": {
     "company_name": "Canonical",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-09-06T10:06:56.487185Z"
   },
   "dart": {
@@ -114,89 +114,89 @@
     "score": 6,
     "last_seen": "2026-09-03T15:38:22.998585Z"
   },
-  "samsara": {
-    "company_name": "Samsara",
-    "score": 5,
-    "last_seen": "2026-09-04T15:41:50.246821Z"
-  },
   "tailscale": {
     "company_name": "Tailscale",
-    "score": 5,
-    "last_seen": "2026-09-06T19:53:22.128999Z"
+    "score": 6,
+    "last_seen": "2026-09-07T01:49:53.942702Z"
   },
   "upside": {
     "company_name": "Upside",
-    "score": 5,
-    "last_seen": "2026-09-06T19:53:22.129001Z"
+    "score": 6,
+    "last_seen": "2026-09-07T01:49:53.942705Z"
+  },
+  "samsara": {
+    "company_name": "Samsara",
+    "score": 4,
+    "last_seen": "2026-09-04T15:41:50.246821Z"
+  },
+  "hims-038-hers": {
+    "company_name": "hims &#038; hers",
+    "score": 4,
+    "last_seen": "2026-09-07T01:49:53.942690Z"
   },
   "interaction-design-foundation": {
     "company_name": "Interaction Design Foundation",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-09-03T20:28:06.088419Z"
   },
   "ramp": {
     "company_name": "Ramp",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-09-05T01:57:52.847387Z"
+  },
+  "lambda": {
+    "company_name": "Lambda",
+    "score": 3,
+    "last_seen": "2026-09-07T01:49:53.942693Z"
+  },
+  "happy-money": {
+    "company_name": "Happy Money",
+    "score": 3,
+    "last_seen": "2026-09-07T01:49:53.942695Z"
+  },
+  "livestorm": {
+    "company_name": "Livestorm",
+    "score": 3,
+    "last_seen": "2026-09-07T01:49:53.942712Z"
+  },
+  "td-bank": {
+    "company_name": "TD Bank",
+    "score": 3,
+    "last_seen": "2026-09-07T01:49:53.942720Z"
+  },
+  "four-seasons": {
+    "company_name": "Four Seasons",
+    "score": 3,
+    "last_seen": "2026-09-07T01:49:53.942729Z"
   },
   "vonage": {
     "company_name": "Vonage",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-09-04T15:41:50.246819Z"
   },
   "hackerone": {
     "company_name": "HackerOne",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-09-05T01:57:52.847389Z"
   },
   "roboflow": {
     "company_name": "Roboflow",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-09-06T01:50:12.878269Z"
   },
   "gitlab": {
     "company_name": "GitLab",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-09-05T19:48:54.823663Z"
   },
-  "hims-038-hers": {
-    "company_name": "hims &#038; hers",
-    "score": 3,
-    "last_seen": "2026-09-06T19:53:22.128987Z"
+  "bjak": {
+    "company_name": "Bjak",
+    "score": 2,
+    "last_seen": "2026-09-07T01:49:53.942741Z"
   },
   "fastly": {
     "company_name": "Fastly",
-    "score": 2,
+    "score": 1,
     "last_seen": "2026-09-05T19:48:54.823665Z"
-  },
-  "toast": {
-    "company_name": "Toast",
-    "score": 2,
-    "last_seen": "2026-09-06T01:50:12.878241Z"
-  },
-  "lambda": {
-    "company_name": "Lambda",
-    "score": 2,
-    "last_seen": "2026-09-06T19:53:22.128989Z"
-  },
-  "happy-money": {
-    "company_name": "Happy Money",
-    "score": 2,
-    "last_seen": "2026-09-06T19:53:22.128991Z"
-  },
-  "livestorm": {
-    "company_name": "Livestorm",
-    "score": 2,
-    "last_seen": "2026-09-06T19:53:22.129008Z"
-  },
-  "td-bank": {
-    "company_name": "TD Bank",
-    "score": 2,
-    "last_seen": "2026-09-06T19:53:22.129016Z"
-  },
-  "four-seasons": {
-    "company_name": "Four Seasons",
-    "score": 2,
-    "last_seen": "2026-09-06T19:53:22.129024Z"
   }
 }
