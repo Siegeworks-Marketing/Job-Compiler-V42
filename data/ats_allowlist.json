@@ -2,151 +2,156 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-09-10T02:06:50.934029Z"
+    "last_seen": "2026-09-10T10:28:36.651131Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-09-10T02:06:50.934033Z"
+    "last_seen": "2026-09-10T10:28:36.651134Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
     "score": 15,
-    "last_seen": "2026-09-10T02:06:50.934036Z"
+    "last_seen": "2026-09-10T10:28:36.651136Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-09-10T02:06:50.934068Z"
+    "last_seen": "2026-09-10T10:28:36.651157Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-09-10T02:06:50.934072Z"
+    "last_seen": "2026-09-10T10:28:36.651160Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-09-10T02:06:50.934070Z"
+    "last_seen": "2026-09-10T10:28:36.651158Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-09-10T02:06:50.934076Z"
+    "last_seen": "2026-09-10T10:28:36.651163Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-09-10T02:06:50.934038Z"
+    "last_seen": "2026-09-10T10:28:36.651138Z"
   },
   "cvs-health": {
     "company_name": "CVS Health",
     "score": 15,
-    "last_seen": "2026-09-10T02:06:50.934078Z"
+    "last_seen": "2026-09-10T10:28:36.651165Z"
   },
   "creative-force": {
     "company_name": "Creative Force",
     "score": 15,
-    "last_seen": "2026-09-10T02:06:50.934021Z"
+    "last_seen": "2026-09-10T10:28:36.651122Z"
   },
   "pnc": {
     "company_name": "PNC",
     "score": 15,
-    "last_seen": "2026-09-10T02:06:50.934074Z"
+    "last_seen": "2026-09-10T10:28:36.651162Z"
   },
   "w-hotels": {
     "company_name": "W Hotels",
-    "score": 14,
+    "score": 13,
     "last_seen": "2026-09-09T20:25:27.437108Z"
   },
   "localizaampco": {
     "company_name": "Localiza&amp;Co",
-    "score": 14,
+    "score": 13,
     "last_seen": "2026-09-09T20:25:27.437110Z"
   },
   "hola-moda": {
     "company_name": "Hola Moda",
-    "score": 14,
+    "score": 13,
     "last_seen": "2026-09-09T20:25:27.437111Z"
   },
   "petes-frootique": {
     "company_name": "Pete's Frootique",
-    "score": 13,
+    "score": 12,
     "last_seen": "2026-09-09T15:42:43.445208Z"
   },
   "four-seasons": {
     "company_name": "Four Seasons",
-    "score": 13,
+    "score": 12,
     "last_seen": "2026-09-09T20:25:27.437106Z"
-  },
-  "fedex": {
-    "company_name": "FedEx",
-    "score": 11,
-    "last_seen": "2026-08-26T19:47:32.793039Z"
   },
   "remote": {
     "company_name": "Remote",
-    "score": 11,
-    "last_seen": "2026-09-09T20:25:27.437091Z"
+    "score": 12,
+    "last_seen": "2026-09-10T10:28:36.651150Z"
+  },
+  "canonical": {
+    "company_name": "Canonical",
+    "score": 12,
+    "last_seen": "2026-09-10T10:28:36.651143Z"
+  },
+  "fedex": {
+    "company_name": "FedEx",
+    "score": 10,
+    "last_seen": "2026-08-26T19:47:32.793039Z"
   },
   "tremendous": {
     "company_name": "Tremendous",
     "score": 10,
     "last_seen": "2026-09-09T20:25:27.437094Z"
   },
-  "cordance": {
-    "company_name": "Cordance",
-    "score": 9,
-    "last_seen": "2026-09-10T02:06:50.934043Z"
-  },
   "ai-supermarket": {
     "company_name": "AI Supermarket",
+    "score": 9,
+    "last_seen": "2026-09-10T10:28:36.651171Z"
+  },
+  "cordance": {
+    "company_name": "Cordance",
     "score": 8,
-    "last_seen": "2026-09-10T02:06:50.934089Z"
+    "last_seen": "2026-09-10T02:06:50.934043Z"
   },
   "td-bank": {
     "company_name": "TD Bank",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-09-09T02:10:08.446904Z"
   },
   "dart": {
     "company_name": "Dart",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-08-31T12:15:06.283259Z"
   },
   "netbox-labs": {
     "company_name": "NetBox Labs",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-09-10T02:06:50.934045Z"
   },
   "yipitdata": {
     "company_name": "YipitData",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-09-08T15:53:41.028310Z"
   },
   "soda-data-nv": {
     "company_name": "Soda Data Nv",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-09-09T02:10:08.446895Z"
   },
   "complex-co": {
     "company_name": "Complex Co.",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-09-03T15:38:22.998585Z"
   },
   "datadog": {
     "company_name": "Datadog",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-09-10T02:06:50.934041Z"
   },
   "apaleo": {
     "company_name": "Apaleo",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-09-10T02:06:50.934053Z"
   },
   "instrument": {
     "company_name": "Instrument",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-09-10T02:06:50.934063Z"
   },
   "dataiku": {
@@ -154,49 +159,44 @@
     "score": 4,
     "last_seen": "2026-09-08T15:53:41.028329Z"
   },
-  "launch-potato": {
-    "company_name": "Launch Potato",
-    "score": 4,
-    "last_seen": "2026-09-09T20:25:27.437093Z"
-  },
-  "discord": {
-    "company_name": "Discord",
-    "score": 4,
-    "last_seen": "2026-09-09T20:25:27.437087Z"
-  },
-  "grafana-labs": {
-    "company_name": "Grafana Labs",
-    "score": 4,
-    "last_seen": "2026-09-10T02:06:50.934055Z"
-  },
-  "qualtrics": {
-    "company_name": "Qualtrics",
-    "score": 4,
-    "last_seen": "2026-09-10T02:06:50.934059Z"
-  },
   "bjak": {
     "company_name": "Bjak",
     "score": 4,
     "last_seen": "2026-09-10T02:06:50.934083Z"
   },
-  "fleetio": {
-    "company_name": "Fleetio",
-    "score": 3,
-    "last_seen": "2026-09-08T15:53:41.028332Z"
+  "zscaler": {
+    "company_name": "Zscaler",
+    "score": 4,
+    "last_seen": "2026-09-10T10:28:36.651146Z"
   },
-  "seatgeek": {
-    "company_name": "SeatGeek",
-    "score": 3,
-    "last_seen": "2026-09-08T15:53:41.028334Z"
+  "axiom": {
+    "company_name": "Axiom",
+    "score": 4,
+    "last_seen": "2026-09-10T10:28:36.651151Z"
   },
-  "tangible": {
-    "company_name": "Tangible",
+  "launch-potato": {
+    "company_name": "Launch Potato",
     "score": 3,
-    "last_seen": "2026-09-09T20:25:27.437097Z"
+    "last_seen": "2026-09-09T20:25:27.437093Z"
   },
-  "nextiva": {
-    "company_name": "Nextiva",
+  "discord": {
+    "company_name": "Discord",
     "score": 3,
-    "last_seen": "2026-09-09T20:25:27.437089Z"
+    "last_seen": "2026-09-09T20:25:27.437087Z"
+  },
+  "grafana-labs": {
+    "company_name": "Grafana Labs",
+    "score": 3,
+    "last_seen": "2026-09-10T02:06:50.934055Z"
+  },
+  "qualtrics": {
+    "company_name": "Qualtrics",
+    "score": 3,
+    "last_seen": "2026-09-10T02:06:50.934059Z"
+  },
+  "camunda": {
+    "company_name": "Camunda",
+    "score": 3,
+    "last_seen": "2026-09-10T10:28:36.651155Z"
   }
 }
