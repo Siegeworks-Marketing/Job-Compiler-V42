@@ -2,12 +2,12 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-09-15T16:16:14.975361Z"
+    "last_seen": "2026-09-15T20:49:06.376360Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-09-15T16:16:14.975373Z"
+    "last_seen": "2026-09-15T20:49:06.376390Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
@@ -17,57 +17,57 @@
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-09-15T16:16:14.975416Z"
+    "last_seen": "2026-09-15T20:49:06.376432Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-09-15T16:16:14.975420Z"
+    "last_seen": "2026-09-15T20:49:06.376436Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-09-15T16:16:14.975418Z"
+    "last_seen": "2026-09-15T20:49:06.376434Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-09-15T16:16:14.975407Z"
+    "last_seen": "2026-09-15T20:49:06.376438Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-09-15T16:16:14.975376Z"
+    "last_seen": "2026-09-15T20:49:06.376394Z"
   },
   "cvs-health": {
     "company_name": "CVS Health",
     "score": 15,
-    "last_seen": "2026-09-15T16:16:14.975424Z"
-  },
-  "pnc": {
-    "company_name": "PNC",
-    "score": 15,
-    "last_seen": "2026-09-15T16:16:14.975422Z"
+    "last_seen": "2026-09-15T20:49:06.376441Z"
   },
   "interaction-design-foundation": {
     "company_name": "Interaction Design Foundation",
     "score": 15,
-    "last_seen": "2026-09-15T16:16:14.975429Z"
+    "last_seen": "2026-09-15T20:49:06.376445Z"
   },
   "stone": {
     "company_name": "Stone",
     "score": 15,
-    "last_seen": "2026-09-15T16:16:14.975432Z"
+    "last_seen": "2026-09-15T20:49:06.376448Z"
   },
   "grow10x": {
     "company_name": "GROW10X",
     "score": 15,
-    "last_seen": "2026-09-15T16:16:14.975435Z"
+    "last_seen": "2026-09-15T20:49:06.376450Z"
   },
   "bjak": {
     "company_name": "Bjak",
     "score": 15,
-    "last_seen": "2026-09-15T16:16:14.975427Z"
+    "last_seen": "2026-09-15T20:49:06.376443Z"
+  },
+  "pnc": {
+    "company_name": "PNC",
+    "score": 14,
+    "last_seen": "2026-09-15T16:16:14.975422Z"
   },
   "precision-medicine-group": {
     "company_name": "Precision Medicine Group",
@@ -76,8 +76,8 @@
   },
   "imerit-technology": {
     "company_name": "iMerit Technology",
-    "score": 11,
-    "last_seen": "2026-09-15T16:16:14.975369Z"
+    "score": 12,
+    "last_seen": "2026-09-15T20:49:06.376386Z"
   },
   "tremendous": {
     "company_name": "Tremendous",
@@ -86,117 +86,117 @@
   },
   "everai": {
     "company_name": "EverAI",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-09-15T02:32:12.343762Z"
+  },
+  "apple": {
+    "company_name": "Apple",
+    "score": 5,
+    "last_seen": "2026-09-15T20:49:06.376430Z"
+  },
+  "udacity": {
+    "company_name": "Udacity",
+    "score": 5,
+    "last_seen": "2026-09-15T20:49:06.376417Z"
+  },
+  "fleetio": {
+    "company_name": "Fleetio",
+    "score": 5,
+    "last_seen": "2026-09-15T20:49:06.376421Z"
+  },
+  "socket": {
+    "company_name": "Socket",
+    "score": 5,
+    "last_seen": "2026-09-15T20:49:06.376401Z"
   },
   "cloudbeds": {
     "company_name": "Cloudbeds",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-09-15T02:32:12.343758Z"
   },
   "upguard": {
     "company_name": "UpGuard",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-09-15T02:32:12.343760Z"
+  },
+  "toptal": {
+    "company_name": "Toptal",
+    "score": 4,
+    "last_seen": "2026-09-15T20:49:06.376412Z"
+  },
+  "liveperson": {
+    "company_name": "LivePerson",
+    "score": 4,
+    "last_seen": "2026-09-15T20:49:06.376414Z"
   },
   "remote": {
     "company_name": "Remote",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-09-12T20:01:01.494859Z"
   },
   "qualtrics": {
     "company_name": "Qualtrics",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-09-14T17:27:39.381062Z"
   },
   "help-scout": {
     "company_name": "Help Scout",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-09-14T17:27:39.381063Z"
   },
   "affirm": {
     "company_name": "Affirm",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-09-15T02:32:12.343749Z"
-  },
-  "apple": {
-    "company_name": "Apple",
-    "score": 4,
-    "last_seen": "2026-09-15T16:16:14.975414Z"
-  },
-  "udacity": {
-    "company_name": "Udacity",
-    "score": 4,
-    "last_seen": "2026-09-15T16:16:14.975386Z"
-  },
-  "fleetio": {
-    "company_name": "Fleetio",
-    "score": 4,
-    "last_seen": "2026-09-15T16:16:14.975391Z"
-  },
-  "playson": {
-    "company_name": "Playson",
-    "score": 3,
-    "last_seen": "2026-09-14T17:27:39.381058Z"
-  },
-  "databricks": {
-    "company_name": "Databricks",
-    "score": 3,
-    "last_seen": "2026-09-14T17:27:39.381065Z"
-  },
-  "catawiki": {
-    "company_name": "Catawiki",
-    "score": 3,
-    "last_seen": "2026-09-15T02:32:12.343767Z"
-  },
-  "okx": {
-    "company_name": "OKX",
-    "score": 3,
-    "last_seen": "2026-09-15T02:32:12.343751Z"
-  },
-  "toptal": {
-    "company_name": "Toptal",
-    "score": 3,
-    "last_seen": "2026-09-15T16:16:14.975379Z"
-  },
-  "liveperson": {
-    "company_name": "LivePerson",
-    "score": 3,
-    "last_seen": "2026-09-15T16:16:14.975381Z"
   },
   "samsara": {
     "company_name": "Samsara",
     "score": 3,
     "last_seen": "2026-09-15T16:16:14.975384Z"
   },
-  "micro1": {
-    "company_name": "micro1",
-    "score": 2,
-    "last_seen": "2026-09-12T20:01:01.494889Z"
-  },
   "manay-cpa-inc": {
     "company_name": "Manay CPA Inc.",
-    "score": 2,
-    "last_seen": "2026-09-15T16:16:14.975388Z"
+    "score": 3,
+    "last_seen": "2026-09-15T20:49:06.376419Z"
   },
   "league": {
     "company_name": "League",
-    "score": 2,
-    "last_seen": "2026-09-15T16:16:14.975393Z"
-  },
-  "opensea": {
-    "company_name": "OpenSea",
-    "score": 2,
-    "last_seen": "2026-09-15T16:16:14.975395Z"
+    "score": 3,
+    "last_seen": "2026-09-15T20:49:06.376423Z"
   },
   "infisical": {
     "company_name": "infisical",
-    "score": 2,
-    "last_seen": "2026-09-15T16:16:14.975398Z"
+    "score": 3,
+    "last_seen": "2026-09-15T20:49:06.376425Z"
   },
   "nabla": {
     "company_name": "Nabla",
+    "score": 3,
+    "last_seen": "2026-09-15T20:49:06.376427Z"
+  },
+  "supabase": {
+    "company_name": "Supabase",
+    "score": 3,
+    "last_seen": "2026-09-15T20:49:06.376406Z"
+  },
+  "playson": {
+    "company_name": "Playson",
     "score": 2,
-    "last_seen": "2026-09-15T16:16:14.975400Z"
+    "last_seen": "2026-09-14T17:27:39.381058Z"
+  },
+  "databricks": {
+    "company_name": "Databricks",
+    "score": 2,
+    "last_seen": "2026-09-14T17:27:39.381065Z"
+  },
+  "catawiki": {
+    "company_name": "Catawiki",
+    "score": 2,
+    "last_seen": "2026-09-15T02:32:12.343767Z"
+  },
+  "okx": {
+    "company_name": "OKX",
+    "score": 2,
+    "last_seen": "2026-09-15T02:32:12.343751Z"
   }
 }
