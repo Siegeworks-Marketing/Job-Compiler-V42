@@ -2,12 +2,12 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-09-16T15:56:07.139843Z"
+    "last_seen": "2026-09-16T20:51:43.530977Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-09-16T15:56:07.139857Z"
+    "last_seen": "2026-09-16T20:51:43.530984Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
@@ -17,56 +17,56 @@
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-09-16T15:56:07.139902Z"
+    "last_seen": "2026-09-16T20:51:43.531017Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-09-16T15:56:07.139906Z"
+    "last_seen": "2026-09-16T20:51:43.531020Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-09-16T15:56:07.139904Z"
+    "last_seen": "2026-09-16T20:51:43.531019Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-09-16T15:56:07.139909Z"
+    "last_seen": "2026-09-16T20:51:43.531021Z"
   },
   "cvs-health": {
     "company_name": "CVS Health",
     "score": 15,
-    "last_seen": "2026-09-16T15:56:07.139911Z"
+    "last_seen": "2026-09-16T20:51:43.531022Z"
   },
   "interaction-design-foundation": {
     "company_name": "Interaction Design Foundation",
     "score": 15,
-    "last_seen": "2026-09-16T15:56:07.139916Z"
+    "last_seen": "2026-09-16T20:51:43.531025Z"
   },
   "stone": {
     "company_name": "Stone",
     "score": 15,
-    "last_seen": "2026-09-16T15:56:07.139919Z"
+    "last_seen": "2026-09-16T20:51:43.531027Z"
   },
   "grow10x": {
     "company_name": "GROW10X",
     "score": 15,
-    "last_seen": "2026-09-16T15:56:07.139921Z"
+    "last_seen": "2026-09-16T20:51:43.531029Z"
   },
   "bjak": {
     "company_name": "Bjak",
     "score": 15,
-    "last_seen": "2026-09-16T15:56:07.139913Z"
+    "last_seen": "2026-09-16T20:51:43.531024Z"
   },
   "imerit-technology": {
     "company_name": "iMerit Technology",
     "score": 15,
-    "last_seen": "2026-09-16T15:56:07.139853Z"
+    "last_seen": "2026-09-16T20:51:43.530982Z"
   },
   "ateam": {
     "company_name": "A.Team",
-    "score": 14,
+    "score": 13,
     "last_seen": "2026-09-16T10:37:11.319335Z"
   },
   "precision-medicine-group": {
@@ -76,7 +76,7 @@
   },
   "pnc": {
     "company_name": "PNC",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-09-15T16:16:14.975422Z"
   },
   "tremendous": {
@@ -86,117 +86,117 @@
   },
   "apple": {
     "company_name": "Apple",
-    "score": 8,
-    "last_seen": "2026-09-16T15:56:07.139900Z"
+    "score": 9,
+    "last_seen": "2026-09-16T20:51:43.531016Z"
+  },
+  "supabase": {
+    "company_name": "Supabase",
+    "score": 5,
+    "last_seen": "2026-09-16T20:51:43.530985Z"
   },
   "cresta": {
     "company_name": "Cresta",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-09-16T15:56:07.139889Z"
+  },
+  "liveperson": {
+    "company_name": "LivePerson",
+    "score": 4,
+    "last_seen": "2026-09-16T20:51:43.530999Z"
+  },
+  "upguard": {
+    "company_name": "UpGuard",
+    "score": 4,
+    "last_seen": "2026-09-16T20:51:43.531001Z"
   },
   "udacity": {
     "company_name": "Udacity",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-09-16T02:23:06.171112Z"
   },
   "fleetio": {
     "company_name": "Fleetio",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-09-16T02:23:06.171116Z"
   },
   "socket": {
     "company_name": "Socket",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-09-16T02:23:06.171099Z"
-  },
-  "supabase": {
-    "company_name": "Supabase",
-    "score": 4,
-    "last_seen": "2026-09-16T10:37:11.319357Z"
   },
   "samsara": {
     "company_name": "Samsara",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-09-16T15:56:07.139882Z"
   },
   "housecall-pro": {
     "company_name": "Housecall Pro",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-09-16T15:56:07.139884Z"
   },
   "siteminder": {
     "company_name": "SiteMinder",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-09-16T15:56:07.139894Z"
   },
   "certik": {
     "company_name": "CertiK",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-09-16T15:56:07.139860Z"
   },
   "tripadvisor": {
     "company_name": "Tripadvisor",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-09-16T15:56:07.139863Z"
   },
   "the-config-team": {
     "company_name": "The Config Team",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-09-16T15:56:07.139896Z"
   },
   "everai": {
     "company_name": "EverAI",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-09-15T02:32:12.343762Z"
   },
   "toptal": {
     "company_name": "Toptal",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-09-16T02:23:06.171108Z"
-  },
-  "liveperson": {
-    "company_name": "LivePerson",
-    "score": 3,
-    "last_seen": "2026-09-16T02:23:06.171110Z"
-  },
-  "upguard": {
-    "company_name": "UpGuard",
-    "score": 3,
-    "last_seen": "2026-09-15T02:32:12.343760Z"
   },
   "remote": {
     "company_name": "Remote",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-09-16T10:37:11.319345Z"
   },
   "submittable": {
     "company_name": "Submittable",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-09-16T15:56:07.139887Z"
   },
   "alimentiv": {
     "company_name": "Alimentiv",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-09-16T15:56:07.139891Z"
   },
   "demandbase-inc": {
     "company_name": "Demandbase, Inc.",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-09-16T15:56:07.139870Z"
   },
   "brafton": {
     "company_name": "Brafton",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-09-16T15:56:07.139880Z"
   },
-  "manay-cpa-inc": {
-    "company_name": "Manay CPA Inc.",
+  "welo-global": {
+    "company_name": "Welo Global",
     "score": 2,
-    "last_seen": "2026-09-16T02:23:06.171114Z"
+    "last_seen": "2026-09-16T20:51:43.530987Z"
   },
-  "league": {
-    "company_name": "League",
+  "mattermost": {
+    "company_name": "Mattermost",
     "score": 2,
-    "last_seen": "2026-09-16T02:23:06.171117Z"
+    "last_seen": "2026-09-16T20:51:43.530989Z"
   }
 }
