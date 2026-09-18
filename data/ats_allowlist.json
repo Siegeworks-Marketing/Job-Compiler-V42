@@ -2,12 +2,12 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-09-17T20:56:56.192352Z"
+    "last_seen": "2026-09-18T02:10:14.243567Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-09-17T20:56:56.192358Z"
+    "last_seen": "2026-09-18T02:10:14.243571Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
@@ -17,52 +17,52 @@
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-09-17T20:56:56.192391Z"
+    "last_seen": "2026-09-18T02:10:14.243595Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-09-17T20:56:56.192395Z"
+    "last_seen": "2026-09-18T02:10:14.243598Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-09-17T20:56:56.192393Z"
+    "last_seen": "2026-09-18T02:10:14.243596Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-09-17T20:56:56.192398Z"
+    "last_seen": "2026-09-18T02:10:14.243600Z"
   },
   "cvs-health": {
     "company_name": "CVS Health",
     "score": 15,
-    "last_seen": "2026-09-17T20:56:56.192400Z"
+    "last_seen": "2026-09-18T02:10:14.243601Z"
   },
   "interaction-design-foundation": {
     "company_name": "Interaction Design Foundation",
     "score": 15,
-    "last_seen": "2026-09-17T20:56:56.192405Z"
+    "last_seen": "2026-09-18T02:10:14.243605Z"
   },
   "stone": {
     "company_name": "Stone",
     "score": 15,
-    "last_seen": "2026-09-17T20:56:56.192407Z"
+    "last_seen": "2026-09-18T02:10:14.243606Z"
   },
   "grow10x": {
     "company_name": "GROW10X",
     "score": 15,
-    "last_seen": "2026-09-17T20:56:56.192409Z"
+    "last_seen": "2026-09-18T02:10:14.243608Z"
   },
   "bjak": {
     "company_name": "Bjak",
     "score": 15,
-    "last_seen": "2026-09-17T20:56:56.192403Z"
+    "last_seen": "2026-09-18T02:10:14.243602Z"
   },
   "imerit-technology": {
     "company_name": "iMerit Technology",
     "score": 15,
-    "last_seen": "2026-09-17T20:56:56.192355Z"
+    "last_seen": "2026-09-18T02:10:14.243569Z"
   },
   "precision-medicine-group": {
     "company_name": "Precision Medicine Group",
@@ -71,8 +71,8 @@
   },
   "ateam": {
     "company_name": "A.Team",
-    "score": 13,
-    "last_seen": "2026-09-17T20:56:56.192345Z"
+    "score": 14,
+    "last_seen": "2026-09-18T02:10:14.243562Z"
   },
   "tremendous": {
     "company_name": "Tremendous",
@@ -81,122 +81,122 @@
   },
   "supabase": {
     "company_name": "Supabase",
-    "score": 7,
-    "last_seen": "2026-09-17T20:56:56.192387Z"
+    "score": 8,
+    "last_seen": "2026-09-18T02:10:14.243592Z"
   },
   "micro1": {
     "company_name": "micro1",
-    "score": 7,
-    "last_seen": "2026-09-17T20:56:56.192411Z"
+    "score": 8,
+    "last_seen": "2026-09-18T02:10:14.243611Z"
+  },
+  "kairos-power": {
+    "company_name": "Kairos Power",
+    "score": 6,
+    "last_seen": "2026-09-18T02:10:14.243599Z"
+  },
+  "docplanner": {
+    "company_name": "Docplanner",
+    "score": 6,
+    "last_seen": "2026-09-18T02:10:14.243594Z"
+  },
+  "truelogic": {
+    "company_name": "Truelogic",
+    "score": 6,
+    "last_seen": "2026-09-18T02:10:14.243573Z"
   },
   "pnc": {
     "company_name": "PNC",
-    "score": 6,
-    "last_seen": "2026-09-15T16:16:14.975422Z"
-  },
-  "apple": {
-    "company_name": "Apple",
     "score": 5,
-    "last_seen": "2026-09-16T20:51:43.531016Z"
+    "last_seen": "2026-09-15T16:16:14.975422Z"
   },
   "policyme": {
     "company_name": "PolicyMe",
     "score": 5,
     "last_seen": "2026-09-17T16:10:36.694234Z"
   },
-  "kairos-power": {
-    "company_name": "Kairos Power",
+  "everai": {
+    "company_name": "EverAI",
     "score": 5,
-    "last_seen": "2026-09-17T20:56:56.192396Z"
+    "last_seen": "2026-09-18T02:10:14.243591Z"
   },
-  "docplanner": {
-    "company_name": "Docplanner",
+  "dropbox": {
+    "company_name": "Dropbox",
     "score": 5,
-    "last_seen": "2026-09-17T20:56:56.192388Z"
+    "last_seen": "2026-09-18T02:10:14.243590Z"
   },
-  "truelogic": {
-    "company_name": "Truelogic",
+  "cloudbeds": {
+    "company_name": "Cloudbeds",
     "score": 5,
-    "last_seen": "2026-09-17T20:56:56.192360Z"
+    "last_seen": "2026-09-18T02:10:14.243574Z"
   },
-  "instructure": {
-    "company_name": "Instructure",
+  "apple": {
+    "company_name": "Apple",
     "score": 4,
-    "last_seen": "2026-09-17T16:10:36.694239Z"
+    "last_seen": "2026-09-16T20:51:43.531016Z"
   },
   "assetwatch": {
     "company_name": "AssetWatch",
     "score": 4,
     "last_seen": "2026-09-17T16:10:36.694249Z"
   },
-  "everai": {
-    "company_name": "EverAI",
+  "zscaler": {
+    "company_name": "Zscaler",
     "score": 4,
-    "last_seen": "2026-09-17T20:56:56.192385Z"
+    "last_seen": "2026-09-18T02:10:14.243576Z"
   },
-  "dropbox": {
-    "company_name": "Dropbox",
+  "halter": {
+    "company_name": "Halter",
     "score": 4,
-    "last_seen": "2026-09-17T20:56:56.192383Z"
+    "last_seen": "2026-09-18T02:10:14.243577Z"
   },
-  "cloudbeds": {
-    "company_name": "Cloudbeds",
+  "kong-inc": {
+    "company_name": "Kong Inc.",
     "score": 4,
-    "last_seen": "2026-09-17T20:56:56.192362Z"
+    "last_seen": "2026-09-18T02:10:14.243586Z"
+  },
+  "ada": {
+    "company_name": "Ada",
+    "score": 4,
+    "last_seen": "2026-09-18T02:10:14.243588Z"
+  },
+  "instructure": {
+    "company_name": "Instructure",
+    "score": 3,
+    "last_seen": "2026-09-17T16:10:36.694239Z"
+  },
+  "ewor-gmbh": {
+    "company_name": "EWOR GmbH",
+    "score": 3,
+    "last_seen": "2026-09-18T02:10:14.243612Z"
   },
   "camunda": {
     "company_name": "Camunda",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-09-17T10:48:40.130218Z"
   },
   "samsara": {
     "company_name": "Samsara",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-09-17T16:10:36.694256Z"
   },
   "belmont-lavan-ltd": {
     "company_name": "Belmont Lavan Ltd",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-09-17T16:10:36.694263Z"
   },
   "playbook": {
     "company_name": "Playbook",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-09-17T16:10:36.694243Z"
   },
   "epilot-gmbh": {
     "company_name": "epilot GmbH",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-09-17T20:56:56.192390Z"
   },
-  "zscaler": {
-    "company_name": "Zscaler",
-    "score": 3,
-    "last_seen": "2026-09-17T20:56:56.192363Z"
-  },
-  "halter": {
-    "company_name": "Halter",
-    "score": 3,
-    "last_seen": "2026-09-17T20:56:56.192365Z"
-  },
-  "kong-inc": {
-    "company_name": "Kong Inc.",
-    "score": 3,
-    "last_seen": "2026-09-17T20:56:56.192378Z"
-  },
-  "ada": {
-    "company_name": "Ada",
-    "score": 3,
-    "last_seen": "2026-09-17T20:56:56.192380Z"
-  },
-  "sona": {
-    "company_name": "Sona",
+  "veracyte": {
+    "company_name": "Veracyte",
     "score": 2,
-    "last_seen": "2026-09-17T16:10:36.694237Z"
-  },
-  "jobber": {
-    "company_name": "Jobber",
-    "score": 2,
-    "last_seen": "2026-09-17T16:10:36.694241Z"
+    "last_seen": "2026-09-18T02:10:14.243578Z"
   }
 }
