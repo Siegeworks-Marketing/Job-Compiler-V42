@@ -2,62 +2,62 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-09-25T02:26:48.779672Z"
+    "last_seen": "2026-09-25T10:58:42.910498Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-09-25T02:26:48.779664Z"
+    "last_seen": "2026-09-25T10:58:42.910490Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-09-25T02:26:48.779698Z"
+    "last_seen": "2026-09-25T10:58:42.910503Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-09-25T02:26:48.779701Z"
+    "last_seen": "2026-09-25T10:58:42.910506Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-09-25T02:26:48.779700Z"
+    "last_seen": "2026-09-25T10:58:42.910504Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-09-25T02:26:48.779706Z"
+    "last_seen": "2026-09-25T10:58:42.910510Z"
   },
   "imerit-technology": {
     "company_name": "iMerit Technology",
     "score": 15,
-    "last_seen": "2026-09-25T02:26:48.779674Z"
+    "last_seen": "2026-09-25T10:58:42.910499Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-09-25T02:26:48.779669Z"
+    "last_seen": "2026-09-25T10:58:42.910495Z"
   },
   "interaction-design-foundation": {
     "company_name": "Interaction Design Foundation",
     "score": 15,
-    "last_seen": "2026-09-25T02:26:48.779712Z"
+    "last_seen": "2026-09-25T10:58:42.910516Z"
   },
   "stone": {
     "company_name": "Stone",
     "score": 15,
-    "last_seen": "2026-09-25T02:26:48.779714Z"
+    "last_seen": "2026-09-25T10:58:42.910518Z"
   },
   "grow10x": {
     "company_name": "GROW10X",
     "score": 15,
-    "last_seen": "2026-09-25T02:26:48.779717Z"
+    "last_seen": "2026-09-25T10:58:42.910519Z"
   },
   "bjak": {
     "company_name": "Bjak",
     "score": 15,
-    "last_seen": "2026-09-25T02:26:48.779708Z"
+    "last_seen": "2026-09-25T10:58:42.910513Z"
   },
   "precision-medicine-group": {
     "company_name": "Precision Medicine Group",
@@ -67,27 +67,27 @@
   "delinea": {
     "company_name": "Delinea",
     "score": 15,
-    "last_seen": "2026-09-25T02:26:48.779710Z"
+    "last_seen": "2026-09-25T10:58:42.910514Z"
+  },
+  "cvs-health": {
+    "company_name": "CVS Health",
+    "score": 14,
+    "last_seen": "2026-09-25T10:58:42.910511Z"
   },
   "canonical": {
     "company_name": "Canonical",
-    "score": 13,
+    "score": 12,
     "last_seen": "2026-09-24T16:24:50.503784Z"
   },
   "kairos-power": {
     "company_name": "Kairos Power",
-    "score": 13,
+    "score": 12,
     "last_seen": "2026-09-24T16:24:50.503799Z"
-  },
-  "cvs-health": {
-    "company_name": "CVS Health",
-    "score": 13,
-    "last_seen": "2026-09-25T02:26:48.779707Z"
   },
   "schneider-electric": {
     "company_name": "Schneider Electric",
-    "score": 11,
-    "last_seen": "2026-09-25T02:26:48.779704Z"
+    "score": 12,
+    "last_seen": "2026-09-25T10:58:42.910508Z"
   },
   "tremendous": {
     "company_name": "Tremendous",
@@ -99,24 +99,24 @@
     "score": 7,
     "last_seen": "2026-09-24T02:14:07.356178Z"
   },
-  "micro1": {
-    "company_name": "micro1",
-    "score": 6,
-    "last_seen": "2026-09-24T21:24:53.777263Z"
-  },
   "ashby": {
     "company_name": "Ashby",
     "score": 6,
     "last_seen": "2026-09-25T02:26:48.779693Z"
   },
+  "micro1": {
+    "company_name": "micro1",
+    "score": 5,
+    "last_seen": "2026-09-24T21:24:53.777263Z"
+  },
   "docplanner": {
     "company_name": "Docplanner",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-09-25T02:26:48.779696Z"
   },
   "elevenlabs": {
     "company_name": "Elevenlabs",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-09-25T02:26:48.779691Z"
   },
   "samsara": {
@@ -126,77 +126,77 @@
   },
   "carrot": {
     "company_name": "Carrot",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-09-25T02:26:48.779688Z"
   },
   "acceleration-partners": {
     "company_name": "Acceleration Partners",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-09-25T02:26:48.779685Z"
+  },
+  "soho-house": {
+    "company_name": "Soho House",
+    "score": 4,
+    "last_seen": "2026-09-25T10:58:42.910507Z"
   },
   "tenable": {
     "company_name": "Tenable",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-09-24T10:54:27.171680Z"
   },
   "garner-health": {
     "company_name": "Garner Health",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-09-24T21:24:53.777243Z"
   },
   "smartsheet": {
     "company_name": "Smartsheet",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-09-24T21:24:53.777244Z"
   },
   "mozilla": {
     "company_name": "Mozilla",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-09-25T02:26:48.779687Z"
   },
   "ewor-gmbh": {
     "company_name": "EWOR GmbH",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-09-25T02:26:48.779720Z"
-  },
-  "collibra": {
-    "company_name": "Collibra",
-    "score": 3,
-    "last_seen": "2026-09-24T21:24:53.777242Z"
-  },
-  "capital-on-tap": {
-    "company_name": "Capital on Tap",
-    "score": 3,
-    "last_seen": "2026-09-25T02:26:48.779689Z"
   },
   "extrahop": {
     "company_name": "ExtraHop",
     "score": 3,
     "last_seen": "2026-09-25T02:26:48.779694Z"
   },
-  "soho-house": {
-    "company_name": "Soho House",
-    "score": 3,
-    "last_seen": "2026-09-25T02:26:48.779703Z"
+  "collibra": {
+    "company_name": "Collibra",
+    "score": 2,
+    "last_seen": "2026-09-24T21:24:53.777242Z"
+  },
+  "capital-on-tap": {
+    "company_name": "Capital on Tap",
+    "score": 2,
+    "last_seen": "2026-09-25T02:26:48.779689Z"
   },
   "tripactions": {
     "company_name": "TripActions",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-09-25T02:26:48.779677Z"
   },
   "instructure": {
     "company_name": "Instructure",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-09-25T02:26:48.779679Z"
   },
   "clover-health": {
     "company_name": "Clover Health",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-09-25T02:26:48.779681Z"
   },
   "hims-038-hers": {
     "company_name": "hims &#038; hers",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-09-25T02:26:48.779682Z"
   }
 }
