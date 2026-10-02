@@ -2,57 +2,57 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-10-02T11:53:59.197289Z"
+    "last_seen": "2026-10-02T17:23:22.858706Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-10-02T11:53:59.197279Z"
+    "last_seen": "2026-10-02T17:23:22.858693Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-10-02T11:53:59.197321Z"
+    "last_seen": "2026-10-02T17:23:22.858751Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-10-02T11:53:59.197324Z"
+    "last_seen": "2026-10-02T17:23:22.858755Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-10-02T11:53:59.197322Z"
+    "last_seen": "2026-10-02T17:23:22.858753Z"
   },
   "meta": {
     "company_name": "Meta",
     "score": 15,
-    "last_seen": "2026-10-02T11:53:59.197309Z"
+    "last_seen": "2026-10-02T17:23:22.858738Z"
   },
   "imerit-technology": {
     "company_name": "iMerit Technology",
     "score": 15,
-    "last_seen": "2026-10-02T11:53:59.197291Z"
+    "last_seen": "2026-10-02T17:23:22.858709Z"
   },
   "ateam": {
     "company_name": "A.Team",
     "score": 15,
-    "last_seen": "2026-10-02T11:53:59.197286Z"
+    "last_seen": "2026-10-02T17:23:22.858702Z"
   },
   "stone": {
     "company_name": "Stone",
     "score": 15,
-    "last_seen": "2026-10-02T11:53:59.197337Z"
+    "last_seen": "2026-10-02T17:23:22.858772Z"
   },
   "grow10x": {
     "company_name": "GROW10X",
     "score": 15,
-    "last_seen": "2026-10-02T11:53:59.197339Z"
+    "last_seen": "2026-10-02T17:23:22.858775Z"
   },
   "bjak": {
     "company_name": "Bjak",
     "score": 15,
-    "last_seen": "2026-10-02T11:53:59.197332Z"
+    "last_seen": "2026-10-02T17:23:22.858766Z"
   },
   "precision-medicine-group": {
     "company_name": "Precision Medicine Group",
@@ -62,17 +62,17 @@
   "delinea": {
     "company_name": "Delinea",
     "score": 15,
-    "last_seen": "2026-10-02T11:53:59.197334Z"
+    "last_seen": "2026-10-02T17:23:22.858769Z"
   },
   "cvs-health": {
     "company_name": "CVS Health",
     "score": 15,
-    "last_seen": "2026-10-02T11:53:59.197329Z"
+    "last_seen": "2026-10-02T17:23:22.858762Z"
   },
   "schneider-electric": {
     "company_name": "Schneider Electric",
     "score": 15,
-    "last_seen": "2026-10-02T11:53:59.197328Z"
+    "last_seen": "2026-10-02T17:23:22.858759Z"
   },
   "ashby": {
     "company_name": "Ashby",
@@ -82,37 +82,32 @@
   "tremendous": {
     "company_name": "Tremendous",
     "score": 15,
-    "last_seen": "2026-10-02T11:53:59.197307Z"
+    "last_seen": "2026-10-02T17:23:22.858735Z"
   },
   "share": {
     "company_name": "Share",
-    "score": 14,
-    "last_seen": "2026-10-02T11:53:59.197319Z"
+    "score": 15,
+    "last_seen": "2026-10-02T17:23:22.858749Z"
   },
   "samsara": {
     "company_name": "Samsara",
-    "score": 11,
-    "last_seen": "2026-10-02T11:53:59.197293Z"
-  },
-  "datadog": {
-    "company_name": "Datadog",
-    "score": 10,
-    "last_seen": "2026-10-01T03:12:27.663323Z"
+    "score": 12,
+    "last_seen": "2026-10-02T17:23:22.858724Z"
   },
   "lilt-production": {
     "company_name": "LILT (Production)",
+    "score": 10,
+    "last_seen": "2026-10-02T17:23:22.858746Z"
+  },
+  "datadog": {
+    "company_name": "Datadog",
     "score": 9,
-    "last_seen": "2026-10-02T11:53:59.197317Z"
+    "last_seen": "2026-10-01T03:12:27.663323Z"
   },
   "soho-house": {
     "company_name": "Soho House",
-    "score": 8,
-    "last_seen": "2026-09-30T17:39:23.719011Z"
-  },
-  "rithum": {
-    "company_name": "Rithum",
     "score": 7,
-    "last_seen": "2026-10-01T22:29:09.982370Z"
+    "last_seen": "2026-09-30T17:39:23.719011Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
@@ -121,63 +116,73 @@
   },
   "elevenlabs": {
     "company_name": "Elevenlabs",
-    "score": 6,
-    "last_seen": "2026-10-02T03:15:34.445016Z"
+    "score": 7,
+    "last_seen": "2026-10-02T17:23:22.858712Z"
   },
-  "1password": {
-    "company_name": "1Password",
+  "rithum": {
+    "company_name": "Rithum",
     "score": 6,
-    "last_seen": "2026-10-02T03:15:34.445030Z"
+    "last_seen": "2026-10-01T22:29:09.982370Z"
   },
   "camunda": {
     "company_name": "Camunda",
     "score": 6,
     "last_seen": "2026-10-02T03:15:34.445032Z"
   },
-  "remote": {
-    "company_name": "Remote",
+  "1password": {
+    "company_name": "1Password",
     "score": 5,
-    "last_seen": "2026-10-01T18:26:48.105337Z"
+    "last_seen": "2026-10-02T03:15:34.445030Z"
   },
   "docplanner": {
     "company_name": "Docplanner",
     "score": 5,
     "last_seen": "2026-10-02T03:15:34.445013Z"
   },
+  "ajax-systems": {
+    "company_name": "Ajax Systems",
+    "score": 5,
+    "last_seen": "2026-10-02T17:23:22.858722Z"
+  },
+  "spotify": {
+    "company_name": "Spotify",
+    "score": 5,
+    "last_seen": "2026-10-02T17:23:22.858728Z"
+  },
+  "gopuff": {
+    "company_name": "Gopuff",
+    "score": 5,
+    "last_seen": "2026-10-02T17:23:22.858731Z"
+  },
+  "remote": {
+    "company_name": "Remote",
+    "score": 4,
+    "last_seen": "2026-10-01T18:26:48.105337Z"
+  },
   "codepath": {
     "company_name": "CodePath",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-10-02T11:53:59.197312Z"
   },
   "emplyfy": {
     "company_name": "Emplyfy",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-10-02T11:53:59.197314Z"
+  },
+  "quicknode": {
+    "company_name": "QuickNode",
+    "score": 4,
+    "last_seen": "2026-10-02T17:23:22.858726Z"
+  },
+  "sidekick-network-gmbh-co-kg": {
+    "company_name": "Sidekick Network GmbH & Co. KG",
+    "score": 4,
+    "last_seen": "2026-10-02T17:23:22.858740Z"
   },
   "mural": {
     "company_name": "Mural",
-    "score": 4,
-    "last_seen": "2026-10-02T03:15:34.445019Z"
-  },
-  "ajax-systems": {
-    "company_name": "Ajax Systems",
-    "score": 4,
-    "last_seen": "2026-10-02T11:53:59.197295Z"
-  },
-  "spotify": {
-    "company_name": "Spotify",
-    "score": 4,
-    "last_seen": "2026-10-02T11:53:59.197299Z"
-  },
-  "gopuff": {
-    "company_name": "Gopuff",
-    "score": 4,
-    "last_seen": "2026-10-02T11:53:59.197301Z"
-  },
-  "padsplit": {
-    "company_name": "PadSplit",
     "score": 3,
-    "last_seen": "2026-10-02T03:15:34.445021Z"
+    "last_seen": "2026-10-02T03:15:34.445019Z"
   },
   "extrahop": {
     "company_name": "ExtraHop",
@@ -189,14 +194,9 @@
     "score": 3,
     "last_seen": "2026-09-30T03:02:05.437601Z"
   },
-  "quicknode": {
-    "company_name": "QuickNode",
+  "nebius": {
+    "company_name": "Nebius",
     "score": 3,
-    "last_seen": "2026-10-02T11:53:59.197298Z"
-  },
-  "chainguard": {
-    "company_name": "Chainguard",
-    "score": 2,
-    "last_seen": "2026-10-01T03:12:27.663306Z"
+    "last_seen": "2026-10-02T17:23:22.858719Z"
   }
 }
