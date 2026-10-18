@@ -2,42 +2,42 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-10-17T19:55:01.778200Z"
+    "last_seen": "2026-10-18T02:04:48.559748Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-10-17T19:55:01.778208Z"
+    "last_seen": "2026-10-18T02:04:48.559757Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-10-17T19:55:01.778253Z"
+    "last_seen": "2026-10-18T02:04:48.559803Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-10-17T19:55:01.778258Z"
+    "last_seen": "2026-10-18T02:04:48.559807Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-10-17T19:55:01.778255Z"
+    "last_seen": "2026-10-18T02:04:48.559805Z"
   },
   "imerit-technology": {
     "company_name": "iMerit Technology",
     "score": 15,
-    "last_seen": "2026-10-17T19:55:01.778277Z"
+    "last_seen": "2026-10-18T02:04:48.559825Z"
   },
   "stone": {
     "company_name": "Stone",
     "score": 15,
-    "last_seen": "2026-10-17T19:55:01.778288Z"
+    "last_seen": "2026-10-18T02:04:48.559836Z"
   },
   "bjak": {
     "company_name": "Bjak",
     "score": 15,
-    "last_seen": "2026-10-17T19:55:01.778283Z"
+    "last_seen": "2026-10-18T02:04:48.559830Z"
   },
   "precision-medicine-group": {
     "company_name": "Precision Medicine Group",
@@ -47,7 +47,7 @@
   "delinea": {
     "company_name": "Delinea",
     "score": 15,
-    "last_seen": "2026-10-17T19:55:01.778285Z"
+    "last_seen": "2026-10-18T02:04:48.559833Z"
   },
   "ashby": {
     "company_name": "Ashby",
@@ -57,36 +57,36 @@
   "palo-alto-networks": {
     "company_name": "Palo Alto Networks",
     "score": 15,
-    "last_seen": "2026-10-17T19:55:01.778260Z"
+    "last_seen": "2026-10-18T02:04:48.559809Z"
   },
   "toptal": {
     "company_name": "Toptal",
     "score": 15,
-    "last_seen": "2026-10-17T19:55:01.778280Z"
+    "last_seen": "2026-10-18T02:04:48.559828Z"
   },
   "cummins": {
     "company_name": "Cummins",
     "score": 15,
-    "last_seen": "2026-10-17T19:55:01.778251Z"
+    "last_seen": "2026-10-18T02:04:48.559801Z"
   },
   "tremendous": {
     "company_name": "Tremendous",
-    "score": 14,
+    "score": 13,
     "last_seen": "2026-10-15T20:55:48.972348Z"
   },
   "ateam": {
     "company_name": "A.Team",
-    "score": 12,
+    "score": 11,
     "last_seen": "2026-10-17T02:04:10.173101Z"
   },
   "meta": {
     "company_name": "Meta",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-10-16T20:18:58.052117Z"
   },
   "grow10x": {
     "company_name": "GROW10X",
-    "score": 10,
+    "score": 9,
     "last_seen": "2026-10-16T02:11:51.494733Z"
   },
   "telus-digital": {
@@ -96,32 +96,42 @@
   },
   "monzo": {
     "company_name": "Monzo",
-    "score": 8,
-    "last_seen": "2026-10-17T19:55:01.778225Z"
+    "score": 9,
+    "last_seen": "2026-10-18T02:04:48.559774Z"
   },
   "schneider-electric": {
     "company_name": "Schneider Electric",
-    "score": 7,
-    "last_seen": "2026-10-17T19:55:01.778262Z"
+    "score": 8,
+    "last_seen": "2026-10-18T02:04:48.559812Z"
   },
   "jpmorgan-chase": {
     "company_name": "JPMorgan Chase",
-    "score": 7,
-    "last_seen": "2026-10-17T19:55:01.778266Z"
+    "score": 8,
+    "last_seen": "2026-10-18T02:04:48.559814Z"
   },
   "healthfirst": {
     "company_name": "Healthfirst",
-    "score": 7,
-    "last_seen": "2026-10-17T19:55:01.778271Z"
+    "score": 8,
+    "last_seen": "2026-10-18T02:04:48.559818Z"
   },
   "akicita-federal-llc": {
     "company_name": "Akicita Federal, LLC",
+    "score": 8,
+    "last_seen": "2026-10-18T02:04:48.559823Z"
+  },
+  "emplyfy": {
+    "company_name": "Emplyfy",
+    "score": 8,
+    "last_seen": "2026-10-18T02:04:48.559799Z"
+  },
+  "elevenlabs": {
+    "company_name": "ElevenLabs",
     "score": 7,
-    "last_seen": "2026-10-17T19:55:01.778275Z"
+    "last_seen": "2026-10-18T02:04:48.559797Z"
   },
   "tracium-gmbh": {
     "company_name": "Tracium GmbH",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-10-17T19:55:01.778248Z"
   },
   "extrahop": {
@@ -129,74 +139,64 @@
     "score": 6,
     "last_seen": "2026-10-04T03:37:19.320728Z"
   },
-  "elevenlabs": {
-    "company_name": "ElevenLabs",
-    "score": 6,
-    "last_seen": "2026-10-17T19:55:01.778246Z"
-  },
   "laminar-projects": {
     "company_name": "Laminar Projects",
-    "score": 5,
-    "last_seen": "2026-10-17T19:55:01.778228Z"
+    "score": 6,
+    "last_seen": "2026-10-18T02:04:48.559777Z"
   },
   "oddball": {
     "company_name": "Oddball",
-    "score": 5,
-    "last_seen": "2026-10-17T19:55:01.778233Z"
+    "score": 6,
+    "last_seen": "2026-10-18T02:04:48.559781Z"
   },
   "zapier": {
     "company_name": "Zapier",
-    "score": 5,
-    "last_seen": "2026-10-17T19:55:01.778238Z"
+    "score": 6,
+    "last_seen": "2026-10-18T02:04:48.559785Z"
   },
   "gofasti": {
     "company_name": "GoFasti",
-    "score": 5,
-    "last_seen": "2026-10-17T19:55:01.778240Z"
+    "score": 6,
+    "last_seen": "2026-10-18T02:04:48.559788Z"
   },
   "language-services-associates": {
     "company_name": "Language Services Associates",
+    "score": 5,
+    "last_seen": "2026-10-18T02:04:48.559790Z"
+  },
+  "montu-uk": {
+    "company_name": "Montu UK",
     "score": 4,
-    "last_seen": "2026-10-17T19:55:01.778242Z"
+    "last_seen": "2026-10-18T02:04:48.559761Z"
   },
-  "2brains": {
-    "company_name": "2brains",
-    "score": 3,
-    "last_seen": "2026-10-17T10:00:37.863184Z"
+  "phantom": {
+    "company_name": "Phantom",
+    "score": 4,
+    "last_seen": "2026-10-18T02:04:48.559770Z"
   },
-  "supabase": {
-    "company_name": "Supabase",
-    "score": 3,
-    "last_seen": "2026-10-17T14:44:21.149498Z"
+  "perfectserve": {
+    "company_name": "PerfectServe",
+    "score": 4,
+    "last_seen": "2026-10-18T02:04:48.559772Z"
   },
   "wrapbook": {
     "company_name": "Wrapbook",
     "score": 3,
     "last_seen": "2026-10-17T02:04:10.173137Z"
   },
-  "montu-uk": {
-    "company_name": "Montu UK",
+  "shopware-ag": {
+    "company_name": "shopware AG",
     "score": 3,
-    "last_seen": "2026-10-17T19:55:01.778212Z"
+    "last_seen": "2026-10-18T02:04:48.559792Z"
   },
-  "phantom": {
-    "company_name": "Phantom",
+  "bright-vision-technologies": {
+    "company_name": "Bright Vision Technologies",
     "score": 3,
-    "last_seen": "2026-10-17T19:55:01.778220Z"
+    "last_seen": "2026-10-18T02:04:48.559838Z"
   },
-  "perfectserve": {
-    "company_name": "PerfectServe",
-    "score": 3,
-    "last_seen": "2026-10-17T19:55:01.778223Z"
-  },
-  "workleap": {
-    "company_name": "Workleap",
+  "2brains": {
+    "company_name": "2brains",
     "score": 2,
-    "last_seen": "2026-10-17T02:04:10.173122Z"
-  },
-  "grafana-labs": {
-    "company_name": "Grafana Labs",
-    "score": 2,
-    "last_seen": "2026-10-15T02:31:09.095157Z"
+    "last_seen": "2026-10-17T10:00:37.863184Z"
   }
 }
