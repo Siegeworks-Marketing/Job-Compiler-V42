@@ -2,42 +2,42 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-10-20T02:38:20.360690Z"
+    "last_seen": "2026-10-20T10:45:58.411316Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-10-20T02:38:20.360694Z"
+    "last_seen": "2026-10-20T10:45:58.411320Z"
   },
   "walmart": {
     "company_name": "Walmart",
     "score": 15,
-    "last_seen": "2026-10-20T02:38:20.360731Z"
+    "last_seen": "2026-10-20T10:45:58.411362Z"
   },
   "ansys": {
     "company_name": "Ansys",
     "score": 15,
-    "last_seen": "2026-10-20T02:38:20.360735Z"
+    "last_seen": "2026-10-20T10:45:58.411366Z"
   },
   "tiktok": {
     "company_name": "TikTok",
     "score": 15,
-    "last_seen": "2026-10-20T02:38:20.360733Z"
+    "last_seen": "2026-10-20T10:45:58.411364Z"
   },
   "imerit-technology": {
     "company_name": "iMerit Technology",
     "score": 15,
-    "last_seen": "2026-10-20T02:38:20.360751Z"
+    "last_seen": "2026-10-20T10:45:58.411382Z"
   },
   "stone": {
     "company_name": "Stone",
     "score": 15,
-    "last_seen": "2026-10-20T02:38:20.360759Z"
+    "last_seen": "2026-10-20T10:45:58.411393Z"
   },
   "bjak": {
     "company_name": "Bjak",
     "score": 15,
-    "last_seen": "2026-10-20T02:38:20.360754Z"
+    "last_seen": "2026-10-20T10:45:58.411388Z"
   },
   "precision-medicine-group": {
     "company_name": "Precision Medicine Group",
@@ -47,7 +47,7 @@
   "delinea": {
     "company_name": "Delinea",
     "score": 15,
-    "last_seen": "2026-10-20T02:38:20.360756Z"
+    "last_seen": "2026-10-20T10:45:58.411390Z"
   },
   "ashby": {
     "company_name": "Ashby",
@@ -57,37 +57,37 @@
   "palo-alto-networks": {
     "company_name": "Palo Alto Networks",
     "score": 15,
-    "last_seen": "2026-10-20T02:38:20.360738Z"
+    "last_seen": "2026-10-20T10:45:58.411368Z"
   },
   "toptal": {
     "company_name": "Toptal",
     "score": 15,
-    "last_seen": "2026-10-20T02:38:20.360700Z"
+    "last_seen": "2026-10-20T10:45:58.411385Z"
   },
   "cummins": {
     "company_name": "Cummins",
     "score": 15,
-    "last_seen": "2026-10-20T02:38:20.360729Z"
+    "last_seen": "2026-10-20T10:45:58.411360Z"
   },
   "schneider-electric": {
     "company_name": "Schneider Electric",
     "score": 15,
-    "last_seen": "2026-10-20T02:38:20.360740Z"
+    "last_seen": "2026-10-20T10:45:58.411370Z"
   },
   "jpmorgan-chase": {
     "company_name": "JPMorgan Chase",
     "score": 15,
-    "last_seen": "2026-10-20T02:38:20.360742Z"
+    "last_seen": "2026-10-20T10:45:58.411373Z"
   },
   "healthfirst": {
     "company_name": "Healthfirst",
     "score": 15,
-    "last_seen": "2026-10-20T02:38:20.360746Z"
+    "last_seen": "2026-10-20T10:45:58.411377Z"
   },
   "akicita-federal-llc": {
     "company_name": "Akicita Federal, LLC",
     "score": 15,
-    "last_seen": "2026-10-20T02:38:20.360749Z"
+    "last_seen": "2026-10-20T10:45:58.411380Z"
   },
   "telus-digital": {
     "company_name": "TELUS Digital",
@@ -96,23 +96,23 @@
   },
   "welo-global": {
     "company_name": "Welo Global",
-    "score": 8,
-    "last_seen": "2026-10-19T11:38:35.837234Z"
-  },
-  "coopers-group-ag": {
-    "company_name": "Coopers Group AG",
-    "score": 7,
-    "last_seen": "2026-10-20T02:38:20.360726Z"
-  },
-  "everai": {
-    "company_name": "EverAI",
-    "score": 7,
-    "last_seen": "2026-10-20T02:38:20.360717Z"
+    "score": 9,
+    "last_seen": "2026-10-20T10:45:58.411338Z"
   },
   "gitlab": {
     "company_name": "gitlab",
     "score": 7,
     "last_seen": "2026-10-20T02:38:20.360712Z"
+  },
+  "coopers-group-ag": {
+    "company_name": "Coopers Group AG",
+    "score": 6,
+    "last_seen": "2026-10-20T02:38:20.360726Z"
+  },
+  "everai": {
+    "company_name": "EverAI",
+    "score": 6,
+    "last_seen": "2026-10-20T02:38:20.360717Z"
   },
   "extrahop": {
     "company_name": "ExtraHop",
@@ -121,82 +121,82 @@
   },
   "trm-labs": {
     "company_name": "TRM Labs",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-10-20T02:38:20.360703Z"
-  },
-  "tremendous": {
-    "company_name": "Tremendous",
-    "score": 5,
-    "last_seen": "2026-10-15T20:55:48.972348Z"
-  },
-  "flex": {
-    "company_name": "Flex",
-    "score": 5,
-    "last_seen": "2026-10-19T02:21:05.800546Z"
   },
   "elevenlabs": {
     "company_name": "Elevenlabs",
     "score": 5,
     "last_seen": "2026-10-20T02:38:20.360697Z"
   },
+  "tremendous": {
+    "company_name": "Tremendous",
+    "score": 4,
+    "last_seen": "2026-10-15T20:55:48.972348Z"
+  },
+  "flex": {
+    "company_name": "Flex",
+    "score": 4,
+    "last_seen": "2026-10-19T02:21:05.800546Z"
+  },
   "enthuziastic": {
     "company_name": "EnthuZiastic",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-10-20T02:38:20.360766Z"
   },
   "twilio": {
     "company_name": "Twilio",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-10-20T02:38:20.360714Z"
   },
   "exceptionly": {
     "company_name": "Exceptionly",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-10-20T02:38:20.360762Z"
-  },
-  "ateam": {
-    "company_name": "A.Team",
-    "score": 3,
-    "last_seen": "2026-10-17T02:04:10.173101Z"
   },
   "askable": {
     "company_name": "Askable",
-    "score": 3,
-    "last_seen": "2026-10-20T02:38:20.360681Z"
-  },
-  "meta": {
-    "company_name": "Meta",
-    "score": 2,
-    "last_seen": "2026-10-16T20:18:58.052117Z"
-  },
-  "juniper-square": {
-    "company_name": "Juniper Square",
-    "score": 2,
-    "last_seen": "2026-10-20T02:38:20.360705Z"
-  },
-  "fresh-prints": {
-    "company_name": "Fresh Prints",
-    "score": 2,
-    "last_seen": "2026-10-20T02:38:20.360710Z"
-  },
-  "bots-and-people-product-gmbh": {
-    "company_name": "Bots and People Product GmbH",
-    "score": 2,
-    "last_seen": "2026-10-20T02:38:20.360719Z"
+    "score": 4,
+    "last_seen": "2026-10-20T10:45:58.411307Z"
   },
   "rh-partners": {
     "company_name": "RH Partners",
-    "score": 2,
-    "last_seen": "2026-10-20T02:38:20.360722Z"
+    "score": 3,
+    "last_seen": "2026-10-20T10:45:58.411355Z"
   },
   "swisspeak-partners-gmbh": {
     "company_name": "SwissPeak Partners GmbH",
-    "score": 2,
-    "last_seen": "2026-10-20T02:38:20.360724Z"
+    "score": 3,
+    "last_seen": "2026-10-20T10:45:58.411357Z"
   },
   "warner-bros-discovery": {
     "company_name": "Warner Bros. Discovery",
-    "score": 2,
-    "last_seen": "2026-10-20T02:38:20.360743Z"
+    "score": 3,
+    "last_seen": "2026-10-20T10:45:58.411375Z"
+  },
+  "canonical": {
+    "company_name": "Canonical",
+    "score": 3,
+    "last_seen": "2026-10-20T10:45:58.411331Z"
+  },
+  "semperis": {
+    "company_name": "Semperis",
+    "score": 3,
+    "last_seen": "2026-10-20T10:45:58.411333Z"
+  },
+  "emnify": {
+    "company_name": "emnify",
+    "score": 3,
+    "last_seen": "2026-10-20T10:45:58.411342Z"
+  },
+  "roboflow": {
+    "company_name": "Roboflow",
+    "score": 3,
+    "last_seen": "2026-10-20T10:45:58.411344Z"
+  },
+  "jobber": {
+    "company_name": "Jobber",
+    "score": 3,
+    "last_seen": "2026-10-20T10:45:58.411348Z"
   }
 }
