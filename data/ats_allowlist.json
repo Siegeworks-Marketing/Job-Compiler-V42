@@ -7,22 +7,22 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-11-10T14:14:49.512413Z"
+    "last_seen": "2026-11-10T22:59:11.542998Z"
   },
   "lemonio": {
-    "company_name": "lemon.io",
+    "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-11-10T14:14:49.512418Z"
+    "last_seen": "2026-11-10T22:59:11.543002Z"
   },
   "imerit-technology": {
     "company_name": "iMerit Technology",
     "score": 15,
-    "last_seen": "2026-11-10T14:14:49.512420Z"
+    "last_seen": "2026-11-10T22:59:11.543005Z"
   },
   "bjak": {
     "company_name": "Bjak",
     "score": 15,
-    "last_seen": "2026-11-10T14:14:49.512457Z"
+    "last_seen": "2026-11-10T22:59:11.543030Z"
   },
   "ashby": {
     "company_name": "Ashby",
@@ -32,7 +32,7 @@
   "akicita-federal-llc": {
     "company_name": "Akicita Federal, LLC",
     "score": 15,
-    "last_seen": "2026-11-10T14:14:49.512455Z"
+    "last_seen": "2026-11-10T22:59:11.543028Z"
   },
   "askable": {
     "company_name": "Askable",
@@ -42,12 +42,12 @@
   "destination-careers": {
     "company_name": "Destination Careers",
     "score": 15,
-    "last_seen": "2026-11-10T14:14:49.512453Z"
+    "last_seen": "2026-11-10T22:59:11.543026Z"
   },
   "toptal": {
     "company_name": "Toptal",
-    "score": 14,
-    "last_seen": "2026-11-10T14:14:49.512451Z"
+    "score": 15,
+    "last_seen": "2026-11-10T22:59:11.543025Z"
   },
   "extrahop": {
     "company_name": "ExtraHop",
@@ -56,57 +56,57 @@
   },
   "elevenlabs": {
     "company_name": "Elevenlabs",
-    "score": 12,
+    "score": 11,
     "last_seen": "2026-11-09T03:43:43.780407Z"
   },
   "1password": {
     "company_name": "1Password",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-11-10T01:17:25.735578Z"
   },
   "walmart": {
     "company_name": "Walmart",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-11-08T03:18:54.496123Z"
   },
   "ansys": {
     "company_name": "Ansys",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-11-08T03:18:54.496127Z"
   },
   "tiktok": {
     "company_name": "TikTok",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-11-08T03:18:54.496125Z"
   },
   "palo-alto-networks": {
     "company_name": "Palo Alto Networks",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-11-08T03:18:54.496130Z"
   },
   "jpmorgan-chase": {
     "company_name": "JPMorgan Chase",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-11-08T03:18:54.496132Z"
   },
   "healthfirst": {
     "company_name": "Healthfirst",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-11-08T03:18:54.496138Z"
   },
   "the-tjx-companies-inc": {
     "company_name": "The TJX Companies, Inc.",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-11-08T03:18:54.496134Z"
   },
   "meta": {
     "company_name": "Meta",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-11-08T03:18:54.496140Z"
   },
   "welo-global": {
     "company_name": "Welo Global",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-11-09T14:52:40.880925Z"
   },
   "wrapbook": {
@@ -116,17 +116,17 @@
   },
   "canonical": {
     "company_name": "Canonical",
-    "score": 6,
-    "last_seen": "2026-11-07T21:25:26.425445Z"
+    "score": 7,
+    "last_seen": "2026-11-10T22:59:11.543007Z"
   },
   "binance": {
     "company_name": "Binance",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-11-08T12:37:22.614694Z"
   },
   "emplyfy": {
     "company_name": "Emplyfy",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-11-10T14:14:49.512446Z"
   },
   "coopers-group-ag": {
@@ -134,69 +134,69 @@
     "score": 5,
     "last_seen": "2026-11-10T14:14:49.512449Z"
   },
+  "halter": {
+    "company_name": "Halter",
+    "score": 5,
+    "last_seen": "2026-11-10T22:59:11.543015Z"
+  },
   "cantina-labs": {
     "company_name": "Cantina Labs",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-11-10T14:14:49.512437Z"
+  },
+  "angeheuert-gmbh": {
+    "company_name": "ANGEHEUERT GmbH",
+    "score": 4,
+    "last_seen": "2026-11-10T22:59:11.543023Z"
+  },
+  "horizon3ai": {
+    "company_name": "Horizon3.ai",
+    "score": 4,
+    "last_seen": "2026-11-10T22:59:11.543013Z"
+  },
+  "intelance": {
+    "company_name": "Intelance",
+    "score": 4,
+    "last_seen": "2026-11-10T22:59:11.543021Z"
   },
   "juniper-square": {
     "company_name": "Juniper Square",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-11-09T14:52:40.880934Z"
   },
   "swisspeak-partners-gmbh": {
     "company_name": "SwissPeak Partners GmbH",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-11-10T01:17:25.735582Z"
   },
   "databricks": {
     "company_name": "Databricks",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-11-10T01:17:25.735577Z"
-  },
-  "halter": {
-    "company_name": "Halter",
-    "score": 4,
-    "last_seen": "2026-11-10T14:14:49.512436Z"
   },
   "panopto": {
     "company_name": "Panopto",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-11-10T14:14:49.512424Z"
   },
   "pubnub": {
     "company_name": "PubNub",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-11-10T14:14:49.512439Z"
-  },
-  "datadog": {
-    "company_name": "Datadog",
-    "score": 3,
-    "last_seen": "2026-11-09T14:52:40.880923Z"
-  },
-  "notabene": {
-    "company_name": "Notabene",
-    "score": 3,
-    "last_seen": "2026-11-10T01:17:25.735566Z"
   },
   "cai": {
     "company_name": "CAI",
     "score": 3,
     "last_seen": "2026-11-07T12:20:36.577911Z"
   },
-  "mom8217s-meals": {
-    "company_name": "Mom&#8217;s Meals",
+  "reedsy": {
+    "company_name": "Reedsy",
     "score": 3,
-    "last_seen": "2026-11-10T14:14:49.512422Z"
+    "last_seen": "2026-11-10T22:59:11.543017Z"
   },
-  "deepgram": {
-    "company_name": "Deepgram",
+  "hyperhug": {
+    "company_name": "HyperHug",
     "score": 3,
-    "last_seen": "2026-11-10T14:14:49.512425Z"
-  },
-  "angeheuert-gmbh": {
-    "company_name": "ANGEHEUERT GmbH",
-    "score": 3,
-    "last_seen": "2026-11-10T14:14:49.512450Z"
+    "last_seen": "2026-11-10T22:59:11.543020Z"
   }
 }
