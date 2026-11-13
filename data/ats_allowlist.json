@@ -12,17 +12,17 @@
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-11-12T23:10:10.545166Z"
+    "last_seen": "2026-11-13T04:08:34.925391Z"
   },
   "imerit-technology": {
     "company_name": "iMerit Technology",
     "score": 15,
-    "last_seen": "2026-11-12T23:10:10.545174Z"
+    "last_seen": "2026-11-13T04:08:34.925399Z"
   },
   "bjak": {
     "company_name": "Bjak",
     "score": 15,
-    "last_seen": "2026-11-12T23:10:10.545198Z"
+    "last_seen": "2026-11-13T04:08:34.925433Z"
   },
   "ashby": {
     "company_name": "Ashby",
@@ -32,7 +32,7 @@
   "akicita-federal-llc": {
     "company_name": "Akicita Federal, LLC",
     "score": 15,
-    "last_seen": "2026-11-12T23:10:10.545195Z"
+    "last_seen": "2026-11-13T04:08:34.925430Z"
   },
   "askable": {
     "company_name": "Askable",
@@ -42,87 +42,97 @@
   "destination-careers": {
     "company_name": "Destination Careers",
     "score": 15,
-    "last_seen": "2026-11-12T23:10:10.545192Z"
+    "last_seen": "2026-11-13T04:08:34.925427Z"
   },
   "toptal": {
     "company_name": "Toptal",
     "score": 15,
-    "last_seen": "2026-11-12T23:10:10.545190Z"
+    "last_seen": "2026-11-13T04:08:34.925425Z"
   },
   "chainguard": {
     "company_name": "Chainguard",
-    "score": 14,
-    "last_seen": "2026-11-12T04:57:23.129906Z"
-  },
-  "deepgram": {
-    "company_name": "Deepgram",
     "score": 13,
-    "last_seen": "2026-11-12T04:57:23.129909Z"
+    "last_seen": "2026-11-12T04:57:23.129906Z"
   },
   "extrahop": {
     "company_name": "ExtraHop",
     "score": 13,
     "last_seen": "2026-11-07T12:20:36.577900Z"
   },
+  "deepgram": {
+    "company_name": "Deepgram",
+    "score": 12,
+    "last_seen": "2026-11-12T04:57:23.129909Z"
+  },
+  "nearform": {
+    "company_name": "Nearform",
+    "score": 10,
+    "last_seen": "2026-11-13T04:08:34.925416Z"
+  },
   "everai": {
     "company_name": "EverAI",
-    "score": 10,
+    "score": 9,
     "last_seen": "2026-11-12T04:57:23.129894Z"
+  },
+  "gitlab": {
+    "company_name": "gitlab",
+    "score": 8,
+    "last_seen": "2026-11-13T04:08:34.925418Z"
   },
   "wrapbook": {
     "company_name": "Wrapbook",
     "score": 7,
     "last_seen": "2026-10-26T18:00:22.579522Z"
   },
-  "gitlab": {
-    "company_name": "gitlab",
-    "score": 7,
-    "last_seen": "2026-11-12T23:10:10.545187Z"
-  },
   "grafana-labs": {
     "company_name": "Grafana Labs",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-11-11T13:23:41.923545Z"
+  },
+  "micro1": {
+    "company_name": "micro1",
+    "score": 5,
+    "last_seen": "2026-11-13T04:08:34.925435Z"
   },
   "elevenlabs": {
     "company_name": "Elevenlabs",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-11-09T03:43:43.780407Z"
+  },
+  "canonical": {
+    "company_name": "Canonical",
+    "score": 4,
+    "last_seen": "2026-11-13T04:08:34.925411Z"
+  },
+  "softgames": {
+    "company_name": "SOFTGAMES",
+    "score": 4,
+    "last_seen": "2026-11-13T04:08:34.925420Z"
+  },
+  "affiliatelandscape": {
+    "company_name": "AffiliateLandscape",
+    "score": 4,
+    "last_seen": "2026-11-13T04:08:34.925422Z"
+  },
+  "supabase": {
+    "company_name": "Supabase",
+    "score": 4,
+    "last_seen": "2026-11-13T04:08:34.925413Z"
   },
   "1password": {
     "company_name": "1Password",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-11-10T01:17:25.735578Z"
   },
   "3y-health": {
     "company_name": "3Y Health",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-11-12T04:57:23.129901Z"
-  },
-  "micro1": {
-    "company_name": "micro1",
-    "score": 4,
-    "last_seen": "2026-11-12T14:23:26.406862Z"
   },
   "datadog": {
     "company_name": "Datadog",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-11-12T14:23:26.406839Z"
-  },
-  "canonical": {
-    "company_name": "Canonical",
-    "score": 3,
-    "last_seen": "2026-11-11T03:53:08.303395Z"
-  },
-  "particle41": {
-    "company_name": "Particle41",
-    "score": 3,
-    "last_seen": "2026-11-12T04:57:23.129904Z"
-  },
-  "welo-global": {
-    "company_name": "Welo Global",
-    "score": 3,
-    "last_seen": "2026-11-12T14:23:26.406830Z"
   },
   "nivoda": {
     "company_name": "Nivoda",
@@ -144,59 +154,49 @@
     "score": 3,
     "last_seen": "2026-11-11T13:23:41.923547Z"
   },
-  "softgames": {
-    "company_name": "SOFTGAMES",
+  "halter": {
+    "company_name": "Halter",
     "score": 3,
-    "last_seen": "2026-11-12T23:10:10.545177Z"
+    "last_seen": "2026-11-13T04:08:34.925406Z"
   },
-  "affiliatelandscape": {
-    "company_name": "AffiliateLandscape",
-    "score": 3,
-    "last_seen": "2026-11-12T23:10:10.545180Z"
+  "particle41": {
+    "company_name": "Particle41",
+    "score": 2,
+    "last_seen": "2026-11-12T04:57:23.129904Z"
+  },
+  "welo-global": {
+    "company_name": "Welo Global",
+    "score": 2,
+    "last_seen": "2026-11-12T14:23:26.406830Z"
+  },
+  "jade-biosciences": {
+    "company_name": "Jade Biosciences",
+    "score": 2,
+    "last_seen": "2026-11-13T04:08:34.925403Z"
+  },
+  "horizon3ai": {
+    "company_name": "Horizon3.ai",
+    "score": 2,
+    "last_seen": "2026-11-13T04:08:34.925409Z"
   },
   "walmart": {
     "company_name": "Walmart",
-    "score": 2,
+    "score": 1,
     "last_seen": "2026-11-08T03:18:54.496123Z"
   },
   "ansys": {
     "company_name": "Ansys",
-    "score": 2,
+    "score": 1,
     "last_seen": "2026-11-08T03:18:54.496127Z"
   },
   "tiktok": {
     "company_name": "TikTok",
-    "score": 2,
+    "score": 1,
     "last_seen": "2026-11-08T03:18:54.496125Z"
   },
   "palo-alto-networks": {
     "company_name": "Palo Alto Networks",
-    "score": 2,
+    "score": 1,
     "last_seen": "2026-11-08T03:18:54.496130Z"
-  },
-  "jpmorgan-chase": {
-    "company_name": "JPMorgan Chase",
-    "score": 2,
-    "last_seen": "2026-11-08T03:18:54.496132Z"
-  },
-  "healthfirst": {
-    "company_name": "Healthfirst",
-    "score": 2,
-    "last_seen": "2026-11-08T03:18:54.496138Z"
-  },
-  "the-tjx-companies-inc": {
-    "company_name": "The TJX Companies, Inc.",
-    "score": 2,
-    "last_seen": "2026-11-08T03:18:54.496134Z"
-  },
-  "meta": {
-    "company_name": "Meta",
-    "score": 2,
-    "last_seen": "2026-11-08T03:18:54.496140Z"
-  },
-  "halter": {
-    "company_name": "Halter",
-    "score": 2,
-    "last_seen": "2026-11-11T03:53:08.303405Z"
   }
 }
