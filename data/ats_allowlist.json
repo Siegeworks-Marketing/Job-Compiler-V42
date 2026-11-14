@@ -7,12 +7,12 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-11-14T12:48:16.018636Z"
+    "last_seen": "2026-11-14T21:57:20.000550Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-11-14T12:48:16.018646Z"
+    "last_seen": "2026-11-14T21:57:20.000559Z"
   },
   "imerit-technology": {
     "company_name": "iMerit Technology",
@@ -22,7 +22,7 @@
   "bjak": {
     "company_name": "Bjak",
     "score": 15,
-    "last_seen": "2026-11-14T12:48:16.018690Z"
+    "last_seen": "2026-11-14T21:57:20.000575Z"
   },
   "ashby": {
     "company_name": "Ashby",
@@ -32,7 +32,7 @@
   "akicita-federal-llc": {
     "company_name": "Akicita Federal, LLC",
     "score": 15,
-    "last_seen": "2026-11-14T12:48:16.018687Z"
+    "last_seen": "2026-11-14T21:57:20.000573Z"
   },
   "askable": {
     "company_name": "Askable",
@@ -42,12 +42,12 @@
   "destination-careers": {
     "company_name": "Destination Careers",
     "score": 15,
-    "last_seen": "2026-11-14T12:48:16.018685Z"
+    "last_seen": "2026-11-14T21:57:20.000571Z"
   },
   "toptal": {
     "company_name": "Toptal",
     "score": 15,
-    "last_seen": "2026-11-14T12:48:16.018683Z"
+    "last_seen": "2026-11-14T21:57:20.000569Z"
   },
   "extrahop": {
     "company_name": "ExtraHop",
@@ -56,27 +56,27 @@
   },
   "chainguard": {
     "company_name": "Chainguard",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-11-12T04:57:23.129906Z"
   },
   "deepgram": {
     "company_name": "Deepgram",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-11-12T04:57:23.129909Z"
   },
   "nearform": {
     "company_name": "Nearform",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-11-14T12:48:16.018675Z"
   },
   "gitlab": {
     "company_name": "gitlab",
-    "score": 8,
-    "last_seen": "2026-11-14T12:48:16.018679Z"
+    "score": 9,
+    "last_seen": "2026-11-14T21:57:20.000564Z"
   },
   "quest-defense-systems-038-solutions-inc": {
     "company_name": "Quest Defense Systems &#038; Solutions, Inc.",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-11-14T04:02:03.189093Z"
   },
   "wrapbook": {
@@ -86,47 +86,47 @@
   },
   "coopers-group-ag": {
     "company_name": "Coopers Group AG",
-    "score": 6,
-    "last_seen": "2026-11-14T12:48:16.018680Z"
+    "score": 7,
+    "last_seen": "2026-11-14T21:57:20.000567Z"
   },
   "everai": {
     "company_name": "EverAI",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-11-12T04:57:23.129894Z"
   },
   "micro1": {
     "company_name": "micro1",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-11-13T23:13:33.421698Z"
   },
   "crosscountry-consulting": {
     "company_name": "CrossCountry Consulting",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-11-14T04:02:03.189098Z"
   },
   "welo-global": {
     "company_name": "Welo Global",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-11-14T12:48:16.018667Z"
   },
   "anima": {
     "company_name": "Anima",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-11-14T12:48:16.018671Z"
   },
   "nebius": {
     "company_name": "Nebius",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-11-14T12:48:16.018673Z"
   },
   "who-gives-a-crap": {
     "company_name": "Who Gives A Crap",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-11-14T04:02:03.189091Z"
   },
   "horizon3ai": {
     "company_name": "Horizon3.ai",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-11-14T04:02:03.189100Z"
   },
   "cai": {
@@ -141,17 +141,17 @@
   },
   "grafana-labs": {
     "company_name": "Grafana Labs",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-11-14T12:48:16.018669Z"
   },
   "apolloio": {
     "company_name": "Apollo.io",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-11-14T12:48:16.018661Z"
   },
   "smithrx": {
     "company_name": "SmithRx",
-    "score": 2,
+    "score": 1,
     "last_seen": "2026-11-14T04:02:03.189079Z"
   },
   "supabase": {
@@ -161,42 +161,42 @@
   },
   "defense-unicorns": {
     "company_name": "Defense Unicorns",
-    "score": 2,
+    "score": 1,
     "last_seen": "2026-11-14T12:48:16.018652Z"
   },
   "energy-exemplar": {
     "company_name": "Energy Exemplar",
-    "score": 2,
+    "score": 1,
     "last_seen": "2026-11-14T12:48:16.018655Z"
   },
   "clipboard": {
     "company_name": "Clipboard",
-    "score": 2,
+    "score": 1,
     "last_seen": "2026-11-14T12:48:16.018657Z"
   },
   "trm-labs": {
     "company_name": "TRM Labs",
-    "score": 2,
+    "score": 1,
     "last_seen": "2026-11-14T12:48:16.018659Z"
   },
   "visual-concepts": {
     "company_name": "Visual Concepts",
-    "score": 2,
+    "score": 1,
     "last_seen": "2026-11-14T12:48:16.018663Z"
   },
   "customerio": {
     "company_name": "Customer.io",
-    "score": 2,
+    "score": 1,
     "last_seen": "2026-11-14T12:48:16.018665Z"
   },
   "valdera": {
     "company_name": "Valdera",
-    "score": 2,
+    "score": 1,
     "last_seen": "2026-11-14T12:48:16.018676Z"
   },
-  "halter": {
-    "company_name": "Halter",
-    "score": 1,
-    "last_seen": "2026-11-13T13:42:16.383855Z"
+  "access-destination-services": {
+    "company_name": "Access Destination Services",
+    "score": 2,
+    "last_seen": "2026-11-14T21:57:20.000562Z"
   }
 }
