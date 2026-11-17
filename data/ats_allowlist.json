@@ -7,12 +7,12 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-11-17T01:25:52.058488Z"
+    "last_seen": "2026-11-17T15:17:04.343401Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-11-17T01:25:52.058496Z"
+    "last_seen": "2026-11-17T15:17:04.343406Z"
   },
   "imerit-technology": {
     "company_name": "iMerit Technology",
@@ -22,7 +22,7 @@
   "bjak": {
     "company_name": "Bjak",
     "score": 15,
-    "last_seen": "2026-11-17T01:25:52.058530Z"
+    "last_seen": "2026-11-17T15:17:04.343433Z"
   },
   "ashby": {
     "company_name": "Ashby",
@@ -32,31 +32,31 @@
   "akicita-federal-llc": {
     "company_name": "Akicita Federal, LLC",
     "score": 15,
-    "last_seen": "2026-11-17T01:25:52.058529Z"
-  },
-  "askable": {
-    "company_name": "Askable",
-    "score": 15,
-    "last_seen": "2026-11-09T14:52:40.880913Z"
+    "last_seen": "2026-11-17T15:17:04.343432Z"
   },
   "destination-careers": {
     "company_name": "Destination Careers",
     "score": 15,
-    "last_seen": "2026-11-17T01:25:52.058527Z"
+    "last_seen": "2026-11-17T15:17:04.343430Z"
   },
   "toptal": {
     "company_name": "Toptal",
     "score": 15,
-    "last_seen": "2026-11-17T01:25:52.058525Z"
+    "last_seen": "2026-11-17T15:17:04.343428Z"
+  },
+  "askable": {
+    "company_name": "Askable",
+    "score": 14,
+    "last_seen": "2026-11-09T14:52:40.880913Z"
   },
   "gitlab": {
     "company_name": "gitlab",
-    "score": 14,
+    "score": 13,
     "last_seen": "2026-11-17T01:25:52.058509Z"
   },
   "extrahop": {
     "company_name": "ExtraHop",
-    "score": 10,
+    "score": 9,
     "last_seen": "2026-11-07T12:20:36.577900Z"
   },
   "wrapbook": {
@@ -64,9 +64,14 @@
     "score": 7,
     "last_seen": "2026-10-26T18:00:22.579522Z"
   },
+  "mineralys-therapeutics": {
+    "company_name": "Mineralys Therapeutics",
+    "score": 7,
+    "last_seen": "2026-11-17T15:17:04.343412Z"
+  },
   "samsara": {
     "company_name": "Samsara",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-11-17T01:25:52.058504Z"
   },
   "coopers-group-ag": {
@@ -76,23 +81,13 @@
   },
   "temporal-technologies": {
     "company_name": "Temporal Technologies",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-11-17T01:25:52.058502Z"
   },
   "grafana-labs": {
     "company_name": "Grafana Labs",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-11-16T03:45:57.840635Z"
-  },
-  "chainguard": {
-    "company_name": "Chainguard",
-    "score": 3,
-    "last_seen": "2026-11-12T04:57:23.129906Z"
-  },
-  "maven-clinic": {
-    "company_name": "Maven Clinic",
-    "score": 3,
-    "last_seen": "2026-11-16T03:45:57.840639Z"
   },
   "cai": {
     "company_name": "CAI",
@@ -109,94 +104,99 @@
     "score": 3,
     "last_seen": "2026-11-16T14:27:33.068111Z"
   },
+  "quest-defense-systems-038-solutions-inc": {
+    "company_name": "Quest Defense Systems &#038; Solutions, Inc.",
+    "score": 3,
+    "last_seen": "2026-11-17T15:17:04.343419Z"
+  },
+  "lemonade": {
+    "company_name": "Lemonade",
+    "score": 3,
+    "last_seen": "2026-11-17T15:17:04.343416Z"
+  },
+  "axon": {
+    "company_name": "Axon",
+    "score": 3,
+    "last_seen": "2026-11-17T15:17:04.343408Z"
+  },
+  "alimentiv": {
+    "company_name": "Alimentiv",
+    "score": 3,
+    "last_seen": "2026-11-17T15:17:04.343410Z"
+  },
+  "apolloio": {
+    "company_name": "Apollo.io",
+    "score": 3,
+    "last_seen": "2026-11-17T15:17:04.343414Z"
+  },
+  "thumbtack": {
+    "company_name": "Thumbtack",
+    "score": 3,
+    "last_seen": "2026-11-17T15:17:04.343415Z"
+  },
+  "chainguard": {
+    "company_name": "Chainguard",
+    "score": 2,
+    "last_seen": "2026-11-12T04:57:23.129906Z"
+  },
+  "maven-clinic": {
+    "company_name": "Maven Clinic",
+    "score": 2,
+    "last_seen": "2026-11-16T03:45:57.840639Z"
+  },
   "elevenlabs": {
     "company_name": "Elevenlabs",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-11-17T01:25:52.058508Z"
   },
   "docplanner": {
     "company_name": "Docplanner",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-11-17T01:25:52.058506Z"
   },
   "consensys": {
     "company_name": "Consensys",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-11-17T01:25:52.058511Z"
   },
   "amplify": {
     "company_name": "Amplify",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-11-17T01:25:52.058514Z"
-  },
-  "quest-defense-systems-038-solutions-inc": {
-    "company_name": "Quest Defense Systems &#038; Solutions, Inc.",
-    "score": 2,
-    "last_seen": "2026-11-15T03:48:20.223722Z"
-  },
-  "access-destination-services": {
-    "company_name": "Access Destination Services",
-    "score": 2,
-    "last_seen": "2026-11-15T22:22:41.848820Z"
-  },
-  "zscaler": {
-    "company_name": "Zscaler",
-    "score": 2,
-    "last_seen": "2026-11-16T03:45:57.840632Z"
-  },
-  "rush-street-interactive": {
-    "company_name": "Rush Street Interactive",
-    "score": 2,
-    "last_seen": "2026-11-16T14:27:33.068093Z"
-  },
-  "classdojo": {
-    "company_name": "ClassDojo",
-    "score": 2,
-    "last_seen": "2026-11-16T14:27:33.068101Z"
   },
   "supabase": {
     "company_name": "Supabase",
     "score": 2,
     "last_seen": "2026-11-13T04:08:34.925413Z"
   },
-  "customerio": {
-    "company_name": "Customer.io",
-    "score": 2,
-    "last_seen": "2026-11-16T14:27:33.068104Z"
-  },
-  "lemonade": {
-    "company_name": "Lemonade",
-    "score": 2,
-    "last_seen": "2026-11-17T01:25:52.058499Z"
-  },
-  "ae-studio": {
-    "company_name": "AE Studio",
-    "score": 2,
-    "last_seen": "2026-11-17T01:25:52.058512Z"
-  },
-  "halter": {
-    "company_name": "Halter",
-    "score": 2,
-    "last_seen": "2026-11-17T01:25:52.058515Z"
-  },
-  "nerdwallet": {
-    "company_name": "NerdWallet",
-    "score": 2,
-    "last_seen": "2026-11-17T01:25:52.058516Z"
-  },
-  "huntress": {
-    "company_name": "Huntress",
-    "score": 2,
-    "last_seen": "2026-11-17T01:25:52.058518Z"
-  },
-  "surplex-gmbh": {
-    "company_name": "Surplex GmbH",
-    "score": 2,
-    "last_seen": "2026-11-17T01:25:52.058520Z"
-  },
   "patrique-mercier-recruitment-fr": {
     "company_name": "Patrique Mercier Recruitment Fr",
     "score": 2,
     "last_seen": "2026-11-17T01:25:52.058521Z"
+  },
+  "appen": {
+    "company_name": "Appen",
+    "score": 2,
+    "last_seen": "2026-11-17T15:17:04.343418Z"
+  },
+  "mythic": {
+    "company_name": "Mythic",
+    "score": 2,
+    "last_seen": "2026-11-17T15:17:04.343420Z"
+  },
+  "elation-health": {
+    "company_name": "Elation Health",
+    "score": 2,
+    "last_seen": "2026-11-17T15:17:04.343421Z"
+  },
+  "cloudbeds": {
+    "company_name": "Cloudbeds",
+    "score": 2,
+    "last_seen": "2026-11-17T15:17:04.343423Z"
+  },
+  "language-services-associates": {
+    "company_name": "Language Services Associates",
+    "score": 2,
+    "last_seen": "2026-11-17T15:17:04.343424Z"
   }
 }
