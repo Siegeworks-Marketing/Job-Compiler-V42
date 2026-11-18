@@ -7,12 +7,12 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-11-18T14:57:55.261676Z"
+    "last_seen": "2026-11-18T23:54:10.400692Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-11-18T14:57:55.261685Z"
+    "last_seen": "2026-11-18T23:54:10.400699Z"
   },
   "imerit-technology": {
     "company_name": "iMerit Technology",
@@ -22,7 +22,7 @@
   "bjak": {
     "company_name": "Bjak",
     "score": 15,
-    "last_seen": "2026-11-18T14:57:55.261729Z"
+    "last_seen": "2026-11-18T23:54:10.400730Z"
   },
   "ashby": {
     "company_name": "Ashby",
@@ -32,17 +32,17 @@
   "akicita-federal-llc": {
     "company_name": "Akicita Federal, LLC",
     "score": 15,
-    "last_seen": "2026-11-18T14:57:55.261727Z"
+    "last_seen": "2026-11-18T23:54:10.400729Z"
   },
   "destination-careers": {
     "company_name": "Destination Careers",
     "score": 15,
-    "last_seen": "2026-11-18T14:57:55.261724Z"
+    "last_seen": "2026-11-18T23:54:10.400727Z"
   },
   "toptal": {
     "company_name": "Toptal",
     "score": 15,
-    "last_seen": "2026-11-18T14:57:55.261722Z"
+    "last_seen": "2026-11-18T23:54:10.400726Z"
   },
   "gitlab": {
     "company_name": "gitlab",
@@ -51,13 +51,8 @@
   },
   "askable": {
     "company_name": "Askable",
-    "score": 12,
+    "score": 11,
     "last_seen": "2026-11-09T14:52:40.880913Z"
-  },
-  "extrahop": {
-    "company_name": "ExtraHop",
-    "score": 7,
-    "last_seen": "2026-11-07T12:20:36.577900Z"
   },
   "wrapbook": {
     "company_name": "Wrapbook",
@@ -69,45 +64,55 @@
     "score": 7,
     "last_seen": "2026-11-18T14:57:55.261706Z"
   },
+  "extrahop": {
+    "company_name": "ExtraHop",
+    "score": 6,
+    "last_seen": "2026-11-07T12:20:36.577900Z"
+  },
+  "mineralys-therapeutics": {
+    "company_name": "Mineralys Therapeutics",
+    "score": 6,
+    "last_seen": "2026-11-18T23:54:10.400709Z"
+  },
   "elevenlabs": {
     "company_name": "ElevenLabs",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-11-18T14:57:55.261714Z"
   },
   "micro1": {
     "company_name": "micro1",
-    "score": 6,
-    "last_seen": "2026-11-18T14:57:55.261732Z"
-  },
-  "mineralys-therapeutics": {
-    "company_name": "Mineralys Therapeutics",
     "score": 5,
-    "last_seen": "2026-11-17T15:17:04.343412Z"
+    "last_seen": "2026-11-18T14:57:55.261732Z"
   },
   "wellhub": {
     "company_name": "Wellhub",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-11-18T00:21:53.653804Z"
   },
   "welo-global": {
     "company_name": "Welo Global",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-11-18T00:21:53.653807Z"
   },
   "dreem-health": {
     "company_name": "Dreem Health",
-    "score": 5,
-    "last_seen": "2026-11-18T00:21:53.653818Z"
-  },
-  "veracyte": {
-    "company_name": "Veracyte",
     "score": 4,
-    "last_seen": "2026-11-18T00:21:53.653812Z"
+    "last_seen": "2026-11-18T00:21:53.653818Z"
   },
   "samsara": {
     "company_name": "Samsara",
+    "score": 4,
+    "last_seen": "2026-11-18T23:54:10.400702Z"
+  },
+  "rfa": {
+    "company_name": "RFA",
+    "score": 4,
+    "last_seen": "2026-11-18T23:54:10.400714Z"
+  },
+  "veracyte": {
+    "company_name": "Veracyte",
     "score": 3,
-    "last_seen": "2026-11-17T01:25:52.058504Z"
+    "last_seen": "2026-11-18T00:21:53.653812Z"
   },
   "coopers-group-ag": {
     "company_name": "Coopers Group AG",
@@ -129,74 +134,69 @@
     "score": 3,
     "last_seen": "2026-11-16T14:27:33.068111Z"
   },
+  "temporal-technologies": {
+    "company_name": "Temporal Technologies",
+    "score": 3,
+    "last_seen": "2026-11-18T23:54:10.400717Z"
+  },
+  "cookunity": {
+    "company_name": "CookUnity",
+    "score": 3,
+    "last_seen": "2026-11-18T23:54:10.400704Z"
+  },
+  "sayari": {
+    "company_name": "Sayari",
+    "score": 3,
+    "last_seen": "2026-11-18T23:54:10.400711Z"
+  },
+  "huntress": {
+    "company_name": "Huntress",
+    "score": 3,
+    "last_seen": "2026-11-18T23:54:10.400712Z"
+  },
+  "vantage": {
+    "company_name": "Vantage",
+    "score": 3,
+    "last_seen": "2026-11-18T23:54:10.400713Z"
+  },
+  "agentixlake-gmbh": {
+    "company_name": "AgentixLake GmbH",
+    "score": 3,
+    "last_seen": "2026-11-18T23:54:10.400722Z"
+  },
   "assetwatch": {
     "company_name": "AssetWatch",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-11-18T14:57:55.261693Z"
   },
   "candid-intelligence": {
     "company_name": "Candid Intelligence",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-11-18T14:57:55.261704Z"
   },
   "fandom": {
     "company_name": "Fandom",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-11-18T14:57:55.261710Z"
-  },
-  "temporal-technologies": {
-    "company_name": "Temporal Technologies",
-    "score": 2,
-    "last_seen": "2026-11-17T01:25:52.058502Z"
-  },
-  "tekmetric": {
-    "company_name": "Tekmetric",
-    "score": 2,
-    "last_seen": "2026-11-18T00:21:53.653817Z"
-  },
-  "qualia": {
-    "company_name": "Qualia",
-    "score": 2,
-    "last_seen": "2026-11-18T00:21:53.653820Z"
-  },
-  "inato": {
-    "company_name": "Inato",
-    "score": 2,
-    "last_seen": "2026-11-18T00:21:53.653830Z"
   },
   "supabase": {
     "company_name": "Supabase",
     "score": 2,
     "last_seen": "2026-11-13T04:08:34.925413Z"
   },
-  "workwave": {
-    "company_name": "WorkWave",
+  "xenon-pharmaceuticals-inc": {
+    "company_name": "Xenon Pharmaceuticals Inc.",
     "score": 2,
-    "last_seen": "2026-11-18T14:57:55.261689Z"
+    "last_seen": "2026-11-18T23:54:10.400706Z"
   },
-  "cointracker": {
-    "company_name": "CoinTracker",
+  "superside": {
+    "company_name": "Superside",
     "score": 2,
-    "last_seen": "2026-11-18T14:57:55.261695Z"
+    "last_seen": "2026-11-18T23:54:10.400707Z"
   },
-  "knowbe4-inc": {
-    "company_name": "KnowBe4, Inc.",
+  "zscaler": {
+    "company_name": "Zscaler",
     "score": 2,
-    "last_seen": "2026-11-18T14:57:55.261698Z"
-  },
-  "homebound": {
-    "company_name": "Homebound",
-    "score": 2,
-    "last_seen": "2026-11-18T14:57:55.261700Z"
-  },
-  "upbound": {
-    "company_name": "UpBound",
-    "score": 2,
-    "last_seen": "2026-11-18T14:57:55.261702Z"
-  },
-  "language-services-associates": {
-    "company_name": "Language Services Associates",
-    "score": 2,
-    "last_seen": "2026-11-18T14:57:55.261708Z"
+    "last_seen": "2026-11-18T23:54:10.400716Z"
   }
 }
