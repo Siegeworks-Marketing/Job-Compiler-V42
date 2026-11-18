@@ -7,12 +7,12 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-11-17T15:17:04.343401Z"
+    "last_seen": "2026-11-18T00:21:53.653793Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-11-17T15:17:04.343406Z"
+    "last_seen": "2026-11-18T00:21:53.653800Z"
   },
   "imerit-technology": {
     "company_name": "iMerit Technology",
@@ -22,41 +22,41 @@
   "bjak": {
     "company_name": "Bjak",
     "score": 15,
-    "last_seen": "2026-11-17T15:17:04.343433Z"
+    "last_seen": "2026-11-18T00:21:53.653850Z"
   },
   "ashby": {
     "company_name": "Ashby",
     "score": 15,
-    "last_seen": "2026-11-16T14:27:33.068116Z"
+    "last_seen": "2026-11-18T00:21:53.653833Z"
   },
   "akicita-federal-llc": {
     "company_name": "Akicita Federal, LLC",
     "score": 15,
-    "last_seen": "2026-11-17T15:17:04.343432Z"
+    "last_seen": "2026-11-18T00:21:53.653847Z"
   },
   "destination-careers": {
     "company_name": "Destination Careers",
     "score": 15,
-    "last_seen": "2026-11-17T15:17:04.343430Z"
+    "last_seen": "2026-11-18T00:21:53.653844Z"
   },
   "toptal": {
     "company_name": "Toptal",
     "score": 15,
-    "last_seen": "2026-11-17T15:17:04.343428Z"
-  },
-  "askable": {
-    "company_name": "Askable",
-    "score": 14,
-    "last_seen": "2026-11-09T14:52:40.880913Z"
+    "last_seen": "2026-11-18T00:21:53.653842Z"
   },
   "gitlab": {
     "company_name": "gitlab",
+    "score": 14,
+    "last_seen": "2026-11-18T00:21:53.653835Z"
+  },
+  "askable": {
+    "company_name": "Askable",
     "score": 13,
-    "last_seen": "2026-11-17T01:25:52.058509Z"
+    "last_seen": "2026-11-09T14:52:40.880913Z"
   },
   "extrahop": {
     "company_name": "ExtraHop",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-11-07T12:20:36.577900Z"
   },
   "wrapbook": {
@@ -66,28 +66,43 @@
   },
   "mineralys-therapeutics": {
     "company_name": "Mineralys Therapeutics",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-11-17T15:17:04.343412Z"
+  },
+  "wellhub": {
+    "company_name": "Wellhub",
+    "score": 6,
+    "last_seen": "2026-11-18T00:21:53.653804Z"
+  },
+  "welo-global": {
+    "company_name": "Welo Global",
+    "score": 6,
+    "last_seen": "2026-11-18T00:21:53.653807Z"
+  },
+  "veracyte": {
+    "company_name": "Veracyte",
+    "score": 5,
+    "last_seen": "2026-11-18T00:21:53.653812Z"
+  },
+  "dreem-health": {
+    "company_name": "Dreem Health",
+    "score": 5,
+    "last_seen": "2026-11-18T00:21:53.653818Z"
   },
   "samsara": {
     "company_name": "Samsara",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-11-17T01:25:52.058504Z"
   },
   "coopers-group-ag": {
     "company_name": "Coopers Group AG",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-11-15T03:48:20.223743Z"
   },
   "temporal-technologies": {
     "company_name": "Temporal Technologies",
-    "score": 4,
-    "last_seen": "2026-11-17T01:25:52.058502Z"
-  },
-  "grafana-labs": {
-    "company_name": "Grafana Labs",
     "score": 3,
-    "last_seen": "2026-11-16T03:45:57.840635Z"
+    "last_seen": "2026-11-17T01:25:52.058502Z"
   },
   "cai": {
     "company_name": "CAI",
@@ -104,99 +119,84 @@
     "score": 3,
     "last_seen": "2026-11-16T14:27:33.068111Z"
   },
+  "tekmetric": {
+    "company_name": "Tekmetric",
+    "score": 3,
+    "last_seen": "2026-11-18T00:21:53.653817Z"
+  },
+  "qualia": {
+    "company_name": "Qualia",
+    "score": 3,
+    "last_seen": "2026-11-18T00:21:53.653820Z"
+  },
+  "inato": {
+    "company_name": "Inato",
+    "score": 3,
+    "last_seen": "2026-11-18T00:21:53.653830Z"
+  },
+  "grafana-labs": {
+    "company_name": "Grafana Labs",
+    "score": 2,
+    "last_seen": "2026-11-16T03:45:57.840635Z"
+  },
   "quest-defense-systems-038-solutions-inc": {
     "company_name": "Quest Defense Systems &#038; Solutions, Inc.",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-11-17T15:17:04.343419Z"
   },
   "lemonade": {
     "company_name": "Lemonade",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-11-17T15:17:04.343416Z"
   },
   "axon": {
     "company_name": "Axon",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-11-17T15:17:04.343408Z"
   },
   "alimentiv": {
     "company_name": "Alimentiv",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-11-17T15:17:04.343410Z"
   },
   "apolloio": {
     "company_name": "Apollo.io",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-11-17T15:17:04.343414Z"
   },
   "thumbtack": {
     "company_name": "Thumbtack",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-11-17T15:17:04.343415Z"
-  },
-  "chainguard": {
-    "company_name": "Chainguard",
-    "score": 2,
-    "last_seen": "2026-11-12T04:57:23.129906Z"
-  },
-  "maven-clinic": {
-    "company_name": "Maven Clinic",
-    "score": 2,
-    "last_seen": "2026-11-16T03:45:57.840639Z"
-  },
-  "elevenlabs": {
-    "company_name": "Elevenlabs",
-    "score": 2,
-    "last_seen": "2026-11-17T01:25:52.058508Z"
-  },
-  "docplanner": {
-    "company_name": "Docplanner",
-    "score": 2,
-    "last_seen": "2026-11-17T01:25:52.058506Z"
-  },
-  "consensys": {
-    "company_name": "Consensys",
-    "score": 2,
-    "last_seen": "2026-11-17T01:25:52.058511Z"
-  },
-  "amplify": {
-    "company_name": "Amplify",
-    "score": 2,
-    "last_seen": "2026-11-17T01:25:52.058514Z"
   },
   "supabase": {
     "company_name": "Supabase",
     "score": 2,
     "last_seen": "2026-11-13T04:08:34.925413Z"
   },
-  "patrique-mercier-recruitment-fr": {
-    "company_name": "Patrique Mercier Recruitment Fr",
+  "enumerate": {
+    "company_name": "Enumerate",
     "score": 2,
-    "last_seen": "2026-11-17T01:25:52.058521Z"
+    "last_seen": "2026-11-18T00:21:53.653810Z"
   },
-  "appen": {
-    "company_name": "Appen",
+  "godaddy": {
+    "company_name": "GoDaddy",
     "score": 2,
-    "last_seen": "2026-11-17T15:17:04.343418Z"
+    "last_seen": "2026-11-18T00:21:53.653814Z"
   },
-  "mythic": {
-    "company_name": "Mythic",
+  "maze": {
+    "company_name": "Maze",
     "score": 2,
-    "last_seen": "2026-11-17T15:17:04.343420Z"
+    "last_seen": "2026-11-18T00:21:53.653822Z"
   },
-  "elation-health": {
-    "company_name": "Elation Health",
+  "zip": {
+    "company_name": "Zip",
     "score": 2,
-    "last_seen": "2026-11-17T15:17:04.343421Z"
+    "last_seen": "2026-11-18T00:21:53.653824Z"
   },
-  "cloudbeds": {
-    "company_name": "Cloudbeds",
+  "yubico": {
+    "company_name": "Yubico",
     "score": 2,
-    "last_seen": "2026-11-17T15:17:04.343423Z"
-  },
-  "language-services-associates": {
-    "company_name": "Language Services Associates",
-    "score": 2,
-    "last_seen": "2026-11-17T15:17:04.343424Z"
+    "last_seen": "2026-11-18T00:21:53.653826Z"
   }
 }
