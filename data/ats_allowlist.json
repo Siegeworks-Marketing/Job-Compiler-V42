@@ -7,12 +7,12 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-11-19T15:05:26.874358Z"
+    "last_seen": "2026-11-20T00:13:37.902763Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-11-19T15:05:26.874364Z"
+    "last_seen": "2026-11-20T00:13:37.902771Z"
   },
   "imerit-technology": {
     "company_name": "iMerit Technology",
@@ -22,7 +22,7 @@
   "bjak": {
     "company_name": "Bjak",
     "score": 15,
-    "last_seen": "2026-11-19T15:05:26.874383Z"
+    "last_seen": "2026-11-20T00:13:37.902801Z"
   },
   "ashby": {
     "company_name": "Ashby",
@@ -32,31 +32,31 @@
   "akicita-federal-llc": {
     "company_name": "Akicita Federal, LLC",
     "score": 15,
-    "last_seen": "2026-11-19T15:05:26.874402Z"
+    "last_seen": "2026-11-20T00:13:37.902800Z"
   },
   "destination-careers": {
     "company_name": "Destination Careers",
     "score": 15,
-    "last_seen": "2026-11-19T15:05:26.874399Z"
+    "last_seen": "2026-11-20T00:13:37.902798Z"
   },
   "toptal": {
     "company_name": "Toptal",
     "score": 15,
-    "last_seen": "2026-11-19T15:05:26.874398Z"
+    "last_seen": "2026-11-20T00:13:37.902796Z"
   },
   "gitlab": {
-    "company_name": "GitLab",
+    "company_name": "gitlab",
     "score": 15,
-    "last_seen": "2026-11-19T15:05:26.874370Z"
+    "last_seen": "2026-11-20T00:13:37.902793Z"
   },
   "avalara": {
     "company_name": "Avalara",
-    "score": 13,
+    "score": 12,
     "last_seen": "2026-11-19T05:03:08.675814Z"
   },
   "askable": {
     "company_name": "Askable",
-    "score": 9,
+    "score": 8,
     "last_seen": "2026-11-09T14:52:40.880913Z"
   },
   "wrapbook": {
@@ -66,68 +66,43 @@
   },
   "micro1": {
     "company_name": "micro1",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-11-19T15:05:26.874404Z"
   },
   "flex": {
     "company_name": "Flex",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-11-18T14:57:55.261706Z"
   },
   "mineralys-therapeutics": {
     "company_name": "Mineralys Therapeutics",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-11-19T05:03:08.675776Z"
   },
-  "extrahop": {
-    "company_name": "ExtraHop",
-    "score": 4,
-    "last_seen": "2026-11-07T12:20:36.577900Z"
-  },
-  "samsara": {
-    "company_name": "Samsara",
-    "score": 4,
-    "last_seen": "2026-11-19T05:03:08.675765Z"
-  },
-  "rfa": {
-    "company_name": "RFA",
-    "score": 4,
-    "last_seen": "2026-11-19T05:03:08.675785Z"
+  "remotejobsone": {
+    "company_name": "RemoteJobsOne",
+    "score": 5,
+    "last_seen": "2026-11-20T00:13:37.902803Z"
   },
   "elevenlabs": {
     "company_name": "ElevenLabs",
     "score": 4,
     "last_seen": "2026-11-18T14:57:55.261714Z"
   },
-  "temporal-technologies": {
-    "company_name": "Temporal Technologies",
+  "extrahop": {
+    "company_name": "ExtraHop",
     "score": 3,
-    "last_seen": "2026-11-19T05:03:08.675790Z"
+    "last_seen": "2026-11-07T12:20:36.577900Z"
   },
-  "cookunity": {
-    "company_name": "CookUnity",
+  "samsara": {
+    "company_name": "Samsara",
     "score": 3,
-    "last_seen": "2026-11-19T05:03:08.675768Z"
+    "last_seen": "2026-11-19T05:03:08.675765Z"
   },
-  "sayari": {
-    "company_name": "Sayari",
+  "rfa": {
+    "company_name": "RFA",
     "score": 3,
-    "last_seen": "2026-11-19T05:03:08.675778Z"
-  },
-  "huntress": {
-    "company_name": "Huntress",
-    "score": 3,
-    "last_seen": "2026-11-19T05:03:08.675781Z"
-  },
-  "vantage": {
-    "company_name": "Vantage",
-    "score": 3,
-    "last_seen": "2026-11-19T05:03:08.675783Z"
-  },
-  "coopers-group-ag": {
-    "company_name": "Coopers Group AG",
-    "score": 3,
-    "last_seen": "2026-11-15T03:48:20.223743Z"
+    "last_seen": "2026-11-19T05:03:08.675785Z"
   },
   "cai": {
     "company_name": "CAI",
@@ -149,50 +124,75 @@
     "score": 3,
     "last_seen": "2026-11-19T15:05:26.874373Z"
   },
+  "wellhub": {
+    "company_name": "Wellhub",
+    "score": 3,
+    "last_seen": "2026-11-20T00:13:37.902774Z"
+  },
+  "clipboard": {
+    "company_name": "Clipboard",
+    "score": 3,
+    "last_seen": "2026-11-20T00:13:37.902783Z"
+  },
+  "acutech-group-inc": {
+    "company_name": "AcuTech Group, Inc.",
+    "score": 3,
+    "last_seen": "2026-11-20T00:13:37.902784Z"
+  },
+  "luxury-presence": {
+    "company_name": "Luxury Presence",
+    "score": 3,
+    "last_seen": "2026-11-20T00:13:37.902786Z"
+  },
+  "defy-security": {
+    "company_name": "Defy Security",
+    "score": 3,
+    "last_seen": "2026-11-20T00:13:37.902790Z"
+  },
+  "temporal-technologies": {
+    "company_name": "Temporal Technologies",
+    "score": 2,
+    "last_seen": "2026-11-19T05:03:08.675790Z"
+  },
+  "cookunity": {
+    "company_name": "CookUnity",
+    "score": 2,
+    "last_seen": "2026-11-19T05:03:08.675768Z"
+  },
+  "sayari": {
+    "company_name": "Sayari",
+    "score": 2,
+    "last_seen": "2026-11-19T05:03:08.675778Z"
+  },
+  "huntress": {
+    "company_name": "Huntress",
+    "score": 2,
+    "last_seen": "2026-11-19T05:03:08.675781Z"
+  },
+  "vantage": {
+    "company_name": "Vantage",
+    "score": 2,
+    "last_seen": "2026-11-19T05:03:08.675783Z"
+  },
+  "coopers-group-ag": {
+    "company_name": "Coopers Group AG",
+    "score": 2,
+    "last_seen": "2026-11-15T03:48:20.223743Z"
+  },
   "fieldguide": {
     "company_name": "Fieldguide",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-11-19T15:05:26.874375Z"
   },
   "ping-identity": {
     "company_name": "Ping Identity",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-11-19T15:05:26.874377Z"
   },
   "gofasti": {
     "company_name": "GoFasti",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-11-19T15:05:26.874384Z"
-  },
-  "wellhub": {
-    "company_name": "Wellhub",
-    "score": 2,
-    "last_seen": "2026-11-18T00:21:53.653804Z"
-  },
-  "welo-global": {
-    "company_name": "Welo Global",
-    "score": 2,
-    "last_seen": "2026-11-18T00:21:53.653807Z"
-  },
-  "dreem-health": {
-    "company_name": "Dreem Health",
-    "score": 2,
-    "last_seen": "2026-11-18T00:21:53.653818Z"
-  },
-  "xenon-pharmaceuticals-inc": {
-    "company_name": "Xenon Pharmaceuticals Inc.",
-    "score": 2,
-    "last_seen": "2026-11-19T05:03:08.675771Z"
-  },
-  "superside": {
-    "company_name": "Superside",
-    "score": 2,
-    "last_seen": "2026-11-19T05:03:08.675774Z"
-  },
-  "zscaler": {
-    "company_name": "Zscaler",
-    "score": 2,
-    "last_seen": "2026-11-19T05:03:08.675787Z"
   },
   "supabase": {
     "company_name": "Supabase",
