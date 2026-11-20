@@ -7,51 +7,56 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-11-20T05:50:39.039918Z"
+    "last_seen": "2026-11-20T14:48:54.114855Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-11-20T05:50:39.039924Z"
+    "last_seen": "2026-11-20T14:48:54.114867Z"
   },
   "imerit-technology": {
     "company_name": "iMerit Technology",
     "score": 15,
     "last_seen": "2026-11-14T12:48:16.018650Z"
   },
-  "bjak": {
-    "company_name": "Bjak",
-    "score": 15,
-    "last_seen": "2026-11-20T05:50:39.039968Z"
-  },
-  "ashby": {
-    "company_name": "Ashby",
-    "score": 15,
-    "last_seen": "2026-11-19T15:05:26.874381Z"
-  },
   "akicita-federal-llc": {
     "company_name": "Akicita Federal, LLC",
     "score": 15,
-    "last_seen": "2026-11-20T05:50:39.039966Z"
+    "last_seen": "2026-11-20T14:48:54.114916Z"
   },
   "destination-careers": {
     "company_name": "Destination Careers",
     "score": 15,
-    "last_seen": "2026-11-20T05:50:39.039963Z"
+    "last_seen": "2026-11-20T14:48:54.114913Z"
   },
   "toptal": {
     "company_name": "Toptal",
     "score": 15,
-    "last_seen": "2026-11-20T05:50:39.039962Z"
+    "last_seen": "2026-11-20T14:48:54.114911Z"
   },
   "gitlab": {
-    "company_name": "gitlab",
+    "company_name": "GitLab",
     "score": 15,
-    "last_seen": "2026-11-20T05:50:39.039955Z"
+    "last_seen": "2026-11-20T14:48:54.114878Z"
+  },
+  "bjak": {
+    "company_name": "Bjak",
+    "score": 14,
+    "last_seen": "2026-11-20T05:50:39.039968Z"
+  },
+  "ashby": {
+    "company_name": "Ashby",
+    "score": 14,
+    "last_seen": "2026-11-19T15:05:26.874381Z"
+  },
+  "wpromote": {
+    "company_name": "Wpromote",
+    "score": 11,
+    "last_seen": "2026-11-20T14:48:54.114883Z"
   },
   "avalara": {
     "company_name": "Avalara",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-11-19T05:03:08.675814Z"
   },
   "askable": {
@@ -66,52 +71,77 @@
   },
   "micro1": {
     "company_name": "micro1",
+    "score": 6,
+    "last_seen": "2026-11-20T14:48:54.114918Z"
+  },
+  "phantom": {
+    "company_name": "Phantom",
+    "score": 6,
+    "last_seen": "2026-11-20T14:48:54.114887Z"
+  },
+  "lilt-production": {
+    "company_name": "LILT (Production)",
     "score": 5,
-    "last_seen": "2026-11-19T15:05:26.874404Z"
+    "last_seen": "2026-11-20T14:48:54.114894Z"
   },
   "elevenlabs": {
     "company_name": "ElevenLabs",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-11-20T05:50:39.039932Z"
-  },
-  "flex": {
-    "company_name": "Flex",
-    "score": 4,
-    "last_seen": "2026-11-18T14:57:55.261706Z"
-  },
-  "mineralys-therapeutics": {
-    "company_name": "Mineralys Therapeutics",
-    "score": 4,
-    "last_seen": "2026-11-19T05:03:08.675776Z"
   },
   "remotejobsone": {
     "company_name": "RemoteJobsOne",
     "score": 4,
     "last_seen": "2026-11-20T00:13:37.902803Z"
   },
+  "monzo": {
+    "company_name": "Monzo",
+    "score": 4,
+    "last_seen": "2026-11-20T14:48:54.114880Z"
+  },
+  "osano": {
+    "company_name": "Osano",
+    "score": 4,
+    "last_seen": "2026-11-20T14:48:54.114888Z"
+  },
+  "freshpaint": {
+    "company_name": "Freshpaint",
+    "score": 4,
+    "last_seen": "2026-11-20T14:48:54.114891Z"
+  },
+  "flex": {
+    "company_name": "Flex",
+    "score": 3,
+    "last_seen": "2026-11-18T14:57:55.261706Z"
+  },
+  "mineralys-therapeutics": {
+    "company_name": "Mineralys Therapeutics",
+    "score": 3,
+    "last_seen": "2026-11-19T05:03:08.675776Z"
+  },
   "wellhub": {
     "company_name": "Wellhub",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-11-20T05:50:39.039927Z"
   },
   "clipboard": {
     "company_name": "Clipboard",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-11-20T05:50:39.039940Z"
   },
   "acutech-group-inc": {
     "company_name": "AcuTech Group, Inc.",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-11-20T05:50:39.039942Z"
   },
   "luxury-presence": {
     "company_name": "Luxury Presence",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-11-20T05:50:39.039946Z"
   },
   "defy-security": {
     "company_name": "Defy Security",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-11-20T05:50:39.039951Z"
   },
   "cai": {
@@ -129,74 +159,44 @@
     "score": 3,
     "last_seen": "2026-11-16T14:27:33.068111Z"
   },
+  "binance": {
+    "company_name": "Binance",
+    "score": 3,
+    "last_seen": "2026-11-20T14:48:54.114870Z"
+  },
+  "armada": {
+    "company_name": "Armada",
+    "score": 3,
+    "last_seen": "2026-11-20T14:48:54.114873Z"
+  },
+  "fin": {
+    "company_name": "Fin",
+    "score": 3,
+    "last_seen": "2026-11-20T14:48:54.114885Z"
+  },
+  "coopers-group-ag": {
+    "company_name": "Coopers Group AG",
+    "score": 3,
+    "last_seen": "2026-11-20T14:48:54.114896Z"
+  },
   "payoneer": {
     "company_name": "Payoneer",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-11-19T15:05:26.874373Z"
   },
   "leland": {
     "company_name": "Leland",
-    "score": 3,
+    "score": 2,
     "last_seen": "2026-11-20T05:50:39.039971Z"
-  },
-  "extrahop": {
-    "company_name": "ExtraHop",
-    "score": 2,
-    "last_seen": "2026-11-07T12:20:36.577900Z"
-  },
-  "samsara": {
-    "company_name": "Samsara",
-    "score": 2,
-    "last_seen": "2026-11-19T05:03:08.675765Z"
-  },
-  "rfa": {
-    "company_name": "RFA",
-    "score": 2,
-    "last_seen": "2026-11-19T05:03:08.675785Z"
-  },
-  "fieldguide": {
-    "company_name": "Fieldguide",
-    "score": 2,
-    "last_seen": "2026-11-19T15:05:26.874375Z"
   },
   "supabase": {
     "company_name": "Supabase",
     "score": 2,
     "last_seen": "2026-11-13T04:08:34.925413Z"
   },
-  "cloudbeds": {
-    "company_name": "Cloudbeds",
-    "score": 2,
-    "last_seen": "2026-11-20T05:50:39.039929Z"
-  },
   "6sense": {
     "company_name": "6sense",
     "score": 2,
     "last_seen": "2026-11-20T05:50:39.039934Z"
-  },
-  "smartsheet": {
-    "company_name": "Smartsheet",
-    "score": 2,
-    "last_seen": "2026-11-20T05:50:39.039935Z"
-  },
-  "tripactions": {
-    "company_name": "TripActions",
-    "score": 2,
-    "last_seen": "2026-11-20T05:50:39.039938Z"
-  },
-  "stripe": {
-    "company_name": "Stripe",
-    "score": 2,
-    "last_seen": "2026-11-20T05:50:39.039944Z"
-  },
-  "valdera": {
-    "company_name": "Valdera",
-    "score": 2,
-    "last_seen": "2026-11-20T05:50:39.039948Z"
-  },
-  "inspiren": {
-    "company_name": "Inspiren",
-    "score": 2,
-    "last_seen": "2026-11-20T05:50:39.039949Z"
   }
 }
