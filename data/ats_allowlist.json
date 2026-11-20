@@ -1,62 +1,62 @@
 {
-  "tether-operations-limited": {
-    "company_name": "Tether Operations Limited",
-    "score": 15,
-    "last_seen": "2026-11-07T12:20:36.577945Z"
-  },
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-11-20T14:48:54.114855Z"
+    "last_seen": "2026-11-20T23:44:52.812960Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-11-20T14:48:54.114867Z"
+    "last_seen": "2026-11-20T23:44:52.812964Z"
   },
   "imerit-technology": {
     "company_name": "iMerit Technology",
     "score": 15,
     "last_seen": "2026-11-14T12:48:16.018650Z"
   },
-  "akicita-federal-llc": {
-    "company_name": "Akicita Federal, LLC",
-    "score": 15,
-    "last_seen": "2026-11-20T14:48:54.114916Z"
-  },
   "destination-careers": {
     "company_name": "Destination Careers",
     "score": 15,
-    "last_seen": "2026-11-20T14:48:54.114913Z"
+    "last_seen": "2026-11-20T23:44:52.813041Z"
   },
   "toptal": {
     "company_name": "Toptal",
     "score": 15,
-    "last_seen": "2026-11-20T14:48:54.114911Z"
+    "last_seen": "2026-11-20T23:44:52.813039Z"
   },
   "gitlab": {
     "company_name": "GitLab",
     "score": 15,
-    "last_seen": "2026-11-20T14:48:54.114878Z"
+    "last_seen": "2026-11-20T23:44:52.813034Z"
+  },
+  "tether-operations-limited": {
+    "company_name": "Tether Operations Limited",
+    "score": 14,
+    "last_seen": "2026-11-07T12:20:36.577945Z"
+  },
+  "akicita-federal-llc": {
+    "company_name": "Akicita Federal, LLC",
+    "score": 14,
+    "last_seen": "2026-11-20T14:48:54.114916Z"
   },
   "bjak": {
     "company_name": "Bjak",
-    "score": 14,
+    "score": 13,
     "last_seen": "2026-11-20T05:50:39.039968Z"
   },
   "ashby": {
     "company_name": "Ashby",
-    "score": 14,
+    "score": 13,
     "last_seen": "2026-11-19T15:05:26.874381Z"
   },
   "wpromote": {
     "company_name": "Wpromote",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-11-20T14:48:54.114883Z"
   },
   "avalara": {
     "company_name": "Avalara",
-    "score": 10,
+    "score": 9,
     "last_seen": "2026-11-19T05:03:08.675814Z"
   },
   "askable": {
@@ -66,7 +66,7 @@
   },
   "wrapbook": {
     "company_name": "Wrapbook",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-10-26T18:00:22.579522Z"
   },
   "micro1": {
@@ -74,129 +74,129 @@
     "score": 6,
     "last_seen": "2026-11-20T14:48:54.114918Z"
   },
+  "welo-global": {
+    "company_name": "Welo Global",
+    "score": 6,
+    "last_seen": "2026-11-20T23:44:52.812978Z"
+  },
   "phantom": {
     "company_name": "Phantom",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-11-20T14:48:54.114887Z"
+  },
+  "nebius": {
+    "company_name": "Nebius",
+    "score": 5,
+    "last_seen": "2026-11-20T23:44:52.812972Z"
   },
   "lilt-production": {
     "company_name": "LILT (Production)",
-    "score": 5,
+    "score": 4,
     "last_seen": "2026-11-20T14:48:54.114894Z"
+  },
+  "wellhub": {
+    "company_name": "Wellhub",
+    "score": 4,
+    "last_seen": "2026-11-20T23:44:52.812970Z"
+  },
+  "coopers-group-ag": {
+    "company_name": "Coopers Group AG",
+    "score": 4,
+    "last_seen": "2026-11-20T23:44:52.813003Z"
+  },
+  "liftoff": {
+    "company_name": "Liftoff",
+    "score": 4,
+    "last_seen": "2026-11-20T23:44:52.812988Z"
   },
   "elevenlabs": {
     "company_name": "ElevenLabs",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-11-20T05:50:39.039932Z"
   },
   "remotejobsone": {
     "company_name": "RemoteJobsOne",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-11-20T00:13:37.902803Z"
   },
   "monzo": {
     "company_name": "Monzo",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-11-20T14:48:54.114880Z"
   },
   "osano": {
     "company_name": "Osano",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-11-20T14:48:54.114888Z"
   },
   "freshpaint": {
     "company_name": "Freshpaint",
-    "score": 4,
+    "score": 3,
     "last_seen": "2026-11-20T14:48:54.114891Z"
-  },
-  "flex": {
-    "company_name": "Flex",
-    "score": 3,
-    "last_seen": "2026-11-18T14:57:55.261706Z"
-  },
-  "mineralys-therapeutics": {
-    "company_name": "Mineralys Therapeutics",
-    "score": 3,
-    "last_seen": "2026-11-19T05:03:08.675776Z"
-  },
-  "wellhub": {
-    "company_name": "Wellhub",
-    "score": 3,
-    "last_seen": "2026-11-20T05:50:39.039927Z"
-  },
-  "clipboard": {
-    "company_name": "Clipboard",
-    "score": 3,
-    "last_seen": "2026-11-20T05:50:39.039940Z"
-  },
-  "acutech-group-inc": {
-    "company_name": "AcuTech Group, Inc.",
-    "score": 3,
-    "last_seen": "2026-11-20T05:50:39.039942Z"
-  },
-  "luxury-presence": {
-    "company_name": "Luxury Presence",
-    "score": 3,
-    "last_seen": "2026-11-20T05:50:39.039946Z"
-  },
-  "defy-security": {
-    "company_name": "Defy Security",
-    "score": 3,
-    "last_seen": "2026-11-20T05:50:39.039951Z"
   },
   "cai": {
     "company_name": "CAI",
     "score": 3,
     "last_seen": "2026-11-07T12:20:36.577911Z"
   },
-  "plaid": {
-    "company_name": "Plaid",
-    "score": 3,
-    "last_seen": "2026-11-11T13:23:41.923547Z"
-  },
   "certik": {
     "company_name": "CertiK",
     "score": 3,
     "last_seen": "2026-11-16T14:27:33.068111Z"
   },
-  "binance": {
-    "company_name": "Binance",
+  "upgrade": {
+    "company_name": "Upgrade",
     "score": 3,
-    "last_seen": "2026-11-20T14:48:54.114870Z"
+    "last_seen": "2026-11-20T23:44:52.812967Z"
   },
-  "armada": {
-    "company_name": "Armada",
+  "national-life-insurance-company": {
+    "company_name": "National Life Insurance Company",
     "score": 3,
-    "last_seen": "2026-11-20T14:48:54.114873Z"
+    "last_seen": "2026-11-20T23:44:52.812975Z"
   },
-  "fin": {
-    "company_name": "Fin",
+  "fever": {
+    "company_name": "Fever",
     "score": 3,
-    "last_seen": "2026-11-20T14:48:54.114885Z"
+    "last_seen": "2026-11-20T23:44:52.812980Z"
   },
-  "coopers-group-ag": {
-    "company_name": "Coopers Group AG",
+  "cookunity": {
+    "company_name": "CookUnity",
     "score": 3,
-    "last_seen": "2026-11-20T14:48:54.114896Z"
+    "last_seen": "2026-11-20T23:44:52.812984Z"
   },
-  "payoneer": {
-    "company_name": "Payoneer",
-    "score": 2,
-    "last_seen": "2026-11-19T15:05:26.874373Z"
+  "geotab": {
+    "company_name": "Geotab",
+    "score": 3,
+    "last_seen": "2026-11-20T23:44:52.812986Z"
   },
-  "leland": {
-    "company_name": "Leland",
-    "score": 2,
-    "last_seen": "2026-11-20T05:50:39.039971Z"
+  "horizon3ai": {
+    "company_name": "Horizon3.ai",
+    "score": 3,
+    "last_seen": "2026-11-20T23:44:52.812989Z"
   },
-  "supabase": {
-    "company_name": "Supabase",
-    "score": 2,
-    "last_seen": "2026-11-13T04:08:34.925413Z"
+  "reddit": {
+    "company_name": "Reddit",
+    "score": 3,
+    "last_seen": "2026-11-20T23:44:52.812991Z"
   },
-  "6sense": {
-    "company_name": "6sense",
-    "score": 2,
-    "last_seen": "2026-11-20T05:50:39.039934Z"
+  "camunda": {
+    "company_name": "Camunda",
+    "score": 3,
+    "last_seen": "2026-11-20T23:44:52.812997Z"
+  },
+  "tebra": {
+    "company_name": "Tebra",
+    "score": 3,
+    "last_seen": "2026-11-20T23:44:52.813011Z"
+  },
+  "clover-health": {
+    "company_name": "Clover Health",
+    "score": 3,
+    "last_seen": "2026-11-20T23:44:52.813013Z"
+  },
+  "airbnb": {
+    "company_name": "Airbnb",
+    "score": 3,
+    "last_seen": "2026-11-20T23:44:52.813016Z"
   }
 }
