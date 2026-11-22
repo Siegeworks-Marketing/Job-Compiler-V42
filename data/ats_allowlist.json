@@ -2,12 +2,12 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-11-22T04:08:02.826039Z"
+    "last_seen": "2026-11-22T14:04:26.712593Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-11-22T04:08:02.826041Z"
+    "last_seen": "2026-11-22T14:04:26.712597Z"
   },
   "imerit-technology": {
     "company_name": "iMerit Technology",
@@ -17,186 +17,186 @@
   "gitlab": {
     "company_name": "GitLab",
     "score": 15,
-    "last_seen": "2026-11-22T04:08:02.826044Z"
+    "last_seen": "2026-11-22T14:04:26.712618Z"
   },
   "ashby": {
     "company_name": "Ashby",
-    "score": 12,
-    "last_seen": "2026-11-21T22:53:05.976223Z"
-  },
-  "destination-careers": {
-    "company_name": "Destination Careers",
     "score": 11,
-    "last_seen": "2026-11-20T23:44:52.813041Z"
+    "last_seen": "2026-11-21T22:53:05.976223Z"
   },
   "toptal": {
     "company_name": "Toptal",
     "score": 11,
     "last_seen": "2026-11-20T23:44:52.813039Z"
   },
+  "bjak": {
+    "company_name": "BJAK",
+    "score": 11,
+    "last_seen": "2026-11-22T14:04:26.712608Z"
+  },
+  "destination-careers": {
+    "company_name": "Destination Careers",
+    "score": 10,
+    "last_seen": "2026-11-20T23:44:52.813041Z"
+  },
   "tether-operations-limited": {
     "company_name": "Tether Operations Limited",
     "score": 10,
     "last_seen": "2026-11-07T12:20:36.577945Z"
   },
-  "akicita-federal-llc": {
-    "company_name": "Akicita Federal, LLC",
-    "score": 10,
-    "last_seen": "2026-11-20T14:48:54.114916Z"
-  },
-  "bjak": {
-    "company_name": "Bjak",
-    "score": 10,
-    "last_seen": "2026-11-20T05:50:39.039968Z"
-  },
   "everpure": {
     "company_name": "Everpure",
-    "score": 9,
-    "last_seen": "2026-11-22T04:08:02.826065Z"
+    "score": 10,
+    "last_seen": "2026-11-22T14:04:26.712650Z"
   },
-  "nebius": {
-    "company_name": "Nebius",
-    "score": 7,
-    "last_seen": "2026-11-21T22:53:05.976224Z"
+  "akicita-federal-llc": {
+    "company_name": "Akicita Federal, LLC",
+    "score": 9,
+    "last_seen": "2026-11-20T14:48:54.114916Z"
   },
   "reddit": {
     "company_name": "Reddit",
-    "score": 7,
-    "last_seen": "2026-11-22T04:08:02.826057Z"
+    "score": 8,
+    "last_seen": "2026-11-22T14:04:26.712638Z"
+  },
+  "clover-health": {
+    "company_name": "Clover Health",
+    "score": 8,
+    "last_seen": "2026-11-22T14:04:26.712640Z"
+  },
+  "airbnb": {
+    "company_name": "Airbnb",
+    "score": 8,
+    "last_seen": "2026-11-22T14:04:26.712632Z"
   },
   "tebra": {
     "company_name": "Tebra",
     "score": 7,
     "last_seen": "2026-11-22T04:08:02.826079Z"
   },
-  "clover-health": {
-    "company_name": "Clover Health",
+  "ping-identity": {
+    "company_name": "Ping Identity",
     "score": 7,
-    "last_seen": "2026-11-22T04:08:02.826055Z"
+    "last_seen": "2026-11-22T14:04:26.712634Z"
   },
-  "airbnb": {
-    "company_name": "Airbnb",
+  "bybit": {
+    "company_name": "Bybit",
     "score": 7,
-    "last_seen": "2026-11-22T04:08:02.826081Z"
+    "last_seen": "2026-11-22T14:04:26.712652Z"
+  },
+  "dropbox": {
+    "company_name": "Dropbox",
+    "score": 7,
+    "last_seen": "2026-11-22T14:04:26.712654Z"
+  },
+  "abnormal": {
+    "company_name": "Abnormal",
+    "score": 7,
+    "last_seen": "2026-11-22T14:04:26.712635Z"
+  },
+  "6sense": {
+    "company_name": "6sense",
+    "score": 7,
+    "last_seen": "2026-11-22T14:04:26.712625Z"
+  },
+  "stripe": {
+    "company_name": "Stripe",
+    "score": 7,
+    "last_seen": "2026-11-22T14:04:26.712648Z"
+  },
+  "nebius": {
+    "company_name": "Nebius",
+    "score": 6,
+    "last_seen": "2026-11-21T22:53:05.976224Z"
+  },
+  "welo-global": {
+    "company_name": "Welo Global",
+    "score": 6,
+    "last_seen": "2026-11-22T14:04:26.712602Z"
+  },
+  "natera": {
+    "company_name": "Natera",
+    "score": 6,
+    "last_seen": "2026-11-22T14:04:26.712643Z"
   },
   "wpromote": {
     "company_name": "Wpromote",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-11-20T14:48:54.114883Z"
   },
   "askable": {
     "company_name": "Askable",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-11-09T14:52:40.880913Z"
-  },
-  "ping-identity": {
-    "company_name": "Ping Identity",
-    "score": 6,
-    "last_seen": "2026-11-22T04:08:02.826054Z"
-  },
-  "bybit": {
-    "company_name": "Bybit",
-    "score": 6,
-    "last_seen": "2026-11-22T04:08:02.826066Z"
-  },
-  "dropbox": {
-    "company_name": "Dropbox",
-    "score": 6,
-    "last_seen": "2026-11-22T04:08:02.826067Z"
-  },
-  "abnormal": {
-    "company_name": "Abnormal",
-    "score": 6,
-    "last_seen": "2026-11-22T04:08:02.826070Z"
   },
   "niki-digital-engineering": {
     "company_name": "NIKI Digital Engineering",
-    "score": 6,
+    "score": 5,
     "last_seen": "2026-11-22T04:08:02.826082Z"
-  },
-  "6sense": {
-    "company_name": "6sense",
-    "score": 6,
-    "last_seen": "2026-11-22T04:08:02.826075Z"
-  },
-  "stripe": {
-    "company_name": "Stripe",
-    "score": 6,
-    "last_seen": "2026-11-22T04:08:02.826063Z"
-  },
-  "avalara": {
-    "company_name": "Avalara",
-    "score": 5,
-    "last_seen": "2026-11-19T05:03:08.675814Z"
-  },
-  "welo-global": {
-    "company_name": "Welo Global",
-    "score": 5,
-    "last_seen": "2026-11-21T04:58:40.215569Z"
-  },
-  "natera": {
-    "company_name": "Natera",
-    "score": 5,
-    "last_seen": "2026-11-22T04:08:02.826050Z"
   },
   "micro1": {
     "company_name": "micro1",
+    "score": 5,
+    "last_seen": "2026-11-22T14:04:26.712658Z"
+  },
+  "cribl": {
+    "company_name": "Cribl",
+    "score": 5,
+    "last_seen": "2026-11-22T14:04:26.712611Z"
+  },
+  "life360": {
+    "company_name": "Life360",
+    "score": 5,
+    "last_seen": "2026-11-22T14:04:26.712619Z"
+  },
+  "avalara": {
+    "company_name": "Avalara",
     "score": 4,
-    "last_seen": "2026-11-21T14:11:25.224954Z"
+    "last_seen": "2026-11-19T05:03:08.675814Z"
   },
   "upgrade": {
     "company_name": "Upgrade",
     "score": 4,
     "last_seen": "2026-11-21T04:58:40.215563Z"
   },
-  "intetics-2": {
-    "company_name": "Intetics 2",
-    "score": 4,
-    "last_seen": "2026-11-22T04:08:02.826046Z"
-  },
-  "camunda": {
-    "company_name": "Camunda",
-    "score": 3,
-    "last_seen": "2026-11-21T14:11:25.224922Z"
-  },
-  "harness": {
-    "company_name": "Harness",
-    "score": 3,
-    "last_seen": "2026-11-21T14:11:25.224916Z"
-  },
-  "halter": {
-    "company_name": "Halter",
-    "score": 3,
-    "last_seen": "2026-11-21T22:53:05.976219Z"
-  },
   "oscar-health": {
     "company_name": "Oscar Health",
-    "score": 3,
-    "last_seen": "2026-11-22T04:08:02.826052Z"
+    "score": 4,
+    "last_seen": "2026-11-22T14:04:26.712645Z"
   },
   "bitwarden": {
     "company_name": "Bitwarden",
+    "score": 4,
+    "last_seen": "2026-11-22T14:04:26.712630Z"
+  },
+  "cloudbeds": {
+    "company_name": "Cloudbeds",
+    "score": 4,
+    "last_seen": "2026-11-22T14:04:26.712612Z"
+  },
+  "pear-vc": {
+    "company_name": "Pear VC",
+    "score": 4,
+    "last_seen": "2026-11-22T14:04:26.712621Z"
+  },
+  "intetics-2": {
+    "company_name": "Intetics 2",
     "score": 3,
-    "last_seen": "2026-11-22T04:08:02.826058Z"
+    "last_seen": "2026-11-22T04:08:02.826046Z"
   },
-  "wrapbook": {
-    "company_name": "Wrapbook",
-    "score": 2,
-    "last_seen": "2026-10-26T18:00:22.579522Z"
+  "aghanim": {
+    "company_name": "Aghanim",
+    "score": 3,
+    "last_seen": "2026-11-22T14:04:26.712606Z"
   },
-  "wellhub": {
-    "company_name": "Wellhub",
-    "score": 2,
-    "last_seen": "2026-11-21T04:58:40.215564Z"
+  "zscaler": {
+    "company_name": "Zscaler",
+    "score": 3,
+    "last_seen": "2026-11-22T14:04:26.712613Z"
   },
-  "coopers-group-ag": {
-    "company_name": "Coopers Group AG",
-    "score": 2,
-    "last_seen": "2026-11-21T04:58:40.215587Z"
-  },
-  "liftoff": {
-    "company_name": "Liftoff",
-    "score": 2,
-    "last_seen": "2026-11-21T04:58:40.215576Z"
+  "angeheuert-gmbh": {
+    "company_name": "ANGEHEUERT GmbH",
+    "score": 3,
+    "last_seen": "2026-11-22T14:04:26.712622Z"
   }
 }
