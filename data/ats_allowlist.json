@@ -2,17 +2,17 @@
   "coalition-technologies": {
     "company_name": "Coalition Technologies",
     "score": 15,
-    "last_seen": "2026-11-27T01:35:43.126642Z"
+    "last_seen": "2026-11-27T16:00:58.409316Z"
   },
   "lemonio": {
     "company_name": "Lemon.io",
     "score": 15,
-    "last_seen": "2026-11-27T01:35:43.126644Z"
+    "last_seen": "2026-11-27T16:00:58.409320Z"
   },
   "gitlab": {
     "company_name": "GitLab",
     "score": 15,
-    "last_seen": "2026-11-27T01:35:43.126682Z"
+    "last_seen": "2026-11-27T16:00:58.409361Z"
   },
   "everpure": {
     "company_name": "Everpure",
@@ -23,11 +23,6 @@
     "company_name": "Reddit",
     "score": 15,
     "last_seen": "2026-11-27T01:35:43.126685Z"
-  },
-  "clover-health": {
-    "company_name": "Clover Health",
-    "score": 15,
-    "last_seen": "2026-11-27T01:35:43.126690Z"
   },
   "airbnb": {
     "company_name": "Airbnb",
@@ -42,31 +37,36 @@
   "dropbox": {
     "company_name": "Dropbox",
     "score": 15,
-    "last_seen": "2026-11-27T01:35:43.126684Z"
-  },
-  "abnormal": {
-    "company_name": "Abnormal",
-    "score": 15,
-    "last_seen": "2026-11-26T01:37:24.501533Z"
-  },
-  "6sense": {
-    "company_name": "6sense",
-    "score": 15,
-    "last_seen": "2026-11-27T01:35:43.126694Z"
-  },
-  "natera": {
-    "company_name": "Natera",
-    "score": 15,
-    "last_seen": "2026-11-27T01:35:43.126693Z"
+    "last_seen": "2026-11-27T16:00:58.409399Z"
   },
   "cribl": {
     "company_name": "Cribl",
     "score": 15,
     "last_seen": "2026-11-27T01:35:43.126686Z"
   },
+  "clover-health": {
+    "company_name": "Clover Health",
+    "score": 14,
+    "last_seen": "2026-11-27T01:35:43.126690Z"
+  },
+  "abnormal": {
+    "company_name": "Abnormal",
+    "score": 14,
+    "last_seen": "2026-11-26T01:37:24.501533Z"
+  },
+  "6sense": {
+    "company_name": "6sense",
+    "score": 14,
+    "last_seen": "2026-11-27T01:35:43.126694Z"
+  },
+  "natera": {
+    "company_name": "Natera",
+    "score": 14,
+    "last_seen": "2026-11-27T01:35:43.126693Z"
+  },
   "keywords-intl1": {
     "company_name": "Keywords Intl1",
-    "score": 15,
+    "score": 14,
     "last_seen": "2026-11-27T01:35:43.126668Z"
   },
   "stripe": {
@@ -76,22 +76,22 @@
   },
   "bitwarden": {
     "company_name": "Bitwarden",
-    "score": 12,
+    "score": 11,
     "last_seen": "2026-11-26T01:37:24.501532Z"
   },
   "bybit": {
     "company_name": "Bybit",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-11-25T02:04:36.872032Z"
   },
   "ura": {
     "company_name": "ÅURA",
-    "score": 11,
+    "score": 10,
     "last_seen": "2026-11-27T01:35:43.126691Z"
   },
   "bjak": {
     "company_name": "BJAK",
-    "score": 10,
+    "score": 9,
     "last_seen": "2026-11-24T17:02:15.839175Z"
   },
   "oscar-health": {
@@ -101,102 +101,102 @@
   },
   "carrot": {
     "company_name": "Carrot",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-11-26T01:37:24.501529Z"
   },
   "launchdarkly": {
     "company_name": "LaunchDarkly",
-    "score": 8,
+    "score": 7,
     "last_seen": "2026-11-26T01:37:24.501530Z"
+  },
+  "elation-health": {
+    "company_name": "Elation Health",
+    "score": 7,
+    "last_seen": "2026-11-27T16:00:58.409326Z"
+  },
+  "jamf": {
+    "company_name": "Jamf",
+    "score": 7,
+    "last_seen": "2026-11-27T16:00:58.409329Z"
   },
   "imerit-technology": {
     "company_name": "iMerit Technology",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-11-14T12:48:16.018650Z"
   },
   "welo-global": {
     "company_name": "Welo Global",
-    "score": 7,
+    "score": 6,
     "last_seen": "2026-11-26T01:37:24.501497Z"
   },
-  "ensono": {
-    "company_name": "Ensono",
-    "score": 5,
-    "last_seen": "2026-11-26T01:37:24.501535Z"
+  "kaseya": {
+    "company_name": "Kaseya",
+    "score": 6,
+    "last_seen": "2026-11-27T16:00:58.409333Z"
+  },
+  "micro1": {
+    "company_name": "micro1",
+    "score": 6,
+    "last_seen": "2026-11-27T16:00:58.409403Z"
   },
   "lastpass": {
     "company_name": "LastPass",
     "score": 5,
     "last_seen": "2026-11-26T01:37:24.501523Z"
   },
-  "halter": {
-    "company_name": "Halter",
-    "score": 5,
-    "last_seen": "2026-11-27T01:35:43.126647Z"
-  },
-  "beyondtrust": {
-    "company_name": "BeyondTrust",
-    "score": 4,
-    "last_seen": "2026-11-25T02:04:36.872033Z"
-  },
   "silverback-strategies": {
     "company_name": "Silverback Strategies",
-    "score": 4,
-    "last_seen": "2026-11-27T01:35:43.126678Z"
+    "score": 5,
+    "last_seen": "2026-11-27T16:00:58.409381Z"
   },
   "saviynt": {
     "company_name": "Saviynt",
-    "score": 4,
-    "last_seen": "2026-11-27T01:35:43.126680Z"
+    "score": 5,
+    "last_seen": "2026-11-27T16:00:58.409383Z"
   },
   "dun-bradstreet": {
     "company_name": "Dun & Bradstreet",
-    "score": 4,
-    "last_seen": "2026-11-27T01:35:43.126681Z"
+    "score": 5,
+    "last_seen": "2026-11-27T16:00:58.409397Z"
   },
   "veeva-systems": {
     "company_name": "Veeva Systems",
-    "score": 4,
-    "last_seen": "2026-11-27T01:35:43.126671Z"
-  },
-  "d2l": {
-    "company_name": "D2L",
-    "score": 4,
-    "last_seen": "2026-11-27T01:35:43.126650Z"
+    "score": 5,
+    "last_seen": "2026-11-27T16:00:58.409376Z"
   },
   "jobgether": {
     "company_name": "Jobgether",
+    "score": 5,
+    "last_seen": "2026-11-27T16:00:58.409390Z"
+  },
+  "ensono": {
+    "company_name": "Ensono",
     "score": 4,
-    "last_seen": "2026-11-27T01:35:43.126670Z"
+    "last_seen": "2026-11-26T01:37:24.501535Z"
   },
-  "tebra": {
-    "company_name": "Tebra",
-    "score": 3,
-    "last_seen": "2026-11-22T04:08:02.826079Z"
+  "halter": {
+    "company_name": "Halter",
+    "score": 4,
+    "last_seen": "2026-11-27T01:35:43.126647Z"
   },
-  "nebius": {
-    "company_name": "Nebius",
-    "score": 3,
-    "last_seen": "2026-11-25T02:04:36.871971Z"
+  "agiloft": {
+    "company_name": "agiloft",
+    "score": 4,
+    "last_seen": "2026-11-27T16:00:58.409374Z"
   },
-  "ashby": {
-    "company_name": "Ashby",
-    "score": 3,
-    "last_seen": "2026-11-25T16:49:54.524274Z"
+  "welo-data": {
+    "company_name": "Welo Data",
+    "score": 4,
+    "last_seen": "2026-11-27T16:00:58.409385Z"
   },
-  "extrahop": {
-    "company_name": "ExtraHop",
+  "beyondtrust": {
+    "company_name": "BeyondTrust",
     "score": 3,
-    "last_seen": "2026-11-26T01:37:24.501499Z"
+    "last_seen": "2026-11-25T02:04:36.872033Z"
   },
-  "dataiku": {
-    "company_name": "dataiku",
+  "d2l": {
+    "company_name": "D2L",
     "score": 3,
-    "last_seen": "2026-11-26T01:37:24.501492Z"
-  },
-  "truelogic": {
-    "company_name": "Truelogic",
-    "score": 3,
-    "last_seen": "2026-11-26T16:22:00.916313Z"
+    "last_seen": "2026-11-27T01:35:43.126650Z"
   }
 }
